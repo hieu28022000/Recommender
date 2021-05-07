@@ -1,0 +1,301 @@
+,STT,Loại giao dich,Giá tiền,Vị trí,Tầng,View,Hướng cửa chính,Số phòng ngủ,Số WC,Nội thất,Tiện ích,Giấy tờ,Gần bệnh viện,Gần trường học
+0,1,đã thuê,4000000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",53,Suối Tiên,Bắc,3,2,Ghế,Nhà hàng,Khác,Bệnh viện Nhi Đồng cách 1000m,Mầm non cách 300m
+1,2,đã bán,2100000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",71,Cầu Sài Gòn,Nam,3,3,Ghế,Phòng gym,Sổ hồng,Bệnh viện Nhi Đồng cách 500m,Mầm non cách 300m
+2,3,đang cho thuê,1000000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",37,Suối Tiên,Tây Nam,3,1,Rèm,Phòng yoga,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 300m,Mầm non cách 250m
+3,4,đang bán,3650000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",71,Phạm VĂn Đồng,Đông,4,2,Ghế,Nhà hàng,Khác,Bệnh viện Nhi Đồng cách 200m,THCS cách 1200m
+4,5,đã thuê,4900000000 ,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",25,Đầm Sen,Tây,2,2,Rèm,Phòng yoga,Sổ hồng,Bệnh viện Nhi Đồng cách 200m,Mầm non cách 300m
+5,6,đã thuê,1950000000 ,"12 Tân Hưng, quận 1",72,Đầm Sen,Bắc,3,2,Tủ lạnh,Phòng gym,Sổ hồng,Bệnh viện chợ Rẫy cách 300m,THPT cách 200m
+6,7,đã bán,5000000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",94,Cầu Sài Gòn,Tây Nam,4,3,Ghế,Hồ bơi,Sổ hồng,Bệnh viện chợ Rẫy cách 1000m,Mầm non cách 250m
+7,8,đã bán,2500000000,"12 Tân Hưng, quận 1",49,Landmark 81,Tây Nam,3,3,TV,Nhà hàng,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 200m,Tiểu học 300 m
+8,9,đang cho thuê,1950000000 ,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",84,Không có ban công,Bắc,1,3,Ghế,Cửu hàng giặt sấy,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 200m,Mầm non cách 300m
+9,10,đang cho thuê,2550000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",36,Không có ban công,Đông,1,1,Bàn,Phòng gym,Sổ hồng,Bệnh viện chợ Rẫy cách 200m,THPT cách 1300m
+10,11,đang bán,4700000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",31,Xa lộ Hà Nội,Tây,2,2,Không có,Hồ bơi,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 200m,THPT cách 200m
+11,12,đã bán,3400000000,"12 Tân Hưng, quận 1",80,Chung cư Bcons,Đông,4,1,Máy giặt,Công viên,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 300m,Mầm non cách 300m
+12,13,đã thuê,4900000000 ,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",23,Cầu Sài Gòn,Đông Nam,2,1,Bếp,Cửa hàng tiện lợi,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 1000m,Không có
+13,14,đã bán,1400000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",51,Cầu Sài Gòn,Đông Nam,1,2,Không có,Phòng gym,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 1000m,Mầm non cách 250m
+14,15,đang cho thuê,4600000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",98,Không có ban công,Tây,3,2,Tủ lạnh,Công viên,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 300m,Mầm non cách 1500m
+15,16,đã thuê,4000000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",35,Suối Tiên,Đông,4,3,Bàn,Công viên,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 200m,Mầm non cách 300m
+16,17,đang cho thuê,2550000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",33,Xa lộ Hà Nội,Bắc,2,3,Tủ lạnh,Cửa hàng tiện lợi,Khác,Bệnh viện Đại học Y Dược TPHCM cách 200m,THCS cách 1300m
+17,18,đã bán,3900000000 ,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",57,Suối Tiên,Tây Nam,3,3,Máy giặt,Phòng gym,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 1000m,THPT cách 1300m
+18,19,đã bán,4950000000,"12 Tân Hưng, quận 1",95,Chung cư Bcons,Đông,4,3,Bàn,Phòng yoga,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 2000m,Tiểu học 700 m
+19,20,đã bán,3000000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",43,Xa lộ Hà Nội,Đông Bắc,3,2,Máy lạnh,Phòng yoga,Hợp dồng mua bán,Không có,Mầm non cách 200m
+20,21,đã thuê,1900000000 ,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",9,Landmark 81,Nam,4,2,Bếp,Không có,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 1000m,Mầm non cách 300m
+21,22,đang bán,1400000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",41,Sông Sài Gòn,Tây Nam,2,2,Không có,Phòng gym,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 400m,Tiểu học 700 m
+22,23,đã bán,2750000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",66,Cầu Sài Gòn,Tây,1,3,TV,Công viên,Sổ hồng,Bệnh viện chợ Rẫy cách 200m,Không có
+23,24,đang bán,2700000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",39,Sông Sài Gòn,Đông Bắc,4,1,Bàn,Cửu hàng giặt sấy,Khác,Bệnh viện Đại học Y Dược TPHCM cách 300m,THPT cách 1300m
+24,25,đã thuê,2600000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",69,Landmark 81,Đông Nam,3,3,Máy lạnh,Phòng gym,Khác,Bệnh viện Nhi Đồng cách 200m,THPT cách 200m
+25,26,đã thuê,4900000000 ,"12 Tân Hưng, quận 1",92,Khu dân cư ABC,Tây Bắc,1,2,Ghế,Nhà hàng,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 500m,THCS cách 1200m
+26,27,đang cho thuê,3300000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",9,Không có ban công,Đông Bắc,4,2,Tủ lạnh,Hồ bơi,Sổ hồng,Bệnh viện chợ Rẫy cách 400m,THPT cách 300m
+27,28,đã bán,4350000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",26,Chung cư Bcons,Tây Bắc,3,3,Máy lạnh,Không có,Khác,Bệnh viện chợ Rẫy cách 200m,Mầm non cách 200m
+28,29,đã bán,3900000000 ,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",31,Khu dân cư ABC,Tây Bắc,2,3,TV,Hồ bơi,Khác,Bệnh viện Đại học Y Dược TPHCM cách 300m,Tiểu học 500 m
+29,30,đang bán,4000000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",13,Sông Sài Gòn,Tây Bắc,1,2,Bàn,Cửa hàng tiện lợi,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 100m,Không có
+30,31,đang bán,3900000000 ,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",81,Chung cư Bcons,Đông Bắc,2,3,Ghế,Không có,Khác,Bệnh viện Đại học Y Dược TPHCM cách 300m,Không có
+31,32,đã thuê,3000000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",54,Đầm Sen,Tây,3,3,Bàn,Phòng gym,Khác,Bệnh viện chợ Rẫy cách 300m,Tiểu học 300 m
+32,33,đang cho thuê,1600000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",24,Xa lộ Hà Nội,Nam,3,2,Rèm,Cửu hàng giặt sấy,Khác,Bệnh viện Nhi Đồng cách 400m,THPT cách 1300m
+33,34,đã bán,3200000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",45,Sân Vận Động,Tây,1,2,Máy lạnh,Hồ bơi,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 400m,Mầm non cách 250m
+34,35,đang cho thuê,1700000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",30,Sân Vận Động,Tây,2,2,Máy lạnh,Cửa hàng tiện lợi,Sổ hồng,Bệnh viện Nhi Đồng cách 200m,THCS cách 120m
+35,36,đang cho thuê,4050000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",89,Landmark 81,Tây Nam,2,2,TV,Cửa hàng tiện lợi,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 400m,Mầm non cách 300m
+36,37,đã bán,2100000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",21,Xa lộ Hà Nội,Đông Nam,2,2,Máy lạnh,Công viên,Khác,Bệnh viện chợ Rẫy cách 200m,THPT cách 1300m
+37,38,đang bán,4600000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",63,Không có ban công,Đông Nam,4,2,Rèm,Không có,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 200m,Mầm non cách 1500m
+38,39,đang bán,3700000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",45,Suối Tiên,Tây,4,2,Rèm,Phòng yoga,Khác,Bệnh viện Đại học Y Dược TPHCM cách 300m,THCS cách 1200m
+39,40,đang cho thuê,3600000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",75,Chung cư Bcons,Bắc,4,2,Ghế,Công viên,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 1000m,Mầm non cách 250m
+40,41,đang cho thuê,4300000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",38,Không có ban công,Đông Nam,3,3,Rèm,Phòng yoga,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 100m,THCS cách 120m
+41,42,đang cho thuê,1350000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",98,Xa lộ Hà Nội,Đông Bắc,4,3,Bàn,Không có,Khác,Bệnh viện Đại học Y Dược TPHCM cách 2000m,Mầm non cách 250m
+42,43,đã bán,1450000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",99,Chung cư Bcons,Tây Nam,2,1,Ghế,Hồ bơi,Khác,Bệnh viện Nhi Đồng cách 1000m,Tiểu học 200 m
+43,44,đang cho thuê,4500000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",24,Sân Vận Động,Nam,2,2,Bàn,Nhà hàng,Khác,Bệnh viện Nhi Đồng cách 1000m,THCS cách 1200m
+44,45,đang bán,4400000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",58,Khu dân cư ABC,Nam,1,1,TV,Cửu hàng giặt sấy,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 100m,Mầm non cách 300m
+45,46,đang cho thuê,4100000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",6,Landmark 81,Nam,2,2,Rèm,Không có,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 300m,THPT cách 300m
+46,47,đang cho thuê,3200000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",73,Cầu Sài Gòn,Đông Nam,2,1,Rèm,Nhà hàng,Khác,Bệnh viện chợ Rẫy cách 1000m,THPT cách 1300m
+47,48,đã thuê,3500000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",91,Suối Tiên,Bắc,1,2,Bàn,Phòng gym,Sổ hồng,Bệnh viện Nhi Đồng cách 400m,Tiểu học 200 m
+48,49,đang cho thuê,2350000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",28,Xa lộ Hà Nội,Tây Bắc,3,1,Bếp,Cửu hàng giặt sấy,Khác,Bệnh viện Nhi Đồng cách 200m,THPT cách 1300m
+49,50,đã bán,2600000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",74,Sân Vận Động,Đông,4,2,Bếp,Cửa hàng tiện lợi,Sổ hồng,Bệnh viện chợ Rẫy cách 1000m,Mầm non cách 300m
+50,51,đã thuê,3700000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",31,Cầu Sài Gòn,Bắc,2,1,Máy giặt,Hồ bơi,Sổ hồng,Bệnh viện chợ Rẫy cách 400m,Tiểu học 200 m
+51,52,đang cho thuê,1700000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",91,Đầm Sen,Bắc,1,3,Tủ lạnh,Cửa hàng tiện lợi,Sổ hồng,Bệnh viện chợ Rẫy cách 1000m,Tiểu học 500 m
+52,53,đã thuê,1000000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",88,Sân Vận Động,Bắc,4,3,Máy giặt,Không có,Sổ hồng,Bệnh viện Nhi Đồng cách 200m,Tiểu học 700 m
+53,54,đã thuê,1800000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",33,Cầu Sài Gòn,Nam,4,1,Tủ lạnh,Phòng gym,Khác,Bệnh viện Đại học Y Dược TPHCM cách 100m,THPT cách 300m
+54,55,đã bán,3550000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",22,Đầm Sen,Đông Nam,1,3,Bếp,Phòng gym,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 400m,Mầm non cách 200m
+55,56,đã thuê,4500000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",38,Cầu Sài Gòn,Bắc,3,2,Rèm,Nhà hàng,Khác,Bệnh viện chợ Rẫy cách 500m,THCS cách 1300m
+56,57,đang cho thuê,1900000000 ,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",33,Đầm Sen,Đông Bắc,2,3,Bàn,Cửu hàng giặt sấy,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 300m,THCS cách 120m
+57,58,đang cho thuê,5000000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",34,Khu dân cư ABC,Tây Bắc,2,3,Máy lạnh,Hồ bơi,Khác,Không có,Không có
+58,59,đang bán,3400000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",26,Quốc lộ 51,Đông,3,3,TV,Nhà hàng,Khác,Bệnh viện Nhi Đồng cách 200m,THPT cách 200m
+59,60,đã bán,2600000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",99,Phạm VĂn Đồng,Đông Nam,2,2,TV,Nhà hàng,Khác,Bệnh viện Đại học Y Dược TPHCM cách 400m,THCS cách 1300m
+60,61,đang bán,1700000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",83,Suối Tiên,Đông Nam,4,1,Rèm,Không có,Sổ hồng,Bệnh viện Nhi Đồng cách 500m,THCS cách 1300m
+61,62,đang bán,3550000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",92,Sông Sài Gòn,Đông,3,3,Bếp,Không có,Khác,Bệnh viện Đại học Y Dược TPHCM cách 300m,THCS cách 120m
+62,63,đang cho thuê,4950000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",75,Sân Vận Động,Tây Nam,3,2,Máy lạnh,Không có,Khác,Bệnh viện Nhi Đồng cách 400m,Tiểu học 500 m
+63,64,đã thuê,1800000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",54,Phạm VĂn Đồng,Bắc,4,1,Rèm,Hồ bơi,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 300m,THCS cách 1300m
+64,65,đã bán,5000000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",30,Sông Sài Gòn,Tây Bắc,3,3,Bếp,Công viên,Khác,Bệnh viện Đại học Y Dược TPHCM cách 400m,THPT cách 1300m
+65,66,đã bán,2550000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",49,Phạm VĂn Đồng,Tây Bắc,3,1,Rèm,Hồ bơi,Sổ hồng,Bệnh viện chợ Rẫy cách 300m,THCS cách 120m
+66,67,đã bán,4200000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",17,Không có ban công,Tây Nam,1,1,Không có,Công viên,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 200m,Mầm non cách 1500m
+67,68,đã bán,3000000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",11,Sông Sài Gòn,Đông Bắc,3,1,Bàn,Cửu hàng giặt sấy,Sổ hồng,Bệnh viện Nhi Đồng cách 100m,THPT cách 1300m
+68,69,đang bán,2900000000 ,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",51,Chung cư Bcons,Bắc,3,1,Tủ lạnh,Không có,Khác,Bệnh viện Đại học Y Dược TPHCM cách 300m,THCS cách 1300m
+69,70,đang bán,4900000000 ,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",67,Sông Sài Gòn,Đông,3,1,Ghế,Nhà hàng,Sổ hồng,Bệnh viện Nhi Đồng cách 500m,THPT cách 1300m
+70,71,đang cho thuê,1350000000,"12 Tân Hưng, quận 1",66,Cầu Sài Gòn,Tây Nam,3,3,Bàn,Không có,Khác,Bệnh viện Đại học Y Dược TPHCM cách 200m,THPT cách 200m
+71,72,đang cho thuê,3900000000 ,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",69,Suối Tiên,Đông Nam,4,2,Máy giặt,Cửu hàng giặt sấy,Sổ hồng,Bệnh viện chợ Rẫy cách 500m,Mầm non cách 200m
+72,73,đã thuê,1500000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",47,Quốc lộ 51,Đông Nam,2,3,Không có,Nhà hàng,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 200m,THPT cách 1300m
+73,74,đã bán,3100000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",27,Sân Vận Động,Bắc,2,2,TV,Nhà hàng,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 500m,Mầm non cách 250m
+74,75,đã thuê,3500000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",74,Sông Sài Gòn,Đông,1,3,Máy giặt,Công viên,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 100m,Mầm non cách 300m
+75,76,đang cho thuê,4450000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",90,Xa lộ Hà Nội,Tây Nam,2,3,Máy lạnh,Công viên,Sổ hồng,Không có,Mầm non cách 300m
+76,77,đã thuê,4900000000 ,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",65,Landmark 81,Đông Nam,4,1,Không có,Nhà hàng,Sổ hồng,Bệnh viện Nhi Đồng cách 400m,THCS cách 1300m
+77,78,đang bán,2000000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",57,Sân Vận Động,Tây,1,1,Bếp,Phòng yoga,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 200m,Mầm non cách 1500m
+78,79,đang cho thuê,4450000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",62,Khu dân cư ABC,Tây,2,3,Rèm,Phòng yoga,Sổ hồng,Bệnh viện Nhi Đồng cách 1000m,THPT cách 1300m
+79,80,đã bán,4000000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",98,Sân Vận Động,Bắc,1,1,Máy lạnh,Phòng yoga,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 2000m,Không có
+80,81,đang cho thuê,3650000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",97,Cầu Sài Gòn,Tây,4,3,Máy giặt,Công viên,Khác,Bệnh viện chợ Rẫy cách 1000m,THCS cách 120m
+81,82,đã thuê,1400000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",43,Phạm VĂn Đồng,Tây,4,1,Máy giặt,Phòng gym,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 200m,THCS cách 1300m
+82,83,đã bán,3500000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",16,Phạm VĂn Đồng,Tây,2,1,TV,Hồ bơi,Khác,Không có,Tiểu học 500 m
+83,84,đã thuê,2100000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",81,Quốc lộ 51,Bắc,4,2,TV,Phòng yoga,Sổ hồng,Bệnh viện Nhi Đồng cách 500m,THPT cách 300m
+84,85,đã thuê,4300000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",44,Landmark 81,Nam,3,1,Rèm,Không có,Khác,Bệnh viện Nhi Đồng cách 100m,THCS cách 1300m
+85,86,đã thuê,4750000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",5,Xa lộ Hà Nội,Tây,1,3,Máy lạnh,Công viên,Sổ hồng,Bệnh viện Nhi Đồng cách 400m,Không có
+86,87,đang cho thuê,4350000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",71,Quốc lộ 51,Tây,3,3,Bếp,Cửu hàng giặt sấy,Sổ hồng,Bệnh viện chợ Rẫy cách 200m,Không có
+87,88,đã bán,2500000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",45,Khu dân cư ABC,Tây Nam,2,2,Máy giặt,Phòng gym,Khác,Bệnh viện Nhi Đồng cách 1000m,Tiểu học cách 150m
+88,89,đã thuê,1300000000,"12 Tân Hưng, quận 1",22,Suối Tiên,Bắc,1,2,Bếp,Phòng gym,Sổ hồng,Bệnh viện chợ Rẫy cách 200m,THPT cách 300m
+89,90,đang bán,2800000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",13,Landmark 81,Nam,1,1,TV,Nhà hàng,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 400m,Tiểu học 700 m
+90,91,đã thuê,3900000000 ,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",87,Đầm Sen,Đông,2,1,Ghế,Cửa hàng tiện lợi,Sổ hồng,Bệnh viện chợ Rẫy cách 400m,Mầm non cách 250m
+91,92,đang bán,3900000000 ,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",15,Suối Tiên,Đông Bắc,3,1,TV,Hồ bơi,Sổ hồng,Bệnh viện Nhi Đồng cách 400m,Mầm non cách 200m
+92,93,đã bán,2550000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",57,Đầm Sen,Đông Nam,4,3,Ghế,Hồ bơi,Khác,Bệnh viện chợ Rẫy cách 1000m,THCS cách 1200m
+93,94,đã thuê,1800000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",65,Xa lộ Hà Nội,Đông Bắc,1,2,Bàn,Phòng yoga,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 1000m,Mầm non cách 300m
+94,95,đang cho thuê,1200000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",69,Phạm VĂn Đồng,Bắc,2,3,Máy lạnh,Hồ bơi,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 100m,Không có
+95,96,đang cho thuê,3700000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",27,Khu dân cư ABC,Tây,4,1,Máy giặt,Phòng gym,Khác,Bệnh viện chợ Rẫy cách 200m,Tiểu học 500 m
+96,97,đã bán,4350000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",81,Landmark 81,Nam,3,2,Máy lạnh,Công viên,Sổ hồng,Bệnh viện chợ Rẫy cách 200m,THPT cách 300m
+97,98,đang bán,4200000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",82,Phạm VĂn Đồng,Đông Nam,2,2,Bàn,Phòng yoga,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 300m,THPT cách 1300m
+98,99,đã thuê,2700000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",8,Chung cư Bcons,Đông Nam,2,3,Bếp,Công viên,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 400m,THCS cách 1200m
+99,100,đang cho thuê,1300000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",47,Chung cư Bcons,Đông Nam,4,1,Không có,Công viên,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 200m,Tiểu học 300 m
+100,101,đang bán,4950000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",10,Landmark 81,Tây Nam,3,1,Tủ lạnh,Phòng gym,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 500m,Mầm non cách 250m
+101,102,đang bán,2600000000,"12 Tân Hưng, quận 1",84,Phạm VĂn Đồng,Bắc,3,3,Bàn,Công viên,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 200m,Mầm non cách 250m
+102,103,đang cho thuê,5000000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",95,Cầu Sài Gòn,Đông Bắc,1,2,Bếp,Nhà hàng,Khác,Bệnh viện Nhi Đồng cách 200m,THPT cách 200m
+103,104,đang bán,1100000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",51,Sông Sài Gòn,Đông,3,1,Tủ lạnh,Cửa hàng tiện lợi,Khác,Bệnh viện Nhi Đồng cách 1000m,Mầm non cách 250m
+104,105,đang cho thuê,4000000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",38,Quốc lộ 51,Tây,1,1,Tủ lạnh,Phòng yoga,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 1000m,THCS cách 1200m
+105,106,đang cho thuê,3100000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",76,Quốc lộ 51,Đông,4,3,Máy lạnh,Phòng gym,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 300m,Tiểu học cách 150m
+106,107,đang cho thuê,1300000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",87,Suối Tiên,Tây Bắc,1,2,Tủ lạnh,Nhà hàng,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 400m,Mầm non cách 300m
+107,108,đã bán,2800000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",17,Landmark 81,Đông Bắc,4,1,Tủ lạnh,Phòng gym,Sổ hồng,Bệnh viện Nhi Đồng cách 100m,Tiểu học 200 m
+108,109,đã thuê,4450000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",43,Sân Vận Động,Bắc,4,3,Không có,Cửu hàng giặt sấy,Khác,Bệnh viện chợ Rẫy cách 400m,Mầm non cách 250m
+109,110,đã thuê,1000000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",38,Xa lộ Hà Nội,Nam,1,3,Bàn,Phòng gym,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 200m,THPT cách 1300m
+110,111,đang cho thuê,3600000000,"12 Tân Hưng, quận 1",88,Chung cư Bcons,Đông,1,3,TV,Công viên,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 300m,Tiểu học 700 m
+111,112,đã bán,4300000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",9,Sông Sài Gòn,Đông,4,1,Bếp,Công viên,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 200m,Mầm non cách 300m
+112,113,đã bán,1600000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",35,Landmark 81,Đông,2,1,Tủ lạnh,Công viên,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 1000m,Không có
+113,114,đã bán,3100000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",91,Chung cư Bcons,Tây,1,2,Ghế,Hồ bơi,Sổ hồng,Bệnh viện Nhi Đồng cách 500m,Mầm non cách 200m
+114,115,đã thuê,2000000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",70,Sông Sài Gòn,Tây Bắc,1,1,TV,Phòng gym,Sổ hồng,Bệnh viện chợ Rẫy cách 1000m,Tiểu học 300 m
+115,116,đã thuê,3400000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",71,Khu dân cư ABC,Tây Bắc,4,2,Máy giặt,Không có,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 200m,Mầm non cách 300m
+116,117,đã thuê,1200000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",72,Suối Tiên,Nam,2,2,TV,Phòng yoga,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 200m,Mầm non cách 300m
+117,118,đang bán,4000000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",42,Đầm Sen,Tây Bắc,2,3,TV,Cửu hàng giặt sấy,Sổ hồng,Bệnh viện Nhi Đồng cách 1000m,THPT cách 200m
+118,119,đã thuê,4450000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",71,Đầm Sen,Nam,4,3,Rèm,Nhà hàng,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 500m,Tiểu học 300 m
+119,120,đang cho thuê,2500000000,"12 Tân Hưng, quận 1",71,Landmark 81,Đông,1,3,Tủ lạnh,Cửu hàng giặt sấy,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 2000m,Tiểu học 700 m
+120,121,đang bán,3600000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",25,Sân Vận Động,Đông Bắc,3,2,Ghế,Cửa hàng tiện lợi,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 100m,Mầm non cách 1500m
+121,122,đang bán,4500000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",7,Quốc lộ 51,Tây,2,2,Máy lạnh,Phòng yoga,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 200m,Tiểu học 300 m
+122,123,đang cho thuê,2600000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",97,Suối Tiên,Đông,4,3,Máy lạnh,Cửu hàng giặt sấy,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 400m,THPT cách 200m
+123,124,đã thuê,4800000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",13,Đầm Sen,Đông Bắc,1,2,TV,Hồ bơi,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 200m,Tiểu học 300 m
+124,125,đang cho thuê,3900000000 ,"12 Tân Hưng, quận 1",70,Suối Tiên,Nam,4,1,Bàn,Hồ bơi,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 500m,THPT cách 1300m
+125,126,đang bán,2300000000,"12 Tân Hưng, quận 1",63,Suối Tiên,Đông Nam,4,2,Máy giặt,Cửu hàng giặt sấy,Sổ hồng,Bệnh viện chợ Rẫy cách 1000m,Tiểu học cách 150m
+126,127,đang bán,2500000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",10,Quốc lộ 51,Đông,2,1,Tủ lạnh,Công viên,Khác,Bệnh viện chợ Rẫy cách 500m,Tiểu học 700 m
+127,128,đã thuê,1500000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",91,Đầm Sen,Tây Bắc,2,2,TV,Không có,Khác,Bệnh viện Đại học Y Dược TPHCM cách 400m,THPT cách 200m
+128,129,đã thuê,3400000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",92,Khu dân cư ABC,Đông Bắc,4,1,Bếp,Phòng gym,Khác,Bệnh viện chợ Rẫy cách 1000m,Không có
+129,130,đã bán,1500000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",96,Sân Vận Động,Đông,2,1,Bếp,Không có,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 500m,Tiểu học cách 150m
+130,131,đang cho thuê,4300000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",56,Sân Vận Động,Tây Bắc,3,1,Tủ lạnh,Nhà hàng,Sổ hồng,Bệnh viện Nhi Đồng cách 100m,Mầm non cách 1500m
+131,132,đang bán,1600000000,"12 Tân Hưng, quận 1",20,Suối Tiên,Tây Bắc,4,1,Không có,Phòng yoga,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 1000m,Mầm non cách 300m
+132,133,đang cho thuê,3500000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",43,Cầu Sài Gòn,Đông Bắc,3,1,TV,Cửa hàng tiện lợi,Sổ hồng,Bệnh viện Nhi Đồng cách 500m,Không có
+133,134,đang cho thuê,3650000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",13,Cầu Sài Gòn,Bắc,1,3,Không có,Không có,Sổ hồng,Bệnh viện chợ Rẫy cách 400m,Mầm non cách 250m
+134,135,đang bán,3400000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",74,Suối Tiên,Tây Bắc,4,2,Bàn,Phòng gym,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 500m,Mầm non cách 200m
+135,136,đã thuê,4800000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",85,Quốc lộ 51,Đông Bắc,1,3,Máy lạnh,Công viên,Sổ hồng,Bệnh viện chợ Rẫy cách 500m,Mầm non cách 300m
+136,137,đã thuê,1600000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",67,Không có ban công,Đông,2,2,Tủ lạnh,Công viên,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 500m,Mầm non cách 200m
+137,138,đã bán,3200000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",34,Khu dân cư ABC,Bắc,2,1,Ghế,Nhà hàng,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 300m,THPT cách 1300m
+138,139,đang cho thuê,4700000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",25,Đầm Sen,Tây Nam,4,3,Không có,Cửu hàng giặt sấy,Sổ hồng,Bệnh viện Nhi Đồng cách 100m,Tiểu học 200 m
+139,140,đã thuê,2800000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",69,Landmark 81,Tây Nam,2,3,Bếp,Phòng gym,Sổ hồng,Không có,THCS cách 1200m
+140,141,đang cho thuê,3100000000,"12 Tân Hưng, quận 1",72,Sông Sài Gòn,Tây Nam,2,2,Bàn,Hồ bơi,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 200m,Tiểu học 200 m
+141,142,đã thuê,4500000000,"12 Tân Hưng, quận 1",14,Phạm VĂn Đồng,Tây Nam,2,1,Bếp,Phòng gym,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 200m,THPT cách 200m
+142,143,đang cho thuê,3700000000,"12 Tân Hưng, quận 1",72,Không có ban công,Tây Nam,2,1,Máy giặt,Nhà hàng,Sổ hồng,Bệnh viện Nhi Đồng cách 1000m,Tiểu học 700 m
+143,144,đã thuê,3800000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",13,Không có ban công,Đông Bắc,1,1,Máy giặt,Cửa hàng tiện lợi,Sổ hồng,Bệnh viện chợ Rẫy cách 1000m,Tiểu học 200 m
+144,145,đang bán,3300000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",38,Quốc lộ 51,Tây Bắc,3,2,Ghế,Cửa hàng tiện lợi,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 200m,Tiểu học 200 m
+145,146,đang cho thuê,2350000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",88,Không có ban công,Đông Nam,2,1,Không có,Phòng yoga,Sổ hồng,Bệnh viện chợ Rẫy cách 200m,THPT cách 1300m
+146,147,đang bán,1500000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",54,Chung cư Bcons,Tây Nam,4,2,Tủ lạnh,Phòng gym,Khác,Bệnh viện chợ Rẫy cách 400m,Tiểu học 300 m
+147,148,đang cho thuê,2900000000 ,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",44,Phạm VĂn Đồng,Bắc,4,2,Không có,Không có,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 100m,Tiểu học cách 150m
+148,149,đã bán,4000000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",92,Đầm Sen,Tây Bắc,1,1,Máy lạnh,Phòng yoga,Sổ hồng,Bệnh viện Nhi Đồng cách 100m,Tiểu học 700 m
+149,150,đang cho thuê,3300000000,"12 Tân Hưng, quận 1",2,Landmark 81,Tây Bắc,3,2,Không có,Hồ bơi,Khác,Bệnh viện Đại học Y Dược TPHCM cách 100m,Mầm non cách 300m
+150,151,đã bán,4500000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",47,Quốc lộ 51,Tây,4,1,Rèm,Không có,Khác,Bệnh viện Nhi Đồng cách 400m,Tiểu học 200 m
+151,152,đã thuê,4450000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",22,Đầm Sen,Đông Nam,3,2,Máy giặt,Phòng yoga,Khác,Bệnh viện Nhi Đồng cách 100m,THPT cách 300m
+152,153,đang bán,4200000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",47,Cầu Sài Gòn,Đông,2,1,Không có,Không có,Khác,Bệnh viện Nhi Đồng cách 100m,Tiểu học cách 150m
+153,154,đã thuê,1100000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",49,Sông Sài Gòn,Bắc,1,2,Bàn,Hồ bơi,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 300m,THPT cách 1300m
+154,155,đang bán,2750000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",36,Khu dân cư ABC,Tây,2,2,Ghế,Nhà hàng,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 200m,THPT cách 1300m
+155,156,đang cho thuê,3800000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",26,Quốc lộ 51,Tây,3,1,TV,Hồ bơi,Sổ hồng,Bệnh viện Nhi Đồng cách 100m,Tiểu học 700 m
+156,157,đã bán,1500000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",17,Xa lộ Hà Nội,Nam,2,3,Ghế,Không có,Sổ hồng,Bệnh viện chợ Rẫy cách 1000m,Tiểu học 300 m
+157,158,đang cho thuê,3650000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",62,Xa lộ Hà Nội,Đông,2,2,TV,Hồ bơi,Khác,Bệnh viện Nhi Đồng cách 100m,THCS cách 1300m
+158,159,đã thuê,3900000000 ,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",47,Khu dân cư ABC,Bắc,4,1,Bếp,Không có,Hợp dồng mua bán,Không có,Mầm non cách 1500m
+159,160,đang bán,3500000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",58,Quốc lộ 51,Đông,2,1,Bếp,Hồ bơi,Sổ hồng,Bệnh viện chợ Rẫy cách 500m,Tiểu học 200 m
+160,161,đã bán,4200000000,"12 Tân Hưng, quận 1",40,Không có ban công,Đông Bắc,4,2,Không có,Hồ bơi,Sổ hồng,Bệnh viện Nhi Đồng cách 200m,THCS cách 120m
+161,162,đã bán,2800000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",82,Xa lộ Hà Nội,Tây Bắc,4,2,Không có,Phòng yoga,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 200m,THCS cách 120m
+162,163,đang cho thuê,1700000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",11,Cầu Sài Gòn,Tây Bắc,1,3,Không có,Phòng gym,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 1000m,Không có
+163,164,đang bán,2000000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",6,Đầm Sen,Tây Bắc,3,1,Bếp,Phòng gym,Sổ hồng,Bệnh viện chợ Rẫy cách 300m,THCS cách 1300m
+164,165,đang cho thuê,1200000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",82,Sông Sài Gòn,Tây Nam,3,3,Bàn,Cửu hàng giặt sấy,Khác,Bệnh viện Đại học Y Dược TPHCM cách 100m,THPT cách 200m
+165,166,đang bán,3300000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",47,Suối Tiên,Đông,1,2,Bàn,Cửa hàng tiện lợi,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 400m,THCS cách 120m
+166,167,đã bán,1500000000,"12 Tân Hưng, quận 1",84,Không có ban công,Đông,4,2,Bàn,Không có,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 2000m,THPT cách 300m
+167,168,đang bán,4050000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",49,Sông Sài Gòn,Tây Bắc,2,1,Máy giặt,Cửa hàng tiện lợi,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 100m,Mầm non cách 300m
+168,169,đã bán,2350000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",10,Sông Sài Gòn,Tây Nam,4,3,Tủ lạnh,Nhà hàng,Khác,Bệnh viện Đại học Y Dược TPHCM cách 200m,Tiểu học cách 150m
+169,170,đang bán,1950000000 ,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",89,Suối Tiên,Tây Nam,2,1,TV,Nhà hàng,Sổ hồng,Bệnh viện Nhi Đồng cách 200m,Mầm non cách 200m
+170,171,đã bán,2400000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",66,Landmark 81,Đông Nam,3,3,Máy lạnh,Không có,Khác,Bệnh viện Nhi Đồng cách 400m,Tiểu học cách 150m
+171,172,đang cho thuê,3400000000,"12 Tân Hưng, quận 1",88,Sông Sài Gòn,Nam,4,2,TV,Không có,Khác,Bệnh viện chợ Rẫy cách 400m,THPT cách 300m
+172,173,đang bán,1800000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",45,Xa lộ Hà Nội,Đông Bắc,4,2,TV,Phòng yoga,Sổ hồng,Bệnh viện Nhi Đồng cách 100m,Không có
+173,174,đã thuê,3600000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",56,Chung cư Bcons,Nam,3,2,Ghế,Nhà hàng,Sổ hồng,Bệnh viện Nhi Đồng cách 200m,Tiểu học 300 m
+174,175,đã bán,4050000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",4,Chung cư Bcons,Nam,2,2,Tủ lạnh,Phòng yoga,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 300m,Mầm non cách 1500m
+175,176,đã bán,4600000000,"12 Tân Hưng, quận 1",52,Landmark 81,Bắc,2,2,Máy lạnh,Không có,Khác,Bệnh viện chợ Rẫy cách 1000m,Tiểu học 700 m
+176,177,đang bán,3300000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",77,Phạm VĂn Đồng,Đông Bắc,1,3,Máy lạnh,Hồ bơi,Khác,Bệnh viện Nhi Đồng cách 200m,THCS cách 120m
+177,178,đã bán,3900000000 ,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",69,Không có ban công,Tây Bắc,4,2,Bếp,Công viên,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 1000m,Mầm non cách 250m
+178,179,đang bán,2300000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",3,Landmark 81,Bắc,4,3,Ghế,Công viên,Sổ hồng,Bệnh viện chợ Rẫy cách 300m,Tiểu học 500 m
+179,180,đang cho thuê,2300000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",83,Sông Sài Gòn,Nam,1,2,Tủ lạnh,Cửu hàng giặt sấy,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 100m,Mầm non cách 200m
+180,181,đã thuê,4050000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",39,Suối Tiên,Nam,1,1,Rèm,Cửa hàng tiện lợi,Khác,Bệnh viện Nhi Đồng cách 400m,THPT cách 300m
+181,182,đã bán,3200000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",63,Phạm VĂn Đồng,Tây,3,1,Rèm,Cửu hàng giặt sấy,Sổ hồng,Bệnh viện chợ Rẫy cách 200m,THCS cách 1200m
+182,183,đang bán,4700000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",48,Cầu Sài Gòn,Đông Nam,4,3,Ghế,Phòng gym,Sổ hồng,Bệnh viện Nhi Đồng cách 1000m,THPT cách 1300m
+183,184,đã thuê,3550000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",79,Không có ban công,Nam,3,3,Máy lạnh,Phòng yoga,Sổ hồng,Bệnh viện Nhi Đồng cách 100m,Tiểu học cách 150m
+184,185,đã thuê,4900000000 ,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",75,Phạm VĂn Đồng,Đông Nam,1,1,Không có,Không có,Khác,Bệnh viện chợ Rẫy cách 500m,Tiểu học 700 m
+185,186,đã thuê,2500000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",70,Đầm Sen,Tây,2,3,Không có,Công viên,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 2000m,Không có
+186,187,đã bán,2300000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",65,Chung cư Bcons,Đông,1,3,Bếp,Cửu hàng giặt sấy,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 500m,Không có
+187,188,đã bán,1100000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",82,Landmark 81,Đông,2,1,Bếp,Cửa hàng tiện lợi,Khác,Bệnh viện Đại học Y Dược TPHCM cách 2000m,Tiểu học 500 m
+188,189,đang bán,2100000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",63,Sông Sài Gòn,Tây Bắc,1,3,Máy lạnh,Không có,Sổ hồng,Không có,THPT cách 1300m
+189,190,đã thuê,4600000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",33,Quốc lộ 51,Đông,4,1,Rèm,Phòng gym,Khác,Bệnh viện Đại học Y Dược TPHCM cách 100m,THCS cách 1200m
+190,191,đang cho thuê,4000000000,"12 Tân Hưng, quận 1",65,Suối Tiên,Đông,3,3,Ghế,Phòng yoga,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 200m,Tiểu học 200 m
+191,192,đã bán,2350000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",83,Suối Tiên,Tây,1,1,Máy lạnh,Hồ bơi,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 200m,THCS cách 120m
+192,193,đã bán,2000000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",13,Sân Vận Động,Nam,3,2,Bàn,Phòng yoga,Sổ hồng,Bệnh viện Nhi Đồng cách 100m,THPT cách 300m
+193,194,đã bán,2700000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",20,Xa lộ Hà Nội,Nam,3,1,TV,Phòng gym,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 400m,THPT cách 300m
+194,195,đã bán,3000000000,"12 Tân Hưng, quận 1",76,Khu dân cư ABC,Đông Nam,1,3,Bàn,Phòng gym,Sổ hồng,Bệnh viện chợ Rẫy cách 300m,Mầm non cách 300m
+195,196,đã thuê,3550000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",26,Sông Sài Gòn,Tây,4,3,Máy lạnh,Không có,Khác,Bệnh viện Đại học Y Dược TPHCM cách 200m,THCS cách 1300m
+196,197,đang cho thuê,1900000000 ,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",92,Sông Sài Gòn,Bắc,3,1,Bàn,Nhà hàng,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 100m,Không có
+197,198,đang bán,1000000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",44,Xa lộ Hà Nội,Tây Bắc,4,1,Máy giặt,Hồ bơi,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 100m,Mầm non cách 300m
+198,199,đã thuê,4200000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",70,Landmark 81,Tây,2,1,Không có,Cửa hàng tiện lợi,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 100m,Mầm non cách 300m
+199,200,đã bán,4400000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",55,Sông Sài Gòn,Bắc,4,2,Ghế,Không có,Khác,Bệnh viện chợ Rẫy cách 1000m,Mầm non cách 300m
+200,201,đã thuê,3200000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",77,Sân Vận Động,Tây Bắc,1,2,TV,Cửa hàng tiện lợi,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 300m,Mầm non cách 200m
+201,202,đang cho thuê,4700000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",57,Landmark 81,Bắc,3,3,Không có,Phòng yoga,Sổ hồng,Bệnh viện chợ Rẫy cách 300m,Không có
+202,203,đã thuê,3500000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",90,Landmark 81,Nam,2,3,Tủ lạnh,Không có,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 500m,Không có
+203,204,đã thuê,1100000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",78,Không có ban công,Tây Bắc,1,1,Máy giặt,Nhà hàng,Sổ hồng,Bệnh viện chợ Rẫy cách 300m,THCS cách 1200m
+204,205,đã bán,1500000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",82,Không có ban công,Đông Bắc,4,2,Máy lạnh,Công viên,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 300m,Tiểu học cách 150m
+205,206,đã bán,2600000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",59,Cầu Sài Gòn,Đông Nam,4,2,Bếp,Không có,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 100m,THPT cách 1300m
+206,207,đang bán,4000000000,"12 Tân Hưng, quận 1",60,Phạm VĂn Đồng,Tây,2,1,Rèm,Cửa hàng tiện lợi,Khác,Bệnh viện chợ Rẫy cách 1000m,Tiểu học cách 150m
+207,208,đã bán,1350000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",91,Cầu Sài Gòn,Đông Nam,2,3,Rèm,Phòng gym,Hợp dồng mua bán,Không có,THCS cách 120m
+208,209,đã bán,4750000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",17,Cầu Sài Gòn,Đông Nam,2,3,Không có,Hồ bơi,Sổ hồng,Không có,Không có
+209,210,đã bán,2700000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",98,Suối Tiên,Đông,1,1,Rèm,Phòng yoga,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 1000m,THCS cách 1300m
+210,211,đang cho thuê,3400000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",6,Khu dân cư ABC,Bắc,2,3,Bếp,Phòng yoga,Khác,Bệnh viện Đại học Y Dược TPHCM cách 300m,Mầm non cách 200m
+211,212,đang bán,3100000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",95,Cầu Sài Gòn,Đông Nam,2,2,Bếp,Công viên,Khác,Bệnh viện Nhi Đồng cách 500m,Tiểu học 700 m
+212,213,đang cho thuê,2800000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",60,Sân Vận Động,Bắc,1,2,Không có,Cửu hàng giặt sấy,Sổ hồng,Bệnh viện Nhi Đồng cách 100m,Tiểu học 700 m
+213,214,đã bán,1950000000 ,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",74,Cầu Sài Gòn,Bắc,2,2,Tủ lạnh,Phòng gym,Hợp dồng mua bán,Không có,Tiểu học 700 m
+214,215,đã thuê,4900000000 ,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",79,Không có ban công,Đông,4,1,Bàn,Nhà hàng,Sổ hồng,Không có,Tiểu học cách 150m
+215,216,đang bán,3600000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",62,Không có ban công,Đông Nam,1,2,Ghế,Không có,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 300m,THPT cách 200m
+216,217,đã thuê,1950000000 ,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",8,Chung cư Bcons,Tây,3,3,TV,Cửa hàng tiện lợi,Khác,Bệnh viện chợ Rẫy cách 200m,Không có
+217,218,đã bán,4350000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",58,Phạm VĂn Đồng,Tây Bắc,1,3,Tủ lạnh,Không có,Khác,Bệnh viện Nhi Đồng cách 500m,Tiểu học cách 150m
+218,219,đang bán,1200000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",70,Chung cư Bcons,Tây,1,1,Máy lạnh,Không có,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 500m,THPT cách 200m
+219,220,đã thuê,4950000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",12,Suối Tiên,Tây Nam,3,1,Rèm,Cửa hàng tiện lợi,Khác,Bệnh viện chợ Rẫy cách 400m,Mầm non cách 300m
+220,221,đã thuê,1400000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",11,Sông Sài Gòn,Tây Bắc,4,1,TV,Phòng gym,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 300m,Tiểu học 200 m
+221,222,đang bán,2350000000,"12 Tân Hưng, quận 1",57,Landmark 81,Đông Bắc,4,3,Tủ lạnh,Cửa hàng tiện lợi,Sổ hồng,Bệnh viện Nhi Đồng cách 400m,Tiểu học 200 m
+222,223,đang cho thuê,4500000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",19,Chung cư Bcons,Nam,4,2,Rèm,Hồ bơi,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 200m,THCS cách 1200m
+223,224,đang cho thuê,2600000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",67,Phạm VĂn Đồng,Đông,4,3,Ghế,Cửu hàng giặt sấy,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 200m,THPT cách 300m
+224,225,đã bán,4300000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",66,Sông Sài Gòn,Tây Nam,3,3,Bếp,Hồ bơi,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 1000m,Mầm non cách 300m
+225,226,đang cho thuê,3400000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",74,Sông Sài Gòn,Tây Nam,3,3,Máy lạnh,Cửu hàng giặt sấy,Khác,Bệnh viện Nhi Đồng cách 400m,Mầm non cách 200m
+226,227,đang cho thuê,1450000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",73,Sông Sài Gòn,Nam,1,1,Bàn,Nhà hàng,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 200m,Mầm non cách 1500m
+227,228,đang bán,3100000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",93,Suối Tiên,Tây,4,3,Máy giặt,Không có,Khác,Bệnh viện Nhi Đồng cách 100m,THCS cách 1300m
+228,229,đang bán,1350000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",39,Sông Sài Gòn,Đông Bắc,4,1,Tủ lạnh,Không có,Khác,Bệnh viện Nhi Đồng cách 500m,THCS cách 120m
+229,230,đang bán,1350000000,"12 Tân Hưng, quận 1",68,Suối Tiên,Bắc,1,3,Không có,Nhà hàng,Khác,Bệnh viện Nhi Đồng cách 1000m,Mầm non cách 1500m
+230,231,đang bán,1400000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",1,Cầu Sài Gòn,Đông Nam,2,3,Máy giặt,Nhà hàng,Sổ hồng,Bệnh viện chợ Rẫy cách 1000m,Tiểu học 300 m
+231,232,đang bán,1600000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",98,Phạm VĂn Đồng,Bắc,4,1,Ghế,Nhà hàng,Khác,Bệnh viện chợ Rẫy cách 1000m,THCS cách 1300m
+232,233,đã bán,2200000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",36,Xa lộ Hà Nội,Tây Nam,2,3,Máy lạnh,Cửu hàng giặt sấy,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 1000m,Tiểu học 500 m
+233,234,đang bán,3650000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",52,Đầm Sen,Đông,3,2,Không có,Phòng yoga,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 2000m,Mầm non cách 1500m
+234,235,đang cho thuê,1600000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",7,Khu dân cư ABC,Đông,4,1,Không có,Công viên,Sổ hồng,Bệnh viện chợ Rẫy cách 400m,Tiểu học cách 150m
+235,236,đang cho thuê,3000000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",33,Landmark 81,Tây Bắc,3,1,Tủ lạnh,Nhà hàng,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 1000m,THPT cách 1300m
+236,237,đã bán,2000000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",82,Cầu Sài Gòn,Đông,2,3,Ghế,Phòng yoga,Sổ hồng,Bệnh viện chợ Rẫy cách 500m,Mầm non cách 1500m
+237,238,đang bán,4300000000,"12 Tân Hưng, quận 1",22,Quốc lộ 51,Tây,3,1,Máy giặt,Không có,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 400m,THPT cách 1300m
+238,239,đang cho thuê,1000000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",62,Sân Vận Động,Đông Bắc,1,3,Không có,Hồ bơi,Sổ hồng,Bệnh viện chợ Rẫy cách 300m,THPT cách 300m
+239,240,đã thuê,2600000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",46,Chung cư Bcons,Nam,4,3,Rèm,Phòng yoga,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 500m,THPT cách 200m
+240,241,đã thuê,1450000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",5,Khu dân cư ABC,Nam,4,3,Rèm,Công viên,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 400m,THPT cách 200m
+241,242,đã thuê,3100000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",76,Quốc lộ 51,Đông Nam,4,3,Máy giặt,Nhà hàng,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 200m,THPT cách 1300m
+242,243,đang cho thuê,2400000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",35,Landmark 81,Đông,2,2,Ghế,Phòng yoga,Khác,Bệnh viện Đại học Y Dược TPHCM cách 2000m,Tiểu học cách 150m
+243,244,đã thuê,1700000000,"12 Tân Hưng, quận 1",99,Cầu Sài Gòn,Tây Bắc,1,1,Rèm,Phòng gym,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 400m,Tiểu học cách 150m
+244,245,đang bán,2800000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",49,Chung cư Bcons,Đông Nam,4,3,TV,Phòng yoga,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 2000m,Tiểu học 300 m
+245,246,đang bán,2600000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",36,Xa lộ Hà Nội,Đông,4,2,TV,Hồ bơi,Khác,Bệnh viện Nhi Đồng cách 400m,Tiểu học cách 150m
+246,247,đã bán,2100000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",98,Suối Tiên,Tây,3,2,Máy giặt,Hồ bơi,Sổ hồng,Bệnh viện chợ Rẫy cách 500m,THCS cách 1200m
+247,248,đang bán,3550000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",41,Cầu Sài Gòn,Tây,2,1,Bàn,Công viên,Khác,Bệnh viện Nhi Đồng cách 400m,Tiểu học cách 150m
+248,249,đang bán,4200000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",59,Suối Tiên,Đông Bắc,4,2,Không có,Phòng yoga,Khác,Bệnh viện Đại học Y Dược TPHCM cách 2000m,Mầm non cách 250m
+249,250,đã thuê,3800000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",29,Chung cư Bcons,Đông Bắc,2,3,Ghế,Hồ bơi,Khác,Bệnh viện Đại học Y Dược TPHCM cách 200m,Tiểu học 200 m
+250,251,đang cho thuê,4350000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",17,Suối Tiên,Tây Nam,2,1,TV,Cửa hàng tiện lợi,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 2000m,Mầm non cách 300m
+251,252,đang bán,4450000000,"12 Tân Hưng, quận 1",99,Sân Vận Động,Tây Bắc,1,2,Máy lạnh,Phòng yoga,Sổ hồng,Không có,Mầm non cách 1500m
+252,253,đang bán,1300000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",95,Landmark 81,Đông,2,3,Máy lạnh,Phòng gym,Khác,Không có,Mầm non cách 300m
+253,254,đã bán,1350000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",20,Chung cư Bcons,Đông Bắc,3,2,Không có,Công viên,Khác,Bệnh viện Nhi Đồng cách 100m,THCS cách 1300m
+254,255,đang bán,4450000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",6,Sân Vận Động,Tây Nam,1,2,Ghế,Hồ bơi,Hợp dồng mua bán,Không có,THCS cách 1300m
+255,256,đang bán,3200000000,"12 Tân Hưng, quận 1",70,Landmark 81,Tây Bắc,4,1,Bàn,Phòng gym,Sổ hồng,Bệnh viện Nhi Đồng cách 400m,Tiểu học 200 m
+256,257,đã bán,2750000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",13,Landmark 81,Bắc,3,2,Rèm,Nhà hàng,Khác,Bệnh viện Nhi Đồng cách 1000m,THPT cách 200m
+257,258,đang cho thuê,2600000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",62,Khu dân cư ABC,Tây Bắc,4,2,TV,Hồ bơi,Sổ hồng,Bệnh viện Nhi Đồng cách 100m,THCS cách 120m
+258,259,đã thuê,2800000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",17,Xa lộ Hà Nội,Nam,4,1,Bếp,Không có,Sổ hồng,Không có,THPT cách 1300m
+259,260,đang cho thuê,2200000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",21,Phạm VĂn Đồng,Đông Bắc,1,2,Bếp,Phòng gym,Sổ hồng,Bệnh viện Nhi Đồng cách 100m,THCS cách 120m
+260,261,đã bán,3600000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",51,Landmark 81,Đông Nam,1,3,Ghế,Cửa hàng tiện lợi,Khác,Bệnh viện Đại học Y Dược TPHCM cách 400m,Tiểu học 500 m
+261,262,đã thuê,2100000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",84,Chung cư Bcons,Đông Nam,2,3,Tủ lạnh,Không có,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 400m,Tiểu học 500 m
+262,263,đang bán,1400000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",10,Landmark 81,Nam,1,1,Máy giặt,Cửa hàng tiện lợi,Sổ hồng,Bệnh viện Đại học Y Dược TPHCM cách 400m,Tiểu học 500 m
+263,264,đang bán,2900000000 ,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",51,Không có ban công,Tây Bắc,2,3,Rèm,Phòng yoga,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 500m,THCS cách 1200m
+264,265,đang bán,2550000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",21,Không có ban công,Nam,1,2,Bếp,Không có,Sổ hồng,Bệnh viện Nhi Đồng cách 200m,THPT cách 200m
+265,266,đã thuê,1950000000 ,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",87,Không có ban công,Nam,3,1,Bếp,Phòng yoga,Sổ hồng,Bệnh viện Nhi Đồng cách 200m,THPT cách 200m
+266,267,đang cho thuê,2900000000 ,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",62,Quốc lộ 51,Đông,2,3,Bếp,Phòng gym,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 200m,Tiểu học 200 m
+267,268,đã bán,3000000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",67,Phạm VĂn Đồng,Bắc,4,1,Tủ lạnh,Cửu hàng giặt sấy,Sổ hồng,Bệnh viện Nhi Đồng cách 1000m,Mầm non cách 300m
+268,269,đang cho thuê,1500000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",69,Xa lộ Hà Nội,Đông Nam,4,1,Máy giặt,Không có,Khác,Bệnh viện chợ Rẫy cách 1000m,Tiểu học 500 m
+269,270,đang bán,2500000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",51,Quốc lộ 51,Nam,2,1,Rèm,Nhà hàng,Sổ hồng,Bệnh viện Nhi Đồng cách 400m,Mầm non cách 300m
+270,271,đã thuê,1100000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",89,Suối Tiên,Nam,1,3,TV,Nhà hàng,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 200m,THPT cách 300m
+271,272,đang bán,2800000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",31,Chung cư Bcons,Đông Bắc,3,2,TV,Phòng yoga,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 100m,Tiểu học cách 150m
+272,273,đang cho thuê,3550000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",67,Cầu Sài Gòn,Đông,3,1,Ghế,Phòng gym,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 500m,Tiểu học cách 150m
+273,274,đang cho thuê,3700000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",37,Quốc lộ 51,Nam,4,2,Không có,Nhà hàng,Khác,Bệnh viện Nhi Đồng cách 100m,Tiểu học 300 m
+274,275,đã thuê,3700000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",3,Chung cư Bcons,Tây Bắc,1,2,TV,Cửu hàng giặt sấy,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 400m,THPT cách 1300m
+275,276,đang bán,2600000000,"12 Tân Hưng, quận 1",19,Sân Vận Động,Bắc,3,2,TV,Không có,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 400m,Tiểu học 700 m
+276,277,đang bán,1400000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",75,Khu dân cư ABC,Nam,2,2,Bếp,Phòng gym,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 200m,THCS cách 1200m
+277,278,đã thuê,3600000000,"31 Nguyễn Hữu Thọ, phường Tân Phong, quận 7",76,Landmark 81,Đông Bắc,3,1,Bàn,Cửu hàng giặt sấy,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 100m,Tiểu học cách 150m
+278,279,đã thuê,4350000000,"12 Tân Hưng, quận 1",7,Landmark 81,Nam,1,3,Bàn,Phòng gym,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 400m,Mầm non cách 1500m
+279,280,đang cho thuê,4400000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",19,Sông Sài Gòn,Tây Nam,3,2,Máy giặt,Hồ bơi,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 100m,Không có
+280,281,đã thuê,2750000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",23,Đầm Sen,Bắc,1,2,Bếp,Phòng yoga,Khác,Không có,THCS cách 1200m
+281,282,đang bán,2750000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",91,Xa lộ Hà Nội,Tây Nam,4,1,Máy giặt,Nhà hàng,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 1000m,Không có
+282,283,đang cho thuê,4350000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",80,Xa lộ Hà Nội,Tây,3,1,Rèm,Không có,Khác,Bệnh viện Nhi Đồng cách 400m,Tiểu học 500 m
+283,284,đã bán,1500000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",43,Chung cư Bcons,Đông,4,3,Rèm,Phòng yoga,Khác,Bệnh viện chợ Rẫy cách 300m,THPT cách 1300m
+284,285,đang bán,2550000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",58,Đầm Sen,Tây Bắc,4,3,Máy giặt,Cửu hàng giặt sấy,Khác,Bệnh viện Đại học Y Dược TPHCM cách 2000m,THPT cách 200m
+285,286,đang cho thuê,1800000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",29,Suối Tiên,Đông Nam,4,3,Máy lạnh,Phòng yoga,Sổ hồng,Bệnh viện chợ Rẫy cách 500m,Mầm non cách 200m
+286,287,đã thuê,3900000000 ,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",23,Khu dân cư ABC,Tây Nam,1,2,Máy lạnh,Cửa hàng tiện lợi,Khác,Bệnh viện chợ Rẫy cách 500m,Mầm non cách 200m
+287,288,đang cho thuê,5000000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",94,Quốc lộ 51,Đông Bắc,3,2,Bếp,Nhà hàng,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 2000m,Mầm non cách 200m
+288,289,đã thuê,4750000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",69,Landmark 81,Đông,4,2,Ghế,Nhà hàng,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 200m,THCS cách 1300m
+289,290,đang cho thuê,1000000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",85,Suối Tiên,Bắc,2,1,Bàn,Công viên,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 200m,THPT cách 1300m
+290,291,đã bán,4200000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",50,Sân Vận Động,Nam,2,3,Bàn,Nhà hàng,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 2000m,Mầm non cách 200m
+291,292,đang bán,4300000000,"12 Nguyễn Tât Thành, phường Tân Phú, quận 4",13,Quốc lộ 51,Đông Bắc,2,1,Máy lạnh,Phòng gym,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 200m,Tiểu học cách 150m
+292,293,đã bán,1400000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",41,Sông Sài Gòn,Tây Nam,3,1,Không có,Phòng gym,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 1000m,THCS cách 1200m
+293,294,đã bán,3800000000,"31 Hoàn Trọng, phường Tân Hưng, quận 7",7,Khu dân cư ABC,Đông,4,3,Ghế,Nhà hàng,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 200m,Tiểu học 200 m
+294,295,đã bán,4800000000,"45 Tân Lập, Đông Hòa, Dĩ An, Bình Dương.",62,Đầm Sen,Tây,1,1,Rèm,Phòng yoga,Khác,Bệnh viện chợ Rẫy cách 500m,Tiểu học 200 m
+295,296,đã bán,2000000000,"12A Nguyễn Tất Thành, phường Tân Phú, quận 4",91,Quốc lộ 51,Tây,1,3,Ghế,Phòng gym,Khác,Bệnh viện Đại học Y Dược TPHCM cách 200m,Mầm non cách 200m
+296,297,đang cho thuê,2400000000,"327 Phạm Văn Đồng, Linh Đông, Thủ Đức",26,Khu dân cư ABC,Bắc,4,1,Bàn,Phòng yoga,Hợp dồng mua bán,Bệnh viện Đại học Y Dược TPHCM cách 300m,Tiểu học 500 m
+297,298,đã bán,2000000000,"32 Nguyễn Phú Thọ, phường Tân Hưng, quận 7",19,Xa lộ Hà Nội,Đông Nam,2,3,Ghế,Công viên,Sổ hồng,Bệnh viện chợ Rẫy cách 500m,Tiểu học 200 m
+298,299,đã bán,3300000000,"13 Đinh Bộ Lĩnh, phường Tân Phú, quận 2",32,Suối Tiên,Tây,2,1,Ghế,Phòng yoga,Hợp dồng mua bán,Bệnh viện chợ Rẫy cách 300m,Mầm non cách 300m
+299,300,đã bán,4000000000,"32 Phú Mỹ Hưng, phường Tân Phú, quận 7",95,Khu dân cư ABC,Đông Bắc,3,2,Bếp,Công viên,Hợp dồng mua bán,Bệnh viện Nhi Đồng cách 500m,Mầm non cách 300m
