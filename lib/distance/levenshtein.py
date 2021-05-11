@@ -1,5 +1,5 @@
 import numpy as np
-def levenshtein_ratio_and_distance(s, t, ratio_calc = False):
+def levenshtein_ratio_and_distance(s, t, ratio_calc = True):
     """ levenshtein_ratio_and_distance:
         Calculates levenshtein distance between two strings.
         If ratio_calc = True, the function computes the
@@ -7,7 +7,7 @@ def levenshtein_ratio_and_distance(s, t, ratio_calc = False):
         For all i and j, distance[i,j] will contain the Levenshtein
         distance between the first i characters of s and the
         first j characters of t
-    """
+    """ 
     # Initialize matrix of zeros
     rows = len(s)+1
     cols = len(t)+1
@@ -44,9 +44,10 @@ def levenshtein_ratio_and_distance(s, t, ratio_calc = False):
         # This is the minimum number of edits needed to convert string a to string b
         return "The strings are {} edits away".format(distance[row][col])
 
-Str1 = "giá 4300000000, vị trí 31 Hoàn Trọng, phường Tân Hưng, quận 7, tầng	53,  view Suối Tiên, hướng Bắc, 3 phòng ngủ, 2 phòng vệ sinh, full nội thất, gần Bệnh viện Nhi Đồng cách 1000m, gần Mầm non cách 300m."
-Str2 = "giá 3900000000, vị trí 45 Tân lập, đông hòa, dĩ an, view thoáng, hướng Đông Bắc, 3 phòng ngủ, 2 phòng vệ sinh, full nội thất, gần trường học, gần bện viện."
-Distance = levenshtein_ratio_and_distance(Str1,Str2)
+Str1 = "Tôi là Nguyễn Quang Hiếu"
+Str2 = "Nguyễn Quang Hiếu là Tôi"
+
+Distance = levenshtein_ratio_and_distance(Str1,Str2,ratio_calc = False)
 print(Distance)
-Ratio = levenshtein_ratio_and_distance(Str1,Str2,ratio_calc = True)
+Ratio = levenshtein_ratio_and_distance(Str1,Str2)
 print(Ratio)
