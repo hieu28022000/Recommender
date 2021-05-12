@@ -1,93 +1,41 @@
 import separation
-import pandas as pd
+from dictionary import *
 
-data = pd.read_csv('../../dataset/dataset.csv')
-id = data['STT']
-lgd = data['Loại giao dich']
-gtien = data['Giá tiền']
-vt = data['Vị trí']
-tang = data['Tầng']
-view = data['View']
-hcc = data['Hướng cửa chính']
-spn = data['Số phòng ngủ']
-swc = data['Số WC']
-nt = data['Nội thất']
-ti = data['Tiện ích']
-gt = data['Giấy tờ']
-gbv = data['Gần bệnh viện']
-gth = data['Gần trường học']
-
-def add_index(ward, district):
-    ward2int = {}
-    district2int = {}
-    i = 0
-    for w in ward:
-        try:
-            t = ward2int[w]
-        except:
-            ward2int[w] = i
-            i += 1
-
-    i = 0
-    for d in district:
-        try:
-            t = district2int[d]
-        except:
-            district2int[d] = i
-            i += 1
-    return ward2int, district2int
-
-def create_dict_address(vt):
-    ward = []
-    district = []
-    for address in vt:
-        temp = separation.separation_address(address)
-        ward.append(temp[0])
-        district.append(temp[1])
-
-    return add_index(ward, district)
-
-def indexing(obj):
-    str2vec = {}
-    i = 0
-    for str in obj:
-        try:
-            t = str2vec[str]
-        except:
-            str2vec[str] = i
-            i += 1
-    return str2vec
-
-def create_dict_KC(near_sw):
-    place = []
-    for str in near_sw:
-        str = separation.separetion_KC(str)
-        place.append(str[0])
-
-    return indexing((place))
-
-
-# dictionary
-dict_ward, dict_district = create_dict_address(vt)
-dict_bv = create_dict_KC(gbv)
-dict_th = create_dict_KC(gth)
-dict_lgd = indexing(lgd)
-dict_view = indexing(view)
-dict_hcc = indexing(hcc)
-dict_tienich = indexing(ti)
-dict_giayto = indexing(gt)
-
+# single comversion
 def address2vec(address):
+    address = address.lower()
     add = separation.separation_address(address)
-    return ward[add[0]], district[add[1]]
+    return dict_ward[add[0]], dict_district[add[1]]
 
-def dis_to_service2vec(near, dict):
+def nearby_service2vec(near, dict):
+    near = near.lower()
     near = separation.separetion_KC(near)
     return dict[near[0]], near[1]
 
 def str2vec(str, dict):
+    str = str.lower()
     return dict[str]
 
-# print(dict_hcc)
-# print(dict_lgd)
-# print(dis_to_service2vec('Bệnh viện chợ Rẫy cách 300m', dict_bv))
+# column conversion
+def convert_vitri_2vec(vt):
+    vitri = []
+    for address in vt:
+        vitri.append(address2vec(address))
+
+    return  vitri
+
+def convert_nearby_service2vec(service, dict):
+    near = []
+    for str in service:
+        near.append(nearby_service2vec(str, dict))
+    return near
+
+def convert_att2vec(attribute, dict):
+    int_att  = []
+    for att in attribute:
+        int_att.append(str2vec(att, dict))
+    return int_att
+
+# print(convert_att2vec(view, dict_view))
+# print(convert_vitri_2vec(vt))
+# print(convert_nearby_service2vec(gbv, dict_bv))
