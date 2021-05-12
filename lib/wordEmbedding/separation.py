@@ -34,8 +34,10 @@ def separetion_KC(str):
         str = fix_str(str)
         str = str.split(' cách ')
         str[1] = int(str[1][: -1])
-
-    return str
+    
+        return str
+    else:
+        return [str, -1]
 
 # print(separetion_KC('Bệnh viện Nhi Đồng 200m'.lower()))
 # print(separation_address(('12 Nguyễn Tât Thành, phường Tân Phú, quận 4')))
