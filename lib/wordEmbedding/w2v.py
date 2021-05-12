@@ -1,8 +1,7 @@
 import separation
-from dictionary import *
 
 # single comversion
-def address2vec(address):
+def address2vec(address, dict_ward, dict_district):
     address = address.lower()
     add = separation.separation_address(address)
     return dict_ward[add[0]], dict_district[add[1]]
@@ -36,6 +35,3 @@ def convert_att2vec(attribute, dict):
         int_att.append(str2vec(att, dict))
     return int_att
 
-# print(convert_att2vec(view, dict_view))
-# print(convert_vitri_2vec(vt))
-# print(convert_nearby_service2vec(gbv, dict_bv))

@@ -1,5 +1,6 @@
 
-def shortten(add):
+# shorten address
+def shorten(add):
     words = ['xã', 'phường', 'thị trấn', 'quận', 'huyện', 'tỉnh', 'thành phố']
     for word in words:
         if add.find(word) != -1:
@@ -8,15 +9,17 @@ def shortten(add):
             add = word + ' ' + add
     return add
 
+# split address 
 def separation_address(address):
     address = address.lower()
     address = address.split(', ')
     for i in range(len(address)):
-        address[i] = shortten(address[i])
+        address[i] = shorten(address[i])
 
     address = address[-2:]
     return address
 
+# convert string to form is suitable
 def fix_str(str):
     kiso = '0123456789'
     i = str.find('cách')
@@ -28,7 +31,8 @@ def fix_str(str):
                 break
     return str
 
-def separetion_KC(str):
+# split nearby service
+def separetion_nearby_service(str):
     str = str.lower()
     if (str.find('không có') == -1):
         str = fix_str(str)

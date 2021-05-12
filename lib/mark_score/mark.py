@@ -45,7 +45,7 @@ def mark_floor(s,request):
         else:
             mark.append(0)
     return mark
+
 def mark_view(s, request):
     mark = []
-
 

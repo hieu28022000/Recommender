@@ -1,6 +1,7 @@
 import separation
 import pandas as pd
 
+# load data
 data = pd.read_csv('../../dataset/dataset.csv')
 id = data['STT']
 lgd = data['Loại giao dich']
@@ -17,7 +18,7 @@ gt = data['Giấy tờ']
 gbv = data['Gần bệnh viện']
 gth = data['Gần trường học']
 
-
+# add index to the object and removes duplicates
 def indexing(obj):
     str2vec = {}
     i = 0
@@ -30,6 +31,7 @@ def indexing(obj):
             i += 1
     return str2vec
 
+# create dictionary for address
 def create_dict_address(vt):
     ward = []
     district = []
@@ -40,18 +42,19 @@ def create_dict_address(vt):
 
     return indexing(ward), indexing(district)
 
-def create_dict_KC(near_sw):
+# create dictionary for nearby service
+def create_dict_nearby_service(near_sw):
     place = []
     for str in near_sw:
-        str = separation.separetion_KC(str)
+        str = separation.separetion_nearby_service(str)
         place.append(str[0])
 
     return indexing((place))
 
-# dictionary
+# create dictionary
 dict_ward, dict_district = create_dict_address(vt)
-dict_bv = create_dict_KC(gbv)
-dict_th = create_dict_KC(gth)
+dict_bv = create_dict_nearby_service(gbv)
+dict_th = create_dict_nearby_service(gth)
 dict_lgd = indexing(lgd)
 dict_view = indexing(view)
 dict_hcc = indexing(hcc)
