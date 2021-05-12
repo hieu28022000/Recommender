@@ -1,3 +1,6 @@
+from numpy import double
+
+
 def mark_money(s, request):
     mark = []
     money = 1000000000
@@ -32,20 +35,31 @@ def mark_floor(s,request):
         floor = request - s[i]
         if(floor==0):
             mark.append(10)
-        elif(floor==1 and floor==-1):
+        elif(floor==1 or floor==-1):
             mark.append(9)
-        elif (floor == 2 and floor == -2):
+        elif (floor == 2 or floor == -2):
             mark.append(8)
-        elif (floor == 3 and floor == -3):
+        elif (floor == 3 or floor == -3):
             mark.append(7)
-        elif (floor == 4 and floor == -4):
+        elif (floor == 4 or floor == -4):
             mark.append(6)
-        elif (floor == 5 and floor == -5):
+        elif (floor == 5 or floor == -5):
             mark.append(5)
         else:
             mark.append(0)
     return mark
-def mark_view(s, request):
-    mark = []
+def mark_direction(s, request):
+    mark= []
+    for i in range(len(s)):
+        for j in range(len(request)):
+            if(request[j]==s[i]):
+                mark.append(double(10/len(request)))
+                break
+            if(j+1==len(request)):
+                mark.append(0)
+
+    return mark
+
+
 
 
