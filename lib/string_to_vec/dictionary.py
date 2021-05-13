@@ -1,22 +1,17 @@
-import separation
 import pandas as pd
 
 # load data
-data = pd.read_csv('../../dataset/dataset.csv')
-id = data['STT']
-lgd = data['Loại giao dich']
-gtien = data['Giá tiền']
-vt = data['Vị trí']
-tang = data['Tầng']
+data = pd.read_csv('../../dataset/Myhub_dataset.csv')
+address = data['Địa chỉ']
 view = data['View']
-hcc = data['Hướng cửa chính']
-spn = data['Số phòng ngủ']
-swc = data['Số WC']
-nt = data['Nội thất']
-ti = data['Tiện ích']
-gt = data['Giấy tờ']
-gbv = data['Gần bệnh viện']
-gth = data['Gần trường học']
+hot = data['Hot']
+bedroom = data['Phòng ngủ']
+wc = data['Phòng vệ sinh']
+
+
+furniture = ['không', 'có', 'full']
+juridical = ['sổ hồng', 'hợp đồng mua bán', 'khác']
+
 
 # add index to the object and removes duplicates
 def indexing(obj):
@@ -31,32 +26,24 @@ def indexing(obj):
             i += 1
     return str2vec
 
-# create dictionary for address
-def create_dict_address(vt):
-    ward = []
-    district = []
-    for address in vt:
-        temp = separation.separation_address(address)
-        ward.append(temp[0])
-        district.append(temp[1])
+# create dictionary for nearby services
+# def create_dict_nearby_service(near_sw):
+#     place = []
+#     for str in near_sw:
+#         str = separation.separetion_nearby_service(str)
+#         place.append(str[0])
 
-    return indexing(ward), indexing(district)
+#     return indexing((place))
 
-# create dictionary for nearby service
-def create_dict_nearby_service(near_sw):
-    place = []
-    for str in near_sw:
-        str = separation.separetion_nearby_service(str)
-        place.append(str[0])
+# create dictionary direction
+def create_dict_direction():
+    direction = ['bắc', 'đông bắc', 'đông', 'đông nam', 'nam', 'tây nam', 'tây', 'tây bắc']
+    return indexing(direction)
 
-    return indexing((place))
 
 # create dictionary
-dict_ward, dict_district = create_dict_address(vt)
-dict_bv = create_dict_nearby_service(gbv)
-dict_th = create_dict_nearby_service(gth)
-dict_lgd = indexing(lgd)
-dict_view = indexing(view)
-dict_hcc = indexing(hcc)
-dict_tienich = indexing(ti)
-dict_giayto = indexing(gt)
+dict_address = indexing(address)
+dict_furniture = indexing(furniture)
+dict_juridical = indexing(juridical)
+
+
