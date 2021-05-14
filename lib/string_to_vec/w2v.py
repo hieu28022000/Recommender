@@ -19,6 +19,13 @@ def convert_att2vec(attribute, dict):
         int_att.append(str2vec(att, dict))
     return int_att
 
+def num_room(room):
+    if str(room).isnumeric():
+        return room
+    else:
+        return 0
+
+
 # def convert_nearby_service2vec(service, dict):
     # near = []
     # for str in service:
