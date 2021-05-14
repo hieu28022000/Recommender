@@ -1,0 +1,1273 @@
+,Nhu cầu,Tổng tiền,Diện tích,Địa chỉ,Phòng ngủ,Phòng vệ sinh,Nội thất,Pháp lý sở hữu,View,Tầng,Hot
+0,Thuê,1950000000,69.56,Quận Gò Vấp,2,2,Có,Sổ hồng,,7,True
+1,Bán,1638000000,68.04,Quận 1,2,2,Ko,Sổ hồng,Đông Nam,19,False
+2,Thuê,7500000,50.92,Quận Tân Phú,2,2,Full,Sổ hồng,Đông Nam,5,False
+3,Bán,2000000000,61.32,Quận Thủ Đức,2,2,Ko,Sổ hồng,,8,True
+4,Bán,2559000000,70.24,Bình Dương,3,2,Có,Sổ hồng,Tây Bắc,12,False
+5,Thuê rồi,2300000000,48.32,Quận 1,1,1,Có,Sổ hồng,Đông Bắc,11,True
+6,Thuê,1780000000,47.28,Quận 5,1,1,Full,Sổ hồng,Tây Nam,6,True
+7,Knc,6500000,69.08,Quận Thủ Đức,2,2,Ko,Hợp đồng mua bán,Đông Nam,15,False
+8,Bán rồi,2053000000,43.52,Quận 3,2,2,Ko,Sổ hồng,Đông Nam,8,True
+9,Thuê,6500000,53.56,Quận Phú Nhuận,2,2,Có,Sổ hồng,Đông Bắc,14,True
+10,Bán,1550000000,43.96,Quận Phú Nhuận,1,1,Ko,Sổ hồng,Đông Bắc,19,True
+11,Thuê rồi,1,49.4,Bình Dương,3,2,Full,Sổ hồng,Tây Nam,5,False
+12,Bán,2100000000,63.16,Quận 5,3,2,Full,Hợp đồng mua bán,Đông Nam,5,False
+13,Knc,2559000000,78.24,Quận 11,2,2,Có,Khác,Tây Bắc,10,True
+14,Bán,1900000000,61.24,Quận 12,3,2,Ko,Khác,Tây Bắc,19,False
+15,Knc,2254000000,43.2,Quận Phú Nhuận,3,2,Ko,Sổ hồng,Đông Nam,9,False
+16,Bán,1903000000,52.2,Quận 4,3,2,Ko,Sổ hồng,Tây Nam,14,False
+17,Bán,2034000000,49.32,Quận 1,3,2,Ko,Sổ hồng,Đông Nam,17,False
+18,Bán,1700000000,40.4,Quận Gò Vấp,2,2,Ko,Hợp đồng mua bán,Tây Nam,11,True
+19,Thuê,2000000000,68.68,Quận Tân Phú,Shophouse,Shophouse,Ko,Sổ hồng,,0,False
+20,Bán,4300000000,47.56,Quận 2,Shophouse,Shophouse,Ko,Sổ hồng,,5,True
+21,Bán,2150000000,70.04,Quận 10,2,2,Có,Sổ hồng,Tây Nam,19,False
+22,Thuê rồi,6000000,59.88,Quận 5,Shophouse,Shophouse,Có,Hợp đồng mua bán,,0,True
+23,Bán,2100000000,67.68,Quận 10,3,2,Có,Hợp đồng mua bán,Tây Nam,18,False
+24,Bán,1903000000,50.28,Quận 10,3,2,Ko,Sổ hồng,Tây Nam,14,False
+25,Bán,5500000,43.24,Bình Dương,3,2,Ko,Hợp đồng mua bán,Đông Nam,18,True
+26,Thuê rồi,1638000000,79.52,Quận 1,2,2,Full,Sổ hồng,Tây Bắc,6,False
+27,Bán,2200000000,41.44,Quận 10,3,2,Có,Sổ hồng,Đông Nam,15,False
+28,Bán,1900000000,69.96,Quận 4,3,2,Ko,Khác,Tây Bắc,18,False
+29,Knc,2300000000,69.52,Quận 5,2,2,Ko,Sổ hồng,Đông Bắc,16,True
+30,Bán rồi,1800000000,66.64,Quận 5,2,2,Ko,Sổ hồng,Đông Bắc,10,False
+31,Thuê,2100000000,58.6,Bình Dương,3,2,Ko,Hợp đồng mua bán,Đông Bắc,12,True
+32,Bán,2100000000,60.52,Quận 5,2,2,Ko,Sổ hồng,Tây Nam,18,False
+33,Knc,2000000000,46.64,Quận Thủ Đức,3,2,Ko,Sổ hồng,Tây Nam,17,False
+34,Thuê,8000000,57.0,Quận 8,3,2,Ko,Khác,Tây Nam,6,False
+35,Bán rồi,1950000000,58.68,Quận 11,2,2,Ko,Hợp đồng mua bán,Đông Bắc,10,False
+36,Bán,1903000000,45.0,Quận 3,3,2,Ko,Khác,Tây Nam,14,False
+37,Thuê rồi,1800000000,54.76,Quận 7,2,2,Full,Sổ hồng,Đông Nam,12,False
+38,Knc,2000000000,59.76,Quận 2,3,2,Có,Hợp đồng mua bán,Tây Bắc,13,True
+39,Bán,1950000000,40.96,Quận 5,2,2,Ko,Sổ hồng,Tây Bắc,18,True
+40,Bán,1730000000,52.12,Quận Phú Nhuận,2,2,Full,Sổ hồng,Tây Bắc,8,True
+41,Thuê,8000000,45.84,Quận 7,3,2,Full,Hợp đồng mua bán,Tây Nam,6,True
+42,Knc,2100000000,63.44,Quận Phú Nhuận,3,2,Ko,Hợp đồng mua bán,Đông Bắc,12,False
+43,Bán,2026000000,66.24,Quận Thủ Đức,3,2,Có,Sổ hồng,Tây Nam,18,True
+44,Bán,1776000000,66.16,Quận 8,3,2,Full,Sổ hồng,Tây Bắc,13,True
+45,Bán,1826000000,47.72,Quận 11,3,2,Ko,Sổ hồng,Đông Nam,18,False
+46,Thuê rồi,1776000000,60.28,Quận 2,2,2,Ko,Sổ hồng,Tây Nam,6,True
+47,Bán,1850000000,55.04,Quận Gò Vấp,2,2,Ko,Hợp đồng mua bán,Tây Nam,6,False
+48,Bán rồi,2000000000,51.92,Quận 10,3,2,Ko,Sổ hồng,Tây Bắc,15,False
+49,Bán,4516000000,50.48,Quận 2,Shophouse,Shophouse,Ko,Khác,,0,False
+50,Bán,1950000000,51.84,Quận 5,2,2,Ko,Hợp đồng mua bán,Tây Bắc,18,True
+51,Bán,2000000000,48.36,Quận 6,3,2,Có,Sổ hồng,Tây Bắc,5,True
+52,Bán,1688000000,41.12,Quận Bình Thạnh,2,2,Full,Sổ hồng,Tây Bắc,8,False
+53,Bán rồi,1550000000,47.04,Quận Thủ Đức,2,2,Ko,Hợp đồng mua bán,Đông Bắc,10,False
+54,Bán,1850000000,48.44,Quận Gò Vấp,3,2,Ko,Sổ hồng,Tây Nam,5,False
+55,Bán rồi,2000000000,75.96,Quận 1,Shophouse,Shophouse,Ko,Hợp đồng mua bán,,0,False
+56,Bán rồi,2200000000,47.52,Quận Gò Vấp,2,2,Full,Sổ hồng,,0,True
+57,Bán rồi,1826000000,65.56,Quận 12,Shophouse,Shophouse,Full,Sổ hồng,,0,True
+58,Thuê rồi,1930000000,47.52,Quận 5,2,2,Full,Sổ hồng,Đông Nam,11,False
+59,Bán,3100000000,48.24,Quận Phú Nhuận,Shophouse,Shophouse,Có,Sổ hồng,,0,False
+60,Thuê,12000000,79.52,Quận 7,Shophouse,Shophouse,Ko,Sổ hồng,,0,True
+61,Thuê,2550000000,75.52,Quận 1,Shophouse,Shophouse,Full,Sổ hồng,,0,False
+62,Knc,1620000000,67.12,Quận Gò Vấp,Shophouse,Shophouse,Có,Sổ hồng,,0,True
+63,Knc,1850000000,54.88,Quận Bình Tân,2,2,Ko,Khác,Đông Nam,10,True
+64,Bán,3905000000,67.32,Quận 7,Shophouse,Shophouse,Full,Sổ hồng,,0,False
+65,Bán,5918000000,78.12,Quận 9,Shophouse,Shophouse,Ko,Sổ hồng,,0,True
+66,Knc,1903000000,79.36,Quận 10,2,2,Có,Sổ hồng,Đông Nam,19,False
+67,Knc,2254000000,59.92,Quận Bình Thạnh,Shophouse,Shophouse,Ko,Khác,,0,False
+68,Bán,4516000000,60.8,Quận Tân Phú,2,2,Ko,Hợp đồng mua bán,Đông Nam,13,False
+69,Knc,2000000000,69.68,Quận 2,Shophouse,Shophouse,Ko,Hợp đồng mua bán,,0,False
+70,Knc,1926000000,75.44,Quận Phú Nhuận,Shophouse,Shophouse,Có,Khác,,0,True
+71,Knc,2053000000,63.96,Quận 7,Shophouse,Shophouse,Có,Sổ hồng,,0,False
+72,Knc,2400000000,66.6,Quận 4,Shophouse,Shophouse,Full,Hợp đồng mua bán,,0,False
+73,Knc,2100000000,56.96,Bình Dương,Shophouse,Shophouse,Ko,Sổ hồng,,0,False
+74,Bán,5000000000,63.28,Quận 9,Shophouse,Shophouse,Ko,Sổ hồng,,0,True
+75,Knc,8000000,59.4,Quận 1,Shophouse,Shophouse,Ko,Khác,,0,True
+76,Knc,2387600000,44.24,Quận 11,2,2,Full,Khác,Đông Nam,16,True
+77,Thuê,2387600000,66.2,Quận 7,3,2,Ko,Hợp đồng mua bán,Tây Bắc,16,False
+78,Knc,1826000000,54.16,Quận 9,3,2,Ko,Hợp đồng mua bán,Đông Nam,16,False
+79,Bán,1726000000,61.6,Quận Tân Phú,2,2,Có,Hợp đồng mua bán,Tây Bắc,17,True
+80,Thuê rồi,1700000000,57.12,Quận Tân Phú,2,2,Ko,Sổ hồng,Tây Bắc,16,False
+81,Knc,1750000000,73.48,Quận 4,2,2,Ko,Khác,Tây Bắc,16,True
+82,Bán rồi,5000000000,75.84,Quận Thủ Đức,2,2,Có,Sổ hồng,Tây Bắc,17,False
+83,Bán rồi,2000000000,63.44,Quận Gò Vấp,3,2,Full,Sổ hồng,Tây Bắc,17,False
+84,Bán rồi,1838000000,73.44,Quận Phú Nhuận,2,2,Ko,Sổ hồng,Tây Bắc,17,True
+85,Knc,2228000000,62.72,Quận 10,2,2,Ko,Khác,Tây Bắc,17,False
+86,Bán rồi,2000000000,56.0,Quận 9,2,2,Ko,Sổ hồng,Tây Bắc,16,False
+87,Bán,2200000000,71.68,Quận 8,2,2,Full,Sổ hồng,Tây Bắc,16,False
+88,Knc,7000000,66.0,Quận Tân Bình,2,2,Có,Hợp đồng mua bán,Tây Bắc,17,True
+89,Bán,2300000000,70.48,Quận 7,3,2,Ko,Khác,Tây Bắc,17,False
+90,Bán rồi,7000000,56.32,Quận 7,2,2,Có,Sổ hồng,Đông Bắc,7,True
+91,Bán rồi,1900000000,60.4,Quận Bình Thạnh,2,2,Full,Hợp đồng mua bán,Tây Bắc,19,True
+92,Knc,1853000000,40.92,Quận 2,2,2,Có,Hợp đồng mua bán,Tây Bắc,19,False
+93,Bán,2300000000,53.52,Quận 5,3,2,Ko,Hợp đồng mua bán,Tây Nam,14,False
+94,Thuê rồi,1696,47.72,Quận 5,2,2,Có,Sổ hồng,Tây Bắc,18,False
+95,Knc,1800000000,43.72,Quận Bình Thạnh,3,2,Full,Sổ hồng,Đông Nam,19,True
+96,Bán rồi,6500000,56.92,Quận 11,3,2,Ko,Sổ hồng,Tây Bắc,19,True
+97,Thuê,7000000,56.68,Quận Bình Thạnh,2,2,Full,Sổ hồng,Tây Bắc,19,True
+98,Knc,2056000000,62.96,Quận 4,2,2,Có,Hợp đồng mua bán,Tây Bắc,17,False
+99,Bán rồi,2100000000,65.84,Quận Gò Vấp,2,2,Full,Sổ hồng,Đông Nam,18,True
+100,Knc,1838000000,69.48,Quận 4,2,2,Ko,Sổ hồng,Đông Nam,17,False
+101,Bán,1826000000,71.4,Quận 6,2,2,Full,Sổ hồng,Đông Nam,17,True
+102,Knc,2500000000,71.96,Quận 12,3,2,Có,Sổ hồng,Đông Nam,18,False
+103,Thuê rồi,1550000000,71.8,Quận Tân Phú,2,2,Full,Sổ hồng,Tây Bắc,18,True
+104,Knc,2158000000,59.84,Quận 12,2,2,Có,Khác,Đông Nam,13,True
+105,Thuê,1,44.28,Bình Dương,1,1,Full,Hợp đồng mua bán,Tây Bắc,18,True
+106,Bán rồi,1850000000,68.16,Quận Bình Tân,2,2,Có,Sổ hồng,Đông Nam,18,True
+107,Knc,1970000000,66.92,Quận 10,2,2,Full,Sổ hồng,Đông Nam,18,True
+108,Bán rồi,1700000000,48.88,Bình Dương,3,2,Ko,Hợp đồng mua bán,Tây Bắc,19,True
+109,Thuê,1800000000,41.36,Quận 8,2,2,Full,Khác,Tây Bắc,19,True
+110,Knc,7000000,47.92,Quận 8,3,2,Ko,Sổ hồng,Đông Nam,19,False
+111,Knc,1770000000,78.48,Quận 8,2,2,Full,Hợp đồng mua bán,Đông Bắc,5,False
+112,Knc,8000000,64.08,Quận 4,2,2,Ko,Sổ hồng,Đông Nam,17,True
+113,Knc,1850000000,57.44,Quận 8,3,2,Full,Sổ hồng,Đông Bắc,4,True
+114,Thuê,2053000000,67.72,Quận 11,2,2,Ko,Sổ hồng,Đông Nam,17,False
+115,Thuê rồi,2046000000,45.96,Quận 11,2,2,Có,Sổ hồng,Tây Bắc,18,True
+116,Bán,1826000000,76.04,Quận 1,3,2,Có,Sổ hồng,Đông Nam,4,False
+117,Knc,2000000000,77.6,Quận Bình Tân,Shophouse,Shophouse,Ko,Sổ hồng,,0,False
+118,Knc,2600000000,76.36,Quận Bình Thạnh,2,2,Ko,Sổ hồng,Tây Bắc,18,False
+119,Knc,1850000000,64.16,Quận 1,2,2,Ko,Sổ hồng,Tây Bắc,19,False
+120,Bán,2300000000,41.6,Quận 4,3,2,Có,Sổ hồng,Đông Bắc,4,True
+121,Thuê,2000000000,54.88,Quận Tân Bình,2,2,Có,Sổ hồng,Đông Bắc,5,True
+122,Knc,1750000000,48.44,Bình Dương,2,2,Full,Sổ hồng,Đông Nam,18,False
+123,Knc,2200000000,73.0,Quận Gò Vấp,2,2,Ko,Sổ hồng,Đông Nam,18,False
+124,Bán,1920000000,45.0,Quận Phú Nhuận,2,2,Ko,Sổ hồng,Đông Nam,19,False
+125,Bán rồi,1846000000,76.56,Quận Gò Vấp,2,2,Ko,Sổ hồng,Tây Bắc,14,True
+126,Knc,6500000,78.44,Quận 2,2,2,Có,Hợp đồng mua bán,Đông Nam,17,False
+127,Bán rồi,1686000000,79.6,Quận 9,3,2,Ko,Hợp đồng mua bán,Đông Nam,17,False
+128,Knc,7000000,55.56,Quận 5,2,2,Full,Sổ hồng,Tây Bắc,17,True
+129,Bán,2228000000,47.44,Quận 5,2,2,Có,Sổ hồng,Đông Nam,18,False
+130,Knc,1700000000,64.76,Quận 11,3,2,Ko,Sổ hồng,Đông Nam,19,False
+131,Bán rồi,2200000000,75.92,Quận 9,2,2,Ko,Sổ hồng,Đông Nam,19,False
+132,Thuê rồi,1950000000,57.16,Quận 10,1,1,Full,Sổ hồng,Tây Bắc,19,False
+133,Knc,2464000000,58.12,Quận 5,2,2,Ko,Sổ hồng,Tây Bắc,18,False
+134,Bán,1750000000,76.28,Quận 5,2,2,Có,Hợp đồng mua bán,Đông Nam,18,True
+135,Knc,2158000000,49.84,Quận Thủ Đức,2,2,Full,Sổ hồng,Đông Nam,9,False
+136,Knc,2400000000,72.84,Quận 10,2,2,Ko,Sổ hồng,Đông Bắc,17,False
+137,Bán rồi,2000000000,76.44,Quận 12,2,2,Full,Hợp đồng mua bán,Đông Nam,17,True
+138,Thuê rồi,12000000,68.48,Quận 4,2,2,Có,Hợp đồng mua bán,Tây Bắc,17,True
+139,Thuê rồi,2000000000,58.28,Quận 8,2,2,Có,Khác,Đông Bắc,13,False
+140,Thuê,6500000,42.28,Quận Thủ Đức,3,2,Ko,Sổ hồng,Tây Bắc,18,False
+141,Knc,1826000000,74.68,Quận 2,2,2,Full,Sổ hồng,Đông Nam,18,False
+142,Thuê rồi,1826000000,72.8,Quận Bình Thạnh,2,2,Có,Sổ hồng,Tây Bắc,8,False
+143,Knc,7000000,41.0,Quận 2,3,2,Full,Hợp đồng mua bán,Đông Nam,17,True
+144,Bán rồi,1700000000,73.12,Quận Tân Bình,2,2,Có,Hợp đồng mua bán,Tây Bắc,17,False
+145,Thuê,1638000000,57.44,Quận 1,2,2,Full,Hợp đồng mua bán,Tây Bắc,19,True
+146,Thuê rồi,2600000000,45.96,Quận 9,2,2,Ko,Sổ hồng,Đông Nam,17,False
+147,Knc,1550000000,60.48,Quận Bình Tân,2,2,Ko,Hợp đồng mua bán,Tây Bắc,17,False
+148,Thuê rồi,2100000000,52.6,Quận 10,2,2,Full,Sổ hồng,Tây Bắc,18,True
+149,Thuê rồi,1950000000,64.44,Quận 8,2,2,Full,Sổ hồng,Tây Bắc,19,True
+150,Bán rồi,1700000000,45.6,Quận Thủ Đức,3,2,Ko,Sổ hồng,Tây Bắc,18,False
+151,Knc,3100000000,45.24,Quận Bình Tân,3,2,Ko,Hợp đồng mua bán,Đông Nam,18,True
+152,Thuê,1980000000,66.36,Quận Thủ Đức,3,2,Full,Sổ hồng,Tây Bắc,19,False
+153,Thuê,1750000000,55.6,Quận 9,2,2,Ko,Sổ hồng,Đông Nam,19,False
+154,Bán rồi,2600000000,53.56,Quận 1,2,2,Có,Sổ hồng,Đông Nam,19,False
+155,Thuê,1630000000,41.76,Quận Bình Thạnh,2,2,Ko,Sổ hồng,Tây Bắc,17,True
+156,Knc,2600000000,51.76,Quận 11,2,2,Ko,Hợp đồng mua bán,Tây Bắc,18,False
+157,Knc,2000000000,63.56,Quận 11,2,2,Full,Sổ hồng,Đông Nam,18,True
+158,Knc,2000000000,42.4,Quận 8,2,2,Có,Hợp đồng mua bán,Đông Nam,19,True
+159,Thuê rồi,1,52.4,Quận 1,2,2,Có,Sổ hồng,Đông Nam,18,False
+160,Bán,1638000000,43.16,Quận 5,2,2,Ko,Hợp đồng mua bán,Đông Nam,19,True
+161,Bán,1826000000,60.72,Quận Thủ Đức,2,2,Full,Khác,Tây Bắc,19,False
+162,Knc,1700000000,77.44,Quận 1,1,1,Ko,Sổ hồng,Tây Bắc,19,True
+163,Bán rồi,1550000000,64.44,Quận 11,3,2,Ko,Sổ hồng,Đông Nam,17,False
+164,Bán,1700000000,56.2,Quận 8,2,2,Có,Sổ hồng,Đông Nam,17,True
+165,Bán rồi,3059000000,72.6,Quận 2,2,2,Ko,Sổ hồng,Đông Nam,17,False
+166,Bán,1850000000,57.52,Quận 6,3,2,Có,Sổ hồng,Tây Nam,15,True
+167,Knc,1826000000,68.4,Quận 1,2,2,Ko,Sổ hồng,Tây Bắc,18,True
+168,Knc,8000000,52.4,Quận Tân Phú,2,2,Có,Hợp đồng mua bán,Tây Bắc,19,False
+169,Knc,2000000000,63.56,Quận Gò Vấp,2,2,Ko,Khác,Đông Nam,19,False
+170,Thuê rồi,1536000000,65.6,Quận 1,1,1,Có,Sổ hồng,Tây Bắc,17,True
+171,Thuê,1750000000,52.88,Quận 12,2,2,Ko,Sổ hồng,Đông Bắc,14,True
+172,Bán rồi,2246000000,79.12,Quận 10,2,2,Full,Khác,Tây Bắc,18,False
+173,Knc,1903000000,43.44,Bình Dương,2,2,Ko,Khác,Tây Bắc,19,False
+174,Knc,1800000000,47.84,Quận Phú Nhuận,3,2,Full,Sổ hồng,Tây Nam,5,True
+175,Thuê,1930000000,46.28,Bình Dương,2,2,Ko,Hợp đồng mua bán,Đông Nam,13,False
+176,Bán,2000000000,74.96,Quận 8,3,2,Ko,Hợp đồng mua bán,Tây Bắc,13,True
+177,Knc,2150000000,42.4,Quận Bình Tân,3,2,Có,Sổ hồng,Tây Bắc,14,False
+178,Thuê rồi,6500000,70.2,Quận 3,2,2,Có,Sổ hồng,Tây Bắc,13,False
+179,Bán rồi,2056000000,63.72,Quận Bình Tân,1,1,Có,Khác,Tây Bắc,14,True
+180,Knc,2200000000,74.48,Quận 4,2,2,Ko,Khác,Tây Bắc,13,True
+181,Thuê,5000000000,42.84,Quận Tân Bình,2,2,Ko,Khác,Đông Nam,13,True
+182,Bán,2600000000,60.84,Quận Thủ Đức,3,2,Có,Sổ hồng,Đông Nam,13,False
+183,Knc,3905000000,57.44,Quận 10,1,1,Ko,Sổ hồng,Tây Bắc,14,True
+184,Bán,1638000000,75.8,Quận 7,1,1,Ko,Sổ hồng,Tây Bắc,15,True
+185,Thuê,2000000000,40.04,Quận 9,1,1,Ko,Hợp đồng mua bán,Tây Bắc,13,True
+186,Knc,1853000000,66.2,Quận Thủ Đức,2,2,Full,Khác,Tây Bắc,14,False
+187,Bán rồi,1800000000,45.2,Quận Phú Nhuận,2,2,Ko,Khác,Đông Nam,14,False
+188,Thuê rồi,2100000000,40.72,Quận 4,2,2,Full,Sổ hồng,Đông Bắc,8,False
+189,Knc,1900000000,71.04,Quận 10,1,1,Full,Khác,Tây Bắc,15,True
+190,Bán,1846000000,66.64,Quận 6,3,2,Ko,Sổ hồng,Đông Nam,14,False
+191,Knc,1900000000,53.36,Quận 3,3,2,Full,Hợp đồng mua bán,Đông Bắc,7,True
+192,Knc,7000000,43.44,Quận 12,2,2,Full,Khác,Đông Nam,14,True
+193,Knc,7000000,67.96,Quận 10,2,2,Ko,Hợp đồng mua bán,Tây Bắc,15,False
+194,Knc,2300000000,54.92,Quận 9,2,2,Full,Sổ hồng,Tây Bắc,15,False
+195,Knc,1903000000,63.44,Quận 9,2,2,Full,Hợp đồng mua bán,Đông Nam,15,True
+196,Thuê rồi,1630000000,53.76,Quận Tân Phú,2,2,Ko,Sổ hồng,Đông Nam,18,True
+197,Knc,1788000000,69.92,Quận Phú Nhuận,2,2,Ko,Sổ hồng,Đông Bắc,8,False
+198,Bán rồi,1903000000,76.36,Quận Bình Tân,3,2,Ko,Khác,Tây Bắc,15,True
+199,Knc,5500000,43.12,Quận 12,2,2,Ko,Sổ hồng,Tây Bắc,15,True
+200,Knc,2000000000,52.64,Quận 3,2,2,Full,Hợp đồng mua bán,Đông Nam,13,True
+201,Bán rồi,2559000000,54.04,Bình Dương,2,2,Ko,Hợp đồng mua bán,Đông Nam,15,False
+202,Knc,1630000000,46.4,Quận 11,2,2,Full,Sổ hồng,Tây Bắc,6,False
+203,Thuê rồi,2254000000,48.24,Quận 6,2,2,Full,Hợp đồng mua bán,Đông Nam,13,False
+204,Bán rồi,6500000,72.4,Quận 12,3,2,Ko,Hợp đồng mua bán,Đông Nam,13,False
+205,Bán rồi,1903000000,47.36,Quận 11,2,2,Ko,Sổ hồng,Tây Bắc,13,False
+206,Bán,5918000000,46.12,Quận Bình Thạnh,2,2,Có,Sổ hồng,Tây Nam,7,False
+207,Bán,7000000,60.88,Quận Gò Vấp,2,2,Ko,Sổ hồng,Đông Nam,13,False
+208,Knc,1700000000,49.12,Quận Tân Phú,2,2,Ko,Khác,Tây Nam,16,True
+209,Thuê rồi,6000000,69.28,Quận 1,2,2,Ko,Sổ hồng,Đông Nam,13,False
+210,Knc,2100000000,75.0,Quận 9,1,1,Ko,Sổ hồng,Tây Bắc,14,True
+211,Knc,5500000,67.56,Quận Phú Nhuận,2,2,Full,Hợp đồng mua bán,Tây Bắc,14,True
+212,Knc,1700000000,40.92,Quận Bình Thạnh,2,2,Có,Khác,Tây Bắc,13,False
+213,Thuê,1,51.48,Quận Gò Vấp,2,2,Ko,Hợp đồng mua bán,Tây Bắc,14,False
+214,Knc,6500000,42.84,Quận Gò Vấp,2,2,Có,Sổ hồng,Tây Bắc,13,False
+215,Knc,2000000000,77.8,Quận 11,1,1,Có,Hợp đồng mua bán,Tây Bắc,14,True
+216,Knc,1550000000,53.28,Quận Bình Tân,1,1,Ko,Sổ hồng,Tây Bắc,14,True
+217,Knc,1780000000,75.0,Quận 1,2,2,Có,Hợp đồng mua bán,Đông Nam,14,False
+218,Knc,1903000000,49.32,Quận Tân Phú,1,1,Có,Sổ hồng,Tây Bắc,16,True
+219,Knc,1506000000,72.96,Bình Dương,2,2,Ko,Khác,Đông Nam,14,True
+220,Bán rồi,1800000000,64.72,Quận Bình Tân,1,1,Full,Hợp đồng mua bán,Tây Bắc,14,True
+221,Knc,1520000000,76.28,Quận Thủ Đức,2,2,Ko,Sổ hồng,Đông Nam,15,False
+222,Bán,1803000000,48.44,Quận Phú Nhuận,2,2,Có,Hợp đồng mua bán,Đông Nam,14,True
+223,Bán,2100000000,40.08,Quận 9,2,2,Ko,Sổ hồng,Tây Bắc,14,True
+224,Bán rồi,6500000,52.12,Quận 10,2,2,Full,Khác,Đông Nam,14,False
+225,Bán rồi,7500000,66.52,Quận Bình Tân,2,2,Ko,Hợp đồng mua bán,Đông Nam,14,True
+226,Thuê rồi,1950000000,67.16,Quận 4,3,2,Full,Sổ hồng,Tây Bắc,15,True
+227,Knc,1688000000,55.96,Quận 5,2,2,Có,Sổ hồng,Đông Nam,15,False
+228,Thuê,7000000,74.52,Quận 9,3,2,Full,Sổ hồng,Đông Nam,14,True
+229,Thuê,1903000000,58.44,Quận Thủ Đức,3,2,Full,Khác,Tây Bắc,15,True
+230,Thuê,1950000000,42.12,Quận Phú Nhuận,2,2,Có,Hợp đồng mua bán,Tây Bắc,14,True
+231,Bán rồi,5918000000,60.96,Quận Gò Vấp,2,2,Có,Sổ hồng,Đông Nam,16,True
+232,Bán rồi,1950000000,65.84,Quận Bình Tân,2,2,Ko,Hợp đồng mua bán,Tây Bắc,18,True
+233,Bán rồi,2000000000,54.92,Quận 3,1,1,Có,Sổ hồng,Tây Bắc,15,True
+234,Knc,1826000000,68.12,Quận Thủ Đức,1,1,Full,Sổ hồng,Tây Bắc,15,True
+235,Knc,1750000000,49.92,Quận 8,2,2,Full,Sổ hồng,Đông Nam,14,False
+236,Knc,1800000000,50.72,Quận 5,1,1,Có,Sổ hồng,Tây Bắc,15,False
+237,Bán rồi,2053000000,54.4,Quận 4,1,1,Ko,Sổ hồng,Tây Bắc,15,True
+238,Knc,2244000000,60.4,Quận 9,2,2,Ko,Sổ hồng,Tây Bắc,15,True
+239,Thuê,2158000000,53.8,Quận 7,3,2,Full,Hợp đồng mua bán,Tây Bắc,14,True
+240,Knc,3059000000,79.68,Quận 7,2,2,Ko,Sổ hồng,Đông Nam,17,False
+241,Knc,1903000000,61.52,Quận 7,1,1,Ko,Sổ hồng,Tây Bắc,15,True
+242,Knc,1803000000,71.4,Quận Bình Tân,2,2,Có,Sổ hồng,Đông Nam,15,True
+243,Knc,2228000000,73.92,Quận Tân Bình,2,2,Có,Sổ hồng,Đông Nam,15,True
+244,Knc,1926000000,59.6,Quận 7,2,2,Full,Hợp đồng mua bán,Đông Nam,15,True
+245,Knc,1900000000,72.48,Quận 10,2,2,Full,Sổ hồng,Đông Nam,15,False
+246,Knc,2100000000,60.6,Quận 9,1,1,Full,Khác,Tây Bắc,16,False
+247,Knc,2000000000,70.76,Quận 5,2,2,Có,Sổ hồng,Đông Nam,15,True
+248,Knc,2100000000,53.76,Quận Thủ Đức,2,2,Có,Hợp đồng mua bán,Đông Nam,15,False
+249,Knc,1900000000,53.32,Quận 3,3,2,Có,Sổ hồng,Đông Nam,15,False
+250,Bán rồi,1800000000,66.64,Quận Tân Phú,1,1,Ko,Sổ hồng,Tây Bắc,16,True
+251,Bán rồi,2000000000,61.88,Bình Dương,3,2,Ko,Khác,Tây Bắc,15,False
+252,Knc,2100000000,53.88,Quận Phú Nhuận,2,2,Full,Sổ hồng,Đông Nam,16,True
+253,Knc,1750000000,48.2,Quận Gò Vấp,3,2,Có,Hợp đồng mua bán,Tây Bắc,16,False
+254,Bán rồi,1846000000,75.88,Quận Tân Phú,2,2,Ko,Sổ hồng,Đông Nam,15,False
+255,Bán rồi,2000000000,72.96,Quận 2,1,1,Ko,Sổ hồng,Tây Bắc,16,True
+256,Bán,2000000000,73.24,Quận 7,3,2,Ko,Sổ hồng,Đông Nam,15,True
+257,Bán rồi,1826000000,42.68,Bình Dương,2,2,Có,Sổ hồng,Đông Nam,16,True
+258,Bán rồi,1700000000,64.84,Quận Phú Nhuận,2,2,Ko,Hợp đồng mua bán,Tây Bắc,15,True
+259,Bán rồi,2000000000,56.36,Quận 2,2,2,Ko,Khác,Đông Nam,16,False
+260,Knc,18260,64.92,Quận 11,2,2,Có,Hợp đồng mua bán,Tây Bắc,15,True
+261,Thuê rồi,2100000000,46.76,Quận Gò Vấp,2,2,Có,Sổ hồng,Tây Bắc,15,True
+262,Thuê rồi,2053000000,71.48,Quận Bình Tân,2,2,Ko,Hợp đồng mua bán,Tây Bắc,16,True
+263,Knc,2000000000,46.48,Quận 9,2,2,Có,Sổ hồng,Đông Nam,16,False
+264,Bán,2046000000,54.0,Bình Dương,3,2,Full,Hợp đồng mua bán,Đông Nam,16,True
+265,Knc,1700000000,42.0,Quận 10,1,1,Full,Hợp đồng mua bán,Tây Bắc,16,True
+266,Knc,18260,57.16,Quận Bình Tân,1,1,Có,Khác,Tây Bắc,16,True
+267,Knc,2300000000,48.72,Quận Tân Phú,3,2,Ko,Sổ hồng,Tây Bắc,16,False
+268,Thuê,6000000,70.8,Quận 10,2,2,Full,Hợp đồng mua bán,Đông Nam,16,False
+269,Bán rồi,2100000000,50.2,Quận 2,2,2,Ko,Sổ hồng,Đông Nam,16,False
+270,Bán rồi,3059000000,64.56,Quận 5,2,2,Ko,Hợp đồng mua bán,Đông Nam,16,False
+271,Knc,1700000000,70.92,Quận 4,2,2,Ko,Hợp đồng mua bán,Đông Nam,16,True
+272,Knc,2600000000,75.0,Quận 2,2,2,Ko,Sổ hồng,Tây Bắc,11,False
+273,Knc,2026000000,54.52,Quận 4,2,2,Full,Sổ hồng,Tây Nam,6,False
+274,Bán rồi,2100000000,57.68,Quận Bình Tân,3,2,Ko,Sổ hồng,Tây Bắc,10,True
+275,Thuê rồi,1520000000,52.8,Quận 1,2,2,Full,Sổ hồng,Đông Nam,11,False
+276,Knc,1900000000,46.0,Quận 3,2,2,Full,Hợp đồng mua bán,Đông Nam,10,False
+277,Bán,1950000000,69.8,Quận Bình Tân,3,2,Ko,Sổ hồng,Đông Nam,11,False
+278,Knc,2100000000,43.68,Quận Thủ Đức,2,2,Ko,Hợp đồng mua bán,Đông Nam,10,True
+279,Knc,1900000000,78.36,Quận 12,2,2,Full,Sổ hồng,Đông Nam,10,False
+280,Knc,2000000000,49.8,Quận Bình Thạnh,2,2,Full,Sổ hồng,Đông Nam,10,True
+281,Knc,18260,79.6,Quận 11,2,2,Có,Sổ hồng,Đông Nam,11,False
+282,Bán rồi,2000000000,65.08,Quận Phú Nhuận,3,2,Full,Sổ hồng,Đông Nam,10,True
+283,Knc,1900000000,79.56,Quận Tân Bình,2,2,Full,Hợp đồng mua bán,Tây Bắc,10,True
+284,Thuê,2100000000,43.24,Quận Phú Nhuận,2,2,Ko,Sổ hồng,Đông Nam,11,True
+285,Knc,2070000000,58.12,Quận Tân Bình,2,2,Có,Hợp đồng mua bán,Tây Bắc,10,False
+286,Knc,1950000000,43.08,Quận Thủ Đức,2,2,Có,Sổ hồng,Đông Nam,11,True
+287,Knc,2000000000,65.0,Quận 5,1,1,Full,Hợp đồng mua bán,Đông Nam,11,True
+288,Bán,1950000000,51.88,Quận 7,3,2,Ko,Sổ hồng,Đông Nam,11,True
+289,Knc,1700000000,45.6,Quận 8,2,2,Ko,Hợp đồng mua bán,Đông Nam,11,False
+290,Bán rồi,2100000000,57.64,Quận Tân Bình,2,2,Full,Hợp đồng mua bán,Đông Nam,11,False
+291,Knc,2000000000,58.8,Quận 10,3,2,Có,Sổ hồng,Đông Nam,9,True
+292,Knc,1803000000,41.56,Quận Gò Vấp,2,2,Ko,Hợp đồng mua bán,Đông Nam,12,True
+293,Bán rồi,1826000000,57.04,Quận 4,2,2,Có,Sổ hồng,Đông Nam,11,False
+294,Knc,1536000000,40.48,Quận 8,2,2,Có,Sổ hồng,Đông Nam,12,True
+295,Knc,2464000000,52.32,Quận Gò Vấp,2,2,Ko,Sổ hồng,Đông Nam,11,True
+296,Knc,6500000,74.44,Quận 11,3,2,Ko,Sổ hồng,Đông Nam,11,False
+297,Knc,2000000000,45.88,Quận Phú Nhuận,3,2,Full,Sổ hồng,Đông Nam,11,True
+298,Knc,2246000000,69.84,Quận Tân Bình,2,2,Có,Hợp đồng mua bán,Đông Nam,12,True
+299,Bán,1750000000,49.72,Quận Thủ Đức,2,2,Có,Hợp đồng mua bán,Đông Nam,12,True
+300,Bán rồi,2300000000,64.48,Quận Gò Vấp,1,1,Ko,Sổ hồng,Tây Bắc,13,False
+301,Bán,1596000000,57.24,Quận Tân Bình,2,2,Ko,Sổ hồng,Đông Bắc,16,False
+302,Knc,2046000000,53.68,Quận 1,3,2,Ko,Sổ hồng,Đông Nam,12,False
+303,Knc,18260,63.76,Quận Thủ Đức,2,2,Full,Hợp đồng mua bán,Tây Nam,6,False
+304,Bán rồi,2000000000,59.12,Quận 8,3,2,Có,Sổ hồng,Đông Nam,11,True
+305,Knc,2254000000,63.6,Quận Bình Thạnh,2,2,Có,Sổ hồng,Tây Bắc,12,False
+306,Knc,1750000000,77.8,Quận 4,2,2,Full,Sổ hồng,Tây Bắc,13,True
+307,Knc,1850000000,43.76,Quận 11,3,2,Ko,Sổ hồng,Đông Nam,10,True
+308,Bán rồi,7500000,71.44,Quận 6,1,1,Có,Sổ hồng,Tây Bắc,12,False
+309,Bán rồi,1826000000,50.52,Quận Phú Nhuận,2,2,Ko,Hợp đồng mua bán,Tây Bắc,12,True
+310,Bán,2000000000,72.32,Quận Phú Nhuận,2,2,Full,Sổ hồng,Đông Nam,10,False
+311,Bán,2053000000,77.96,Quận Tân Phú,2,2,Full,Hợp đồng mua bán,Đông Nam,11,True
+312,Bán rồi,1850000000,54.88,Quận Phú Nhuận,2,2,Ko,Hợp đồng mua bán,Đông Nam,11,False
+313,Knc,1800000000,43.32,Quận 5,2,2,Full,Sổ hồng,Đông Nam,11,True
+314,Bán rồi,1776000000,52.48,Quận 5,2,2,Có,Sổ hồng,Đông Nam,12,True
+315,Knc,2000000000,44.96,Quận Bình Thạnh,3,2,Full,Sổ hồng,Tây Bắc,10,False
+316,Knc,2600000000,45.28,Quận Phú Nhuận,2,2,Full,Khác,Đông Nam,11,True
+317,Thuê rồi,2400000000,65.2,Quận 8,2,2,Full,Sổ hồng,Đông Nam,11,False
+318,Knc,7500000,77.16,Quận 5,2,2,Ko,Sổ hồng,Đông Nam,11,True
+319,Bán rồi,1726000000,50.8,Quận Gò Vấp,2,2,Full,Hợp đồng mua bán,Tây Nam,7,True
+320,Knc,1650000000,51.64,Quận Phú Nhuận,2,2,Có,Sổ hồng,Tây Bắc,12,True
+321,Thuê,1920000000,60.12,Quận Gò Vấp,2,2,Full,Hợp đồng mua bán,Tây Bắc,13,True
+322,Knc,1700000000,61.24,Quận Phú Nhuận,2,2,Ko,Sổ hồng,Đông Nam,13,True
+323,Knc,2464000000,65.56,Quận Bình Thạnh,2,2,Ko,Sổ hồng,Đông Nam,12,True
+324,Knc,1696,59.16,Quận 11,2,2,Ko,Sổ hồng,Đông Nam,11,True
+325,Knc,2100000000,56.16,Quận 4,1,1,Ko,Sổ hồng,Tây Bắc,12,False
+326,Thuê rồi,1900000000,69.44,Quận 4,3,2,Có,Hợp đồng mua bán,Tây Bắc,12,False
+327,Knc,2400000000,51.8,Quận Thủ Đức,3,2,Có,Khác,Đông Nam,12,True
+328,Knc,2200000000,57.88,Quận Bình Tân,2,2,Ko,Hợp đồng mua bán,Đông Nam,12,False
+329,Thuê,1726000000,59.68,Quận 4,2,2,Full,Sổ hồng,Đông Nam,11,True
+330,Bán rồi,2246000000,44.76,Quận Tân Phú,2,2,Ko,Sổ hồng,Đông Nam,11,False
+331,Knc,7500000,53.52,Quận 2,1,1,Có,Hợp đồng mua bán,Tây Bắc,12,True
+332,Knc,2300000000,63.04,Quận 7,1,1,Ko,Sổ hồng,Tây Bắc,13,True
+333,Knc,2300000000,48.52,Quận 4,2,2,Ko,Hợp đồng mua bán,Tây Nam,11,False
+334,Knc,1550000000,58.12,Quận 11,2,2,Full,Sổ hồng,Đông Nam,11,False
+335,Bán,1750000000,67.52,Quận Tân Bình,2,2,Ko,Hợp đồng mua bán,Đông Nam,10,False
+336,Knc,1800000000,62.64,Quận 2,2,2,Full,Sổ hồng,Đông Nam,10,False
+337,Bán,1838000000,40.36,Quận 2,2,2,Ko,Hợp đồng mua bán,Đông Nam,19,False
+338,Knc,1730000000,57.2,Quận 11,3,2,Full,Hợp đồng mua bán,Đông Nam,13,False
+339,Knc,1826000000,40.28,Quận 1,2,2,Có,Sổ hồng,Đông Nam,11,True
+340,Knc,1950000000,62.8,Quận Bình Thạnh,1,1,Ko,Sổ hồng,Tây Bắc,12,True
+341,Bán,2246000000,41.0,Quận 12,2,2,Có,Hợp đồng mua bán,Tây Bắc,12,False
+342,Bán rồi,1638000000,57.44,Quận 2,1,1,Có,Hợp đồng mua bán,Đông Nam,11,False
+343,Knc,2559000000,72.44,Quận 5,2,2,Ko,Sổ hồng,Đông Nam,11,True
+344,Knc,1850000000,66.16,Quận 10,3,2,Ko,Sổ hồng,Đông Nam,11,True
+345,Bán rồi,1826000000,57.2,Quận Gò Vấp,1,1,Full,Hợp đồng mua bán,Tây Bắc,12,False
+346,Thuê,6500000,62.8,Bình Dương,3,2,Ko,Hợp đồng mua bán,Tây Nam,10,True
+347,Knc,2000000000,70.12,Quận 9,2,2,Full,Sổ hồng,Đông Nam,11,True
+348,Knc,1686000000,62.2,Bình Dương,2,2,Ko,Khác,Đông Nam,10,False
+349,Bán rồi,2387600000,76.0,Quận Phú Nhuận,2,2,Full,Hợp đồng mua bán,Đông Nam,11,False
+350,Thuê rồi,2000000000,54.28,Quận Phú Nhuận,2,2,Full,Hợp đồng mua bán,Tây Bắc,12,False
+351,Knc,1800000000,58.28,Quận Bình Thạnh,1,1,Có,Khác,Tây Bắc,12,False
+352,Knc,2464000000,40.76,Quận 2,2,2,Ko,Khác,Đông Nam,12,True
+353,Knc,2000000000,61.32,Quận 9,2,2,Full,Sổ hồng,Đông Nam,12,True
+354,Thuê rồi,3059000000,68.6,Quận 10,3,2,Ko,Sổ hồng,Tây Nam,12,True
+355,Knc,1947500000,61.52,Quận 4,2,2,Ko,Sổ hồng,Đông Nam,11,False
+356,Bán,1550000000,44.88,Quận 12,1,1,Ko,Sổ hồng,Đông Bắc,13,False
+357,Bán,1800000000,45.16,Quận 12,2,2,Full,Sổ hồng,Tây Bắc,10,True
+358,Bán rồi,5000000000,52.96,Quận 7,2,2,Full,Sổ hồng,Tây Bắc,12,False
+359,Knc,2070000000,59.28,Quận Gò Vấp,3,2,Ko,Sổ hồng,Đông Nam,11,True
+360,Knc,1947500000,48.36,Bình Dương,2,2,Có,Sổ hồng,Tây Bắc,13,True
+361,Thuê rồi,7000000,40.44,Quận Gò Vấp,3,2,Có,Hợp đồng mua bán,Tây Bắc,13,False
+362,Thuê rồi,1700000000,71.88,Quận Tân Bình,3,2,Có,Sổ hồng,Tây Bắc,12,True
+363,Bán rồi,3500000000,77.08,Quận 11,3,2,Có,Hợp đồng mua bán,Tây Bắc,12,True
+364,Knc,2387600000,70.84,Quận Gò Vấp,2,2,Full,Hợp đồng mua bán,Tây Bắc,12,False
+365,Bán rồi,1686000000,52.04,Quận 4,1,1,Có,Hợp đồng mua bán,Tây Bắc,13,True
+366,Bán,2000000000,63.8,Quận Thủ Đức,2,2,Full,Khác,Đông Nam,12,False
+367,Bán,1700000000,76.28,Quận 2,3,2,Có,Sổ hồng,Tây Bắc,12,False
+368,Knc,2400000000,77.48,Quận Bình Thạnh,1,1,Full,Hợp đồng mua bán,Tây Bắc,16,True
+369,Knc,2000000000,55.2,Quận Bình Thạnh,1,1,Có,Sổ hồng,Tây Bắc,13,True
+370,Bán rồi,2246000000,48.24,Quận 7,1,1,Ko,Sổ hồng,Tây Bắc,13,False
+371,Knc,3905000000,40.52,Quận 3,2,2,Ko,Sổ hồng,Tây Bắc,12,False
+372,Bán,2100000000,62.64,Quận 11,3,2,Full,Sổ hồng,Đông Nam,7,False
+373,Thuê rồi,1853000000,79.84,Quận 11,3,2,Có,Khác,Tây Nam,7,True
+374,Knc,7000000,60.8,Quận 3,2,2,Ko,Sổ hồng,Đông Nam,7,False
+375,Bán,1620000000,47.08,Quận Gò Vấp,2,2,Ko,Sổ hồng,Đông Nam,7,False
+376,Thuê rồi,1750000000,78.76,Quận Bình Thạnh,2,2,Ko,Sổ hồng,Đông Nam,7,True
+377,Knc,2600000000,63.32,Quận 3,1,1,Ko,Sổ hồng,Đông Nam,7,True
+378,Knc,2100000000,44.8,Quận 10,2,2,Ko,Sổ hồng,Đông Nam,7,False
+379,Knc,1920000000,59.28,Quận 2,2,2,Ko,Sổ hồng,Đông Nam,7,True
+380,Bán rồi,1688000000,57.48,Quận 1,3,2,Full,Sổ hồng,Đông Nam,7,False
+381,Knc,1730000000,66.08,Quận Phú Nhuận,2,2,Full,Hợp đồng mua bán,Đông Nam,7,False
+382,Knc,1826000000,79.88,Quận 7,2,2,Full,Hợp đồng mua bán,Đông Bắc,10,True
+383,Bán,1800000000,74.4,Quận 11,2,2,Full,Sổ hồng,Đông Nam,7,False
+384,Knc,1900000000,74.96,Quận 11,2,2,Full,Sổ hồng,Đông Nam,7,True
+385,Bán,1950000000,65.44,Bình Dương,3,2,Có,Khác,Đông Nam,7,True
+386,Knc,2100000000,69.96,Quận Bình Thạnh,2,2,Full,Sổ hồng,Tây Bắc,8,True
+387,Knc,1520000000,77.64,Quận 5,3,2,Có,Sổ hồng,Đông Nam,7,False
+388,Bán rồi,1700000000,44.36,Quận 5,2,2,Có,Sổ hồng,Đông Nam,7,False
+389,Thuê,1826000000,66.36,Quận 6,2,2,Có,Hợp đồng mua bán,Đông Nam,7,False
+390,Knc,1850000000,41.04,Bình Dương,2,2,Full,Sổ hồng,Đông Nam,7,False
+391,Knc,2000000000,57.04,Quận 4,3,2,Có,Hợp đồng mua bán,Đông Nam,7,False
+392,Knc,1826000000,76.84,Quận 5,2,2,Ko,Hợp đồng mua bán,Đông Nam,7,False
+393,Bán,2158000000,40.08,Quận 6,2,2,Full,Sổ hồng,Đông Nam,7,False
+394,Thuê rồi,1947500000,76.16,Quận Gò Vấp,2,2,Full,Hợp đồng mua bán,Tây Bắc,8,True
+395,Bán rồi,3905000000,79.32,Quận 4,2,2,Có,Sổ hồng,Đông Nam,8,False
+396,Knc,1620000000,62.48,Quận Phú Nhuận,2,2,Full,Sổ hồng,Đông Nam,8,False
+397,Knc,2000000000,71.84,Quận Bình Tân,2,2,Có,Sổ hồng,Đông Nam,7,True
+398,Thuê rồi,1550000000,60.64,Quận 8,2,2,Full,Sổ hồng,Đông Nam,7,True
+399,Knc,2244000000,76.68,Quận 3,2,2,Ko,Sổ hồng,Tây Bắc,8,False
+400,Knc,2244000000,55.12,Quận 9,1,1,Có,Hợp đồng mua bán,Tây Bắc,8,True
+401,Knc,2228000000,64.36,Quận 12,2,2,Full,Sổ hồng,Tây Bắc,8,True
+402,Bán,1700000000,74.36,Quận 6,2,2,Có,Sổ hồng,Đông Nam,8,False
+403,Thuê,1770000000,50.76,Quận 1,2,2,Full,Sổ hồng,Đông Nam,8,False
+404,Knc,1800000000,79.12,Quận Tân Phú,2,2,Full,Sổ hồng,Đông Nam,8,False
+405,Bán rồi,6000000,43.92,Quận 7,3,2,Ko,Sổ hồng,Đông Nam,7,False
+406,Knc,2000000000,71.48,Quận 8,2,2,Có,Hợp đồng mua bán,Đông Bắc,10,False
+407,Bán,5500000,61.24,Quận 5,2,2,Ko,Sổ hồng,Tây Bắc,8,True
+408,Thuê,6500000,61.12,Bình Dương,2,2,Ko,Sổ hồng,Đông Nam,8,False
+409,Knc,2464000000,60.64,Quận 11,2,2,Ko,Hợp đồng mua bán,Tây Bắc,8,True
+410,Knc,1700000000,52.44,Quận 5,2,2,Ko,Khác,Đông Nam,8,False
+411,Thuê rồi,2600000000,48.64,Quận Bình Thạnh,3,2,Có,Hợp đồng mua bán,Đông Nam,8,False
+412,Knc,1903000000,47.12,Quận Bình Thạnh,3,2,Full,Sổ hồng,Tây Bắc,8,True
+413,Knc,6500000,70.0,Quận 4,2,2,Full,Khác,Đông Nam,8,False
+414,Knc,1730000000,67.84,Quận 3,2,2,Ko,Sổ hồng,Đông Nam,8,False
+415,Thuê rồi,1838000000,74.68,Quận 11,2,2,Full,Sổ hồng,Tây Bắc,8,False
+416,Bán,2500000000,57.4,Quận 8,2,2,Full,Hợp đồng mua bán,Tây Bắc,8,False
+417,Knc,1900000000,69.96,Quận 2,2,2,Có,Hợp đồng mua bán,Tây Nam,14,True
+418,Knc,1700000000,45.36,Quận 8,2,2,Có,Khác,Đông Nam,9,False
+419,Knc,2000000000,71.68,Quận Bình Tân,2,2,Full,Khác,Tây Nam,10,False
+420,Knc,2000000000,58.0,Quận Gò Vấp,2,2,Có,Sổ hồng,Đông Nam,9,True
+421,Knc,1850000000,45.64,Quận Gò Vấp,2,2,Full,Sổ hồng,Tây Bắc,8,False
+422,Knc,6500000,76.2,Quận 12,3,2,Ko,Sổ hồng,Tây Bắc,8,True
+423,Thuê,12000000,60.08,Quận Bình Tân,2,2,Full,Sổ hồng,Đông Nam,8,True
+424,Thuê rồi,1920000000,47.48,Quận 9,2,2,Full,Sổ hồng,Đông Nam,9,True
+425,Knc,8000000,40.8,Quận 5,2,2,Ko,Sổ hồng,Đông Nam,9,True
+426,Thuê rồi,2300000000,40.52,Quận 1,2,2,Ko,Sổ hồng,Tây Bắc,8,False
+427,Knc,7000000,52.76,Quận Bình Tân,2,2,Full,Sổ hồng,Đông Nam,9,True
+428,Knc,2007000000,49.64,Quận Tân Bình,3,2,Có,Sổ hồng,Đông Nam,15,True
+429,Knc,1,52.4,Quận 11,3,2,Ko,Sổ hồng,Đông Nam,9,False
+430,Bán rồi,1750000000,49.88,Quận Thủ Đức,2,2,Full,Sổ hồng,Tây Bắc,8,False
+431,Knc,2400000000,55.32,Quận 2,3,2,Ko,Sổ hồng,Đông Nam,8,False
+432,Bán,1620000000,45.64,Quận 10,2,2,Có,Sổ hồng,Tây Bắc,8,True
+433,Knc,1800000000,52.68,Quận Tân Phú,2,2,Ko,Hợp đồng mua bán,Đông Bắc,6,False
+434,Knc,2200000000,75.68,Quận 12,1,1,Có,Sổ hồng,Đông Nam,9,False
+435,Bán rồi,1838000000,44.48,Quận Tân Bình,2,2,Ko,Sổ hồng,Tây Bắc,9,False
+436,Knc,1950000000,65.32,Quận Bình Tân,2,2,Ko,Khác,Đông Nam,9,True
+437,Knc,1800000000,71.68,Quận Bình Tân,1,1,Có,Sổ hồng,Đông Nam,9,True
+438,Bán rồi,1750000000,57.08,Quận 8,2,2,Ko,Sổ hồng,Đông Nam,9,True
+439,Knc,8000000,60.36,Quận Tân Phú,2,2,Có,Sổ hồng,Tây Bắc,10,True
+440,Knc,1950000000,53.68,Quận 5,3,2,Ko,Hợp đồng mua bán,Tây Nam,17,False
+441,Bán,1900000000,45.2,Quận 10,3,2,Ko,Sổ hồng,Đông Nam,9,False
+442,Knc,2100000000,63.08,Quận 3,2,2,Ko,Hợp đồng mua bán,Đông Nam,9,False
+443,Thuê rồi,2464000000,69.32,Quận Gò Vấp,2,2,Ko,Sổ hồng,Đông Nam,9,True
+444,Knc,1846000000,70.56,Quận 6,2,2,Ko,Sổ hồng,Tây Bắc,10,False
+445,Knc,1900000000,48.36,Quận 10,3,2,Full,Sổ hồng,Đông Bắc,8,False
+446,Knc,1596000000,49.04,Quận 8,2,2,Ko,Sổ hồng,Đông Nam,10,True
+447,Thuê rồi,4300000000,73.16,Quận Thủ Đức,2,2,Full,Hợp đồng mua bán,Đông Nam,9,True
+448,Bán,1903000000,66.2,Quận 8,2,2,Có,Khác,Đông Nam,9,False
+449,Knc,2300000000,57.52,Quận 9,2,2,Có,Sổ hồng,Tây Nam,13,True
+450,Thuê rồi,1650000000,62.52,Quận 9,2,2,Có,Hợp đồng mua bán,Đông Nam,9,False
+451,Knc,2100000000,52.68,Bình Dương,2,2,Có,Sổ hồng,Đông Nam,9,True
+452,Knc,1900000000,75.56,Quận Bình Thạnh,2,2,Ko,Khác,Đông Nam,9,False
+453,Knc,3100000000,40.84,Bình Dương,3,2,Ko,Hợp đồng mua bán,Đông Nam,9,True
+454,Knc,2600000000,55.08,Quận 12,2,2,Có,Khác,Đông Nam,9,False
+455,Knc,1900000000,67.4,Quận Bình Tân,3,2,Ko,Sổ hồng,Đông Nam,9,True
+456,Knc,2100000000,47.12,Quận 8,2,2,Full,Sổ hồng,Tây Bắc,18,True
+457,Bán,1700000000,61.16,Quận 5,2,2,Full,Sổ hồng,Tây Bắc,10,True
+458,Thuê,2000000000,57.52,Quận Thủ Đức,2,2,Full,Sổ hồng,Đông Nam,9,False
+459,Knc,1900000000,59.56,Quận Gò Vấp,2,2,Ko,Sổ hồng,Tây Bắc,10,True
+460,Bán rồi,2600000000,72.08,Quận 4,1,1,Full,Hợp đồng mua bán,Tây Bắc,10,True
+461,Bán rồi,2034000000,51.36,Quận Phú Nhuận,2,2,Full,Sổ hồng,Tây Bắc,10,True
+462,Knc,2034000000,79.6,Quận 4,2,2,Có,Sổ hồng,Đông Nam,9,False
+463,Knc,1800000000,59.68,Quận 12,2,2,Full,Sổ hồng,Tây Bắc,10,True
+464,Knc,1970000000,55.64,Quận Bình Tân,2,2,Có,Sổ hồng,Tây Bắc,6,False
+465,Knc,1903000000,52.48,Quận 11,2,2,Có,Sổ hồng,Tây Bắc,10,False
+466,Bán rồi,6500000,62.8,Quận Phú Nhuận,2,2,Có,Sổ hồng,Đông Nam,9,False
+467,Bán rồi,2000000000,51.16,Bình Dương,3,2,Ko,Sổ hồng,Tây Bắc,10,False
+468,Knc,2387600000,73.96,Quận 11,2,2,Ko,Hợp đồng mua bán,Đông Nam,9,True
+469,Bán rồi,2600000000,65.76,Quận Phú Nhuận,2,2,Có,Khác,Tây Bắc,10,True
+470,Bán rồi,1850000000,67.16,Quận Bình Tân,2,2,Có,Sổ hồng,Tây Bắc,10,True
+471,Bán,1950000000,63.84,Quận 1,3,2,Full,Hợp đồng mua bán,Đông Nam,10,False
+472,Knc,1850000000,62.8,Quận 8,2,2,Full,Sổ hồng,Đông Nam,18,True
+473,Knc,2500000000,75.68,Quận Tân Bình,3,2,Có,Sổ hồng,Đông Nam,18,False
+474,Knc,3500000000,48.4,Quận 6,2,2,Full,Hợp đồng mua bán,Đông Bắc,19,True
+475,Knc,8000000,54.92,Quận Phú Nhuận,2,2,Có,Hợp đồng mua bán,Tây Bắc,19,False
+476,Bán,1730000000,48.64,Quận 11,2,2,Có,Sổ hồng,Đông Bắc,19,True
+477,Knc,1903000000,43.96,Quận 6,2,2,Có,Sổ hồng,Tây Nam,19,True
+478,Bán rồi,1638000000,79.56,Quận Bình Tân,2,2,Full,Sổ hồng,Đông Nam,19,True
+479,Thuê,2000000000,55.0,Quận Bình Tân,2,2,Ko,Hợp đồng mua bán,Đông Nam,4,True
+480,Knc,1950000000,60.08,Quận 11,2,2,Full,Hợp đồng mua bán,Đông Nam,18,False
+481,Knc,2150000000,52.2,Quận 9,3,2,Ko,Khác,Đông Bắc,19,True
+482,Bán rồi,2500000000,60.4,Quận Tân Bình,3,2,Ko,Hợp đồng mua bán,Đông Nam,9,False
+483,Knc,2387600000,55.16,Quận 11,2,2,Ko,Hợp đồng mua bán,Tây Nam,19,True
+484,Knc,1853000000,53.32,Quận 6,2,2,Ko,Khác,Tây Nam,19,False
+485,Knc,1600000000,47.8,Quận 8,2,2,Ko,Sổ hồng,Tây Bắc,19,True
+486,Thuê,1686000000,55.92,Quận 2,3,2,Có,Sổ hồng,Đông Nam,19,False
+487,Knc,1926000000,58.04,Quận 12,2,2,Có,Sổ hồng,Đông Nam,19,True
+488,Knc,1850000000,47.08,Quận 3,3,2,Ko,Sổ hồng,Đông Nam,19,False
+489,Thuê rồi,2158000000,54.76,Quận 4,2,2,Full,Sổ hồng,Tây Nam,19,True
+490,Knc,1750000000,60.68,Quận Tân Phú,2,2,Ko,Khác,Tây Nam,19,True
+491,Knc,2034000000,65.84,Quận 7,2,2,Ko,Sổ hồng,Tây Nam,19,False
+492,Bán rồi,1,52.64,Quận Thủ Đức,2,2,Ko,Sổ hồng,Đông Bắc,19,True
+493,Knc,5918000000,73.72,Quận Phú Nhuận,3,2,Có,Sổ hồng,Tây Nam,19,False
+494,Thuê,2046000000,55.6,Quận 7,2,2,Ko,Sổ hồng,Tây Bắc,19,False
+495,Bán rồi,2300000000,57.28,Quận 9,2,2,Có,Hợp đồng mua bán,Tây Nam,19,True
+496,Knc,2000000000,58.32,Quận 11,3,2,Ko,Hợp đồng mua bán,Đông Bắc,19,True
+497,Knc,2000000000,79.56,Quận 3,2,2,Ko,Sổ hồng,Đông Nam,4,True
+498,Bán,2100000000,69.16,Quận 8,2,2,Có,Sổ hồng,Tây Nam,19,False
+499,Thuê rồi,2040000000,71.84,Quận 10,2,2,Có,Hợp đồng mua bán,Đông Nam,4,False
+500,Knc,1686000000,66.72,Quận Tân Phú,2,2,Có,Sổ hồng,Đông Nam,5,False
+501,Bán rồi,2034000000,41.8,Quận 5,2,2,Có,Hợp đồng mua bán,Tây Nam,7,True
+502,Knc,1950000000,64.8,Quận 10,2,2,Có,Hợp đồng mua bán,Đông Nam,4,True
+503,Thuê,1750000000,55.96,Quận 2,2,2,Có,Sổ hồng,Đông Nam,4,True
+504,Knc,2228000000,47.32,Quận 4,2,2,Full,Sổ hồng,Đông Nam,4,True
+505,Bán rồi,2000000000,60.56,Quận Bình Tân,3,2,Full,Sổ hồng,Tây Bắc,19,False
+506,Knc,2007000000,60.28,Quận 8,3,2,Ko,Hợp đồng mua bán,Đông Nam,5,True
+507,Knc,1900000000,51.04,Quận Tân Phú,2,2,Ko,Khác,Đông Nam,5,True
+508,Knc,2200000000,53.68,Quận 4,2,2,Full,Khác,Đông Nam,5,True
+509,Bán rồi,1930000000,45.72,Quận 2,2,2,Có,Sổ hồng,Đông Nam,5,False
+510,Thuê rồi,1,49.32,Quận Tân Bình,2,2,Có,Sổ hồng,Đông Nam,5,True
+511,Knc,1730000000,68.96,Quận 1,2,2,Ko,Hợp đồng mua bán,Đông Nam,5,False
+512,Knc,2200000000,42.76,Quận 11,2,2,Full,Sổ hồng,Đông Nam,4,True
+513,Knc,1750000000,55.76,Quận 5,2,2,Có,Sổ hồng,Đông Nam,5,False
+514,Knc,2228000000,56.04,Quận 3,2,2,Có,Sổ hồng,Đông Nam,4,False
+515,Knc,2200000000,53.92,Quận Bình Thạnh,2,2,Full,Sổ hồng,Đông Nam,4,False
+516,Bán rồi,6500000,46.8,Quận 5,3,2,Full,Sổ hồng,Đông Nam,4,True
+517,Bán rồi,1686000000,64.32,Quận Tân Phú,2,2,Ko,Hợp đồng mua bán,Đông Nam,5,False
+518,Knc,3500000000,61.92,Quận 2,3,2,Có,Khác,Tây Bắc,6,True
+519,Bán rồi,1838000000,75.12,Quận Tân Bình,3,2,Ko,Sổ hồng,Đông Nam,4,False
+520,Knc,7000000,69.24,Quận Bình Thạnh,3,2,Full,Khác,Đông Nam,5,False
+521,Knc,1800000000,69.56,Quận 1,2,2,Ko,Hợp đồng mua bán,Đông Nam,5,False
+522,Bán,1750000000,61.68,Quận Bình Tân,3,2,Ko,Sổ hồng,Đông Nam,5,True
+523,Knc,1900000000,74.32,Quận 11,2,2,Có,Sổ hồng,Đông Nam,5,False
+524,Bán,1826000000,51.2,Quận Phú Nhuận,2,2,Có,Sổ hồng,Đông Nam,5,False
+525,Bán,3100000000,74.96,Quận 5,3,2,Ko,Sổ hồng,Đông Nam,5,False
+526,Knc,1838000000,75.6,Quận Tân Bình,1,1,Ko,Sổ hồng,Đông Nam,5,False
+527,Knc,2100000000,67.72,Quận Bình Tân,2,2,Có,Sổ hồng,Tây Bắc,10,True
+528,Knc,3100000000,41.8,Quận 5,2,2,Full,Sổ hồng,Đông Nam,5,True
+529,Knc,2150000000,40.84,Quận 2,3,2,Có,Hợp đồng mua bán,Đông Nam,5,False
+530,Bán rồi,1620000000,73.0,Quận 6,2,2,Ko,Hợp đồng mua bán,Tây Bắc,6,True
+531,Knc,1700000000,78.48,Quận 12,2,2,Full,Sổ hồng,Đông Nam,5,True
+532,Bán,2000000000,53.56,Quận 2,3,2,Ko,Sổ hồng,Đông Nam,5,False
+533,Knc,1850000000,79.28,Quận Tân Bình,2,2,Có,Sổ hồng,Tây Bắc,6,True
+534,Knc,1850000000,65.08,Quận Tân Phú,2,2,Full,Hợp đồng mua bán,Tây Bắc,6,False
+535,Knc,1,75.52,Bình Dương,2,2,Full,Khác,Tây Bắc,6,True
+536,Bán,1700000000,60.96,Quận 8,2,2,Full,Sổ hồng,Đông Nam,5,True
+537,Knc,1799000000,67.24,Quận 1,3,2,Full,Sổ hồng,Đông Nam,11,False
+538,Knc,18260,65.48,Quận 4,2,2,Ko,Sổ hồng,Đông Nam,5,True
+539,Knc,2000000000,62.2,Quận Tân Bình,2,2,Full,Sổ hồng,Tây Nam,5,True
+540,Bán,5000000000,72.76,Quận 6,2,2,Ko,Sổ hồng,Đông Nam,5,False
+541,Knc,2000000000,65.32,Quận 6,3,2,Ko,Sổ hồng,Tây Bắc,6,False
+542,Knc,1770000000,66.56,Quận Thủ Đức,2,2,Ko,Sổ hồng,Tây Bắc,6,True
+543,Thuê rồi,2000000000,70.96,Quận 4,2,2,Full,Hợp đồng mua bán,Đông Nam,5,False
+544,Thuê,2053000000,64.48,Quận 9,3,2,Full,Sổ hồng,Đông Nam,6,True
+545,Bán,2007000000,56.04,Quận 6,2,2,Full,Sổ hồng,Đông Nam,6,False
+546,Bán,1803000000,49.8,Quận 4,2,2,Có,Sổ hồng,Tây Bắc,18,True
+547,Thuê rồi,2600000000,52.36,Quận 4,2,2,Ko,Hợp đồng mua bán,Tây Bắc,6,False
+548,Thuê rồi,1799000000,55.48,Quận 12,3,2,Full,Sổ hồng,Đông Nam,6,False
+549,Knc,1903000000,42.56,Quận 5,2,2,Có,Khác,Đông Nam,6,True
+550,Bán rồi,1850000000,61.76,Bình Dương,2,2,Có,Sổ hồng,Đông Nam,6,True
+551,Knc,2000000000,53.68,Quận Tân Bình,2,2,Ko,Sổ hồng,Đông Nam,6,False
+552,Knc,2070000000,40.24,Quận Bình Thạnh,2,2,Full,Sổ hồng,Đông Nam,6,False
+553,Knc,1700000000,41.48,Quận Bình Tân,2,2,Có,Sổ hồng,Tây Bắc,6,True
+554,Knc,1700000000,71.72,Quận 6,3,2,Ko,Sổ hồng,Đông Nam,6,False
+555,Thuê rồi,1900000000,54.56,Quận Tân Bình,2,2,Có,Sổ hồng,Đông Nam,7,False
+556,Thuê,1800000000,52.92,Quận 8,2,2,Full,Sổ hồng,Tây Bắc,6,False
+557,Knc,2000000000,48.12,Quận 10,2,2,Có,Sổ hồng,Đông Nam,6,True
+558,Knc,1850000000,54.4,Quận Phú Nhuận,1,1,Full,Sổ hồng,Tây Bắc,6,True
+559,Thuê rồi,2600000000,72.04,Quận Thủ Đức,2,2,Full,Sổ hồng,Tây Bắc,6,True
+560,Knc,1,50.8,Quận 7,2,2,Full,Sổ hồng,Đông Nam,6,True
+561,Bán,2100000000,62.24,Quận 6,3,2,Full,Sổ hồng,Tây Bắc,6,False
+562,Bán,1630000000,70.0,Quận Thủ Đức,2,2,Có,Sổ hồng,Đông Nam,6,True
+563,Bán,1800000000,70.92,Quận 10,2,2,Có,Sổ hồng,Đông Nam,7,False
+564,Knc,1799000000,56.2,Quận Gò Vấp,3,2,Full,Sổ hồng,Đông Nam,12,False
+565,Knc,2150000000,68.12,Quận 12,3,2,Full,Sổ hồng,Tây Bắc,6,True
+566,Knc,2200000000,54.8,Quận Bình Thạnh,2,2,Có,Hợp đồng mua bán,Đông Nam,7,True
+567,Bán,1700000000,51.64,Quận Tân Bình,2,2,Có,Sổ hồng,Đông Bắc,16,True
+568,Knc,6500000,48.2,Quận 1,2,2,Có,Sổ hồng,Đông Nam,6,True
+569,Bán,2000000000,62.4,Quận 7,3,2,Có,Hợp đồng mua bán,Đông Nam,6,True
+570,Thuê,2000000000,68.12,Quận 8,2,2,Full,Hợp đồng mua bán,Đông Nam,6,False
+571,Knc,5500000,75.64,Quận Tân Bình,2,2,Có,Sổ hồng,Đông Nam,7,True
+572,Bán,3059000000,70.44,Quận Bình Tân,3,2,Có,Sổ hồng,Tây Nam,14,False
+573,Bán rồi,1550000000,71.2,Quận 2,2,2,Có,Sổ hồng,Tây Bắc,14,False
+574,Knc,2000000000,54.92,Quận 2,3,2,Ko,Sổ hồng,Tây Nam,16,False
+575,Knc,2100000000,79.24,Quận 5,2,2,Full,Sổ hồng,Tây Bắc,14,True
+576,Knc,2056000000,55.88,Quận 11,2,2,Có,Sổ hồng,Đông Nam,14,True
+577,Knc,1900000000,61.64,Quận 11,3,2,Ko,Hợp đồng mua bán,Đông Bắc,15,True
+578,Knc,1788000000,68.4,Quận Gò Vấp,1,1,Có,Khác,Tây Nam,15,False
+579,Bán,2100000000,40.16,Quận 4,3,2,Có,Sổ hồng,Đông Nam,15,False
+580,Bán,1948000000,52.44,Quận Phú Nhuận,2,2,Có,Hợp đồng mua bán,Đông Bắc,16,False
+581,Bán rồi,2046000000,43.4,Quận 5,2,2,Ko,Sổ hồng,Tây Bắc,14,True
+582,Bán,3905000000,76.28,Quận 3,2,2,Ko,Hợp đồng mua bán,Tây Nam,15,False
+583,Knc,1850000000,44.44,Quận 12,2,2,Full,Sổ hồng,Đông Nam,14,True
+584,Bán rồi,3500000000,52.2,Quận Bình Tân,2,2,Full,Khác,Tây Bắc,6,True
+585,Bán rồi,2046000000,69.56,Quận Bình Tân,3,2,Full,Khác,Đông Nam,14,True
+586,Knc,2000000000,69.44,Quận 12,2,2,Có,Hợp đồng mua bán,Tây Nam,15,False
+587,Bán rồi,2000000000,50.16,Quận Bình Tân,2,2,Full,Sổ hồng,Tây Nam,16,True
+588,Knc,1926000000,69.6,Quận 12,2,2,Có,Sổ hồng,Tây Bắc,14,False
+589,Bán rồi,18260,58.04,Quận 1,3,2,Full,Hợp đồng mua bán,Đông Nam,14,True
+590,Bán rồi,1900000000,73.92,Quận 1,2,2,Ko,Sổ hồng,Tây Bắc,15,False
+591,Bán rồi,2007000000,53.96,Quận 9,2,2,Full,Hợp đồng mua bán,Tây Bắc,16,True
+592,Bán,1550000000,51.08,Quận 2,3,2,Full,Sổ hồng,Đông Nam,16,False
+593,Thuê,1620000000,71.48,Quận 4,2,2,Full,Hợp đồng mua bán,Đông Bắc,15,False
+594,Knc,2000000000,52.8,Quận Tân Bình,2,2,Có,Sổ hồng,Đông Nam,14,True
+595,Knc,6000000,46.8,Quận Bình Tân,2,2,Ko,Sổ hồng,Đông Nam,15,False
+596,Knc,1686000000,44.04,Quận Phú Nhuận,1,1,Có,Sổ hồng,Tây Nam,15,False
+597,Bán,1950000000,42.52,Quận Bình Thạnh,2,2,Ko,Hợp đồng mua bán,Đông Bắc,16,True
+598,Knc,5000000000,47.36,Quận 5,3,2,Ko,Sổ hồng,Tây Nam,15,True
+599,Knc,6500000,56.68,Quận 12,2,2,Ko,Sổ hồng,Đông Bắc,17,True
+600,Bán rồi,1770000000,72.2,Quận Bình Thạnh,2,2,Ko,Hợp đồng mua bán,Tây Nam,15,False
+601,Knc,1950000000,41.88,Quận 12,2,2,Full,Sổ hồng,Tây Bắc,15,False
+602,Bán,1900000000,54.04,Quận Bình Tân,2,2,Full,Sổ hồng,Đông Nam,15,False
+603,Knc,1550000000,42.56,Quận Tân Phú,2,2,Full,Sổ hồng,Tây Nam,16,True
+604,Knc,1750000000,45.12,Quận Thủ Đức,2,2,Full,Hợp đồng mua bán,Tây Bắc,15,False
+605,Knc,2300000000,67.36,Quận Phú Nhuận,3,2,Ko,Hợp đồng mua bán,Tây Bắc,15,False
+606,Knc,12000000,79.72,Quận Tân Bình,1,1,Có,Sổ hồng,Tây Nam,16,False
+607,Knc,1686000000,40.32,Quận 5,1,1,Full,Hợp đồng mua bán,Tây Nam,15,True
+608,Bán,1838000000,70.56,Quận 2,2,2,Có,Sổ hồng,Tây Nam,15,True
+609,Knc,2200000000,54.16,Quận Bình Tân,2,2,Ko,Sổ hồng,Đông Bắc,6,True
+610,Bán,2040000000,49.32,Quận 4,3,2,Có,Hợp đồng mua bán,Đông Bắc,16,True
+611,Thuê rồi,1900000000,70.68,Quận 3,2,2,Ko,Khác,Tây Nam,17,True
+612,Bán,2000000000,46.48,Quận 9,2,2,Có,Sổ hồng,Tây Nam,15,False
+613,Knc,1730000000,58.28,Quận Gò Vấp,2,2,Có,Sổ hồng,Đông Bắc,16,True
+614,Thuê,1900000000,79.12,Quận 10,3,2,Full,Sổ hồng,Tây Bắc,14,False
+615,Knc,3100000000,73.88,Quận 5,3,2,Ko,Khác,Đông Nam,17,True
+616,Knc,2200000000,63.16,Quận Phú Nhuận,2,2,Có,Hợp đồng mua bán,Đông Bắc,18,False
+617,Knc,2464000000,78.92,Quận 4,3,2,Full,Hợp đồng mua bán,Đông Bắc,18,False
+618,Knc,55,63.6,Quận 7,2,2,Ko,Hợp đồng mua bán,Đông Nam,17,False
+619,Thuê rồi,1,53.0,Quận 6,2,2,Ko,Sổ hồng,Tây Nam,17,False
+620,Thuê rồi,8000000,70.4,Quận 9,3,2,Ko,Sổ hồng,Tây Nam,16,True
+621,Bán rồi,1970000000,70.72,Quận 2,2,2,Full,Sổ hồng,Đông Bắc,16,True
+622,Bán rồi,1800000000,55.52,Quận 3,3,2,Ko,Sổ hồng,Đông Nam,16,False
+623,Bán rồi,2100000000,41.76,Quận Thủ Đức,2,2,Ko,Hợp đồng mua bán,Tây Nam,18,False
+624,Bán,3905000000,58.16,Quận Tân Phú,3,2,Ko,Sổ hồng,Tây Bắc,16,False
+625,Knc,1800000000,60.2,Quận Bình Thạnh,2,2,Ko,Khác,Tây Bắc,17,False
+626,Knc,2150000000,64.92,Quận 6,2,2,Ko,Sổ hồng,Đông Bắc,18,True
+627,Knc,1800000000,47.92,Quận 2,3,2,Full,Khác,Tây Bắc,18,True
+628,Bán rồi,1853000000,50.68,Quận 2,2,2,Ko,Hợp đồng mua bán,Tây Bắc,16,True
+629,Knc,1730000000,41.2,Bình Dương,3,2,Full,Sổ hồng,Tây Bắc,17,True
+630,Bán rồi,1950000000,73.0,Quận 9,2,2,Full,Sổ hồng,Tây Bắc,17,True
+631,Bán,1850000000,58.88,Quận Tân Bình,2,2,Ko,Sổ hồng,Tây Bắc,18,True
+632,Knc,2150000000,53.56,Quận 3,2,2,Full,Sổ hồng,Tây Bắc,16,False
+633,Bán rồi,6500000,73.44,Quận Bình Thạnh,2,2,Ko,Khác,Tây Bắc,17,True
+634,Knc,2000000000,79.2,Quận Phú Nhuận,2,2,Ko,Khác,Tây Nam,19,False
+635,Bán,1853000000,68.0,Quận 4,2,2,Có,Hợp đồng mua bán,Tây Nam,17,True
+636,Knc,1700000000,62.28,Quận 12,2,2,Full,Hợp đồng mua bán,Tây Bắc,17,False
+637,Knc,1920000000,40.56,Quận Thủ Đức,2,2,Ko,Khác,Tây Bắc,16,True
+638,Knc,7000000,68.44,Quận Thủ Đức,2,2,Full,Sổ hồng,Tây Bắc,16,False
+639,Knc,1536000000,57.44,Quận Phú Nhuận,2,2,Full,Hợp đồng mua bán,Đông Nam,17,False
+640,Bán,1930000000,74.76,Quận 11,2,2,Có,Hợp đồng mua bán,Tây Nam,16,True
+641,Knc,1750000000,74.96,Quận Phú Nhuận,3,2,Full,Sổ hồng,Đông Bắc,17,False
+642,Knc,2000000000,49.28,Quận 7,2,2,Ko,Khác,Tây Nam,18,False
+643,Bán,1826000000,66.4,Bình Dương,2,2,Có,Khác,Đông Bắc,18,False
+644,Bán,1950000000,68.68,Quận 12,2,2,Có,Hợp đồng mua bán,Tây Nam,18,True
+645,Bán rồi,1850000000,77.76,Quận 4,2,2,Full,Hợp đồng mua bán,Đông Nam,16,True
+646,Knc,2056000000,42.4,Quận 2,3,2,Có,Hợp đồng mua bán,Tây Nam,18,False
+647,Knc,1520000000,69.84,Quận 3,2,2,Ko,Khác,Tây Nam,11,False
+648,Knc,1826000000,75.76,Quận 8,2,2,Ko,Sổ hồng,Tây Nam,16,True
+649,Thuê rồi,1799000000,72.16,Quận Phú Nhuận,2,2,Full,Hợp đồng mua bán,Đông Bắc,17,False
+650,Bán rồi,2000000000,45.92,Quận Gò Vấp,2,2,Full,Sổ hồng,Tây Nam,16,False
+651,Bán,1803000000,67.8,Quận 1,2,2,Có,Hợp đồng mua bán,Đông Bắc,16,True
+652,Bán,1750000000,66.44,Quận 1,2,2,Full,Sổ hồng,Tây Bắc,17,True
+653,Knc,1900000000,71.84,Quận 1,2,2,Ko,Hợp đồng mua bán,Tây Nam,17,False
+654,Bán,1696,52.28,Quận 11,2,2,Full,Hợp đồng mua bán,Tây Nam,16,False
+655,Knc,2046000000,42.12,Quận 1,2,2,Full,Sổ hồng,Đông Nam,17,True
+656,Knc,6500000,76.88,Quận 6,2,2,Full,Sổ hồng,Đông Bắc,18,False
+657,Bán,3500000000,47.0,Quận 2,2,2,Ko,Hợp đồng mua bán,Tây Nam,14,True
+658,Bán rồi,1600000000,50.04,Quận Gò Vấp,2,2,Có,Hợp đồng mua bán,Tây Nam,18,True
+659,Bán rồi,1750000000,77.24,Quận Phú Nhuận,2,2,Có,Sổ hồng,Tây Bắc,17,True
+660,Knc,2100000000,44.0,Quận Bình Thạnh,2,2,Full,Sổ hồng,Tây Nam,16,True
+661,Knc,2100000000,71.4,Quận 8,2,2,Có,Khác,Đông Nam,16,False
+662,Knc,6000000,60.72,Quận 4,2,2,Có,Hợp đồng mua bán,Tây Bắc,18,True
+663,Bán,2000000000,58.08,Quận Gò Vấp,3,2,Ko,Hợp đồng mua bán,Tây Nam,17,False
+664,Knc,6500000,42.4,Quận Phú Nhuận,3,2,Có,Khác,Tây Nam,18,False
+665,Bán rồi,2100000000,76.68,Quận Bình Thạnh,2,2,Full,Sổ hồng,Tây Nam,18,False
+666,Knc,3100000000,71.48,Quận Tân Phú,2,2,Full,Hợp đồng mua bán,Tây Nam,18,True
+667,Bán rồi,2040000000,64.96,Quận Tân Bình,2,2,Ko,Sổ hồng,Đông Nam,7,True
+668,Knc,1700000000,52.76,Quận 9,2,2,Có,Sổ hồng,Tây Nam,18,False
+669,Knc,1900000000,61.52,Quận 3,3,2,Full,Khác,Đông Bắc,18,False
+670,Knc,4516000000,78.56,Quận Tân Phú,2,2,Có,Sổ hồng,Tây Nam,17,False
+671,Knc,8000000,42.08,Quận Tân Phú,2,2,Ko,Sổ hồng,Tây Nam,18,False
+672,Knc,1700000000,73.52,Quận 9,1,1,Có,Sổ hồng,Tây Nam,10,False
+673,Knc,1826000000,60.72,Quận 2,2,2,Full,Sổ hồng,Tây Nam,10,True
+674,Knc,1700000000,66.04,Quận 9,2,2,Có,Sổ hồng,Tây Nam,10,True
+675,Bán,1950000000,54.28,Quận 6,2,2,Có,Sổ hồng,Tây Nam,10,False
+676,Bán rồi,2600000000,76.84,Quận 5,2,2,Có,Sổ hồng,Tây Bắc,18,False
+677,Bán,2244000000,77.96,Quận 7,3,2,Có,Sổ hồng,Tây Nam,10,True
+678,Bán rồi,1850000000,57.48,Quận Phú Nhuận,2,2,Có,Hợp đồng mua bán,Đông Bắc,11,True
+679,Bán,2464000000,45.96,Quận 6,3,2,Có,Hợp đồng mua bán,Đông Nam,14,False
+680,Knc,2300000000,48.6,Quận Thủ Đức,2,2,Ko,Hợp đồng mua bán,Tây Bắc,8,True
+681,Knc,2254000000,55.32,Quận Tân Phú,2,2,Ko,Khác,Đông Bắc,5,False
+682,Knc,2000000000,72.64,Quận Tân Bình,2,2,Full,Hợp đồng mua bán,Đông Bắc,10,True
+683,Knc,1780000000,51.72,Quận 6,3,2,Có,Sổ hồng,Đông Bắc,10,False
+684,Knc,2000000000,74.04,Quận 8,1,1,Có,Sổ hồng,Tây Nam,11,False
+685,Bán rồi,2046000000,74.52,Quận Bình Thạnh,2,2,Ko,Hợp đồng mua bán,Đông Bắc,10,False
+686,Knc,2300000000,74.72,Quận 2,2,2,Ko,Sổ hồng,Đông Bắc,10,False
+687,Thuê,1950000000,67.88,Quận 2,3,2,Có,Hợp đồng mua bán,Đông Nam,10,False
+688,Bán,2053000000,55.04,Quận 9,2,2,Ko,Sổ hồng,Tây Bắc,10,True
+689,Knc,2150000000,46.76,Quận 8,2,2,Full,Hợp đồng mua bán,Tây Bắc,9,True
+690,Knc,1800000000,45.96,Quận Bình Tân,2,2,Full,Sổ hồng,Đông Bắc,11,True
+691,Knc,2000000000,72.4,Quận Gò Vấp,2,2,Có,Sổ hồng,Đông Bắc,11,True
+692,Knc,2300000000,56.32,Quận 9,2,2,Ko,Sổ hồng,Tây Bắc,11,False
+693,Knc,2550000000,63.12,Quận Phú Nhuận,2,2,Ko,Hợp đồng mua bán,Tây Nam,10,True
+694,Knc,6500000,71.16,Quận Bình Thạnh,3,2,Full,Sổ hồng,Đông Bắc,10,False
+695,Bán rồi,2026000000,75.28,Quận Phú Nhuận,3,2,Ko,Khác,Đông Bắc,11,True
+696,Thuê rồi,1750000000,47.92,Quận 6,2,2,Full,Hợp đồng mua bán,Tây Bắc,9,True
+697,Bán rồi,1638000000,75.24,Quận 8,2,2,Ko,Sổ hồng,Tây Nam,12,False
+698,Knc,1,62.2,Quận Bình Thạnh,2,2,Có,Sổ hồng,Tây Nam,11,False
+699,Knc,1826000000,50.92,Quận 7,2,2,Có,Khác,Đông Nam,11,True
+700,Bán rồi,1620000000,58.68,Quận 10,2,2,Có,Khác,Tây Bắc,9,False
+701,Knc,6500000,63.4,Quận Phú Nhuận,2,2,Full,Hợp đồng mua bán,Tây Bắc,10,False
+702,Bán rồi,2034000000,59.68,Quận Gò Vấp,3,2,Ko,Sổ hồng,Tây Bắc,12,True
+703,Knc,2500000000,58.8,Quận 1,2,2,Có,Hợp đồng mua bán,Tây Nam,10,True
+704,Bán,2200000000,79.92,Quận 10,2,2,Ko,Sổ hồng,Tây Bắc,10,True
+705,Knc,1750000000,47.84,Quận 2,2,2,Full,Hợp đồng mua bán,Tây Nam,10,True
+706,Knc,1750000000,64.0,Quận 12,3,2,Ko,Sổ hồng,Tây Nam,12,False
+707,Knc,2000000000,63.0,Quận Phú Nhuận,2,2,Full,Sổ hồng,Tây Bắc,10,False
+708,Bán,1900000000,47.4,Quận 4,2,2,Ko,Hợp đồng mua bán,Tây Nam,10,True
+709,Bán,12000000,51.68,Quận 5,2,2,Ko,Sổ hồng,Đông Bắc,12,False
+710,Bán,2559000000,48.36,Quận Tân Phú,3,2,Có,Sổ hồng,Đông Bắc,13,True
+711,Thuê rồi,2000000000,53.96,Quận 7,3,2,Có,Sổ hồng,Tây Bắc,12,False
+712,Bán,2000000000,45.32,Quận 7,2,2,Ko,Sổ hồng,Tây Bắc,11,True
+713,Knc,2053000000,55.92,Quận 7,2,2,Có,Sổ hồng,Tây Bắc,5,True
+714,Knc,3500000000,43.84,Quận 9,3,2,Có,Sổ hồng,Đông Bắc,11,False
+715,Knc,1799000000,68.52,Quận 7,2,2,Ko,Sổ hồng,Đông Bắc,14,False
+716,Knc,1596000000,67.56,Quận Thủ Đức,2,2,Full,Sổ hồng,Đông Nam,10,True
+717,Bán rồi,1826000000,77.08,Quận Thủ Đức,2,2,Full,Sổ hồng,Tây Bắc,12,False
+718,Thuê rồi,18260,55.0,Quận Bình Tân,2,2,Có,Sổ hồng,Tây Nam,11,True
+719,Knc,2056000000,46.48,Quận 3,2,2,Có,Sổ hồng,Đông Nam,12,False
+720,Knc,7000000,52.2,Quận 12,2,2,Ko,Sổ hồng,Tây Nam,13,False
+721,Knc,2387600000,63.56,Quận 3,2,2,Ko,Sổ hồng,Đông Bắc,12,True
+722,Bán,1750000000,74.92,Quận 8,3,2,Full,Sổ hồng,Tây Nam,11,False
+723,Bán,2040000000,52.0,Quận Tân Bình,2,2,Full,Sổ hồng,Tây Nam,11,True
+724,Knc,2228000000,63.08,Quận 11,1,1,Ko,Sổ hồng,Tây Nam,12,True
+725,Knc,2007000000,60.64,Quận Bình Tân,2,2,Có,Sổ hồng,Đông Bắc,4,True
+726,Bán,2300000000,57.96,Quận 6,3,2,Full,Sổ hồng,Đông Bắc,13,True
+727,Knc,3100000000,46.68,Quận Phú Nhuận,2,2,Full,Sổ hồng,Đông Nam,9,False
+728,Thuê,2000000000,69.64,Quận 1,2,2,Full,Hợp đồng mua bán,Tây Nam,14,True
+729,Thuê rồi,1696,62.04,Quận Bình Tân,2,2,Ko,Sổ hồng,Đông Bắc,14,True
+730,Bán rồi,1686000000,60.36,Quận 5,2,2,Có,Sổ hồng,Tây Nam,12,True
+731,Bán,1850000000,77.96,Quận Gò Vấp,2,2,Ko,Sổ hồng,Đông Nam,12,True
+732,Knc,1950000000,50.36,Quận 7,3,2,Full,Sổ hồng,Đông Nam,12,True
+733,Knc,1826000000,42.68,Quận Gò Vấp,2,2,Full,Sổ hồng,Tây Bắc,12,True
+734,Bán,2000000000,54.96,Bình Dương,2,2,Ko,Hợp đồng mua bán,Tây Nam,12,False
+735,Knc,2056000000,43.48,Quận Bình Tân,1,1,Có,Sổ hồng,Tây Bắc,18,True
+736,Bán,2100000000,44.48,Bình Dương,2,2,Có,Sổ hồng,Tây Nam,12,False
+737,Knc,2100000000,78.04,Quận 9,2,2,Có,Sổ hồng,Tây Bắc,13,True
+738,Knc,1930000000,64.6,Quận 1,3,2,Có,Hợp đồng mua bán,Tây Bắc,13,False
+739,Knc,8000000,60.6,Bình Dương,2,2,Có,Sổ hồng,Đông Bắc,13,False
+740,Bán,5500000,60.56,Quận 12,2,2,Full,Sổ hồng,Tây Bắc,12,False
+741,Knc,1920000000,65.16,Quận Tân Phú,2,2,Full,Khác,Tây Bắc,11,True
+742,Thuê rồi,1800000000,53.88,Quận 5,2,2,Ko,Sổ hồng,Đông Nam,13,False
+743,Bán rồi,1853000000,56.24,Quận Phú Nhuận,3,2,Full,Sổ hồng,Đông Bắc,12,False
+744,Knc,7000000,68.88,Quận 4,3,2,Có,Khác,Tây Nam,14,True
+745,Bán,2300000000,76.2,Quận 4,2,2,Full,Sổ hồng,Tây Nam,13,True
+746,Knc,2300000000,51.44,Quận 11,3,2,Full,Sổ hồng,Đông Nam,12,False
+747,Knc,1903000000,76.52,Quận Bình Thạnh,3,2,Ko,Sổ hồng,Tây Bắc,13,True
+748,Knc,1750000000,53.44,Quận 6,2,2,Có,Hợp đồng mua bán,Tây Bắc,12,True
+749,Bán,1850000000,63.52,Quận 4,3,2,Có,Hợp đồng mua bán,Tây Nam,13,True
+750,Bán,2559000000,55.68,Quận 10,3,2,Full,Sổ hồng,Đông Nam,13,True
+751,Knc,2100000000,61.88,Quận 4,3,2,Full,Sổ hồng,Đông Bắc,14,False
+752,Bán rồi,1550000000,75.32,Quận Tân Phú,2,2,Ko,Hợp đồng mua bán,Tây Nam,13,False
+753,Knc,2000000000,79.88,Quận 9,2,2,Ko,Sổ hồng,Đông Nam,13,False
+754,Thuê,1750000000,43.52,Quận Tân Bình,3,2,Full,Hợp đồng mua bán,Đông Bắc,14,True
+755,Knc,2559000000,62.0,Quận 5,2,2,Có,Khác,Tây Bắc,13,False
+756,Bán,1970000000,47.6,Quận 2,2,2,Có,Khác,Tây Nam,13,True
+757,Knc,2600000000,71.28,Quận 4,2,2,Có,Sổ hồng,Tây Nam,14,False
+758,Bán rồi,2550000000,44.56,Quận Tân Bình,3,2,Full,Hợp đồng mua bán,Đông Nam,9,True
+759,Bán rồi,1506000000,55.84,Quận 4,1,1,Ko,Sổ hồng,Tây Nam,14,True
+760,Bán,2000000000,63.8,Quận 6,2,2,Ko,Sổ hồng,Tây Bắc,13,False
+761,Bán,1750000000,53.76,Quận 2,2,2,Full,Hợp đồng mua bán,Đông Bắc,13,True
+762,Knc,1630000000,53.04,Quận Phú Nhuận,1,1,Ko,Sổ hồng,Tây Nam,13,False
+763,Knc,7000000,45.32,Quận 4,2,2,Có,Sổ hồng,Tây Nam,14,True
+764,Bán rồi,2000000000,59.28,Quận 6,2,2,Full,Sổ hồng,Tây Bắc,13,False
+765,Knc,1950000000,56.56,Quận Thủ Đức,2,2,Full,Sổ hồng,Tây Nam,13,False
+766,Knc,7000000,46.24,Quận Bình Thạnh,2,2,Full,Sổ hồng,Đông Bắc,14,True
+767,Knc,2000000000,65.72,Quận 5,3,2,Ko,Sổ hồng,Tây Nam,13,False
+768,Knc,6500000,55.36,Quận Gò Vấp,2,2,Full,Sổ hồng,Đông Bắc,13,True
+769,Knc,2100000000,66.88,Quận Tân Bình,3,2,Full,Sổ hồng,Đông Bắc,14,True
+770,Knc,2056000000,62.12,Quận 1,2,2,Ko,Hợp đồng mua bán,Tây Nam,14,True
+771,Knc,4516000000,49.28,Quận 8,2,2,Ko,Sổ hồng,Tây Nam,14,True
+772,Knc,1947500000,68.88,Quận 2,3,2,Full,Khác,Tây Nam,5,False
+773,Knc,1799000000,66.76,Quận Tân Bình,2,2,Ko,Sổ hồng,Đông Nam,4,True
+774,Knc,4300000000,65.04,Quận 3,2,2,Có,Hợp đồng mua bán,Đông Bắc,5,True
+775,Knc,1903000000,71.24,Quận 7,2,2,Có,Hợp đồng mua bán,Đông Nam,5,False
+776,Knc,2150000000,48.44,Quận Bình Thạnh,2,2,Có,Sổ hồng,Đông Bắc,5,False
+777,Bán rồi,1696,40.24,Quận Thủ Đức,2,2,Ko,Sổ hồng,Tây Nam,5,False
+778,Bán,1696,73.04,Bình Dương,2,2,Ko,Sổ hồng,Đông Nam,4,True
+779,Bán,2100000000,40.6,Quận Tân Bình,3,2,Full,Sổ hồng,Đông Bắc,5,False
+780,Knc,2100000000,44.28,Quận 4,2,2,Có,Sổ hồng,Đông Nam,4,True
+781,Knc,1550000000,56.6,Quận Thủ Đức,1,1,Có,Sổ hồng,Tây Nam,5,True
+782,Knc,1850000000,74.16,Quận 5,2,2,Có,Sổ hồng,Tây Nam,5,False
+783,Knc,2100000000,52.96,Quận 1,2,2,Có,Sổ hồng,Đông Nam,5,False
+784,Bán rồi,2070000000,60.28,Quận 10,2,2,Ko,Sổ hồng,Đông Nam,6,True
+785,Knc,2300000000,68.12,Bình Dương,2,2,Full,Hợp đồng mua bán,Đông Nam,8,False
+786,Knc,2100000000,55.72,Quận 2,2,2,Có,Hợp đồng mua bán,Đông Nam,5,False
+787,Knc,2150000000,71.08,Quận 1,2,2,Full,Khác,Tây Nam,5,False
+788,Knc,6500000,49.6,Quận 8,2,2,Có,Khác,Tây Nam,5,True
+789,Thuê,1726000000,69.36,Quận 8,2,2,Có,Hợp đồng mua bán,Tây Nam,5,False
+790,Thuê rồi,1700000000,62.84,Quận 10,2,2,Ko,Sổ hồng,Đông Bắc,6,True
+791,Knc,2040000000,63.56,Quận 9,2,2,Full,Sổ hồng,Đông Nam,5,True
+792,Knc,2100000000,46.8,Quận Tân Phú,3,2,Ko,Hợp đồng mua bán,Đông Bắc,7,False
+793,Knc,2046000000,45.76,Quận 1,3,2,Có,Khác,Đông Bắc,19,True
+794,Knc,1850000000,52.12,Quận Bình Tân,2,2,Có,Hợp đồng mua bán,Tây Nam,7,False
+795,Bán rồi,1850000000,67.36,Quận 3,2,2,Có,Sổ hồng,Tây Nam,5,True
+796,Knc,3905000000,42.84,Quận Phú Nhuận,2,2,Full,Sổ hồng,Tây Nam,6,False
+797,Knc,1900000000,58.6,Quận 12,2,2,Ko,Sổ hồng,Tây Nam,6,False
+798,Knc,1980000000,67.0,Quận Bình Tân,2,2,Full,Hợp đồng mua bán,Đông Nam,9,True
+799,Knc,5500000,63.16,Quận Bình Tân,2,2,Full,Sổ hồng,Tây Bắc,6,False
+800,Knc,2600000000,47.04,Quận 6,2,2,Ko,Hợp đồng mua bán,Đông Nam,11,True
+801,Knc,2007000000,74.88,Quận Gò Vấp,2,2,Có,Khác,Tây Nam,7,False
+802,Thuê,3500000000,78.32,Quận Thủ Đức,2,2,Có,Sổ hồng,Tây Bắc,5,False
+803,Bán rồi,6500000,51.88,Quận 5,2,2,Ko,Sổ hồng,Tây Nam,7,True
+804,Thuê,2000000000,75.64,Quận 8,2,2,Full,Sổ hồng,Đông Nam,6,False
+805,Knc,6500000,43.68,Bình Dương,3,2,Có,Khác,Đông Bắc,6,True
+806,Bán rồi,2026000000,50.52,Quận Bình Tân,2,2,Ko,Sổ hồng,Tây Nam,6,True
+807,Knc,7000000,78.56,Quận 8,2,2,Có,Hợp đồng mua bán,Tây Nam,6,True
+808,Knc,1750000000,49.92,Quận Thủ Đức,2,2,Ko,Sổ hồng,Đông Nam,10,True
+809,Bán rồi,1536000000,65.12,Quận 5,2,2,Full,Sổ hồng,Đông Nam,15,True
+810,Bán,2200000000,70.4,Quận 3,3,2,Full,Sổ hồng,Tây Nam,6,False
+811,Thuê,5500000,72.2,Quận Tân Bình,2,2,Có,Hợp đồng mua bán,Đông Nam,7,False
+812,Knc,1900000000,48.08,Quận 8,2,2,Full,Sổ hồng,Đông Bắc,14,True
+813,Thuê rồi,1700000000,59.24,Quận Tân Bình,2,2,Ko,Sổ hồng,Tây Nam,5,True
+814,Thuê,1,42.4,Quận 8,2,2,Có,Sổ hồng,Đông Bắc,7,True
+815,Bán,1800000000,79.44,Quận 4,3,2,Full,Sổ hồng,Tây Nam,7,False
+816,Knc,2100000000,51.04,Quận 6,2,2,Có,Sổ hồng,Tây Nam,7,False
+817,Bán,2300000000,75.52,Quận 6,2,2,Có,Hợp đồng mua bán,Đông Nam,8,False
+818,Bán,1520000000,65.32,Quận 4,1,1,Full,Sổ hồng,Tây Nam,6,True
+819,Knc,1826000000,40.6,Quận 10,2,2,Full,Sổ hồng,Đông Bắc,7,False
+820,Bán rồi,2026000000,64.04,Quận 4,2,2,Full,Sổ hồng,Đông Bắc,6,True
+821,Bán rồi,2000000000,43.88,Quận Thủ Đức,2,2,Ko,Sổ hồng,Đông Nam,10,False
+822,Bán rồi,1850000000,51.36,Quận 7,2,2,Full,Sổ hồng,Tây Nam,7,True
+823,Bán rồi,2244000000,54.84,Bình Dương,2,2,Full,Hợp đồng mua bán,Đông Nam,12,False
+824,Knc,1903000000,54.32,Bình Dương,2,2,Full,Hợp đồng mua bán,Đông Bắc,6,False
+825,Bán,2400000000,68.32,Quận 6,2,2,Full,Sổ hồng,Đông Nam,16,True
+826,Knc,1900000000,51.16,Quận 10,2,2,Ko,Hợp đồng mua bán,Đông Bắc,7,False
+827,Knc,2000000000,73.12,Quận 4,1,1,Ko,Sổ hồng,Tây Nam,7,True
+828,Bán rồi,2100000000,46.8,Quận Bình Tân,2,2,Ko,Sổ hồng,Tây Nam,7,True
+829,Knc,2500000000,52.36,Quận 8,2,2,Có,Hợp đồng mua bán,Đông Nam,12,True
+830,Knc,1696,62.16,Quận 10,2,2,Có,Hợp đồng mua bán,Tây Nam,7,False
+831,Bán,2228000000,51.68,Quận 11,2,2,Ko,Sổ hồng,Tây Bắc,5,True
+832,Knc,2000000000,67.16,Quận 5,1,1,Ko,Sổ hồng,Tây Nam,9,True
+833,Bán,2000000000,47.64,Quận 4,3,2,Full,Hợp đồng mua bán,Đông Bắc,9,True
+834,Thuê,2000000000,72.24,Quận 8,2,2,Ko,Khác,Tây Bắc,17,False
+835,Bán,1900000000,65.44,Quận 4,3,2,Full,Sổ hồng,Tây Nam,8,False
+836,Bán rồi,2000000000,78.84,Quận 5,2,2,Ko,Hợp đồng mua bán,Đông Bắc,9,True
+837,Knc,2034000000,73.2,Quận Gò Vấp,2,2,Có,Sổ hồng,Tây Nam,9,True
+838,Knc,1950000000,79.8,Quận Gò Vấp,3,2,Có,Hợp đồng mua bán,Đông Bắc,15,True
+839,Bán rồi,1780000000,44.04,Quận 11,2,2,Ko,Sổ hồng,Đông Bắc,10,False
+840,Bán rồi,1780000000,57.8,Quận 5,2,2,Ko,Hợp đồng mua bán,Tây Nam,9,True
+841,Bán rồi,3500000000,40.84,Quận Gò Vấp,2,2,Ko,Sổ hồng,Tây Bắc,7,True
+842,Knc,2500000000,66.88,Quận 10,2,2,Có,Sổ hồng,Tây Nam,9,False
+843,Thuê rồi,2000000000,74.44,Quận Tân Bình,2,2,Full,Sổ hồng,Đông Bắc,9,False
+844,Knc,1980000000,40.6,Quận 2,1,1,Full,Hợp đồng mua bán,Tây Nam,9,True
+845,Knc,1800000000,71.88,Quận 9,2,2,Full,Sổ hồng,Tây Nam,7,True
+846,Bán rồi,2000000000,67.6,Quận Bình Thạnh,2,2,Ko,Sổ hồng,Tây Bắc,5,False
+847,Knc,1950000000,76.08,Quận 5,2,2,Full,Hợp đồng mua bán,Tây Nam,8,True
+848,Bán,1650000000,61.92,Quận Thủ Đức,2,2,Full,Sổ hồng,Đông Nam,7,True
+849,Knc,2100000000,45.68,Quận 9,2,2,Ko,Sổ hồng,Tây Nam,7,False
+850,Knc,1686000000,59.76,Quận 6,2,2,Ko,Sổ hồng,Tây Nam,8,False
+851,Bán,2150000000,54.48,Quận Thủ Đức,2,2,Full,Sổ hồng,Tây Bắc,7,False
+852,Bán rồi,1788000000,46.12,Quận 6,2,2,Có,Hợp đồng mua bán,Đông Bắc,8,True
+853,Bán,1600000000,76.76,Quận 4,2,2,Có,Hợp đồng mua bán,Đông Nam,9,False
+854,Knc,2100000000,67.8,Quận 6,3,2,Full,Sổ hồng,Đông Bắc,8,False
+855,Bán,1970000000,44.08,Quận 5,1,1,Có,Sổ hồng,Tây Nam,8,False
+856,Thuê,2000000000,54.08,Quận 11,2,2,Ko,Sổ hồng,Tây Bắc,7,False
+857,Knc,2200000000,63.08,Quận 7,2,2,Ko,Sổ hồng,Đông Nam,8,True
+858,Knc,2000000000,40.4,Quận 7,2,2,Full,Sổ hồng,Tây Nam,8,False
+859,Bán,2000000000,79.64,Quận 11,2,2,Ko,Sổ hồng,Tây Bắc,6,False
+860,Bán,2000000000,79.92,Quận 2,2,2,Ko,Sổ hồng,Tây Nam,8,True
+861,Knc,1903000000,74.36,Quận 11,2,2,Ko,Hợp đồng mua bán,Tây Bắc,7,False
+862,Knc,1688000000,73.72,Quận 2,2,2,Full,Sổ hồng,Tây Nam,9,False
+863,Knc,2300000000,72.8,Quận Gò Vấp,2,2,Full,Sổ hồng,Tây Bắc,8,True
+864,Knc,2200000000,49.96,Quận 12,3,2,Ko,Sổ hồng,Tây Nam,9,True
+865,Bán rồi,1630000000,72.52,Quận 7,2,2,Full,Sổ hồng,Tây Nam,9,True
+866,Bán rồi,1506000000,62.4,Quận Bình Tân,2,2,Full,Sổ hồng,Đông Nam,8,False
+867,Bán,1750000000,40.48,Quận Bình Tân,2,2,Full,Sổ hồng,Tây Bắc,8,True
+868,Knc,2000000000,55.76,Quận Thủ Đức,2,2,Có,Sổ hồng,Tây Nam,8,True
+869,Bán,1947500000,66.92,Quận 7,2,2,Ko,Sổ hồng,Tây Bắc,8,True
+870,Thuê rồi,6500000,47.44,Quận 7,3,2,Ko,Sổ hồng,Đông Bắc,9,True
+871,Knc,1788000000,77.36,Quận 3,2,2,Ko,Hợp đồng mua bán,Tây Nam,9,False
+872,Knc,2200000000,52.24,Quận 11,2,2,Full,Sổ hồng,Tây Nam,16,False
+873,Knc,2100000000,64.4,Quận 4,3,2,Ko,Khác,Tây Nam,16,True
+874,Bán,7500000,57.28,Quận 3,2,2,Ko,Sổ hồng,Đông Bắc,11,True
+875,Bán,1730000000,61.88,Quận 3,2,2,Ko,Sổ hồng,Tây Nam,17,True
+876,Bán rồi,1,75.08,Quận 1,2,2,Ko,Khác,Tây Nam,17,False
+877,Knc,1730000000,44.0,Quận Phú Nhuận,2,2,Có,Sổ hồng,Đông Bắc,17,True
+878,Bán,1826000000,75.32,Quận 10,2,2,Ko,Hợp đồng mua bán,Tây Nam,16,True
+879,Knc,1948000000,74.6,Quận 3,2,2,Full,Hợp đồng mua bán,Tây Nam,16,True
+880,Thuê,1750000000,45.68,Quận 3,3,2,Full,Hợp đồng mua bán,Đông Bắc,16,False
+881,Bán,2500000000,60.84,Quận 5,3,2,Full,Hợp đồng mua bán,Đông Bắc,16,False
+882,Bán rồi,2000000000,51.44,Quận 4,2,2,Ko,Sổ hồng,Đông Bắc,16,True
+883,Knc,2000000000,45.64,Quận 2,2,2,Full,Hợp đồng mua bán,Đông Bắc,6,True
+884,Knc,1850000000,71.0,Quận 2,2,2,Có,Hợp đồng mua bán,Tây Nam,12,False
+885,Bán,1950000000,41.12,Quận 1,3,2,Ko,Sổ hồng,Đông Bắc,16,True
+886,Knc,1638000000,64.24,Quận 11,3,2,Có,Khác,Đông Bắc,17,True
+887,Knc,2300000000,56.52,Quận 1,2,2,Ko,Sổ hồng,Đông Bắc,17,True
+888,Knc,1630000000,54.52,Quận 9,2,2,Có,Hợp đồng mua bán,Đông Bắc,17,True
+889,Bán rồi,2000000000,76.24,Quận Tân Phú,1,1,Có,Hợp đồng mua bán,Đông Bắc,17,True
+890,Knc,1850000000,41.0,Quận Tân Phú,3,2,Full,Sổ hồng,Đông Bắc,15,True
+891,Knc,1700000000,59.32,Quận 3,2,2,Full,Khác,Đông Bắc,16,False
+892,Knc,2000000000,49.68,Quận 8,2,2,Có,Sổ hồng,Tây Nam,16,True
+893,Knc,2000000000,60.64,Quận 9,3,2,Có,Hợp đồng mua bán,Đông Bắc,7,True
+894,Knc,1700000000,65.2,Quận Thủ Đức,2,2,Full,Sổ hồng,Đông Bắc,17,False
+895,Bán rồi,1853000000,55.28,Quận 4,2,2,Có,Sổ hồng,Đông Bắc,16,True
+896,Knc,7000000,56.36,Quận 4,2,2,Có,Khác,Đông Bắc,17,False
+897,Thuê rồi,2200000000,52.64,Quận 4,1,1,Full,Sổ hồng,Đông Bắc,16,False
+898,Knc,2000000000,67.8,Quận 4,2,2,Có,Sổ hồng,Đông Bắc,17,True
+899,Bán,2000000000,49.96,Quận 1,2,2,Có,Sổ hồng,Tây Nam,16,True
+900,Knc,55,72.8,Quận Phú Nhuận,2,2,Ko,Sổ hồng,Tây Nam,16,True
+901,Knc,6000000,41.68,Quận 11,3,2,Ko,Khác,Đông Bắc,17,False
+902,Knc,2000000000,47.08,Quận 10,2,2,Full,Sổ hồng,Tây Nam,16,True
+903,Bán rồi,1826000000,65.72,Quận 4,2,2,Có,Sổ hồng,Đông Bắc,17,True
+904,Bán,2158000000,44.72,Quận 10,3,2,Full,Hợp đồng mua bán,Đông Bắc,17,False
+905,Knc,2000000000,61.08,Quận 7,2,2,Full,Hợp đồng mua bán,Tây Nam,17,False
+906,Bán rồi,6500000,42.92,Quận Tân Phú,1,1,Có,Hợp đồng mua bán,Đông Bắc,17,False
+907,Knc,1900000000,69.32,Quận 8,2,2,Ko,Khác,Đông Bắc,17,True
+908,Thuê,6500000,66.56,Quận Bình Tân,2,2,Ko,Sổ hồng,Tây Nam,17,True
+909,Knc,1800000000,49.2,Quận 1,2,2,Ko,Hợp đồng mua bán,Tây Nam,18,False
+910,Bán,1980000000,64.96,Quận 3,2,2,Có,Sổ hồng,Tây Nam,10,False
+911,Knc,2070000000,59.56,Quận 8,2,2,Ko,Hợp đồng mua bán,Tây Nam,18,True
+912,Knc,1780000000,69.72,Quận 10,2,2,Ko,Sổ hồng,Tây Nam,17,True
+913,Knc,2150000000,75.64,Quận 4,2,2,Ko,Hợp đồng mua bán,Đông Bắc,18,True
+914,Knc,18260,49.52,Quận Bình Tân,2,2,Ko,Sổ hồng,Đông Bắc,18,True
+915,Bán rồi,1770000000,54.72,Quận 9,2,2,Ko,Sổ hồng,Đông Bắc,17,False
+916,Knc,1,40.88,Quận 10,2,2,Ko,Sổ hồng,Tây Nam,18,False
+917,Knc,2000000000,53.04,Quận Tân Bình,3,2,Ko,Sổ hồng,Đông Nam,18,True
+918,Thuê rồi,1,53.44,Quận 7,1,1,Full,Khác,Đông Bắc,18,True
+919,Knc,1750000000,79.48,Quận 6,2,2,Có,Sổ hồng,Đông Bắc,18,False
+920,Bán,1750000000,58.04,Quận 6,2,2,Có,Sổ hồng,Đông Bắc,15,False
+921,Knc,7000000,67.04,Quận 2,3,2,Có,Sổ hồng,Đông Bắc,18,False
+922,Knc,2000000000,41.56,Quận 4,3,2,Ko,Sổ hồng,Đông Bắc,19,True
+923,Knc,2158000000,44.48,Quận 11,2,2,Ko,Sổ hồng,Đông Nam,17,True
+924,Bán,2056000000,67.88,Quận Tân Bình,3,2,Có,Hợp đồng mua bán,Tây Nam,18,True
+925,Thuê,7500000,53.4,Quận Tân Bình,2,2,Ko,Sổ hồng,Tây Nam,18,True
+926,Knc,1970000000,47.92,Quận Tân Bình,2,2,Có,Hợp đồng mua bán,Đông Bắc,18,False
+927,Bán,2246000000,75.72,Quận 7,3,2,Full,Khác,Đông Bắc,18,False
+928,Bán,1850000000,55.24,Quận Bình Thạnh,2,2,Ko,Sổ hồng,Tây Nam,18,False
+929,Thuê,2300000000,64.2,Quận 5,2,2,Ko,Sổ hồng,Đông Bắc,18,True
+930,Knc,2550000000,65.6,Quận 4,2,2,Full,Hợp đồng mua bán,Tây Nam,18,True
+931,Bán rồi,2034000000,67.4,Quận 8,2,2,Full,Sổ hồng,Tây Nam,19,True
+932,Thuê,1850000000,57.28,Quận Bình Tân,2,2,Full,Sổ hồng,Đông Bắc,4,True
+933,Knc,1799000000,67.52,Quận Gò Vấp,3,2,Có,Sổ hồng,Tây Nam,17,True
+934,Bán,2254000000,46.24,Quận 12,3,2,Ko,Sổ hồng,Tây Nam,19,True
+935,Bán,1799000000,70.72,Quận 3,2,2,Full,Sổ hồng,Tây Nam,19,False
+936,Bán rồi,1900000000,55.68,Quận 5,1,1,Ko,Sổ hồng,Đông Bắc,19,False
+937,Thuê rồi,1600000000,74.56,Quận Thủ Đức,2,2,Ko,Sổ hồng,Đông Bắc,19,True
+938,Thuê,2300000000,43.68,Quận 6,2,2,Full,Hợp đồng mua bán,Tây Nam,18,False
+939,Bán rồi,6500000,41.96,Quận 2,3,2,Có,Sổ hồng,Tây Nam,17,True
+940,Thuê,6500000,43.4,Bình Dương,2,2,Full,Khác,Tây Nam,17,False
+941,Bán,2100000000,44.16,Quận 8,2,2,Full,Sổ hồng,Tây Nam,17,True
+942,Knc,2300000000,78.44,Quận 4,2,2,Ko,Khác,Đông Bắc,18,True
+943,Knc,1900000000,56.84,Quận Bình Tân,2,2,Có,Hợp đồng mua bán,Tây Nam,19,True
+944,Bán,2100000000,46.76,Quận 5,2,2,Có,Sổ hồng,Đông Bắc,19,True
+945,Knc,18260,49.4,Quận 7,2,2,Ko,Hợp đồng mua bán,Đông Bắc,19,False
+946,Knc,1930000000,42.36,Quận Thủ Đức,2,2,Có,Hợp đồng mua bán,Tây Nam,19,False
+947,Bán,2100000000,75.52,Quận 6,3,2,Có,Sổ hồng,Đông Bắc,18,False
+948,Thuê rồi,6500000,66.8,Bình Dương,2,2,Ko,Sổ hồng,Đông Bắc,19,True
+949,Knc,1688000000,47.92,Quận 6,3,2,Full,Hợp đồng mua bán,Tây Nam,18,False
+950,Knc,1826000000,79.28,Quận 7,2,2,Có,Hợp đồng mua bán,Đông Bắc,18,False
+951,Bán,2100000000,52.28,Quận 6,2,2,Có,Hợp đồng mua bán,Đông Bắc,10,True
+952,Bán rồi,1750000000,74.76,Quận 4,3,2,Có,Sổ hồng,Tây Nam,19,True
+953,Knc,2100000000,77.84,Quận 8,2,2,Có,Hợp đồng mua bán,Đông Bắc,4,True
+954,Knc,1853000000,60.12,Quận 10,2,2,Có,Hợp đồng mua bán,Tây Nam,18,False
+955,Bán,1780000000,77.56,Quận 9,2,2,Full,Sổ hồng,Đông Bắc,19,True
+956,Thuê rồi,2150000000,61.2,Quận 4,2,2,Ko,Khác,Đông Bắc,18,False
+957,Knc,1700000000,48.04,Quận 11,2,2,Ko,Sổ hồng,Tây Nam,17,False
+958,Knc,2100000000,78.24,Quận Phú Nhuận,2,2,Có,Hợp đồng mua bán,Tây Nam,17,True
+959,Knc,2000000000,67.68,Quận 10,2,2,Full,Sổ hồng,Tây Nam,19,False
+960,Bán,1850000000,62.36,Quận 10,2,2,Có,Sổ hồng,Đông Bắc,19,False
+961,Bán rồi,2158000000,45.88,Quận Tân Phú,2,2,Ko,Khác,Tây Bắc,18,True
+962,Thuê rồi,1620000000,66.88,Quận 9,2,2,Có,Sổ hồng,Đông Bắc,19,True
+963,Bán rồi,2400000000,43.24,Quận Thủ Đức,3,2,Có,Sổ hồng,Đông Nam,4,True
+964,Knc,3059000000,70.68,Quận 6,1,1,Ko,Khác,Đông Bắc,19,False
+965,Thuê rồi,1,78.76,Quận 11,2,2,Ko,Hợp đồng mua bán,Đông Bắc,19,True
+966,Bán rồi,2000000000,54.72,Quận 7,2,2,Ko,Khác,Tây Nam,19,False
+967,Bán,1686000000,65.36,Quận 3,2,2,Có,Hợp đồng mua bán,Tây Nam,19,True
+968,Thuê rồi,2200000000,49.6,Quận 2,3,2,Full,Sổ hồng,Tây Nam,19,True
+969,Knc,1930000000,53.8,Quận Tân Phú,2,2,Full,Khác,Đông Bắc,4,False
+970,Knc,1970000000,71.36,Quận 12,3,2,Ko,Hợp đồng mua bán,Đông Bắc,4,False
+971,Knc,2000000000,42.52,Quận 9,2,2,Ko,Sổ hồng,Tây Nam,19,False
+972,Bán rồi,1826000000,71.08,Quận Phú Nhuận,3,2,Có,Hợp đồng mua bán,Đông Bắc,19,True
+973,Bán rồi,1980000000,55.04,Quận Gò Vấp,2,2,Full,Khác,Đông Bắc,12,True
+974,Bán,1750000000,73.64,Quận 2,2,2,Có,Khác,Đông Bắc,12,False
+975,Knc,2000000000,72.52,Quận Gò Vấp,2,2,Có,Khác,Tây Nam,12,False
+976,Bán,1900000000,74.52,Quận 6,3,2,Full,Sổ hồng,Tây Nam,12,True
+977,Knc,2559000000,74.72,Quận 9,2,2,Full,Hợp đồng mua bán,Đông Bắc,12,True
+978,Knc,3059000000,79.0,Quận Gò Vấp,2,2,Có,Sổ hồng,Đông Bắc,12,False
+979,Thuê rồi,1506000000,69.08,Quận 1,2,2,Full,Sổ hồng,Tây Nam,12,True
+980,Bán,1950000000,57.4,Quận 7,3,2,Ko,Sổ hồng,Đông Bắc,12,False
+981,Knc,2053000000,53.6,Quận Bình Tân,2,2,Full,Hợp đồng mua bán,Tây Nam,12,True
+982,Bán rồi,4516000000,70.16,Quận Thủ Đức,2,2,Có,Sổ hồng,Tây Nam,11,False
+983,Knc,1750000000,50.64,Quận 5,2,2,Full,Hợp đồng mua bán,Tây Nam,11,True
+984,Bán,2000000000,48.4,Quận 10,2,2,Có,Khác,Đông Bắc,12,False
+985,Knc,2600000000,73.68,Quận Bình Tân,2,2,Full,Sổ hồng,Đông Bắc,12,False
+986,Bán rồi,1803000000,44.48,Quận Bình Thạnh,2,2,Có,Sổ hồng,Đông Bắc,12,True
+987,Knc,2053000000,48.04,Quận Tân Bình,2,2,Full,Sổ hồng,Tây Nam,12,True
+988,Knc,2070000000,79.92,Quận 10,2,2,Có,Hợp đồng mua bán,Tây Nam,12,True
+989,Knc,1930000000,44.36,Quận 8,3,2,Ko,Sổ hồng,Tây Nam,12,True
+990,Knc,1750000000,76.4,Quận 1,1,1,Full,Sổ hồng,Đông Bắc,12,True
+991,Knc,6500000,43.2,Quận 5,3,2,Full,Sổ hồng,Đông Bắc,12,False
+992,Thuê,1596000000,49.72,Quận Bình Thạnh,3,2,Ko,Sổ hồng,Tây Nam,12,True
+993,Knc,1638000000,56.08,Bình Dương,3,2,Ko,Sổ hồng,Đông Bắc,19,False
+994,Thuê rồi,1900000000,60.92,Quận Bình Thạnh,2,2,Ko,Hợp đồng mua bán,Đông Bắc,13,False
+995,Knc,7500000,52.92,Quận Tân Bình,2,2,Ko,Sổ hồng,Đông Bắc,13,False
+996,Knc,1650000000,76.56,Quận 5,2,2,Ko,Sổ hồng,Tây Nam,13,False
+997,Knc,2100000000,48.52,Quận Bình Tân,2,2,Full,Khác,Tây Nam,13,False
+998,Thuê,1750000000,74.88,Quận 8,2,2,Có,Sổ hồng,Tây Nam,12,False
+999,Bán rồi,1948000000,45.92,Quận Tân Bình,2,2,Ko,Hợp đồng mua bán,Đông Bắc,14,False
+1000,Bán,1788000000,60.44,Quận 6,2,2,Có,Sổ hồng,Đông Bắc,14,False
+1001,Knc,2100000000,74.16,Quận 5,2,2,Full,Hợp đồng mua bán,Tây Bắc,19,False
+1002,Knc,2100000000,71.2,Quận 8,2,2,Full,Hợp đồng mua bán,Đông Bắc,14,False
+1003,Knc,1799000000,43.56,Bình Dương,2,2,Ko,Sổ hồng,Tây Nam,13,False
+1004,Bán,1800000000,61.64,Quận 3,2,2,Có,Sổ hồng,Tây Nam,12,True
+1005,Knc,3500000000,55.84,Quận 11,2,2,Full,Sổ hồng,Đông Bắc,13,True
+1006,Knc,1948000000,41.48,Bình Dương,2,2,Ko,Hợp đồng mua bán,Tây Nam,13,True
+1007,Knc,1900000000,51.76,Quận 6,2,2,Full,Hợp đồng mua bán,Tây Nam,15,True
+1008,Knc,1686000000,60.84,Quận Thủ Đức,2,2,Ko,Khác,Tây Nam,13,True
+1009,Bán rồi,1800000000,78.72,Quận 8,2,2,Có,Khác,Tây Nam,14,False
+1010,Knc,2100000000,59.44,Quận Bình Thạnh,1,1,Full,Khác,Tây Bắc,13,False
+1011,Knc,1846000000,54.08,Quận 5,2,2,Có,Hợp đồng mua bán,Đông Bắc,13,True
+1012,Bán rồi,1900000000,64.32,Bình Dương,3,2,Full,Sổ hồng,Đông Bắc,14,False
+1013,Bán rồi,1550000000,66.0,Quận 3,3,2,Ko,Hợp đồng mua bán,Tây Nam,15,True
+1014,Bán rồi,1850000000,48.28,Quận Tân Phú,2,2,Full,Khác,Tây Nam,13,False
+1015,Knc,1776000000,59.44,Quận Phú Nhuận,2,2,Có,Sổ hồng,Đông Nam,11,True
+1016,Bán,4300000000,56.8,Quận Bình Tân,3,2,Ko,Khác,Đông Bắc,13,False
+1017,Knc,6500000,54.76,Quận 10,3,2,Ko,Sổ hồng,Tây Nam,19,False
+1018,Thuê,1780000000,72.08,Quận 2,2,2,Ko,Sổ hồng,Tây Nam,12,False
+1019,Knc,1950000000,44.0,Bình Dương,2,2,Full,Sổ hồng,Tây Nam,13,False
+1020,Knc,2040000000,53.4,Quận 11,1,1,Full,Hợp đồng mua bán,Đông Bắc,14,False
+1021,Knc,1638000000,56.68,Quận Tân Bình,2,2,Full,Sổ hồng,Đông Bắc,13,True
+1022,Thuê,2000000000,75.84,Quận 4,3,2,Full,Sổ hồng,Tây Nam,13,False
+1023,Knc,1900000000,74.64,Quận 10,2,2,Ko,Hợp đồng mua bán,Đông Bắc,6,False
+1024,Knc,2100000000,78.08,Quận 4,2,2,Full,Sổ hồng,Đông Bắc,14,False
+1025,Bán,7000000,44.28,Quận 9,2,2,Full,Sổ hồng,Tây Nam,14,False
+1026,Knc,1950000000,66.88,Quận Tân Bình,2,2,Ko,Sổ hồng,Tây Nam,13,True
+1027,Thuê rồi,5500000,45.56,Quận 5,2,2,Có,Sổ hồng,Tây Nam,14,True
+1028,Knc,2000000000,72.68,Quận Gò Vấp,2,2,Full,Sổ hồng,Tây Nam,13,True
+1029,Bán rồi,1638000000,40.8,Quận 11,2,2,Full,Hợp đồng mua bán,Tây Nam,13,False
+1030,Bán rồi,3905000000,70.64,Quận Bình Thạnh,3,2,Full,Sổ hồng,Đông Nam,12,True
+1031,Bán,2070000000,68.24,Quận 4,3,2,Full,Sổ hồng,Đông Bắc,13,False
+1032,Bán rồi,2300000000,74.08,Quận Tân Phú,3,2,Có,Sổ hồng,Tây Nam,13,True
+1033,Knc,2150000000,56.76,Quận 3,3,2,Full,Sổ hồng,Đông Bắc,13,True
+1034,Knc,2040000000,76.72,Quận 6,3,2,Có,Sổ hồng,Đông Bắc,15,False
+1035,Knc,7000000,71.4,Quận 3,2,2,Full,Sổ hồng,Đông Bắc,13,True
+1036,Bán,1926000000,79.12,Quận Thủ Đức,3,2,Ko,Khác,Tây Nam,14,False
+1037,Knc,1730000000,54.2,Quận 12,3,2,Ko,Sổ hồng,Đông Bắc,15,False
+1038,Bán rồi,2000000000,44.44,Quận 3,2,2,Có,Hợp đồng mua bán,Tây Nam,14,True
+1039,Bán rồi,8000000,45.96,Quận Tân Bình,2,2,Có,Hợp đồng mua bán,Tây Nam,14,True
+1040,Thuê,6500000,68.56,Quận 5,2,2,Có,Sổ hồng,Đông Bắc,14,True
+1041,Knc,2000000000,50.8,Quận Tân Phú,2,2,Có,Sổ hồng,Tây Nam,15,False
+1042,Knc,1688000000,63.48,Quận Tân Bình,1,1,Ko,Hợp đồng mua bán,Tây Bắc,10,False
+1043,Bán,2500000000,70.72,Bình Dương,3,2,Full,Hợp đồng mua bán,Tây Bắc,6,False
+1044,Bán,2550000000,57.08,Quận 3,2,2,Full,Sổ hồng,Tây Nam,8,False
+1045,Bán rồi,1700000000,62.12,Quận Gò Vấp,2,2,Ko,Sổ hồng,Đông Bắc,15,True
+1046,Bán rồi,1,65.0,Quận 4,2,2,Ko,Hợp đồng mua bán,Tây Bắc,15,True
+1047,Knc,1903000000,40.04,Quận Thủ Đức,3,2,Ko,Sổ hồng,Đông Bắc,14,True
+1048,Thuê rồi,1900000000,75.56,Quận 12,2,2,Có,Hợp đồng mua bán,Đông Nam,18,True
+1049,Knc,1800000000,51.96,Quận Tân Bình,2,2,Full,Sổ hồng,Đông Nam,11,False
+1050,Bán,1688000000,48.0,Quận Tân Bình,2,2,Ko,Khác,Đông Bắc,15,False
+1051,Thuê,6000000,62.08,Quận 8,1,1,Ko,Hợp đồng mua bán,Đông Bắc,14,True
+1052,Knc,1850000000,58.56,Quận Thủ Đức,2,2,Có,Hợp đồng mua bán,Tây Nam,14,True
+1053,Thuê rồi,1803000000,67.4,Quận 4,2,2,Ko,Hợp đồng mua bán,Đông Nam,10,True
+1054,Knc,1950000000,58.36,Quận 11,2,2,Ko,Sổ hồng,Đông Bắc,15,False
+1055,Knc,1650000000,76.44,Quận 7,3,2,Có,Sổ hồng,Đông Bắc,15,True
+1056,Knc,1900000000,63.92,Quận Phú Nhuận,2,2,Full,Sổ hồng,Đông Bắc,14,True
+1057,Bán rồi,2246000000,47.64,Bình Dương,2,2,Ko,Hợp đồng mua bán,Đông Bắc,15,True
+1058,Knc,2300000000,50.72,Quận Thủ Đức,2,2,Có,Khác,Tây Nam,15,True
+1059,Knc,1,66.68,Quận 7,2,2,Ko,Sổ hồng,Đông Bắc,15,False
+1060,Knc,6500000,63.48,Quận 3,1,1,Full,Sổ hồng,Đông Bắc,14,False
+1061,Bán,1846000000,65.36,Quận 5,2,2,Ko,Sổ hồng,Tây Nam,14,True
+1062,Knc,2387600000,57.64,Quận Bình Tân,2,2,Ko,Hợp đồng mua bán,Tây Nam,15,False
+1063,Knc,1900000000,51.0,Quận 4,3,2,Có,Sổ hồng,Tây Nam,15,False
+1064,Bán rồi,2000000000,57.64,Quận 9,2,2,Có,Sổ hồng,Tây Nam,15,True
+1065,Knc,1700000000,58.52,Quận 1,2,2,Có,Sổ hồng,Tây Nam,15,False
+1066,Knc,2070000000,54.6,Quận 9,2,2,Ko,Sổ hồng,Tây Nam,15,False
+1067,Thuê rồi,1700000000,40.6,Quận 8,2,2,Full,Sổ hồng,Tây Nam,14,True
+1068,Knc,6000000,56.4,Quận 3,2,2,Full,Sổ hồng,Tây Nam,14,True
+1069,Knc,1700000000,51.8,Quận Bình Tân,1,1,Ko,Hợp đồng mua bán,Đông Bắc,15,False
+1070,Bán rồi,1788000000,51.48,Quận 8,2,2,Ko,Khác,Đông Bắc,14,True
+1071,Bán rồi,2100000000,40.96,Quận 6,2,2,Ko,Khác,Tây Nam,15,False
+1072,Knc,2000000000,53.92,Quận 4,3,2,Có,Hợp đồng mua bán,Đông Nam,5,True
+1073,Thuê rồi,8000000,77.04,Quận 3,2,2,Full,Hợp đồng mua bán,Đông Bắc,8,False
+1074,Thuê,1750000000,44.64,Quận Tân Bình,1,1,Full,Hợp đồng mua bán,Đông Bắc,9,False
+1075,Bán rồi,8000000,74.28,Quận Bình Tân,2,2,Có,Hợp đồng mua bán,Đông Bắc,9,False
+1076,Bán,2000000000,55.72,Quận Bình Thạnh,2,2,Ko,Hợp đồng mua bán,Đông Nam,7,True
+1077,Knc,2500000000,71.92,Quận Bình Thạnh,2,2,Full,Sổ hồng,Tây Nam,8,False
+1078,Knc,1826000000,57.24,Quận 4,2,2,Ko,Hợp đồng mua bán,Tây Nam,9,False
+1079,Knc,1700000000,71.88,Quận 10,2,2,Full,Khác,Tây Nam,9,True
+1080,Knc,8000000,42.76,Quận Tân Phú,3,2,Full,Sổ hồng,Tây Nam,8,False
+1081,Knc,5918000000,70.08,Quận 2,2,2,Ko,Hợp đồng mua bán,Tây Bắc,18,True
+1082,Knc,5000000000,52.24,Quận 10,2,2,Có,Sổ hồng,Tây Nam,9,False
+1083,Knc,1826000000,52.84,Bình Dương,2,2,Full,Sổ hồng,Tây Nam,8,False
+1084,Thuê rồi,2100000000,57.36,Quận 11,2,2,Ko,Khác,Tây Nam,9,True
+1085,Knc,1800000000,68.76,Quận Bình Thạnh,3,2,Ko,Sổ hồng,Tây Nam,9,True
+1086,Knc,1638000000,44.84,Quận 3,3,2,Ko,Hợp đồng mua bán,Tây Nam,9,False
+1087,Bán rồi,1700000000,47.2,Quận Tân Phú,1,1,Có,Khác,Đông Bắc,9,True
+1088,Knc,2000000000,45.56,Quận 3,2,2,Có,Sổ hồng,Tây Nam,10,True
+1089,Bán rồi,18260,78.84,Quận 6,3,2,Có,Sổ hồng,Đông Bắc,9,True
+1090,Knc,1536000000,43.48,Bình Dương,2,2,Ko,Sổ hồng,Tây Nam,8,True
+1091,Thuê,1700000000,61.2,Quận 1,2,2,Ko,Sổ hồng,Đông Bắc,9,True
+1092,Knc,2000000000,77.04,Quận Bình Tân,2,2,Ko,Hợp đồng mua bán,Đông Nam,10,False
+1093,Knc,1900000000,44.88,Quận 7,2,2,Có,Hợp đồng mua bán,Tây Nam,8,True
+1094,Knc,1926000000,58.64,Quận 4,2,2,Có,Sổ hồng,Tây Nam,9,False
+1095,Knc,2500000000,72.44,Quận 10,2,2,Full,Sổ hồng,Tây Nam,9,False
+1096,Thuê,1788000000,70.08,Quận 1,2,2,Có,Hợp đồng mua bán,Đông Bắc,8,False
+1097,Knc,1730000000,64.56,Quận Tân Phú,2,2,Có,Hợp đồng mua bán,Tây Nam,8,False
+1098,Bán rồi,2100000000,65.68,Quận 6,2,2,Ko,Hợp đồng mua bán,Đông Bắc,8,False
+1099,Knc,1800000000,76.8,Quận 8,2,2,Có,Sổ hồng,Tây Nam,9,True
+1100,Knc,2158000000,76.76,Quận 3,2,2,Có,Sổ hồng,Đông Bắc,9,False
+1101,Knc,1926000000,73.08,Quận Tân Bình,2,2,Full,Khác,Đông Bắc,9,True
+1102,Knc,2400000000,44.12,Quận 2,2,2,Full,Khác,Đông Bắc,9,False
+1103,Knc,1838000000,61.2,Quận 8,2,2,Ko,Sổ hồng,Đông Bắc,8,True
+1104,Thuê rồi,2500000000,76.56,Quận Gò Vấp,2,2,Ko,Sổ hồng,Đông Nam,17,False
+1105,Knc,18260,62.8,Quận 3,3,2,Full,Sổ hồng,Tây Nam,8,True
+1106,Knc,2300000000,52.84,Quận 5,2,2,Có,Sổ hồng,Tây Nam,8,False
+1107,Thuê rồi,1800000000,50.04,Quận Thủ Đức,3,2,Có,Sổ hồng,Đông Bắc,8,True
+1108,Knc,3059000000,67.68,Bình Dương,3,2,Full,Hợp đồng mua bán,Tây Nam,8,False
+1109,Thuê,1850000000,53.48,Quận 7,1,1,Có,Sổ hồng,Đông Bắc,8,False
+1110,Knc,1,78.12,Quận 11,2,2,Full,Hợp đồng mua bán,Tây Bắc,6,False
+1111,Knc,2158000000,76.12,Quận Thủ Đức,2,2,Có,Khác,Đông Bắc,8,True
+1112,Knc,7500000,63.92,Quận 12,2,2,Full,Sổ hồng,Đông Bắc,8,False
+1113,Knc,1853000000,57.96,Quận Tân Phú,3,2,Có,Hợp đồng mua bán,Đông Bắc,9,True
+1114,Knc,3905000000,69.28,Quận Bình Tân,2,2,Ko,Hợp đồng mua bán,Đông Bắc,9,False
+1115,Knc,2387600000,62.64,Quận 4,2,2,Có,Hợp đồng mua bán,Đông Bắc,9,False
+1116,Knc,3100000000,68.64,Quận 8,2,2,Ko,Hợp đồng mua bán,Đông Bắc,9,True
+1117,Bán,4300000000,72.36,Quận Phú Nhuận,2,2,Có,Sổ hồng,Tây Nam,8,False
+1118,Bán,2100000000,72.84,Quận Tân Phú,3,2,Ko,Sổ hồng,Đông Bắc,8,False
+1119,Bán,1688000000,47.8,Quận 6,2,2,Có,Sổ hồng,Tây Nam,8,False
+1120,Knc,1900000000,45.32,Quận 12,3,2,Ko,Sổ hồng,Tây Nam,10,True
+1121,Knc,5500000,78.48,Bình Dương,2,2,Có,Khác,Tây Nam,7,False
+1122,Knc,2300000000,78.0,Quận Thủ Đức,2,2,Có,Sổ hồng,Tây Nam,8,True
+1123,Knc,1750000000,68.64,Quận Thủ Đức,2,2,Ko,Hợp đồng mua bán,Đông Bắc,8,True
+1124,Bán,7000000,67.0,Quận Tân Bình,3,2,Ko,Sổ hồng,Đông Nam,15,True
+1125,Knc,1620000000,53.92,Quận 5,3,2,Full,Sổ hồng,Tây Nam,9,True
+1126,Thuê,8000000,72.8,Quận 1,2,2,Ko,Khác,Tây Nam,10,False
+1127,Bán rồi,1853000000,41.2,Quận 2,2,2,Ko,Hợp đồng mua bán,Tây Bắc,15,False
+1128,Bán rồi,1650000000,60.8,Quận 10,1,1,Ko,Hợp đồng mua bán,Đông Bắc,10,True
+1129,Bán rồi,1900000000,46.16,Quận 10,2,2,Ko,Sổ hồng,Tây Nam,9,False
+1130,Knc,1950000000,67.32,Quận 5,2,2,Ko,Sổ hồng,Đông Bắc,11,True
+1131,Thuê,5500000,48.56,Quận 8,2,2,Có,Hợp đồng mua bán,Đông Bắc,10,False
+1132,Bán rồi,2100000000,59.8,Quận 10,2,2,Full,Sổ hồng,Tây Nam,10,True
+1133,Knc,2000000000,67.04,Quận 9,2,2,Ko,Sổ hồng,Tây Nam,11,False
+1134,Knc,2600000000,63.48,Quận Tân Phú,3,2,Ko,Sổ hồng,Tây Nam,11,False
+1135,Bán rồi,1776000000,62.2,Quận 8,2,2,Full,Hợp đồng mua bán,Tây Bắc,6,False
+1136,Thuê rồi,3100000000,76.68,Quận 8,2,2,Có,Hợp đồng mua bán,Tây Nam,10,False
+1137,Bán rồi,1800000000,43.36,Quận 12,3,2,Có,Sổ hồng,Đông Bắc,11,True
+1138,Bán,7000000,45.2,Quận 12,3,2,Full,Hợp đồng mua bán,Đông Bắc,10,False
+1139,Bán,2387600000,41.8,Quận 5,3,2,Full,Sổ hồng,Đông Bắc,10,True
+1140,Bán rồi,1750000000,74.64,Quận 4,3,2,Có,Khác,Đông Bắc,11,True
+1141,Knc,1730000000,74.4,Bình Dương,2,2,Full,Sổ hồng,Đông Bắc,10,False
+1142,Bán,1930000000,55.24,Quận Gò Vấp,2,2,Có,Sổ hồng,Tây Nam,10,True
+1143,Bán,1900000000,64.28,Quận Bình Tân,3,2,Ko,Sổ hồng,Đông Bắc,11,True
+1144,Thuê,7000000,61.6,Quận 9,1,1,Ko,Hợp đồng mua bán,Tây Nam,16,False
+1145,Knc,2400000000,61.2,Bình Dương,2,2,Có,Sổ hồng,Tây Nam,11,False
+1146,Knc,1800000000,41.84,Quận 2,2,2,Ko,Khác,Tây Nam,11,True
+1147,Knc,2000000000,71.68,Quận 5,2,2,Có,Khác,Đông Bắc,11,True
+1148,Bán rồi,1900000000,59.92,Quận 9,2,2,Full,Sổ hồng,Đông Bắc,11,False
+1149,Bán rồi,3905000000,46.36,Quận Bình Thạnh,2,2,Full,Sổ hồng,Tây Nam,11,False
+1150,Knc,1838000000,79.92,Quận 11,2,2,Ko,Hợp đồng mua bán,Đông Bắc,10,True
+1151,Bán rồi,6500000,47.88,Quận 8,1,1,Có,Hợp đồng mua bán,Đông Bắc,10,True
+1152,Knc,2000000000,63.6,Quận 8,2,2,Có,Sổ hồng,Tây Nam,10,True
+1153,Knc,7000000,74.64,Quận Thủ Đức,2,2,Có,Khác,Tây Nam,10,True
+1154,Knc,1826000000,45.2,Quận 11,3,2,Ko,Hợp đồng mua bán,Tây Nam,10,False
+1155,Knc,2100000000,63.08,Bình Dương,2,2,Có,Sổ hồng,Đông Bắc,11,True
+1156,Knc,6500000,53.0,Quận 4,3,2,Ko,Sổ hồng,Tây Nam,11,False
+1157,Bán,1536000000,72.68,Quận 9,1,1,Có,Sổ hồng,Đông Bắc,11,True
+1158,Knc,6000000,79.56,Bình Dương,2,2,Có,Khác,Tây Nam,11,False
+1159,Knc,2000000000,43.48,Quận Bình Thạnh,2,2,Full,Sổ hồng,Đông Bắc,11,False
+1160,Knc,2246000000,58.0,Quận Gò Vấp,3,2,Có,Hợp đồng mua bán,Tây Nam,10,False
+1161,Knc,1826000000,66.56,Quận Bình Thạnh,2,2,Có,Khác,Đông Bắc,10,True
+1162,Knc,1,76.24,Quận Phú Nhuận,2,2,Có,Sổ hồng,Tây Nam,11,False
+1163,Bán rồi,1800000000,73.2,Quận Bình Tân,2,2,Ko,Sổ hồng,Đông Bắc,10,True
+1164,Knc,2600000000,63.84,Quận 7,2,2,Có,Hợp đồng mua bán,Đông Bắc,11,False
+1165,Knc,2100000000,42.24,Quận Tân Phú,3,2,Full,Sổ hồng,Đông Bắc,11,True
+1166,Knc,1700000000,42.24,Quận 10,2,2,Full,Sổ hồng,Đông Nam,5,False
+1167,Bán rồi,2228000000,59.92,Quận Bình Tân,2,2,Có,Sổ hồng,Tây Bắc,14,False
+1168,Knc,1900000000,43.6,Quận 7,2,2,Có,Sổ hồng,Tây Nam,11,False
+1169,Thuê,1700000000,79.04,Quận Tân Bình,3,2,Có,Hợp đồng mua bán,Tây Nam,11,True
+1170,Thuê,2100000000,75.56,Quận 11,2,2,Ko,Sổ hồng,Tây Nam,11,False
+1171,Knc,2200000000,58.76,Quận 3,2,2,Full,Sổ hồng,Tây Nam,11,False
+1172,Knc,1,55.36,Quận Tân Phú,2,2,Có,Sổ hồng,Đông Bắc,5,True
+1173,Knc,1620000000,56.56,Quận 5,3,2,Ko,Hợp đồng mua bán,Đông Bắc,4,True
+1174,Bán rồi,1700000000,73.0,Quận 1,2,2,Ko,Hợp đồng mua bán,Đông Bắc,4,True
+1175,Knc,2000000000,45.92,Quận 8,2,2,Full,Hợp đồng mua bán,Đông Bắc,4,True
+1176,Knc,2000000000,73.56,Quận Tân Bình,2,2,Có,Hợp đồng mua bán,Đông Bắc,4,True
+1177,Knc,1903000000,66.4,Quận 11,2,2,Có,Sổ hồng,Đông Bắc,4,True
+1178,Thuê rồi,1688000000,64.04,Quận Thủ Đức,2,2,Có,Hợp đồng mua bán,Tây Bắc,8,True
+1179,Knc,1853000000,74.24,Quận 9,2,2,Có,Sổ hồng,Đông Bắc,4,True
+1180,Bán rồi,2150000000,43.64,Quận Gò Vấp,2,2,Full,Sổ hồng,Đông Bắc,4,False
+1181,Bán,1506000000,76.8,Quận Bình Thạnh,1,1,Có,Khác,Đông Bắc,4,True
+1182,Knc,1696,66.64,Quận Phú Nhuận,2,2,Ko,Sổ hồng,Đông Bắc,4,False
+1183,Knc,18260,56.28,Quận Phú Nhuận,1,1,Có,Sổ hồng,Đông Bắc,4,False
+1184,Knc,2000000000,57.28,Quận Tân Phú,2,2,Có,Sổ hồng,Đông Bắc,4,False
+1185,Bán,2007000000,60.72,Quận 8,3,2,Full,Hợp đồng mua bán,Đông Bắc,5,True
+1186,Knc,1950000000,53.52,Quận 5,3,2,Có,Sổ hồng,Tây Nam,5,True
+1187,Knc,1700000000,76.88,Quận 9,3,2,Có,Sổ hồng,Tây Nam,5,True
+1188,Knc,1853000000,57.56,Quận 9,2,2,Full,Sổ hồng,Tây Bắc,16,False
+1189,Knc,1838000000,69.16,Quận 7,2,2,Ko,Hợp đồng mua bán,Đông Bắc,5,True
+1190,Knc,5918000000,40.64,Quận 3,3,2,Có,Hợp đồng mua bán,Đông Bắc,4,True
+1191,Knc,1700000000,55.36,Quận Bình Tân,2,2,Ko,Hợp đồng mua bán,Đông Bắc,5,False
+1192,Knc,1520000000,67.12,Quận Tân Bình,2,2,Full,Sổ hồng,Đông Bắc,5,True
+1193,Knc,1688000000,63.96,Quận 12,2,2,Full,Hợp đồng mua bán,Tây Nam,5,True
+1194,Knc,1686000000,75.84,Quận 1,2,2,Có,Khác,Đông Bắc,5,True
+1195,Knc,2150000000,60.56,Quận Gò Vấp,2,2,Ko,Hợp đồng mua bán,Tây Nam,5,False
+1196,Bán,1850000000,57.2,Quận 5,2,2,Ko,Hợp đồng mua bán,Tây Nam,5,True
+1197,Knc,1596000000,68.16,Quận 12,3,2,Ko,Khác,Tây Nam,5,False
+1198,Bán rồi,1700000000,45.44,Quận 8,2,2,Full,Hợp đồng mua bán,Tây Nam,18,True
+1199,Knc,2000000000,74.32,Quận 5,1,1,Ko,Hợp đồng mua bán,Đông Bắc,5,True
+1200,Thuê rồi,1950000000,66.88,Quận 4,2,2,Ko,Hợp đồng mua bán,Đông Bắc,6,True
+1201,Knc,2000000000,67.96,Quận 4,3,2,Ko,Hợp đồng mua bán,Đông Bắc,4,True
+1202,Knc,1900000000,50.08,Quận 6,2,2,Full,Sổ hồng,Tây Nam,5,True
+1203,Knc,2200000000,64.12,Quận 4,2,2,Ko,Khác,Đông Bắc,5,True
+1204,Knc,2100000000,46.2,Quận Tân Phú,2,2,Có,Hợp đồng mua bán,Đông Bắc,5,False
+1205,Knc,1750000000,77.44,Quận Bình Thạnh,2,2,Full,Khác,Đông Bắc,5,True
+1206,Bán,2000000000,70.64,Quận Phú Nhuận,3,2,Có,Sổ hồng,Đông Bắc,5,True
+1207,Knc,1900000000,73.52,Quận 9,3,2,Full,Sổ hồng,Tây Nam,6,True
+1208,Bán rồi,6500000,51.72,Quận Bình Tân,2,2,Full,Sổ hồng,Tây Nam,6,True
+1209,Thuê,1903000000,77.8,Quận 5,3,2,Có,Sổ hồng,Tây Nam,7,True
+1210,Bán rồi,2007000000,74.72,Quận 9,2,2,Có,Sổ hồng,Đông Nam,17,True
+1211,Thuê,1726000000,47.6,Quận 5,3,2,Có,Sổ hồng,Đông Bắc,6,False
+1212,Thuê,3100000000,41.88,Quận 3,2,2,Full,Sổ hồng,Tây Nam,6,False
+1213,Knc,1838000000,52.92,Quận Bình Tân,2,2,Ko,Khác,Đông Bắc,6,True
+1214,Bán rồi,2000000000,55.44,Quận Bình Thạnh,2,2,Ko,Hợp đồng mua bán,Tây Nam,6,False
+1215,Bán rồi,1980000000,52.56,Quận Thủ Đức,1,1,Full,Sổ hồng,Tây Bắc,16,True
+1216,Knc,2158000000,52.72,Quận 4,2,2,Full,Hợp đồng mua bán,Tây Nam,5,True
+1217,Knc,1900000000,68.52,Quận Tân Phú,2,2,Full,Sổ hồng,Đông Bắc,6,True
+1218,Bán rồi,1780000000,51.56,Quận 1,2,2,Ko,Khác,Tây Nam,6,False
+1219,Bán rồi,1550000000,62.72,Quận 6,2,2,Full,Sổ hồng,Đông Bắc,7,False
+1220,Knc,1900000000,53.48,Quận 11,2,2,Ko,Sổ hồng,Tây Nam,7,False
+1221,Thuê,1900000000,47.48,Quận 11,2,2,Ko,Sổ hồng,Tây Bắc,18,False
+1222,Knc,1900000000,61.28,Quận 1,2,2,Full,Hợp đồng mua bán,Tây Nam,10,True
+1223,Knc,3100000000,50.08,Quận Tân Bình,2,2,Ko,Sổ hồng,Tây Nam,5,False
+1224,Knc,2100000000,49.84,Quận 1,2,2,Ko,Sổ hồng,Tây Nam,7,False
+1225,Thuê,2464000000,43.16,Quận 7,2,2,Full,Sổ hồng,Tây Nam,6,True
+1226,Bán rồi,2056000000,72.48,Quận Tân Phú,1,1,Full,Sổ hồng,Đông Bắc,5,True
+1227,Bán,2000000000,43.36,Quận 9,3,2,Full,Sổ hồng,Đông Bắc,7,False
+1228,Knc,2100000000,52.96,Quận Tân Bình,2,2,Full,Sổ hồng,Tây Nam,6,False
+1229,Knc,2300000000,52.52,Quận 7,3,2,Có,Sổ hồng,Đông Bắc,7,False
+1230,Knc,4516000000,49.08,Quận 3,3,2,Full,Hợp đồng mua bán,Đông Bắc,7,False
+1231,Knc,1950000000,69.92,Quận 9,1,1,Có,Sổ hồng,Tây Bắc,16,False
+1232,Knc,1826000000,47.76,Quận 8,2,2,Ko,Hợp đồng mua bán,Đông Bắc,7,False
+1233,Knc,1850000000,70.56,Quận 2,2,2,Ko,Sổ hồng,Tây Nam,6,False
+1234,Knc,2600000000,77.96,Quận 4,3,2,Có,Hợp đồng mua bán,Tây Nam,6,False
+1235,Knc,1900000000,42.92,Quận 5,2,2,Có,Sổ hồng,Tây Nam,5,False
+1236,Thuê rồi,1826000000,41.44,Quận Gò Vấp,2,2,Ko,Sổ hồng,Tây Nam,6,True
+1237,Thuê,2200000000,49.2,Quận 11,2,2,Ko,Sổ hồng,Tây Nam,6,False
+1238,Knc,1788000000,50.72,Quận 4,2,2,Có,Hợp đồng mua bán,Tây Bắc,8,False
+1239,Bán rồi,2000000000,71.48,Bình Dương,2,2,Full,Sổ hồng,Tây Nam,7,False
+1240,Bán rồi,1803000000,48.16,Quận Bình Thạnh,2,2,Ko,Sổ hồng,Đông Bắc,6,False
+1241,Knc,1900000000,42.16,Quận Bình Tân,1,1,Ko,Sổ hồng,Đông Bắc,7,False
+1242,Knc,1550000000,58.76,Quận Tân Phú,2,2,Ko,Sổ hồng,Đông Bắc,7,True
+1243,Bán rồi,1550000000,58.92,Quận 11,2,2,Full,Hợp đồng mua bán,Tây Nam,6,True
+1244,Knc,1853000000,57.92,Quận 8,3,2,Có,Hợp đồng mua bán,Tây Nam,7,False
+1245,Thuê rồi,1950000000,44.92,Quận 6,2,2,Có,Sổ hồng,Đông Bắc,7,True
+1246,Knc,1686000000,79.32,Quận Gò Vấp,2,2,Có,Hợp đồng mua bán,Đông Bắc,7,True
+1247,Knc,1750000000,63.48,Quận 5,2,2,Full,Sổ hồng,Tây Nam,7,False
+1248,Knc,1688000000,47.32,Quận Phú Nhuận,3,2,Ko,Sổ hồng,Tây Nam,7,True
+1249,Bán rồi,2070000000,52.84,Quận Tân Bình,2,2,Có,Sổ hồng,Đông Bắc,7,True
+1250,Knc,1776000000,46.84,Quận Thủ Đức,3,2,Full,Sổ hồng,Đông Bắc,6,False
+1251,Knc,2150000000,51.24,Quận 8,3,2,Có,Khác,Tây Nam,7,False
+1252,Knc,2100000000,46.04,Quận Tân Bình,2,2,Có,Sổ hồng,Tây Bắc,17,True
+1253,Bán rồi,1800000000,46.96,Bình Dương,2,2,Có,Sổ hồng,Tây Nam,7,False
+1254,Thuê,6000000,78.48,Quận Thủ Đức,2,2,Ko,Sổ hồng,Tây Nam,7,True
+1255,Knc,7000000,48.24,Quận Thủ Đức,3,2,Có,Sổ hồng,Đông Nam,13,False
+1256,Bán,1900000000,64.52,Quận Bình Thạnh,2,2,Có,Sổ hồng,Đông Bắc,7,False
+1257,Knc,2500000000,72.52,Quận 1,3,2,Có,Hợp đồng mua bán,Tây Nam,12,True
+1258,Knc,2056000000,42.16,Quận Bình Thạnh,2,2,Ko,Sổ hồng,Tây Nam,7,True
+1259,Knc,1688000000,79.76,Quận 9,1,1,Có,Hợp đồng mua bán,Đông Bắc,7,False
+1260,Bán,2046000000,51.48,Quận 8,2,2,Full,Sổ hồng,Đông Bắc,15,False
+1261,Knc,2100000000,79.44,Quận 6,2,2,Có,Hợp đồng mua bán,Tây Nam,6,False
+1262,Knc,1750000000,70.8,Quận 11,1,1,Full,Sổ hồng,Đông Bắc,6,True
+1263,Bán rồi,1903000000,68.0,Quận Bình Thạnh,3,2,Full,Sổ hồng,Tây Nam,6,True
+1264,Thuê,2300000000,53.88,Quận 12,2,2,Ko,Khác,Tây Bắc,19,True
+1265,Knc,2100000000,43.0,Quận 12,2,2,Ko,Sổ hồng,Tây Nam,7,True
+1266,Knc,6000000,53.28,Quận 8,2,2,Có,Sổ hồng,Đông Bắc,7,True
+1267,Bán,1800000000,47.24,Quận Bình Tân,2,2,Có,Hợp đồng mua bán,Đông Bắc,7,True
+1268,Knc,1750000000,76.44,Quận 3,2,2,Ko,Sổ hồng,Tây Nam,7,True
+1269,Knc,1838000000,64.92,Quận 11,2,2,Full,Hợp đồng mua bán,Tây Nam,6,True
+1270,Thuê rồi,1686000000,48.52,Quận Bình Tân,2,2,Full,Sổ hồng,Tây Nam,7,True
+1271,Knc,1696,61.12,Quận 4,3,2,Ko,Sổ hồng,Tây Nam,7,True
