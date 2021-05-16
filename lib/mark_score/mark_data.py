@@ -4,7 +4,7 @@ import os, sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 from string_to_vec import w2v, dictionary
 
-request = ["Thuê", 2100000000, 72.36, "Bình Dương", 2, 2, "Có", "Sổ hồng", "Tây", 7, True]
+request = ["Thuê", 2100000000, 72.36, "Bình Dương", 2, 2, "Có", "Sổ hồng", "Tây", 7]
 
 #return to normalized vectors
 def normalize_request(request, path):
@@ -40,7 +40,7 @@ def list_mark_score(request, path):
     list_mark_data = []
     vectors = get_data_from_csv(path)
     for i in range(len(vectors)):
-        price = mark.mark_money(vectors[i][1], request[1])
+        price = mark.mark_price(vectors[i][1], request[1])
         area = mark.mark_area(vectors[i][2], request[2])
         location = mark.mark_area(vectors[i][3], request[3])
         room = mark.mark_room(vectors[i][4],request[4])
@@ -49,11 +49,9 @@ def list_mark_score(request, path):
         juridical = mark.mark_juridical(vectors[i][7], request[7])
         view = mark.mark_view(vectors[i][8], request[8])
         floor = mark.mark_floor(vectors[i][9], request[9])
-        hot = mark.mark_juridical(vectors[i][10], request[10])
+        hot = mark.mark_hot(vectors[i][10])
         all_attr = [price, area, location, room, wc, furniture,juridical, view, floor, hot]
         list_mark_data.append(all_attr)
     return list_mark_data
-# l = list_mark_score(normalize_request(request, '../../dataset/Myhub_dataset.csv'), '../../dataset/Myhub_dataset.csv')
-# print(l[1:20])
-
-
+l = list_mark_score(normalize_request(request, '../../dataset/Myhub_dataset.csv'), '../../dataset/Myhub_dataset.csv')
+print(l[:10])

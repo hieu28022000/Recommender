@@ -1,4 +1,4 @@
-import dictionary
+from string_to_vec import dictionary
 
 # single comversion
 def str2vec(str, dict):
@@ -31,10 +31,10 @@ def Convert_obj2vector(line, dataset):
     address = dataset['Địa chỉ']
     furniture = dataset['Nội thất']
     juridical = dataset['Pháp lý sở hữu']
-    dict_cls = indexing(cls)
-    dict_address = indexing(address)
-    dict_furniture = indexing(furniture)
-    dict_juridical = indexing(juridical)
+    dict_cls = dictionary.indexing(cls)
+    dict_address = dictionary.indexing(address)
+    dict_furniture = dictionary.indexing(furniture)
+    dict_juridical = dictionary.indexing(juridical)
 
     vector = [0,0,0,0,0,0,0,0,0,0,0]
     vector[0] = str2vec(line[0], dict_cls)
