@@ -1,5 +1,5 @@
 from numpy import double
-def mark_money(value_attr, request):
+def mark_price(value_attr, request):
     money = 100000000
     result = request - int(value_attr)
     if(result>0 and result<money):
@@ -25,7 +25,7 @@ def mark_money(value_attr, request):
 
 def mark_floor(value_attr,request):
     floor = 0
-    floor = request - value_attr
+    floor = request - int(value_attr)
     if(floor==0):
         return 10
     elif(floor==1 or floor==-1):
@@ -46,12 +46,42 @@ def mark_view(value_attr, request):
             return double(10/len(request))
     return 0
 def mark_area(value_attr, request):
-    result = request - value_attr
+    result = request - float(value_attr)
     if(abs(result)<5):
         return 10
     elif(abs(result)<15):
         return 5
     else:
         return 0
+def mark_room(value_attr, request):
+    result = request - int(value_attr)
+    if(abs(result)==0):
+        return 10
+    if(abs(result)==1):
+        return 5
+    else:
+        return 0
+def mark_wc(value_attr, request):
+    result = request - int(value_attr)
+    if(abs(result)==0):
+        return 10
+    if(abs(result)==1):
+        return 5
+    else:
+        return 0
+def mark_furniture(value_attr, request):
+    if(value_attr==request):
+        return 10
+    else:
+        return 0
+def mark_juridical(value_attr, request):
+    if(value_attr==request):
+        return 10
+    else:
+        return 0
+def mark_hot(value_attr):
+    if(value_attr == 'true'):
+        return 10
+    return 0
 
 print(mark_area(70, 80))
