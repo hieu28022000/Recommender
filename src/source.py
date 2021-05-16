@@ -1,12 +1,54 @@
+import __init__
+
+import json
+import math
 import numpy as np
 import pandas as pd
 import sklearn as skl
-import math
+
+from lib.mark_score.mark import *
+from lib.string_to_vec.w2v import *
+from lib.mark_score.mark_data import *
+from lib.string_to_vec.dictionary import *
+
 
 # Read dataset file
 def Read_dataset(dataset_path):
     dataset = pd.read_csv(dataset_path).drop('Unnamed: 0', axis=1)
     return dataset
+
+# Get line in dataset
+def Get_line(num_line, dataset):
+    line = dataset[num_line:num_line+1]
+    line = line.values[0]
+    return line
+
+# Input
+def Request_input():
+    print('Nhập nhu cầu: ')
+    nhu_cau = input()
+    print('Nhập giá tiền: ')
+    gia = int(input())
+    print('Nhập diện tích: ')
+    dien_tich = float(input())
+    print('Nhập vị trí: ')
+    dia_chi = input()
+    print('Nhập số phòng ngủ: ')
+    phong_ngu = int(input())
+    print('Nhập số phòng vệ sinh: ')
+    phong_wc = int(input())
+    print('Nhập nội thất: ')
+    noi_that = input()
+    print('Nhập pháp lý sở hữu: ')
+    phap_ly = input()
+    print('Nhập view/hướng: ')
+    view = input()
+    print('Nhập số tầng: ')
+    tang = int(input())
+    print('Có hot hay không:')
+    hot = bool(input())
+    request = [nhu_cau, gia, dien_tich, dia_chi, phong_ngu, phong_wc, noi_that, phap_ly, view, tang, hot]
+    return request
 
 # Calcualte distance of obj and request with Numpy euclidean
 def Cal_distance(score):
@@ -34,11 +76,44 @@ def Normalize_with_cofig(score, cfg):
         result[index] = (score[index] * sigmoid(cfg[index]*5 / max(cfg)))
     return result
 
+def Load_config(cfg_path):
+    cfg = []
+    with open(cfg_path) as json_file:
+        data = json.load(json_file)
+    for info in data:
+        cfg.append(int(data[info]))
+    return cfg
+
+def Run(dataset_path, cfg_path):
+    dataset = Read_dataset(dataset_path)
+    cfg = Load_config(cfg_path)
+    request = Request_input()
+    request_vector = Convert_obj2vector(request, dataset)
+    list_distance = []
+    for index in range(len(dataset)):
+        dataset_line = Convert_obj2vector(Get_line(index, dataset), dataset)
+        vector_score = mark_score(request_vector, dataset_line)
+        distance = Cal_distance(vector_score)
+        list_distance.append(distance)
+    top = Ranking_output(10, list_distance)
+    for i in top:
+        print(Get_line(i, dataset))
+
+dataset_path = './dataset/Myhub_dataset.csv'
+cfg_path = './lib/config/basic.json'
+
+Run(dataset_path,cfg_path)
 
 
 
-
-
-dataset_path = '../dataset/Myhub_dataset.csv'
-dataset = Read_dataset(dataset_path)
-print(dataset)
+# Thuê
+# 2000000000
+# 72.36
+# Bình Dương
+# 3
+# 2
+# Full
+# Sổ hồng
+# Tây
+# 7
+# 0

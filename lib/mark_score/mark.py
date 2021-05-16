@@ -1,5 +1,11 @@
 from numpy import double
-def mark_money(value_attr, request):
+
+def mark_demand(data_demand, request_demand):
+    if int(data_demand) == int(request_demand):
+        return 10
+    return 0
+
+def mark_price(value_attr, request):
     money = 100000000
     result = request - int(value_attr)
     if(result>0 and result<money):
@@ -23,9 +29,56 @@ def mark_money(value_attr, request):
     else:
         return 0
 
+def mark_area(value_attr, request):
+    result = request - float(value_attr)
+    if(abs(result)<5):
+        return 10
+    elif(abs(result)<15):
+        return 5
+    else:
+        return 0
+
+def mark_location(data_location, request_location):
+    if int(data_location) == int(request_location):
+        return 10
+    return 0
+
+def mark_room(value_attr, request):
+    result = request - int(value_attr)
+    if(abs(result)==0):
+        return 10
+    if(abs(result)==1):
+        return 5
+    else:
+        return 0
+
+def mark_wc(value_attr, request):
+    result = request - int(value_attr)
+    if(abs(result)==0):
+        return 10
+    if(abs(result)==1):
+        return 5
+    else:
+        return 0
+def mark_furniture(value_attr, request):
+    if(value_attr==request):
+        return 10
+    else:
+        return 0
+def mark_juridical(value_attr, request):
+    if(value_attr==request):
+        return 10
+    else:
+        return 0
+
+def mark_view(value_attr, request):
+    if(request==value_attr):
+        return 10
+    return 0
+
 def mark_floor(value_attr,request):
     floor = 0
-    floor = request - value_attr
+    floor = request - int(value_attr)
     if(floor==0):
         return 10
     elif(floor==1 or floor==-1):
@@ -40,18 +93,8 @@ def mark_floor(value_attr,request):
         return 5
     else:
         return 0
-def mark_view(value_attr, request):
-    for j in range(len(request)):
-        if(request[j]==value_attr):
-            return double(10/len(request))
-    return 0
-def mark_area(value_attr, request):
-    result = request - value_attr
-    if(abs(result)<5):
-        return 10
-    elif(abs(result)<15):
-        return 5
-    else:
-        return 0
 
-print(mark_area(70, 80))
+def mark_hot(value_attr):
+    if(value_attr == 'true'):
+        return 10
+    return 0
