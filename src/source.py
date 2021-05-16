@@ -59,6 +59,9 @@ def Cal_distance(score):
 
 # Ranking distance and output is index of top
 def Ranking_output(nums_top, list_values):  
+    if len(list_values) < nums_top:
+        nums_top = len(list_values)
+        print('Chỉ có chừng này thôi ><!')
     index_sorted = sorted(range(len(list_values)), key=list_values.__getitem__)
     index_top = []
     for num in range(nums_top):
@@ -71,7 +74,7 @@ def sigmoid(x):
 
 # Update score with cofig
 def Normalize_with_cofig(score, cfg):
-    result = [0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., ]
+    result = [0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]
     for index in range(11):
         result[index] = (score[index] * sigmoid(cfg[index]*5 / max(cfg)))
     return result
@@ -85,19 +88,32 @@ def Load_config(cfg_path):
     return cfg
 
 def Run(dataset_path, cfg_path):
+    # INPUT
+    request = Request_input()
     dataset = Read_dataset(dataset_path)
     cfg = Load_config(cfg_path)
-    request = Request_input()
+    
+    # PROCESSING
     request_vector = Convert_obj2vector(request, dataset)
-    list_distance = []
+
+    fit_dataset = []
     for index in range(len(dataset)):
-        dataset_line = Convert_obj2vector(Get_line(index, dataset), dataset)
-        vector_score = mark_score(request_vector, dataset_line)
+        line = Get_line(index, dataset)
+        line_vector = Convert_obj2vector(line, dataset)
+        if (line[0] == request[0] and line[8] == request[8]):
+            fit_dataset.append(line)
+    print(len(fit_dataset))
+    
+    list_distance = []
+    for aparment in fit_dataset:
+        line_vector = Convert_obj2vector(aparment, dataset)
+        vector_score = mark_score(request_vector, line_vector)
+        vector_score = Normalize_with_cofig(vector_score, cfg)
         distance = Cal_distance(vector_score)
         list_distance.append(distance)
     top = Ranking_output(10, list_distance)
     for i in top:
-        print(Get_line(i, dataset))
+        print(fit_dataset[i])
 
 dataset_path = './dataset/Myhub_dataset.csv'
 cfg_path = './lib/config/basic.json'
@@ -106,14 +122,14 @@ Run(dataset_path,cfg_path)
 
 
 
-# Thuê
+# Bán
 # 2000000000
 # 72.36
-# Bình Dương
+# Quận 1
 # 3
 # 2
 # Full
 # Sổ hồng
-# Tây
+# Tây Nam
 # 7
 # 0
