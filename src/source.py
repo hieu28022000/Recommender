@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import sklearn as skl
+import math
 
 # Read dataset file
 def Read_dataset(dataset_path):
@@ -22,7 +23,16 @@ def Ranking_output(nums_top, list_values):
         index_top.append(index_sorted[num])
     return index_top
 
+# Sigmoid function
+def sigmoid(x):
+    return 1 / (1 + math.exp(-x))
 
+# Update score with cofig
+def Normalize_with_cofig(score, cfg):
+    result = [0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., ]
+    for index in range(11):
+        result[index] = (score[index] * sigmoid(cfg[index]*5 / max(cfg)))
+    return result
 
 
 
