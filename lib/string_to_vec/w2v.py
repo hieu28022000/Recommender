@@ -1,5 +1,4 @@
-from string_to_vec import dictionary
-
+from lib.string_to_vec.dictionary import *
 # single comversion
 def str2vec(str, dict):
     str = str.lower()
@@ -27,14 +26,19 @@ def Get_line(num_line, dataset):
 
 # Convert an object to vector
 def Convert_obj2vector(line, dataset):
+    if line[4] == 'Shophouse':
+        line[4] = 0
+        line[5] = 0
     cls = dataset['Nhu cầu']
     address = dataset['Địa chỉ']
     furniture = dataset['Nội thất']
     juridical = dataset['Pháp lý sở hữu']
-    dict_cls = dictionary.indexing(cls)
-    dict_address = dictionary.indexing(address)
-    dict_furniture = dictionary.indexing(furniture)
-    dict_juridical = dictionary.indexing(juridical)
+    view = dataset['View']
+    dict_cls = indexing(cls)
+    dict_address = indexing(address)
+    dict_furniture = indexing(furniture)
+    dict_juridical = indexing(juridical)
+    dict_view = indexing(view)
 
     vector = [0,0,0,0,0,0,0,0,0,0,0]
     vector[0] = str2vec(line[0], dict_cls)
@@ -45,6 +49,7 @@ def Convert_obj2vector(line, dataset):
     vector[5] = int(line[5])
     vector[6] = str2vec(line[6], dict_furniture)
     vector[7] = str2vec(line[7], dict_juridical)
-    vector[8] = line[8]
+    vector[8] = str2vec(line[8], dict_view)
     vector[9] = int(line[9])
+    vector[10] = line[10]
     return vector
