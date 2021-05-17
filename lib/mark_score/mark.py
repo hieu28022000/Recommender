@@ -1,4 +1,5 @@
 from numpy import double
+from lib.distance.location_distance import *
 
 def mark_demand(data_demand, request_demand):
     if int(data_demand) == int(request_demand):
@@ -38,10 +39,11 @@ def mark_area(value_attr, request):
     else:
         return 0
 
-def mark_location(data_location, request_location):
-    if int(data_location) == int(request_location):
-        return 10
-    return 0
+def mark_location(loc1, loc_request):
+    dist = location_distance(loc1[0], loc1[1], loc_request[0], loc_request[1])
+    max_dist = location_distance(1.3, 3.0, 5.8, 1.7)
+    dist = 10 - (dist/max_dist)*10
+    return dist
 
 def mark_room(value_attr, request):
     result = request - int(value_attr)
@@ -98,3 +100,4 @@ def mark_hot(value_attr):
     if(value_attr == 'true'):
         return 10
     return 0
+
