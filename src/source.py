@@ -51,27 +51,14 @@ def Request_input():
     request = [nhu_cau, gia, dien_tich, dia_chi, phong_ngu, phong_wc, noi_that, phap_ly, view, tang, hot]
     return request
 
-# Load location map
-def Load_map(map_path):
-    map = json.load(open(map_path))
-    x_location = []
-    y_location = []
-    list_location = np.zeros((19,2), dtype=float)
-    i=0
-    for location in map:
-        j=0
-        x_location.append(map[location]['x'])
-        y_location.append(-map[location]['y'])
-        list_location[i][j] = map[location]['x']
-        j+= 1
-        list_location[i][j] = map[location]['y']
-        i+=1
-    return list_location
+
 
 # Calcualte distance of obj and request with Numpy euclidean
 def Cal_distance(score):
-    score1D = np.array(score)
-    ground_truth1D = np.array((10., 10., 10., 10., 10., 10., 10., 10., 10., 10., 10.))
+    # score1D = np.array(score)
+    # ground_truth1D = np.array((10., 10., 10., 10., 10., 10., 10., 10., 10., 10., 10.))
+    score1D = np.array((score[1], score[3]*10))
+    ground_truth1D = np.array((10., 100.))
     distance = np.linalg.norm(score1D - ground_truth1D)
     return distance
 
@@ -121,6 +108,7 @@ def Run(dataset_path, cfg_path):
         if (line[0] == request[0] and line[8] == request[8]):
             fit_dataset.append(line)
     print(len(fit_dataset))
+
     
     list_distance = []
     for aparment in fit_dataset:
@@ -132,21 +120,3 @@ def Run(dataset_path, cfg_path):
     top = Ranking_output(10, list_distance)
     for i in top:
         print(fit_dataset[i])
-
-dataset_path = './dataset/Myhub_dataset.csv'
-cfg_path = './lib/config/basic.json'
-
-Run(dataset_path,cfg_path)
-
-
-# Bán
-# 2000000000
-# 72.36
-# Quận 1
-# 3
-# 2
-# Full
-# Sổ hồng
-# Tây Nam
-# 7
-# 0
