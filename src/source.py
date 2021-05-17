@@ -6,6 +6,7 @@ import numpy as np
 import pandas as pd
 import sklearn as skl
 
+from time import time
 from lib.mark_score.mark import *
 from lib.string_to_vec.w2v import *
 from lib.mark_score.mark_data import *
@@ -49,6 +50,23 @@ def Request_input():
     hot = bool(input())
     request = [nhu_cau, gia, dien_tich, dia_chi, phong_ngu, phong_wc, noi_that, phap_ly, view, tang, hot]
     return request
+
+# Load location map
+def Load_map(map_path):
+    map = json.load(open(map_path))
+    x_location = []
+    y_location = []
+    list_location = np.zeros((19,2), dtype=float)
+    i=0
+    for location in map:
+        j=0
+        x_location.append(map[location]['x'])
+        y_location.append(-map[location]['y'])
+        list_location[i][j] = map[location]['x']
+        j+= 1
+        list_location[i][j] = map[location]['y']
+        i+=1
+    return list_location
 
 # Calcualte distance of obj and request with Numpy euclidean
 def Cal_distance(score):
@@ -119,7 +137,6 @@ dataset_path = './dataset/Myhub_dataset.csv'
 cfg_path = './lib/config/basic.json'
 
 Run(dataset_path,cfg_path)
-
 
 
 # Bán
