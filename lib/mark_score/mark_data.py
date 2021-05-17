@@ -1,40 +1,23 @@
-import pandas as pd
+import json
+import numpy as np
 from lib.mark_score import  mark
-from lib.string_to_vec import w2v, dictionary
 
-# request = ["Thuê", 2100000000, 72.36, "Bình Dương", 2, 2, "Có", "Sổ hồng", "Tây", 7]
+def Load_map(map_path):
+    map = json.load(open(map_path))
+    x_location = []
+    y_location = []
+    list_location = np.zeros((19,2), dtype=float)
+    i=0
+    for location in map:
+        j=0
+        x_location.append(map[location]['x'])
+        y_location.append(-map[location]['y'])
+        list_location[i][j] = map[location]['x']
+        j+= 1
+        list_location[i][j] = map[location]['y']
+        i+=1
+    return x_location,y_location, list_location
 
-#return to normalized vectors
-# def normalize_request(request, path):
-#     data = pd.read_csv(path)
-#     request = w2v.Convert_obj2vector(request, data)
-#     return request
-#get and return a list of vectors from file csv
-# def get_data_from_csv(path):
-#     data = pd.read_csv(path)
-#     demand = data['Nhu cầu']
-#     address= data['Địa chỉ']
-#     total_money = data['Tổng tiền']
-#     area = data['Diện tích']
-#     floor = data['Tầng']
-#     views = data['View']
-#     room = data['Phòng ngủ']
-#     WC = data['Phòng vệ sinh']
-#     furniture = data['Nội thất']
-#     juridical = data['Pháp lý sở hữu']
-#     hot = data['Hot']
-#     attr = []
-#     list_vectors = []
-#     list_attr = []
-#     for i in range(len(demand)):
-#         attr = [demand[i], total_money[i], area[i], address[i], room[i], WC[i], furniture[i], juridical[i], views[i], floor[i], hot[i]]
-#         list_attr.append(attr)
-#     # normalizing data
-#     for i in range(len(list_attr[0])):
-#             list_vectors.append(w2v.Convert_obj2vector(list_attr[i],data))
-#     return list_vectors
-# return list of marked vectors
-# return list of marked vectors
 def mark_score(request, data_line):
     vectors = data_line
     demand = mark.mark_demand(vectors[0], request[0])
@@ -50,5 +33,3 @@ def mark_score(request, data_line):
     hot = mark.mark_juridical(vectors[10], request[10])
     vector_score = [demand, price, area, location, room, wc, furniture,juridical, view, floor, hot]
     return vector_score
-# l = list_mark_score(normalize_request(request, '../../dataset/Myhub_dataset.csv'), '../../dataset/Myhub_dataset.csv')
-# print(l[:10])
