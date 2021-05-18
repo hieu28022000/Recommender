@@ -30,24 +30,31 @@ def Request_input():
     nhu_cau = input()
     print('Nhập giá tiền: ')
     gia = int(input())
-    print('Nhập diện tích: ')
-    dien_tich = float(input())
+    # print('Nhập diện tích: ')
+    # dien_tich = float(input())
+    dien_tich = 70
     print('Nhập vị trí: ')
     dia_chi = input()
-    print('Nhập số phòng ngủ: ')
-    phong_ngu = int(input())
-    print('Nhập số phòng vệ sinh: ')
-    phong_wc = int(input())
-    print('Nhập nội thất: ')
-    noi_that = input()
-    print('Nhập pháp lý sở hữu: ')
-    phap_ly = input()
+    # print('Nhập số phòng ngủ: ')
+    # phong_ngu = int(input())
+    phong_ngu = 2
+    # print('Nhập số phòng vệ sinh: ')
+    # phong_wc = int(input())
+    phong_wc = 2
+    # print('Nhập nội thất: ')
+    # noi_that = input()
+    noi_that = 'Có'
+    # print('Nhập pháp lý sở hữu: ')
+    # phap_ly = input()
+    phap_ly = 'Sổ hồng'
     print('Nhập view/hướng: ')
     view = input()
-    print('Nhập số tầng: ')
-    tang = int(input())
-    print('Có hot hay không:')
-    hot = bool(input())
+    # print('Nhập số tầng: ')
+    # tang = int(input())
+    tang = 12
+    # print('Có hot hay không:')
+    # hot = bool(input())
+    hot = 0
     request = [nhu_cau, gia, dien_tich, dia_chi, phong_ngu, phong_wc, noi_that, phap_ly, view, tang, hot]
     return request
 
@@ -107,7 +114,7 @@ def Run(dataset_path, cfg_path):
         line_vector = Convert_obj2vector(line, dataset)
         if (line[0] == request[0] and line[8] == request[8]):
             fit_dataset.append(line)
-    print(len(fit_dataset))
+    # print(len(fit_dataset))
 
     
     list_distance = []
