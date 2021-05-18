@@ -25,28 +25,7 @@ def mark_demand(data_demand, request_demand):
     return 0
 
 def mark_price(value_attr, request):
-    # money = 100000000
     result = abs(request - int(value_attr))
-    # if(result>0 and result<money):
-    #     return 4
-    # elif(result>money and result<money*2):
-    #     return 3
-    # elif(result>money*2 and result<money*3):
-    #     return 2
-    # elif (result > money*3 and result<money*4):
-    #     return 1
-    # elif (result >-money and result < 0):
-    #     return 10
-    # elif (result > -money and result < -money*2):
-    #     return 9
-    # elif (result > -money*2 and result <-3*money):
-    #     return 8
-    # elif (result > -money*3 and result < -money*4):
-    #     return 7
-    # elif (result > -money*4 and result < -money*5):
-    #     return 6
-    # else:
-    #     return 0
     if result < 100000000:
         return 10
     elif result < 300000000:
