@@ -1,73 +1,68 @@
 import __init__
-
 import json
-import math
 import numpy as np
 import pandas as pd
-import sklearn as skl
+from libs.distance.sigmoid import sigmoid
+from libs.word_to_vec.object_w2v import object_w2v
+from libs.mark_score.object_mark_score import object_mark_score
+from libs.distance.object_distance import object_distance
 
-from time import time
-from lib.mark_score.mark import *
-from lib.string_to_vec.w2v import *
-from lib.mark_score.mark_data import *
-from lib.string_to_vec.dictionary import *
+def Get_request():
+    request_input = ['Bán', '2100000000', '59.67', 'Quận 10', '3', '2', 'Có', 'HDMB', 'Tây Nam', '12', 'True']
+    return request_input
 
+# Load map function return list name location and list location on map
+def Load_map(map_path):
+    map = json.load(open(map_path, encoding='utf8'))
+    list_location = []
+    list_map = []
+    for loc in map:
+        list_location.append(loc.lower())
+        x_loc = map[loc]['x']
+        y_loc = map[loc]['y']
+        list_map.append([x_loc, y_loc])
+    return list_location, list_map
 
-# Read dataset file
-def Read_dataset(dataset_path):
+# Load dataset function return dataset type board csv
+def Load_dataset(dataset_path):
     dataset = pd.read_csv(dataset_path).drop('Unnamed: 0', axis=1)
     return dataset
+
+# Load on-off attribute
+def Load_onoff(onoff_file_path):
+    onoff = open(onoff_file_path).read().split(',')
+    list_onoff = []
+    for o in onoff:
+        list_onoff.append(int(o))
+    return list_onoff
+
+# Load config
+def Load_config(cfg_path):
+    cfg = []
+    with open(cfg_path) as json_file:
+        data = json.load(json_file)
+    for info in data:
+        cfg.append(int(data[info]))
+    return cfg
 
 # Get line in dataset
 def Get_line(num_line, dataset):
     line = dataset[num_line:num_line+1]
     line = line.values[0]
-    return line
+    result_line = []
+    for attribute in line:
+        result_line.append(str(attribute))
+    return result_line
 
-# Input
-def Request_input():
-    print('Nhập nhu cầu: ')
-    nhu_cau = input()
-    print('Nhập giá tiền: ')
-    gia = int(input())
-    # print('Nhập diện tích: ')
-    # dien_tich = float(input())
-    dien_tich = 70
-    print('Nhập vị trí: ')
-    dia_chi = input()
-    # print('Nhập số phòng ngủ: ')
-    # phong_ngu = int(input())
-    phong_ngu = 2
-    # print('Nhập số phòng vệ sinh: ')
-    # phong_wc = int(input())
-    phong_wc = 2
-    # print('Nhập nội thất: ')
-    # noi_that = input()
-    noi_that = 'Có'
-    # print('Nhập pháp lý sở hữu: ')
-    # phap_ly = input()
-    phap_ly = 'Sổ hồng'
-    print('Nhập view/hướng: ')
-    view = input()
-    # print('Nhập số tầng: ')
-    # tang = int(input())
-    tang = 12
-    # print('Có hot hay không:')
-    # hot = bool(input())
-    hot = 0
-    request = [nhu_cau, gia, dien_tich, dia_chi, phong_ngu, phong_wc, noi_that, phap_ly, view, tang, hot]
-    return request
-
-
-
-# Calcualte distance of obj and request with Numpy euclidean
-def Cal_distance(score):
-    # score1D = np.array(score)
-    # ground_truth1D = np.array((10., 10., 10., 10., 10., 10., 10., 10., 10., 10., 10.))
-    score1D = np.array((score[1], score[3]*10))
-    ground_truth1D = np.array((10., 100.))
-    distance = np.linalg.norm(score1D - ground_truth1D)
-    return distance
+# Update score with cofig
+def Normalize_with_cofig(score, cfg):
+    result = []
+    for index in range(len(score)):
+        if score[index] == None:
+            result.append(None)
+        else:
+            result.append(score[index] * sigmoid(int(cfg[index])*5 / int(max(cfg))))
+    return result
 
 # Ranking distance and output is index of top
 def Ranking_output(nums_top, list_values):  
@@ -80,50 +75,35 @@ def Ranking_output(nums_top, list_values):
         index_top.append(index_sorted[num])
     return index_top
 
-# Sigmoid function
-def sigmoid(x):
-    return 1 / (1 + math.exp(-x))
-
-# Update score with cofig
-def Normalize_with_cofig(score, cfg):
-    result = [0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]
-    for index in range(11):
-        result[index] = (score[index] * sigmoid(cfg[index]*5 / max(cfg)))
-    return result
-
-def Load_config(cfg_path):
-    cfg = []
-    with open(cfg_path) as json_file:
-        data = json.load(json_file)
-    for info in data:
-        cfg.append(int(data[info]))
-    return cfg
-
-def Run(dataset_path, cfg_path):
-    # INPUT
-    request = Request_input()
-    dataset = Read_dataset(dataset_path)
+# main function to run system
+def run_source(request_input, map_path, dataset_path, cfg_path):
+    list_loc, list_map = Load_map(map_path)
+    dataset = Load_dataset(dataset_path)
     cfg = Load_config(cfg_path)
-    
-    # PROCESSING
-    request_vector = Convert_obj2vector(request, dataset)
-
-    fit_dataset = []
-    for index in range(len(dataset)):
-        line = Get_line(index, dataset)
-        line_vector = Convert_obj2vector(line, dataset)
-        if (line[0] == request[0] and line[8] == request[8]):
-            fit_dataset.append(line)
-    # print(len(fit_dataset))
-
-    
+    request_w2v = object_w2v(request_input, list_loc, list_map)
     list_distance = []
-    for aparment in fit_dataset:
-        line_vector = Convert_obj2vector(aparment, dataset)
-        vector_score = mark_score(request_vector, line_vector)
-        vector_score = Normalize_with_cofig(vector_score, cfg)
-        distance = Cal_distance(vector_score)
-        list_distance.append(distance)
-    top = Ranking_output(10, list_distance)
-    for i in top:
-        print(fit_dataset[i])
+    same_demand_dataset = []
+    for index in range(len(dataset)):
+        # INPUT
+        data_input = Get_line(index, dataset)
+        # W2V
+        data_w2v = object_w2v(data_input, list_loc, list_map)
+        if data_w2v[0] == request_w2v[0] and data_w2v[8] == request_w2v[8]:
+            same_demand_dataset.append(data_input)
+    
+    for data_input in same_demand_dataset:
+        # W2V
+        data_w2v = object_w2v(data_input, list_loc, list_map)
+        # Score
+        data_score = object_mark_score(data_w2v, request_w2v, list_map)
+        # Update score with config
+        data_score = Normalize_with_cofig(data_score, cfg)
+        # DISTANCE
+        data_dist = object_distance(data_score)
+        list_distance.append(data_dist)
+    indexs_of_top = Ranking_output(10, list_distance)
+    for index in indexs_of_top:
+        print(same_demand_dataset[index])
+        # print(list_distance[index])
+        
+
