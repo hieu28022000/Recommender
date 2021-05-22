@@ -1,0 +1,2112 @@
+,Nhu cầu,Tổng tiền,Diện tích,Địa chỉ,Phòng ngủ,Phòng vệ sinh,Nội thất,Pháp lý sở hữu,View,Tầng,Hot,Mã căn
+0,Thuê,8000000,67.2,thủ đức,2,2,Full,HDMB,Đông Bắc,8.0,False,C1.08.06-4S Linh Đông
+1,Bán,2620000000,74.0,None,2,2,Ko,None,Đông Bắc,0.0,False,OPBB0203033-Opal Boulevard
+2,Thuê,10000000,75.0,None,2,2,Ko,None,Đông Bắc,None,False,OPBA02032006-Opal Boulevard
+3,Thuê,8000000,73.0,None,2,2,Ko,None,Đông Bắc,None,False,OPBA02028005-Opal Boulevard
+4,Thuê,10000000,73.0,None,2,2,Ko,None,Đông Bắc,None,False,OPBA02033005-Opal Boulevard
+5,Thuê,8000000,73.0,None,2,2,Ko,None,Đông Bắc,None,False,OPBA02021005-Opal Boulevard
+6,Thuê,12000000,99.0,None,3,2,Ko,None,Đông Bắc,None,False,OPBA02017003-Opal Boulevard
+7,Thuê,10000000,73.43,quận 8,2,2,Có,HDMB,Tây,20.0,False,B20-16-Diamond Riverside
+8,Thuê,9000000,86.22,quận 8,None,None,None,HDMB,Bắc,13.0,False,C12A-21-Diamond Riverside
+9,Bán,10000000000,None,None,Shophouse,Shophouse,Full,None,None,None,False,D-S10-Diamond Riverside
+10,Thuê,50000000,0.0,quận 8,Shophouse,Shophouse,None,HDMB,Bắc,1.0,False,B-S8-Diamond Riverside
+11,Thuê,10000000,73.29,quận 8,2,2,None,None,Tây Nam,25.0,False,B1-25-05-City Gate Tower
+12,Bán,2500000000,78.79,quận 8,2,2,None,None,Đông Bắc,15.0,False,B1-15-10-City Gate Tower
+13,Thuê,6000000,92.23,quận 8,3,2,Ko,None,Đông Nam,17.0,False,B1-17-12A-City Gate Tower
+14,Bán,2250000000,73.29,quận 8,2,2,Full,None,Đông Bắc,16.0,False,B1-16-12-City Gate Tower
+15,Thuê,10000000,73.29,quận 8,2,2,Full,None,Đông Bắc,11.0,False,B1-11-07-City Gate Tower
+16,Bán,2200000000,73.29,quận 8,2,2,Có,None,Đông Bắc,27.0,False,A2-27-03-City Gate Tower
+17,Thuê,6500000,73.29,quận 8,2,2,Ko,None,Đông Bắc,19.0,False,A2-19-04-City Gate Tower
+18,Bán,2700000000,92.23,quận 8,3,2,Ko,None,Tây Bắc,24.0,False,A2-24-01-City Gate Tower
+19,Thuê,9000000,78.79,quận 8,2,2,Ko,None,Tây Nam,20.0,False,A2-20-09-City Gate Tower
+20,Thuê,10000000,71.91,quận 8,2,2,None,None,Đông Bắc,22.0,False,A2-22-02-City Gate Tower
+21,Thuê,7500000,73.29,quận 8,2,2,None,None,Tây Nam,24.0,False,A2-24-10-City Gate Tower
+22,Thuê,9000000,92.23,quận 8,3,2,None,None,Tây Bắc,8.0,False,A2-08-01-City Gate Tower
+23,Thuê,10000000,92.23,quận 8,3,2,Full,None,Tây Bắc,10.0,False,A2-10-11-City Gate Tower
+24,Thuê,7000000,78.79,quận 8,2,2,None,None,Tây Nam,26.0,False,A1-26-07-City Gate Tower
+25,Thuê,10000000,92.23,quận 8,3,2,None,None,Tây Bắc,27.0,False,A1-27-09-City Gate Tower
+26,Thuê,11000000,92.23,quận 8,3,2,None,None,Tây Bắc,18.0,False,A1-18-01-City Gate Tower
+27,Bán,2500000000,73.29,quận 8,2,2,None,None,Tây Nam,15.0,False,A1-15-08-City Gate Tower
+28,Thuê,10000000,73.29,quận 8,2,2,Full,None,Đông Bắc,23.0,False,A1-22A-03-City Gate Tower
+29,Thuê,7000000,73.29,quận 8,2,2,None,None,Tây Nam,5.0,False,A1-05-08-City Gate Tower
+30,Thuê,10000000,73.29,quận 8,2,2,None,None,Tây Nam,9.0,False,A1-09-08-City Gate Tower
+31,Thuê,7000000,73.29,quận 8,2,2,None,None,Tây Nam,11.0,False,A1-11-05-City Gate Tower
+32,Bán,2595000000,74.88,quận 8,None,None,Có,HDMB,Bắc,0.0,False,D3A-07-Diamond Riverside
+33,Bán,4000000000,86.22,quận 8,None,None,None,HDMB,Bắc,4.0,False,C3A-21-Diamond Riverside
+34,Thuê,12000000,73.43,quận 8,None,None,Có,HDMB,Nam,0.0,False,D12A-10-Diamond Riverside
+35,Bán,3000000000,86.22,quận 8,None,None,None,HDMB,Bắc,13.0,False,C12A-21-Diamond Riverside
+36,Thuê,15000000,88.55,quận 8,None,None,None,HDMB,Nam,0.0,False,C12A-17-Diamond Riverside
+37,Bán,3500000000,73.43,quận 8,None,None,None,HDMB,Nam,0.0,False,A12B-15-Diamond Riverside
+38,Bán,2600000000,73.12,quận 8,None,None,None,HDMB,Bắc,28.0,False,D28-01-Diamond Riverside
+39,Thuê,7500000,73.43,quận 8,None,None,Có,HDMB,Nam,28.0,False,C28-16-Diamond Riverside
+40,Bán,2879000000,86.22,quận 8,None,None,None,HDMB,Bắc,28.0,False,C28-21-Diamond Riverside
+41,Thuê,7000000,73.43,quận 8,None,None,None,HDMB,Nam,29.0,False,A29-10-Diamond Riverside
+42,Bán,2350000000,73.43,quận 8,None,None,Ko,HDMB,Tây,29.0,False,B29-16-Diamond Riverside
+43,Bán,2400000000,75.27,quận 8,None,None,None,HDMB,Bắc,13.0,False,A12A-01-Diamond Riverside
+44,Thuê,10000000,73.43,quận 8,2,2,Có,HDMB,Bắc,29.0,False,D29-02-Diamond Riverside
+45,Bán,2866000000,87.77,quận 8,None,None,None,HDMB,Nam,27.0,False,B27-18-Diamond Riverside
+46,Bán,2650000000,75.27,quận 8,2,2,Full,HDMB,Nam,25.0,False,D25-16-Diamond Riverside
+47,Thuê,12000000,88.55,quận 8,None,None,None,HDMB,Nam,26.0,False,C26-17-Diamond Riverside
+48,Bán,4000000000,86.22,quận 8,3,2,Full,HDMB,Nam,24.0,False,B24-15-Diamond Riverside
+49,Thuê,10000000,87.77,quận 8,3,2,Có,HDMB,Nam,24.0,False,B24-18-Diamond Riverside
+50,Thuê,10000000,73.43,quận 8,None,None,Có,HDMB,Nam,22.0,False,D22-15-Diamond Riverside
+51,Thuê,8500000,75.27,quận 8,None,None,None,HDMB,Bắc,24.0,False,A24-01-Diamond Riverside
+52,Bán,2500000000,73.43,quận 8,None,None,None,HDMB,Tây,21.0,False,C21-18-Diamond Riverside
+53,Bán,2550000000,73.43,quận 8,None,None,Có,HDMB,Tây,20.0,False,B20-16-Diamond Riverside
+54,Thuê,11000000,73.43,quận 8,None,None,Full,HDMB,Nam,20.0,False,D20-12-Diamond Riverside
+55,Bán,2800000000,87.77,quận 8,None,None,None,HDMB,Bắc,19.0,False,C19-05-Diamond Riverside
+56,Bán,2350000000,73.43,quận 8,None,None,Ko,HDMB,Nam,17.0,False,B17-19-Diamond Riverside
+57,Thuê,9000000,86.22,quận 8,3,2,Ko,HDMB,Nam,17.0,False,B17-12-Diamond Riverside
+58,Bán,2550000000,75.27,quận 8,None,None,None,HDMB,Bắc,18.0,False,A18-01-Diamond Riverside
+59,Thuê,8000000,75.27,quận 8,None,None,Ko,HDMB,Bắc,16.0,False,A16-01-Diamond Riverside
+60,Thuê,8000000,73.43,quận 8,None,None,None,HDMB,Đông,16.0,False,C16-03-Diamond Riverside
+61,Thuê,4000000,87.77,quận 8,None,None,None,HDMB,Nam,16.0,False,B16-18-Diamond Riverside
+62,Bán,2930000000,86.22,quận 8,None,None,None,HDMB,Bắc,16.0,False,C16-21-Diamond Riverside
+63,Bán,2700000000,75.27,quận 8,None,None,Có,HDMB,Bắc,12.0,False,A12-01-Diamond Riverside
+64,Thuê,7000000,74.88,quận 8,None,None,None,HDMB,Bắc,12.0,False,B12-01-Diamond Riverside
+65,Bán,2350000000,73.43,quận 8,None,None,None,HDMB,Nam,15.0,False,A15-11-Diamond Riverside
+66,Bán,2300000000,73.43,quận 8,None,None,None,HDMB,Nam,10.0,False,C10-16-Diamond Riverside
+67,Thuê,11000000,74.88,quận 8,None,None,Full,HDMB,Bắc,9.0,False,A09-08-Diamond Riverside
+68,Bán,2400000000,73.43,quận 8,None,None,None,HDMB,Nam,9.0,False,D09-11-Diamond Riverside
+69,Thuê,10000000,74.88,quận 8,2,2,Ko,HDMB,Bắc,10.0,False,B10-01-Diamond Riverside
+70,Bán,2350000000,73.43,quận 8,None,None,Ko,HDMB,Bắc,10.0,False,B10-02-Diamond Riverside
+71,Bán,3150000000,86.22,quận 8,None,None,None,HDMB,Bắc,7.0,False,C07-21-Diamond Riverside
+72,Bán,2424000000,73.43,quận 8,2,2,Ko,HDMB,Bắc,8.0,False,A08-07-Diamond Riverside
+73,Bán,2426000000,73.12,quận 8,None,None,Ko,HDMB,Bắc,8.0,False,D08-01-Diamond Riverside
+74,Thuê,9000000,73.43,quận 8,None,None,Có,HDMB,Bắc,9.0,False,A09-02-Diamond Riverside
+75,Bán,2425000000,73.43,quận 8,None,None,Ko,HDMB,Bắc,7.0,False,A07-02-Diamond Riverside
+76,Bán,2668000000,73.43,quận 8,None,None,Full,HDMB,Nam,7.0,False,A07-10-Diamond Riverside
+77,Thuê,10000000,86.22,quận 8,None,None,Có,HDMB,Bắc,5.0,False,C05-21-Diamond Riverside
+78,Bán,2500000000,73.43,quận 8,2,2,None,HDMB,Bắc,6.0,False,B06-07-Diamond Riverside
+79,Bán,7500000000,None,quận 8,Shophouse,Shophouse,None,HDMB,Bắc,1.0,False,A-S02-Diamond Riverside
+80,Bán,7000000000,81.0,quận 8,None,None,Có,HDMB,Bắc,2.0,False,A-S03-Diamond Riverside
+81,Thuê,20000000,0.0,quận 8,Shophouse,Shophouse,None,HDMB,Bắc,1.0,False,A-S07-Diamond Riverside
+82,Thuê,20000000,82.8,quận 8,2,2,Ko,HDMB,Bắc,1.0,False,A-S06-Diamond Riverside
+83,Thuê,25000000,None,quận 8,None,None,None,HDMB,Bắc,1.0,False,A-S01-Diamond Riverside
+84,Thuê,30000000,0.0,quận 8,Shophouse,Shophouse,None,HDMB,Nam,1.0,False,A-S15-Diamond Riverside
+85,Thuê,45000000,0.0,quận 8,Shophouse,Shophouse,None,HDMB,Bắc,1.0,False,B-S1-Diamond Riverside
+86,Bán,12000000000,0.0,quận 8,Shophouse,Shophouse,None,HDMB,Bắc,1.0,False,B-S8-Diamond Riverside
+87,Thuê,40000000,0.0,quận 8,Shophouse,Shophouse,None,HDMB,Tây,1.0,False,B-S16-Diamond Riverside
+88,Thuê,25000000,0.0,quận 8,None,None,None,HDMB,Bắc,1.0,False,D-S03-Diamond Riverside
+89,Thuê,30000000,None,quận 8,None,None,Full,HDMB,Nam,1.0,False,D-S10-Diamond Riverside
+90,Bán,2839000000,68.0,None,2,2,Ko,None,Tây Bắc,0.0,False,A-05-20-Him lam phú an
+91,Bán,1848000000,66.02,thủ đức,2,2,None,HDMB,Tây Nam,8.0,False,A2.08.08-4S Linh Đông
+92,Bán,2300000000,56.0,thủ đức,2,2,Full,None,Tây Nam,0.0,False,XX-Tulip Tower
+93,Thuê,9000000,52.45,thủ đức,Officetel,Officetel,Ko,None,Đông Bắc,3.0,False,A03.15-Lavita Charm
+94,Bán,3445400000,0.0,thủ đức,None,None,None,None,None,6.0,False,C6.04-Lavita Charm
+95,Bán,3100000000,0.0,None,2,2,Có,None,None,0.0,False,A14.16-LAVITA CHARM
+96,Thuê,8000000,67.3,thủ đức,2,2,Ko,None,None,16.0,False,A16.12-Lavita Charm
+97,Bán,3500000000,0.0,None,2,2,Ko,None,None,15.0,False,C9.15-nan
+98,Thuê,7000000,45.36,thủ đức,Officetel,Officetel,Ko,None,Đông Bắc,5.0,False,A05.01-Lavita Charm
+99,Thuê,9000000,73.72,bình dương,2,2,Có,HDMB,Đông Bắc,30.0,False,OPBB02030011-Opal Boulevard
+100,Thuê,9000000,73.56,bình dương,2,2,Ko,HDMB,Tây Nam,33.0,False,OPBB0203312A-Opal Boulevard
+101,Bán,2640000000,73.56,bình dương,2,2,None,HDMB,Tây Nam,22.0,False,OPBB0202212A-Opal Boulevard
+102,Thuê,8000000,71.64,bình dương,2,2,None,HDMB,Đông Nam,19.0,False,OPBB02019002-Opal Boulevard
+103,Bán,2601000000,70.91,bình dương,2,2,Ko,HDMB,Đông Nam,14.0,False,OPBB02014001-Opal Boulevard
+104,Thuê,10000000,70.91,bình dương,2,2,Ko,HDMB,Đông Nam,23.0,False,OPBB02023001-Opal Boulevard
+105,Bán,2572000000,73.77,bình dương,2,2,None,HDMB,Đông Bắc,23.0,False,OPBB02023010-Opal Boulevard
+106,Thuê,9000000,73.77,bình dương,2,2,None,HDMB,Đông Bắc,0.0,False,OPBB0212A009-Opal Boulevard
+107,Thuê,7500000,73.77,bình dương,2,2,None,HDMB,Đông Bắc,28.0,False,OPBB02028009-Opal Boulevard
+108,Thuê,8000000,73.77,bình dương,2,2,Ko,HDMB,Đông Bắc,34.0,False,OPBB02034008-Opal Boulevard
+109,Thuê,8000000,73.77,bình dương,2,2,None,HDMB,Đông Bắc,25.0,False,OPBB02025010-Opal Boulevard
+110,Thuê,9000000,73.77,bình dương,2,2,None,HDMB,Đông Bắc,32.0,False,OPBB02032008-Opal Boulevard
+111,Thuê,8000000,73.77,bình dương,2,2,None,HDMB,Đông Bắc,35.0,False,OPBB02035008-Opal Boulevard
+112,Thuê,8000000,74.39,bình dương,2,2,None,HDMB,Tây Nam,30.0,False,OPBB02030014-Opal Boulevard
+113,Thuê,6000000,74.27,bình dương,2,2,None,HDMB,Đông Bắc,15.0,False,OPBB02015012-Opal Boulevard
+114,Thuê,10000000,74.39,bình dương,2,2,None,HDMB,Tây Nam,17.0,False,OPBB02017014-Opal Boulevard
+115,Bán,2530000000,74.27,bình dương,2,2,None,HDMB,Đông Bắc,30.0,False,OPBB02030012-Opal Boulevard
+116,Bán,2563000000,73.77,bình dương,2,2,None,HDMB,Đông Bắc,21.0,False,OPBB02021010-Opal Boulevard
+117,Thuê,8000000,74.27,bình dương,2,2,Ko,HDMB,Đông Bắc,24.0,False,OPBB02024012-Opal Boulevard
+118,Bán,2620000000,74.27,bình dương,2,2,Ko,HDMB,Đông Bắc,25.0,False,OPBB02025012-Opal Boulevard
+119,Bán,3221000000,87.21,bình dương,2,2,Ko,HDMB,Đông Nam,26.0,False,OPBB02026003-Opal Boulevard
+120,Thuê,7500000,87.21,bình dương,2,2,None,HDMB,Đông Nam,6.0,False,OPBB02006003-Opal Boulevard
+121,Thuê,13000000,77.42,bình dương,2,2,None,HDMB,Tây Bắc,35.0,False,OPBB02035006-Opal Boulevard
+122,Thuê,8000000,77.42,bình dương,2,2,None,HDMB,Tây Bắc,26.0,False,OPBB02026006-Opal Boulevard
+123,Thuê,8000000,76.34,bình dương,2,2,None,HDMB,Tây Bắc,25.0,False,OPBB02025005-Opal Boulevard
+124,Thuê,7500000,77.42,bình dương,2,2,None,HDMB,Tây Bắc,28.0,False,OPBB02028006-Opal Boulevard
+125,Thuê,9000000,76.34,bình dương,2,2,None,HDMB,Tây Bắc,27.0,False,OPBB02027005-Opal Boulevard
+126,Thuê,10000000,84.93,bình dương,2,2,Có,HDMB,Tây Bắc,35.0,False,OPBB0103512A-Opal Boulevard
+127,Thuê,8000000,84.93,bình dương,2,2,None,HDMB,Tây Bắc,30.0,False,OPBB01030012-Opal Boulevard
+128,Thuê,8000000,75.54,bình dương,2,2,None,HDMB,Tây Nam,28.0,False,OPBB01028001-Opal Boulevard
+129,Thuê,10000000,74.45,bình dương,2,2,Có,HDMB,Đông Bắc,35.0,False,OPBB01035002-Opal Boulevard
+130,Thuê,8000000,74.45,bình dương,2,2,None,HDMB,Đông Bắc,24.0,False,OPBB01024002-Opal Boulevard
+131,Thuê,8000000,74.45,bình dương,2,2,None,HDMB,Đông Bắc,29.0,False,OPBB01029002-Opal Boulevard
+132,Thuê,20000000,73.77,bình dương,2,2,None,HDMB,Đông Bắc,19.0,False,OPBB01019003-Opal Boulevard
+133,Bán,2966000000,85.07,bình dương,2,2,None,HDMB,Đông Nam,22.0,False,OPBB01022009-Opal Boulevard
+134,Thuê,12000000,85.07,bình dương,2,2,Có,HDMB,Đông Nam,16.0,False,OPBB01016009-Opal Boulevard
+135,Bán,2933000000,85.03,bình dương,2,2,None,HDMB,Đông Nam,33.0,False,OPBB01033010-Opal Boulevard
+136,Thuê,8000000,85.07,bình dương,2,2,Ko,HDMB,Đông Nam,30.0,False,OPBB01030007-Opal Boulevard
+137,Thuê,9000000,85.07,bình dương,2,2,None,HDMB,Đông Nam,21.0,False,OPBB01021007-Opal Boulevard
+138,Bán,3035000000,85.07,bình dương,2,2,None,HDMB,Đông Nam,8.0,False,OPBB01008008-Opal Boulevard
+139,Bán,3100000000,85.03,bình dương,2,2,Ko,HDMB,Đông Nam,20.0,False,OPBB01020010-Opal Boulevard
+140,Thuê,11000000,85.03,bình dương,2,2,None,HDMB,Đông Nam,18.0,False,OPBB01018010-Opal Boulevard
+141,Bán,3087000000,85.03,bình dương,2,2,None,HDMB,Đông Nam,17.0,False,OPBB01017010-Opal Boulevard
+142,Bán,3126000000,85.03,bình dương,2,2,Ko,HDMB,Đông Nam,23.0,False,OPBB01023010-Opal Boulevard
+143,Thuê,10000000,84.93,bình dương,2,2,Ko,HDMB,Tây Bắc,28.0,False,OPBB01028012-Opal Boulevard
+144,Thuê,10000000,84.93,bình dương,2,2,Ko,HDMB,Tây Bắc,28.0,False,OPBB0102812A-Opal Boulevard
+145,Thuê,10000000,84.93,bình dương,2,2,None,HDMB,Tây Bắc,17.0,False,OPBB0101712A-Opal Boulevard
+146,Thuê,8500000,84.93,bình dương,2,2,Ko,HDMB,Tây Bắc,32.0,False,OPBB0103212A-Opal Boulevard
+147,Thuê,9000000,84.93,bình dương,2,2,Ko,HDMB,Tây Bắc,16.0,False,OPBB0101612A-Opal Boulevard
+148,Bán,3092000000,84.93,bình dương,2,2,Ko,HDMB,Tây Bắc,32.0,False,OPBB01032012-Opal Boulevard
+149,Thuê,17000000,84.93,bình dương,2,2,Full,HDMB,Tây Bắc,33.0,False,OPBB01033012-Opal Boulevard
+150,Thuê,20000000,84.05,bình dương,Shophouse,Shophouse,None,HDMB,Đông Bắc,1.0,False,OPBB01001007-Opal Boulevard
+151,Bán,2750000000,85.07,bình dương,2,2,Ko,HDMB,Đông Nam,0.0,False,OPBB0112A009-Opal Boulevard
+152,Thuê,8000000,85.07,bình dương,2,2,None,HDMB,Đông Nam,17.0,False,OPBB01017007-Opal Boulevard
+153,Thuê,10000000,85.66,bình dương,2,2,Ko,HDMB,Đông Nam,14.0,False,OPBB01014006-Opal Boulevard
+154,Thuê,8000000,85.07,bình dương,2,2,None,HDMB,Đông Nam,23.0,False,OPBB01023007-Opal Boulevard
+155,Bán,3034000000,85.07,bình dương,2,2,Ko,HDMB,Đông Nam,14.0,False,OPBB01014009-Opal Boulevard
+156,Bán,3150000000,85.07,bình dương,2,2,Ko,HDMB,Đông Nam,20.0,False,OPBB01020009-Opal Boulevard
+157,Bán,3000000000,85.07,bình dương,2,2,Ko,HDMB,Đông Nam,35.0,False,OPBB01035009-Opal Boulevard
+158,Thuê,9000000,85.07,bình dương,2,2,None,HDMB,Đông Nam,14.0,False,OPBB01014007-Opal Boulevard
+159,Bán,2952000000,85.07,bình dương,2,2,None,HDMB,Đông Nam,11.0,False,OPBB01011008-Opal Boulevard
+160,Bán,3200000000,85.07,bình dương,2,2,None,HDMB,Đông Nam,25.0,False,OPBB01025008-Opal Boulevard
+161,Bán,3306000000,85.07,bình dương,2,2,Ko,HDMB,Đông Nam,29.0,False,OPBB01029008-Opal Boulevard
+162,Thuê,10000000,85.07,bình dương,2,2,None,HDMB,Đông Nam,15.0,False,OPBB01015009-Opal Boulevard
+163,Bán,3357000000,85.07,bình dương,2,2,None,HDMB,Đông Nam,19.0,False,OPBB01019009-Opal Boulevard
+164,Bán,2850000000,85.07,bình dương,2,2,Ko,HDMB,Đông Nam,9.0,False,OPBB01009008-Opal Boulevard
+165,Thuê,12000000,99.79,bình dương,3,2,None,HDMB,Đông Bắc,14.0,False,OPBB01014004-Opal Boulevard
+166,Thuê,12000000,99.79,bình dương,3,2,None,HDMB,Đông Bắc,6.0,False,OPBB01006004-Opal Boulevard
+167,Thuê,10000000,98.29,bình dương,2,2,Ko,HDMB,Đông Nam,8.0,False,OPBB01008005-Opal Boulevard
+168,Thuê,12000000,98.29,bình dương,2,2,None,HDMB,Đông Nam,12.0,False,OPBB01012005-Opal Boulevard
+169,Thuê,10000000,89.24,bình dương,2,2,Có,HDMB,Tây Bắc,18.0,False,OPBB01018014-Opal Boulevard
+170,Thuê,8000000,89.24,bình dương,2,2,Ko,HDMB,Tây Bắc,17.0,False,OPBB01017014-Opal Boulevard
+171,Thuê,40000000,115.54,bình dương,Shophouse,Shophouse,None,HDMB,Đông Nam,1.0,False,OPBB01001005-Opal Boulevard
+172,Thuê,10000000,98.29,bình dương,2,2,None,HDMB,Đông Nam,27.0,False,OPBB01027005-Opal Boulevard
+173,Thuê,10000000,85.84,bình dương,2,2,Ko,HDMB,Tây Bắc,15.0,False,OPBB01015012-Opal Boulevard
+174,Thuê,8000000,85.84,bình dương,2,2,Ko,HDMB,Tây Bắc,7.0,False,OPBB01007012-Opal Boulevard
+175,Thuê,9000000,85.84,bình dương,2,2,Ko,HDMB,Tây Bắc,17.0,False,OPBB01017012-Opal Boulevard
+176,Bán,2860000000,73.9,bình dương,2,2,Ko,HDMB,Đông Bắc,21.0,False,OPBA02021005-Opal Boulevard
+177,Thuê,8000000,73.9,bình dương,2,2,Ko,HDMB,Đông Bắc,28.0,False,OPBA02028004-Opal Boulevard
+178,Thuê,9000000,73.9,bình dương,2,2,None,HDMB,Đông Bắc,25.0,False,OPBA02025004-Opal Boulevard
+179,Bán,12000000,73.9,bình dương,2,2,Full,HDMB,Đông Bắc,18.0,False,OPBA02018005-Opal Boulevard
+180,Bán,2700000000,73.1,bình dương,2,2,None,HDMB,Tây Nam,7.0,False,OPBA02007001-Opal Boulevard
+181,Thuê,13000000,109.3,bình dương,3,2,None,HDMB,Tây Nam,8.0,False,OPBB01008011-Opal Boulevard
+182,Thuê,12000000,109.3,bình dương,3,2,Ko,HDMB,Tây Nam,21.0,False,OPBB01021011-Opal Boulevard
+183,Thuê,11000000,90.53,bình dương,Shophouse,Shophouse,None,HDMB,Tây Nam,1.0,False,OPBA01001005-Opal Boulevard
+184,Thuê,9000000,74.64,bình dương,2,2,Có,HDMB,Đông Bắc,25.0,False,OPBA01025008-Opal Boulevard
+185,Thuê,9000000,74.64,bình dương,2,2,None,HDMB,Đông Bắc,33.0,False,OPBA01033008-Opal Boulevard
+186,Thuê,8000000,74.64,bình dương,2,2,Có,HDMB,Tây Nam,31.0,False,OPBA02031008-Opal Boulevard
+187,Bán,2839000000,73.9,bình dương,2,2,Ko,HDMB,Đông Bắc,28.0,False,OPBA02028005-Opal Boulevard
+188,Bán,2868000000,73.9,bình dương,2,2,Ko,HDMB,Đông Bắc,23.0,False,OPBA02023004-Opal Boulevard
+189,Bán,2932000000,73.9,bình dương,2,2,Ko,HDMB,Đông Bắc,31.0,False,OPBA02031004-Opal Boulevard
+190,Bán,2780000000,73.9,bình dương,2,2,Ko,HDMB,Đông Bắc,25.0,False,OPBA02025005-Opal Boulevard
+191,Thuê,8000000,73.9,bình dương,2,2,Ko,HDMB,Đông Bắc,9.0,False,OPBA02009005-Opal Boulevard
+192,Thuê,9000000,73.9,bình dương,2,2,Có,HDMB,Đông Bắc,16.0,False,OPBA02016004-Opal Boulevard
+193,Bán,3033000000,73.9,bình dương,2,2,Ko,HDMB,Đông Bắc,33.0,False,OPBA02033005-Opal Boulevard
+194,Bán,3011000000,73.9,bình dương,2,2,Ko,HDMB,Đông Bắc,11.0,False,OPBA02011004-Opal Boulevard
+195,Bán,3020000000,73.9,bình dương,2,2,Ko,HDMB,Đông Bắc,20.0,False,OPBA02020005-Opal Boulevard
+196,Bán,2787000000,73.9,bình dương,2,2,Ko,HDMB,Đông Bắc,15.0,False,OPBA02015004-Opal Boulevard
+197,Bán,2692000000,73.9,bình dương,2,2,Ko,HDMB,Đông Bắc,23.0,False,OPBA02023005-Opal Boulevard
+198,Bán,2809000000,79.84,bình dương,2,2,None,HDMB,Đông Bắc,10.0,False,OPBA01010001-Opal Boulevard
+199,Thuê,12000000,79.84,bình dương,2,2,Có,HDMB,Đông Bắc,0.0,False,OPBA0112A001-Opal Boulevard
+200,Bán,3641000000,79.84,bình dương,2,2,None,HDMB,Đông Bắc,5.0,False,OPBA01005001-Opal Boulevard
+201,Bán,3200000000,75.24,bình dương,2,2,Ko,HDMB,Đông Bắc,16.0,False,OPBA02016006-Opal Boulevard
+202,Thuê,8500000,79.84,bình dương,2,2,None,HDMB,Đông Bắc,35.0,False,OPBA01035001-Opal Boulevard
+203,Thuê,8000000,78.71,bình dương,2,2,None,HDMB,Đông Bắc,19.0,False,OPBA01019009-Opal Boulevard
+204,Thuê,8000000,78.71,bình dương,2,2,None,HDMB,Đông Bắc,28.0,False,OPBA01028009-Opal Boulevard
+205,Bán,2811000000,75.24,bình dương,2,2,None,HDMB,Đông Bắc,32.0,False,OPBA02032006-Opal Boulevard
+206,Thuê,8500000,78.71,bình dương,2,2,None,HDMB,Đông Bắc,27.0,False,OPBA01027009-Opal Boulevard
+207,Thuê,8000000,78.71,bình dương,2,2,None,HDMB,Đông Bắc,26.0,False,OPBA01026009-Opal Boulevard
+208,Thuê,9000000,75.24,bình dương,2,2,Ko,HDMB,Đông Bắc,8.0,False,OPBA02008006-Opal Boulevard
+209,Thuê,9000000,75.24,bình dương,2,2,Ko,HDMB,Đông Bắc,22.0,False,OPBA02022006-Opal Boulevard
+210,Thuê,9000000,74.64,bình dương,2,2,Có,HDMB,Đông Bắc,12.0,False,OPBA01012008-Opal Boulevard
+211,Thuê,8000000,75.24,bình dương,2,2,None,HDMB,Đông Bắc,9.0,False,OPBA02009006-Opal Boulevard
+212,Bán,3094000000,84.68,bình dương,2,2,None,HDMB,Tây Nam,15.0,False,OPBA01015004-Opal Boulevard
+213,Thuê,9000000,86.72,bình dương,2,2,None,HDMB,Tây Nam,19.0,False,OPBA01019006-Opal Boulevard
+214,Bán,3500000000,84.68,bình dương,2,2,None,HDMB,Tây Nam,5.0,False,OPBA01005004-Opal Boulevard
+215,Bán,3301000000,84.68,bình dương,2,2,Ko,HDMB,Tây Nam,21.0,False,OPBA01021004-Opal Boulevard
+216,Thuê,10000000,84.68,bình dương,2,2,Có,HDMB,Tây Nam,26.0,False,OPBA01026004-Opal Boulevard
+217,Bán,3126000000,84.68,bình dương,2,2,Ko,HDMB,Tây Nam,16.0,False,OPBA01016004-Opal Boulevard
+218,Thuê,9000000,84.66,bình dương,2,2,None,HDMB,Tây Nam,21.0,False,OPBA01021005-Opal Boulevard
+219,Thuê,11000000,84.66,bình dương,2,2,None,HDMB,Tây Nam,20.0,False,OPBA01020005-Opal Boulevard
+220,Thuê,9000000,84.66,bình dương,2,2,None,HDMB,Tây Nam,30.0,False,OPBA01030005-Opal Boulevard
+221,Thuê,6000000,84.66,bình dương,2,2,None,HDMB,Tây Nam,11.0,False,OPBA01011005-Opal Boulevard
+222,Thuê,8000000,81.26,bình dương,2,2,None,HDMB,Tây Nam,0.0,False,OPBA0212A009-Opal Boulevard
+223,Thuê,10000000,84.66,bình dương,2,2,Có,HDMB,Tây Nam,27.0,False,OPBA01027005-Opal Boulevard
+224,Thuê,11000000,100.18,bình dương,3,2,None,HDMB,Đông Bắc,32.0,False,OPBA02032007-Opal Boulevard
+225,Bán,3991000000,100.18,bình dương,3,2,Ko,HDMB,Đông Bắc,12.0,False,OPBA02012007-Opal Boulevard
+226,Bán,3837000000,99.41,bình dương,3,2,Ko,HDMB,Đông Bắc,17.0,False,OPBA02017003-Opal Boulevard
+227,Thuê,10000000,100.18,bình dương,3,2,None,HDMB,Đông Bắc,21.0,False,OPBA02021007-Opal Boulevard
+228,Bán,3890000000,99.41,bình dương,3,2,None,HDMB,Đông Bắc,4.0,False,OPBA02004003-Opal Boulevard
+229,Thuê,12000000,99.41,bình dương,3,2,Full,HDMB,Đông Bắc,10.0,False,OPBA02010003-Opal Boulevard
+230,Bán,3848000000,99.41,bình dương,3,2,Ko,HDMB,Đông Bắc,21.0,False,OPBA02021003-Opal Boulevard
+231,Thuê,10000000,95.49,bình dương,3,2,None,HDMB,Tây Nam,20.0,False,OPBA02020002-Opal Boulevard
+232,Thuê,10000000,95.49,bình dương,3,2,None,HDMB,Tây Nam,21.0,False,OPBA02021002-Opal Boulevard
+233,Thuê,9000000,86.72,bình dương,2,2,None,HDMB,Tây Nam,20.0,False,OPBA01020006-Opal Boulevard
+234,Thuê,9000000,86.72,bình dương,2,2,Ko,HDMB,Tây Nam,8.0,False,OPBA01008006-Opal Boulevard
+235,Thuê,9500000,86.72,bình dương,2,2,None,HDMB,Tây Nam,21.0,False,OPBA01021006-Opal Boulevard
+236,Thuê,9500000,86.72,bình dương,2,2,Có,HDMB,Tây Nam,23.0,False,OPBA01023006-Opal Boulevard
+237,Thuê,12000000,107.3,bình dương,3,2,Ko,HDMB,Đông Nam,21.0,False,OPBA01021002-Opal Boulevard
+238,Thuê,11000000,107.3,bình dương,3,2,None,HDMB,Đông Nam,29.0,False,OPBA01029002-Opal Boulevard
+239,Bán,4170000000,107.3,bình dương,3,2,None,HDMB,Đông Nam,26.0,False,OPBA01026002-Opal Boulevard
+240,Bán,5136000000,107.3,bình dương,3,2,None,HDMB,Đông Nam,35.0,False,OPBA01035002-Opal Boulevard
+241,Bán,4429000000,107.29,bình dương,3,2,None,HDMB,Đông Nam,25.0,False,OPBA01025003-Opal Boulevard
+242,Bán,5246000000,107.3,bình dương,3,2,None,HDMB,Đông Nam,12.0,False,OPBA01012002-Opal Boulevard
+243,Bán,3956000000,107.29,bình dương,3,2,None,HDMB,Đông Nam,8.0,False,OPBA01008003-Opal Boulevard
+244,Thuê,14500000,107.29,bình dương,3,2,Có,HDMB,Đông Nam,29.0,False,OPBA01029003-Opal Boulevard
+245,Thuê,15000000,107.29,bình dương,3,2,Ko,HDMB,Đông Nam,33.0,False,OPBA01033003-Opal Boulevard
+246,Thuê,11000000,107.29,bình dương,3,2,None,HDMB,Đông Nam,16.0,False,OPBA01016003-Opal Boulevard
+247,Bán,2516000000,52.25,None,1,1,None,None,Tây Nam,22.0,False,A22.16-Lavita Charm
+248,Thuê,7000000,64.98,quận 9,2,1,Ko,None,Đông Nam,6.0,False,B15-06-9 View
+249,Bán,3232000000,68.52,thủ đức,2,2,None,None,Đông Bắc,10.0,False,A10.26-Lavita Charm
+250,Bán,3100000000,67.3,thủ đức,2,2,None,None,Đông Bắc,16.0,False,A16.27-Lavita Charm
+251,Bán,2466000000,52.25,thủ đức,1,1,None,None,Tây Nam,17.0,False,A17.22-Lavita Charm
+252,Bán,2516000000,52.25,thủ đức,1,1,None,None,Tây Nam,16.0,False,A16.22-Lavita Charm
+253,Thuê,9000000,67.3,thủ đức,2,2,None,None,Tây Nam,6.0,False,A06.23-Lavita Charm
+254,Thuê,9000000,67.3,thủ đức,2,2,None,None,Tây Nam,9.0,False,A09.23-Lavita Charm
+255,Thuê,9000000,67.3,thủ đức,2,2,None,None,Tây Nam,17.0,False,A17.24-Lavita Charm
+256,Bán,3095000000,68.64,thủ đức,2,2,None,None,Tây Bắc,16.0,False,A16.25-Lavita Charm
+257,Bán,3100000000,68.64,thủ đức,2,2,None,None,Tây Bắc,13.0,False,A13.25-Lavita Charm
+258,Bán,3012000000,67.3,thủ đức,2,2,Ko,None,Tây Nam,20.0,False,A20.17-Lavita Charm
+259,Bán,3370600000,67.3,thủ đức,2,2,None,None,Tây Nam,9.0,False,A09.18-Lavita Charm
+260,Bán,3204431000,67.3,thủ đức,2,2,None,None,Tây Nam,8.0,False,A08.20-Lavita Charm
+261,Bán,2950000000,67.3,thủ đức,2,2,None,None,Tây Nam,16.0,False,A16.20-Lavita Charm
+262,Thuê,8000000,52.25,thủ đức,1,1,None,None,Tây Nam,6.0,False,A06.21-Lavita Charm
+263,Thuê,9000000,52.25,thủ đức,1,1,None,None,Tây Nam,12.0,False,A12.21-Lavita Charm
+264,Thuê,10000000,67.3,thủ đức,2,2,Có,None,Đông Bắc,13.0,False,B13.16-Lavita Charm
+265,Bán,2284000000,49.29,thủ đức,1,1,None,None,Đông Nam,14.0,False,C14.16-Lavita Charm
+266,Bán,2334000000,49.3,thủ đức,1,1,None,None,Đông Bắc,9.0,False,B09.17-Lavita Charm
+267,Bán,3213092625,67.3,thủ đức,2,2,None,None,Tây Nam,12.0,False,A12.17-Lavita Charm
+268,Thuê,9000000,67.3,thủ đức,2,2,None,None,Tây Nam,14.0,False,A14.16-Lavita Charm
+269,Bán,2970000000,67.3,thủ đức,2,2,Ko,None,Tây Nam,17.0,False,A17.16-Lavita Charm
+270,Bán,2500000000,48.77,thủ đức,1,1,None,None,Đông Nam,8.0,False,C08.17-Lavita Charm
+271,Thuê,7000000,48.77,thủ đức,1,1,None,None,Đông Nam,10.0,False,C10.17-Lavita Charm
+272,Bán,3376000000,67.28,thủ đức,2,2,None,None,Đông Nam,11.0,False,C11.15-Lavita Charm
+273,Thuê,9000000,67.28,thủ đức,2,2,None,None,Đông Nam,17.0,False,C17.15-Lavita Charm
+274,Thuê,9500000,67.28,thủ đức,2,2,None,None,Đông Nam,13.0,False,C13.15-Lavita Charm
+275,Bán,2620000000,52.25,thủ đức,1,1,None,None,Tây Nam,17.0,False,A17.15-Lavita Charm
+276,Thuê,13000000,67.28,thủ đức,2,2,None,None,Đông Nam,19.0,False,C19.15-Lavita Charm
+277,Thuê,7000000,49.29,thủ đức,1,1,None,None,Đông Nam,7.0,False,C07.16-Lavita Charm
+278,Bán,3500000000,68.52,thủ đức,2,2,None,None,Tây Nam,19.0,False,B19.13-Lavita Charm
+279,Thuê,8000000,67.3,thủ đức,2,2,None,None,Tây Bắc,20.0,False,C20.13-Lavita Charm
+280,Bán,3000000000,68.52,thủ đức,2,2,None,None,Tây Bắc,11.0,False,C11.14-Lavita Charm
+281,Thuê,8000000,52.25,thủ đức,1,1,None,None,Tây Nam,12.0,False,A12.14-Lavita Charm
+282,Bán,3335000000,68.52,thủ đức,2,2,None,None,Tây Bắc,15.0,False,C15.14-Lavita Charm
+283,Thuê,6500000,52.25,thủ đức,1,1,None,None,Tây Nam,6.0,False,A06.15-Lavita Charm
+284,Thuê,10000000,68.52,thủ đức,2,2,None,None,Tây Nam,9.0,False,B09.13-Lavita Charm
+285,Bán,3054000000,67.3,thủ đức,2,2,None,None,Tây Bắc,17.0,False,C17.13-Lavita Charm
+286,Thuê,8500000,67.3,thủ đức,2,2,None,None,Tây Bắc,10.0,False,C10.11-Lavita Charm
+287,Thuê,9000000,67.3,thủ đức,2,2,None,None,Tây Nam,15.0,False,B15.11-Lavita Charm
+288,Bán,2953000000,67.3,thủ đức,2,2,None,None,Tây Nam,7.0,False,A07.12-Lavita Charm
+289,Thuê,8500000,67.3,thủ đức,2,2,None,None,Tây Nam,19.0,False,B19.11-Lavita Charm
+290,Bán,3075000000,67.3,thủ đức,2,2,None,None,Tây Nam,7.0,False,A07.12-Lavita Charm
+291,Thuê,9000000,67.96,thủ đức,2,2,None,None,Tây Nam,15.0,False,C15.09-Lavita Charm
+292,Bán,3136000000,67.3,thủ đức,2,2,Ko,None,Đông Bắc,15.0,False,A15.09-Lavita Charm
+293,Bán,3000000000,67.3,thủ đức,2,2,None,None,Tây Nam,11.0,False,B11.10-Lavita Charm
+294,Bán,3250000000,68.52,thủ đức,2,2,None,None,Đông Bắc,11.0,False,A11.10-Lavita Charm
+295,Thuê,15000000,87.52,thủ đức,3,2,None,None,Tây Nam,11.0,False,C11.10-Lavita Charm
+296,Thuê,9000000,67.3,thủ đức,2,2,None,None,Tây Nam,15.0,False,B15.10-Lavita Charm
+297,Thuê,12500000,87.52,thủ đức,3,2,None,None,Tây Nam,10.0,False,B10.08-Lavita Charm
+298,Thuê,15000000,87.52,thủ đức,3,2,None,None,Tây Nam,13.0,False,B13.08-Lavita Charm
+299,Bán,3058000000,67.3,thủ đức,2,2,None,None,Tây Nam,12.0,False,C12.07-Lavita Charm
+300,Thuê,8500000,67.3,thủ đức,2,2,None,None,Tây Nam,19.0,False,C19.07-Lavita Charm
+301,Bán,3000000000,67.3,thủ đức,2,2,None,None,Đông Bắc,6.0,False,A06.08-Lavita Charm
+302,Thuê,8000000,67.3,thủ đức,2,2,None,None,Tây Nam,20.0,False,C20.07-Lavita Charm
+303,Bán,2950000000,67.3,thủ đức,2,2,None,None,Tây Nam,7.0,False,C07.08-Lavita Charm
+304,Bán,3980000000,87.52,thủ đức,3,2,None,None,Tây Nam,7.0,False,B07.08-Lavita Charm
+305,Thuê,12000000,67.3,thủ đức,2,2,Có,None,Đông Nam,15.0,False,B15.05-Lavita Charm
+306,Bán,3219000000,67.3,thủ đức,2,2,None,None,Đông Bắc,16.0,False,A16.05-Lavita Charm
+307,Thuê,8500000,67.3,thủ đức,2,2,Ko,None,Đông Bắc,8.0,False,A08.04-Lavita Charm
+308,Bán,3200000000,67.3,thủ đức,2,2,Ko,None,Đông Bắc,12.0,False,A12.04-Lavita Charm
+309,Thuê,8500000,68.64,thủ đức,2,2,None,None,Đông Bắc,13.0,False,C13.04-Lavita Charm
+310,Thuê,10000000,68.64,thủ đức,2,2,None,None,Đông Bắc,17.0,False,C17.04-Lavita Charm
+311,Bán,3112000000,68.52,thủ đức,2,2,None,None,Đông Nam,18.0,False,B18.04-Lavita Charm
+312,Bán,3398000000,68.52,thủ đức,2,2,None,None,Tây Nam,8.0,False,C08.05-Lavita Charm
+313,Bán,3400000000,68.52,thủ đức,2,2,None,None,Tây Nam,10.0,False,C10.05-Lavita Charm
+314,Bán,3200000000,67.3,thủ đức,2,2,Ko,None,Đông Bắc,12.0,False,A12.05-Lavita Charm
+315,Thuê,9000000,67.3,thủ đức,2,2,None,None,Đông Bắc,14.0,False,C14.02-Lavita Charm
+316,Bán,3221000000,67.3,thủ đức,2,2,None,None,Đông Bắc,18.0,False,A18.02-Lavita Charm
+317,Bán,3216000000,67.3,thủ đức,2,2,None,None,Đông Bắc,17.0,False,A17.02-Lavita Charm
+318,Thuê,8500000,67.28,thủ đức,2,2,None,None,Tây Bắc,8.0,False,B08.03-Lavita Charm
+319,Thuê,10000000,67.3,thủ đức,2,2,None,None,Đông Bắc,17.0,False,A17.03-Lavita Charm
+320,Thuê,10000000,67.3,thủ đức,2,2,Có,None,Đông Bắc,18.0,False,A18.03-Lavita Charm
+321,Bán,3010000000,67.3,thủ đức,2,2,None,None,Đông Bắc,20.0,False,A20.03-Lavita Charm
+322,Thuê,15000000,90.86,thủ đức,3,2,None,None,Đông Bắc,13.0,False,A13.01-Lavita Charm
+323,Bán,2404000000,49.3,thủ đức,1,1,None,None,Đông Bắc,12.0,False,C12.01-Lavita Charm
+324,Thuê,6500000,48.77,thủ đức,1,1,None,None,Tây Bắc,19.0,False,B19.01-Lavita Charm
+325,Bán,3700000000,90.86,thủ đức,3,2,None,None,Đông Bắc,20.0,False,A20.01-Lavita Charm
+326,Bán,3069000000,67.3,thủ đức,2,2,None,None,Đông Bắc,7.0,False,C07.02-Lavita Charm
+327,Thuê,9500000,67.3,thủ đức,2,2,None,None,Đông Bắc,12.0,False,C12.02-Lavita Charm
+328,Bán,3174210000,67.3,thủ đức,2,2,None,None,Đông Bắc,12.0,False,A12.02-Lavita Charm
+329,Thuê,7000000,51.3,thủ đức,Officetel,Officetel,Ko,None,Tây Nam,5.0,False,A05.22-Lavita Charm
+330,Bán,1911000000,51.3,thủ đức,Officetel,Officetel,Ko,None,Tây Nam,5.0,False,A05.23-Lavita Charm
+331,Bán,1922000000,51.3,thủ đức,Officetel,Officetel,None,None,Tây Nam,5.0,False,A05.24-Lavita Charm
+332,Bán,2000000000,51.3,thủ đức,Officetel,Officetel,None,None,Tây Nam,5.0,False,A05.17-Lavita Charm
+333,Bán,1198000000,51.3,thủ đức,Officetel,Officetel,None,None,Tây Nam,5.0,False,A05.19-Lavita Charm
+334,Bán,1931000000,52.45,thủ đức,Officetel,Officetel,None,None,Đông Bắc,5.0,False,A05.28-Lavita Charm
+335,Thuê,6500000,51.3,thủ đức,Officetel,Officetel,None,None,Đông Bắc,5.0,False,C05.04-Lavita Charm
+336,Thuê,7000000,51.3,thủ đức,Officetel,Officetel,None,None,Đông Bắc,5.0,False,C05.04-Lavita Charm
+337,Thuê,30000000,80.23,thủ đức,Shophouse,Shophouse,Ko,None,Đông Bắc,0.0,False,TM14.TM-Lavita Charm
+338,Thuê,22000000,81.36,thủ đức,Shophouse,Shophouse,None,None,Tây Nam,0.0,False,TM25.TM-Lavita Charm
+339,Bán,7935000000,68.4,thủ đức,Shophouse,Shophouse,None,None,Đông Bắc,0.0,False,TM17.TM-Lavita Charm
+340,Thuê,25000000,75.99,thủ đức,Shophouse,Shophouse,None,None,Đông Nam,0.0,False,TM21.TM-Lavita Charm
+341,Thuê,7000000,45.36,thủ đức,Officetel,Officetel,None,None,Đông Bắc,3.0,False,A03.11-Lavita Charm
+342,Bán,2000000000,51.3,thủ đức,Officetel,Officetel,None,None,Đông Bắc,3.0,False,A03.29-Lavita Charm
+343,Thuê,10000000,51.3,thủ đức,Officetel,Officetel,Ko,None,Đông Bắc,3.0,False,A03.04-Lavita Charm
+344,Bán,2050000000,52.45,thủ đức,Officetel,Officetel,Ko,None,Đông Bắc,3.0,False,A03.15-Lavita Charm
+345,Bán,1844000000,45.36,thủ đức,Officetel,Officetel,None,None,Đông Bắc,4.0,False,A04.10-Lavita Charm
+346,Bán,2050000000,50.35,thủ đức,Officetel,Officetel,None,None,Tây Nam,3.0,False,A03.21-Lavita Charm
+347,Bán,2100000000,51.3,thủ đức,Officetel,Officetel,None,None,Tây Nam,3.0,False,A03.24-Lavita Charm
+348,Bán,1870000000,50.35,thủ đức,Officetel,Officetel,None,None,Đông Bắc,4.0,False,A04.12-Lavita Charm
+349,Bán,4200000000,66.33,quận 9,Shophouse,Shophouse,None,HDMB,Đông Bắc,1.0,False,B3-01-08-Gia Hòa Art
+350,Thuê,10000000,90.88,quận 9,3,2,Ko,HDMB,Tây Nam,11.0,False,B-11-19-Saigon Gateway
+351,Bán,3000000000,68.84,quận 9,2,2,None,HDMB,Tây Bắc,11.0,False,B-11-19-Him Lam Phú An
+352,Thuê,9000000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,24.0,True,A-24-05-Saigon Gateway
+353,Thuê,8000000,65.9,quận 9,2,2,Có,HDMB,Đông Bắc,18.0,False,B-18-03-Saigon Gateway
+354,Thuê,8500000,66.48,quận 9,2,2,Có,HDMB,Đông Bắc,22.0,False,B-22-02-Saigon Gateway
+355,Bán,2500000000,53.32,quận 9,2,1,Full,HDMB,Tây Nam,15.0,False,B-15-14-Saigon Gateway
+356,Bán,1638000000,59.94,bình dương,2,2,None,None,Đông Nam,19.0,False,C19.15-Marina Tower
+357,Thuê,7500000,71.6,None,2,2,Full,None,Đông Nam,None,False,C09.09-Marina Tower
+358,Bán,2000000000,73.8,None,2,2,Ko,None,None,8.0,False,B 08.09-Marina Tower
+359,Bán,2000000000,0.0,None,None,None,Ko,None,None,0.0,False,B08.09-nan
+360,Bán,2500000000,71.71,thủ đức,Shophouse,Shophouse,Ko,HDMB,Tây Nam,0.0,True,A.12-4S Linh Đông
+361,Bán,2500000000,71.71,thủ đức,Shophouse,Shophouse,Ko,HDMB,Tây Nam,0.0,True,A.07-4S Linh Đông
+362,Thuê,10000000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,13.0,False,A-12b-09-Saigon Gateway
+363,Thuê,8500000,60.0,None,2,2,Full,None,Đông Bắc,0.0,False,A3-F10-6 / 5.22-Đạt gia
+364,Thuê,10000000,68.88,None,2,2,None,None,Tây Bắc,None,False,C1-03-02-Gia Hòa
+365,Bán,2650000000,58.1,quận 9,2,2,Full,None,Tây Bắc,4.0,False,B4-04-9 view
+366,Bán,2231000000,65.9,quận 9,2,2,Ko,HDMB,Tây Bắc,4.0,False,A-04-05-Saigon Gateway
+367,Bán,1950000000,72.0,None,2,2,Ko,None,Tây Nam,9.0,False,B1-09-06-4S Linh Đông
+368,Bán,3105000000,69.01,quận 9,2,2,None,HDMB,Tây Nam,15.0,False,D2-15-02-Gia Hòa Art
+369,Bán,2600000000,68.0,quận 9,2,2,Ko,None,Tây Bắc,9.0,True,D-09-06-Him Lam Phú An
+370,Thuê,8500000,55.52,quận 9,2,1,Full,HDMB,Đông Nam,8.0,False,A-08-16-Saigon Gateway
+371,Thuê,6000000,None,None,None,None,Ko,None,None,None,False,B-11-11-P1-nan
+372,Bán,6000000,62.28,None,2,2,Ko,None,Tây Bắc,11.0,False,B-11-11-P1-nan
+373,Bán,2100000000,72.0,None,2,2,Full,None,None,0.0,False,C2.03.06-4S Linh Đông
+374,Thuê,8000000,65.9,quận 9,2,2,Ko,HDMB,Tây Nam,16.0,False,B-16-18-Saigon Gateway
+375,Thuê,9000000,65.92,quận 9,2,2,Full,HDMB,Đông Bắc,16.0,False,B-16-06-Saigon Gateway
+376,Bán,2690000000,68.84,quận 9,2,2,Ko,HDMB,Tây Bắc,7.0,True,D-06-07-Him Lam Phú An
+377,Bán,1996000000,43.0,None,None,None,Ko,None,None,None,False,S3.022006-Vinhome Grand Park
+378,Bán,7710000000,126.0,quận 9,2,2,None,HDMB,Tây Bắc,1.0,False,C1-01-09-Gia Hòa Art
+379,Bán,1940000000,55.8,thủ đức,2,2,None,HDMB,Tây Nam,6.0,False,B1.06.05-4S Linh Đông
+380,Bán,2600000000,68.0,quận 9,2,2,Ko,None,Tây Bắc,9.0,True,D-09-07-Him Lam Phú An
+381,Thuê,12000000,86.98,quận 9,3,2,Full,None,Đông Bắc,15.0,False,C1-15-9 view
+382,Bán,2852000000,81.26,quận 9,3,2,Full,None,Đông Nam,4.0,False,A12-04-9 view
+383,Thuê,12000000,140.0,None,Penthouse,Penthouse,Ko,None,None,None,False,A1-P8 / 20.08-Đạt gia
+384,Thuê,10000000,56.22,quận 9,2,1,None,HDMB,Đông Nam,3.0,False,A-03-18-Saigon Gateway
+385,Thuê,8000000,65.92,quận 9,2,2,Ko,HDMB,Đông Nam,3.0,False,B-03-10-Saigon Gateway
+386,Thuê,9000000,54.44,quận 9,2,1,Có,HDMB,Tây Nam,22.0,False,B-22-12-Saigon Gateway
+387,Bán,1550000000,51.46,bình dương,1,1,Ko,None,Đông Bắc,19.0,False,A19.10-Marina Tower
+388,Bán,2314000000,75.1,thủ đức,2,2,Có,HDMB,Đông Bắc,16.0,False,C1.16.07-4S Linh Đông
+389,Bán,2730000000,91.46,thủ đức,3,2,Có,Sổ hồng,Tây Bắc,16.0,False,B0-16.07-Sunview Town
+390,Bán,2100000000,77.0,None,3,2,Full,None,Đông Nam,None,False,C16.16-Marina tower
+391,Bán,1800000000,77.0,None,3,2,Ko,None,None,4.0,False,C-04-09-Marina
+392,Bán,2800000000,62.27,thủ đức,2,2,Ko,HDMB,Đông Bắc,19.0,False,C18.19-P2-Saigon Avenue
+393,Bán,2200000000,58.1,quận 9,2,2,Full,None,Tây Bắc,0.0,False,B2-12A-9 view
+394,Bán,2450000000,68.88,quận 9,2,2,Có,HDMB,Tây Nam,4.0,False,B1-04-02-Gia Hòa Art
+395,Bán,4902000000,85.5,None,2,2,Có,None,Đông Bắc,31.0,False,T3-3103-Palm Heights
+396,Bán,4200000000,70.8,None,2,2,None,None,Đông Nam,4.0,False,T2-3408-Palm Heights
+397,Thuê,15000000,77.0,None,2,2,Full,None,Đông Bắc,None,False,T2-2205-Palm Heights
+398,Thuê,17000000,76.4,None,2,2,Full,None,Tây Nam,25.0,False,T3-2501-palm height
+399,Bán,3700000000,77.1,None,2,2,None,None,Đông Bắc,4.0,False,T2-0405-Palm Heights
+400,Bán,4300000000,77.1,None,2,2,Có,None,Đông Bắc,9.0,False,T2-0905-palm height
+401,Thuê,15000000,77.1,None,2,2,Có,None,Đông Bắc,9.0,False,T2-0905-palm height
+402,Bán,2338000000,65.9,quận 9,2,2,Ko,HDMB,Tây Nam,19.0,False,B-19-17-Saigon Gateway
+403,Thuê,7000000,55.0,None,2,1,Có,None,Đông Nam,0.0,False,A-20-17-Saigon gateway
+404,Thuê,8000000,67.25,quận 9,2,2,Ko,HDMB,Đông Nam,11.0,False,A-11-14-Saigon Gateway
+405,Bán,1900000000,77.22,bình dương,3,2,Ko,None,Tây Bắc,19.0,False,C19.17-Marina Tower
+406,Thuê,13500000,68.83,quận 9,2,2,Full,HDMB,Đông Nam,12.0,False,B-12-14-Him Lam Phú An
+407,Bán,1903000000,77.22,bình dương,3,2,Ko,None,Tây Nam,14.0,False,A14.03-Marina Tower
+408,Bán,3200000000,86.98,quận 9,3,2,Full,None,Đông Bắc,5.0,False,A2-05-9 view
+409,Thuê,9500000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,23.0,False,A-23-04-Saigon Gateway
+410,Thuê,7000000,46.0,None,1,1,Có,None,None,None,False,S1.063502-Vinhome Grand Park
+411,Bán,2034000000,77.22,bình dương,3,2,Ko,None,Đông Nam,17.0,False,B17.14-Marina Tower
+412,Bán,2836930000,59.0,None,2,2,Ko,None,Đông Nam,None,False,D2-12-03-Gia Hòa 
+413,Thuê,10000000,69.08,quận 9,2,2,Full,HDMB,Tây Bắc,6.0,False,C-06-08-Him Lam Phú An
+414,Thuê,12000000,77.11,thủ đức,3,2,Ko,None,Tây Bắc,18.0,False,C.20.18-P1-Saigon Avenue
+415,Thuê,8500000,57.72,thủ đức,2,2,Ko,Sổ hồng,Đông Nam,11.0,False,A2-11.06-Sunview Town
+416,Thuê,14000000,71.17,quận 9,Shophouse,Shophouse,None,HDMB,Tây Bắc,1.0,False,A-01-12-Saigon Gateway
+417,Bán,3500000000,90.0,None,3,2,Có,None,Đông Nam,None,False,A-22-02-Saigon gateway
+418,Bán,2250000000,67.0,None,2,2,Ko,None,Đông Nam,20.0,False,A-20-14-Saigon Gateway
+419,Bán,1670000000,56.0,thủ đức,2,2,Full,None,Tây Nam,18.0,False,A3-H12A-19 / 18.24-Đạt Gia Residence
+420,Bán,4300000000,88.0,None,Shophouse,Shophouse,Ko,None,None,None,False,SB.10-Marina tower
+421,Bán,2150000000,71.0,None,2,2,Có,None,Tây Nam,19.0,False,A19.15-Marina tower
+422,Bán,2100000000,77.22,bình dương,3,2,None,None,Tây Nam,18.0,False,A18.03-Marina Tower
+423,Bán,1903000000,77.22,bình dương,3,2,Ko,None,Tây Nam,14.0,False,A14.03-Marina Tower
+424,Bán,2990000000,None,None,None,None,Full,None,None,None,False,S3.021512-Vinhome Grand Park
+425,Thuê,10000000,None,None,None,None,Full,None,None,None,False,S3.021512-Vinhome Grand Park
+426,Thuê,8000000,71.0,None,2,1,Full,None,None,0.0,False,"C8-04-Sunview 1,2"
+427,Bán,1800000000,71.0,None,2,2,Có,None,None,None,False,"Căn C lầu 5-Sunview 1,2"
+428,Thuê,10000000,65.9,quận 9,2,2,Ko,HDMB,Đông Nam,3.0,False,B-03-09-Saigon Gateway
+429,Bán,2630000000,81.34,quận 9,3,2,None,None,Đông Nam,7.0,False,B10-07-9 view
+430,Bán,2570000000,58.1,quận 9,2,2,None,None,Tây Bắc,5.0,False,A14-05-9 view
+431,Bán,2600000000,58.1,quận 9,2,2,None,None,Đông Nam,3.0,False,A11-03-9 view
+432,Bán,2271000000,58.1,quận 9,2,2,Full,None,Đông Bắc,10.0,False,C5-10-9 view
+433,Bán,2320000000,58.1,quận 9,2,2,Full,None,Đông Nam,15.0,False,B11-15-9 view
+434,Bán,2700000000,58.1,quận 9,2,2,Full,None,Đông Bắc,9.0,False,C3-09-9 view
+435,Thuê,9000000,81.34,quận 9,3,2,None,None,Đông Nam,10.0,False,B10-10-9 view
+436,Thuê,10000000,81.26,quận 9,3,2,Full,None,Đông Nam,4.0,False,A12-04-9 view
+437,Bán,2140000000,58.12,quận 9,2,2,Có,None,Tây Bắc,4.0,False,B1-04-9 view
+438,Thuê,12000000,86.98,quận 9,3,2,Full,None,Đông Bắc,5.0,False,A2-05-9 view
+439,Bán,2573000000,64.98,quận 9,2,2,Ko,None,Đông Nam,6.0,False,B15-06-9 view
+440,Thuê,11000000,86.98,quận 9,3,2,Có,None,Đông Nam,0.0,False,C9-12A-9 view
+441,Thuê,8500000,58.1,quận 9,2,2,Full,None,Đông Bắc,0.0,False,A1-12A-9 view
+442,Bán,2750000000,58.1,quận 9,2,2,Full,None,Tây Bắc,4.0,False,B4-04-9 view
+443,Bán,2325000000,58.1,quận 9,2,2,Full,None,Đông Nam,17.0,False,B9-17-9 view
+444,Bán,3100000000,86.98,quận 9,3,2,None,None,Đông Bắc,4.0,False,A2-04-9 view
+445,Bán,2245000000,58.1,quận 9,2,2,Full,None,Đông Bắc,0.0,False,C5-12A-9 view
+446,Bán,3086000000,86.98,quận 9,3,2,None,None,Tây Nam,4.0,False,A3-04-9 view
+447,Bán,3200000000,82.62,quận 9,3,2,Full,None,Tây Nam,15.0,False,A5-15-9 view
+448,Thuê,12000000,86.98,quận 9,3,2,Full,None,Tây Bắc,7.0,False,B7-07-9 view
+449,Thuê,12000000,81.34,quận 9,3,2,Full,None,Đông Nam,16.0,False,B10-16-9 view
+450,Bán,2516626000,64.98,quận 9,2,2,None,None,Đông Nam,0.0,False,B15-12A-9 view
+451,Bán,2247000000,58.1,quận 9,2,2,Ko,None,Đông Nam,10.0,False,B13-10-9 view
+452,Bán,2165000000,58.1,quận 9,2,2,Full,None,Đông Bắc,5.0,False,A1-05-9 view
+453,Bán,2222000000,58.1,quận 9,2,2,Ko,None,Tây Bắc,17.0,False,A15-17-9 view
+454,Thuê,7000000,58.1,quận 9,2,2,Ko,None,Đông Nam,3.0,False,A9-03-9 view
+455,Thuê,11000000,81.26,quận 9,3,2,None,None,Đông Nam,9.0,False,A12-09-9 view
+456,Bán,3700000000,81.34,quận 9,3,2,None,None,Đông Nam,12.0,False,B10-12-9 view
+457,Bán,3083000000,86.98,quận 9,3,2,Full,None,Đông Bắc,15.0,False,C1-15-9 view
+458,Bán,3035000000,86.98,quận 9,3,2,Có,None,Đông Bắc,14.0,False,A2-14-9 view
+459,Bán,2340000000,58.1,quận 9,2,2,Full,None,Tây Bắc,8.0,False,B3-08-9 view
+460,Thuê,8000000,58.1,quận 9,2,2,None,None,Tây Bắc,16.0,False,B3-16-9 view
+461,Bán,3000000000,81.34,quận 9,3,2,Full,None,Đông Bắc,14.0,False,C6-14-9 view
+462,Bán,3254000000,86.98,quận 9,3,2,Full,None,Đông Bắc,8.0,False,A2-08-9 view
+463,Bán,2170000000,58.1,quận 9,2,2,Full,None,Tây Bắc,0.0,False,B2-12A-9 view
+464,Bán,3052000000,86.98,quận 9,3,2,Có,None,Tây Nam,17.0,False,A3-17-9 view
+465,Bán,2780000000,86.98,quận 9,3,2,Ko,None,Đông Bắc,4.0,False,C8-04-9 view
+466,Bán,2522000000,58.1,quận 9,2,2,None,None,Tây Nam,14.0,False,C13-14-9 view
+467,Thuê,4000000,58.1,quận 9,2,2,None,None,Tây Nam,9.0,False,C13-09-9 view
+468,Bán,2400000000,60.21,quận 9,2,2,None,None,Đông Nam,4.0,False,A6-04-9 view
+469,Bán,2374000000,58.1,quận 9,2,2,Full,None,Đông Nam,14.0,False,A7-14-9 view
+470,Bán,2370000000,58.1,quận 9,2,2,Ko,None,Tây Bắc,12.0,False,B6-12-9 view
+471,Thuê,7000000,58.12,quận 9,2,2,None,None,Tây Bắc,8.0,False,B1-08-9 view
+472,Bán,2230000000,58.1,quận 9,2,2,Ko,None,Đông Bắc,16.0,False,C3-16-9 view
+473,Bán,1588000000,33.0,quận 9,Studio,Studio,None,HDMB,Tây Bắc,19.0,False,S5.021911-Vinhome Grand Park
+474,Bán,1800000000,67.62,thủ đức,2,2,Ko,None,Tây Bắc,19.0,False,A1-B4-20 / 19.04-Đạt Gia Residence
+475,Bán,2200000000,77.22,bình dương,3,2,Có,None,Đông Nam,15.0,False,B15.13-Marina Tower
+476,Thuê,6500000,None,None,None,None,Full,None,None,None,False,A3-18-24-nan
+477,Bán,1466000000,33.6,quận 9,Studio,Studio,None,HDMB,Tây Bắc,19.0,False,S5.021911-Vinhome Grand Park
+478,Bán,4300000000,77.1,None,2,2,None,None,Đông Bắc,27.0,False, T2-2704-Palm Heights
+479,Bán,1461000000,33.6,None,1,1,Ko,None,None,None,False,S5.021911-vinhome
+480,Bán,2200000000,None,None,None,None,Full,None,None,None,False,S1.032003-Vinhome Grand Park
+481,Thuê,8000000,None,None,None,None,Có,None,None,None,False,S1.030603-Vinhome Grand Park
+482,Thuê,6000000,None,None,None,None,Ko,None,None,None,False,S1.023021-Vinhome Grand Park
+483,Bán,2556000000,None,None,None,None,Có,None,None,None,False,S3.052416-Vinhome Grand Park
+484,Thuê,6000000,None,None,None,None,Có,None,None,None,False,S3.052416-Vinhome Grand Park
+485,Thuê,6000000,None,None,None,None,Có,None,None,None,False,S1.071117-Vinhome Grand Park
+486,Thuê,6000000,None,None,None,None,Full,None,None,None,False,S5.022609-Vinhome Grand Park
+487,Bán,2152000000,69.0,None,None,None,Full,None,None,0.0,False,S5.022609-Vinhome Grand Park
+488,Thuê,5500000,59.1,quận 9,2,1,Có,HDMB,Đông Nam,24.0,False,S1.032407-Vinhome Grand Park
+489,Thuê,6000000,0.0,None,2,2,Ko,None,None,0.0,False,S2.012310-Vinhome Grand Park
+490,Thuê,7000000,69.2,quận 9,None,None,None,HDMB,Tây Bắc,19.0,False,S1.031919-Vinhome Grand Park
+491,Bán,2300000000,59.2,quận 9,2,1,Ko,HDMB,Đông Bắc,22.0,False,S1.062220-Vinhome Grand Park
+492,Bán,2284000000,59.0,quận 9,2,1,Ko,HDMB,Đông Nam,24.0,False,S5.032406-Vinhome Grand Park
+493,Bán,16500000000,None,None,Shophouse,Shophouse,None,None,None,None,False,S3.0101S02-nan
+494,Thuê,46000000,None,None,Shophouse,Shophouse,None,None,None,None,False,S3.0101S02-Vinhome
+495,Thuê,15000000,81.5,quận 9,3,2,Full,HDMB,Đông Bắc,15.0,False,S1.021504-Vinhome Grand Park
+496,Thuê,7000000,69.2,quận 9,None,None,Ko,HDMB,Tây Bắc,5.0,False,S1.030515-Vinhome Grand Park
+497,Bán,2253500000,None,None,None,None,Ko,None,None,None,False, S3.052720-vinhome
+498,Thuê,14000000,81.7,quận 9,3,2,Full,HDMB,Đông Bắc,10.0,False,S1.021017-Vinhome Grand Park
+499,Thuê,6500000,None,None,None,None,Ko,None,None,None,False,S5.010723-Vinhome Grand Park
+500,Thuê,7000000,69.2,quận 9,None,None,Có,HDMB,Tây Bắc,13.0,False,S1.031315-Vinhome Grand Park
+501,Bán,3269000000,81.5,quận 9,3,2,None,HDMB,Đông Nam,5.0,False,S1.030505-Vinhome Grand Park
+502,Thuê,6000000,69.2,quận 9,None,None,None,HDMB,Đông Nam,9.0,False,S2.032109-Vinhome Grand Park
+503,Thuê,6000000,69.2,quận 9,None,None,None,HDMB,Đông Nam,9.0,False,S2.032115-Vinhome Grand Park
+504,Bán,1818000000,47.2,quận 9,1,1,None,HDMB,Tây Nam,25.0,False,S1.022501-Vinhome Grand Park
+505,Bán,2800000000,69.2,quận 9,None,None,Ko,HDMB,Đông Nam,3.0,False,S1.030314-Vinhome Grand Park
+506,Thuê,6500000,50.0,quận 9,1,1,Có,HDMB,Đông Bắc,3.0,False,S1.020313-Vinhome Grand Park
+507,Thuê,6000000,59.1,quận 9,2,1,Ko,HDMB,Đông Nam,20.0,False,S3.012013-Vinhome Grand Park
+508,Thuê,7000000,59.1,quận 9,2,1,Có,HDMB,Đông Nam,17.0,False,S1.031706-Vinhome Grand Park
+509,Thuê,10000000,81.7,quận 9,3,2,Ko,HDMB,Đông Nam,2.0,False,S5.010213-Vinhome Grand Park
+510,Thuê,7000000,80.0,quận 9,3,2,Ko,HDMB,Đông Bắc,28.0,False,S1.022817-Vinhome Grand Park
+511,Thuê,8000000,69.4,quận 9,2,2,Ko,HDMB,Đông Nam,12.0,False,S1.021204-Vinhome Grand Park
+512,Thuê,10500000,None,None,2,2,Full,None,None,17.0,False,B19.07-saigon gateway
+513,Bán,2100000000,59.0,quận 9,2,1,Ko,HDMB,Đông Bắc,6.0,False,S1.020620-Vinhome Grand Park
+514,Bán,2045000000,None,None,None,None,Ko,None,None,None,False,S3.023409-Vinhome Grand Park
+515,Bán,2887000000,69.0,None,2,2,Ko,None,None,None,False,S5. 031603-Vinhome Grand Park
+516,Thuê,7000000,51.7,quận 9,1,1,Full,HDMB,Đông Bắc,28.0,False,S5.012814-Vinhome Grand Park
+517,Thuê,7000000,46.5,quận 9,1,1,Full,HDMB,Đông Bắc,7.0,False,S1.030712-Vinhome Grand Park
+518,Thuê,7000000,46.5,quận 9,1,1,Full,HDMB,Đông Bắc,20.0,False,S1.022001-Vinhome Grand Park
+519,Bán,1976000000,51.7,quận 9,1,1,Ko,HDMB,Tây Bắc,10.0,False,S1.031016-Vinhome Grand Park
+520,Bán,2450000000,47.1,quận 9,None,None,Full,HDMB,Tây Bắc,23.0,False,S5.032313-Vinhome Grand Park
+521,Bán,2390000000,47.1,quận 9,None,None,Full,HDMB,Tây Bắc,12.0,False,S5.031112-Vinhome Grand Park
+522,Bán,1934000000,47.1,quận 9,None,None,Full,HDMB,Tây Bắc,9.0,False,S2.020906-Vinhome Grand Park
+523,Bán,1785000000,47.1,quận 9,1,1,Full,HDMB,Tây Bắc,25.0,False,S1.062506-Vinhome Grand Park
+524,Thuê,5000000,47.1,quận 9,None,None,Full,HDMB,Tây Bắc,12.0,False,S5.031112-Vinhome Grand Park
+525,Thuê,5000000,47.1,quận 9,None,None,Full,HDMB,Tây Bắc,9.0,False,S2.020909-Vinhome Grand Park
+526,Thuê,5000000,47.1,quận 9,None,None,Full,HDMB,Tây Bắc,25.0,False,S1.062506-Vinhome Grand Park
+527,Bán,2400000000,59.1,quận 9,2,1,Ko,HDMB,Tây Bắc,25.0,False,S1.032502-Vinhome Grand Park
+528,Thuê,4500000,43.0,quận 9,None,None,Ko,HDMB,Đông Nam,15.0,False,S1.021513-Vinhome Grand Park
+529,Bán,2600000000,59.1,quận 9,2,1,None,HDMB,Tây Bắc,8.0,False,S2.012304-Vinhome Grand Park
+530,Thuê,15000000,69.2,quận 9,2,2,None,HDMB,Tây Bắc,25.0,False,S1.032504-Vinhome Grand Park
+531,Bán,2200000000,59.1,quận 9,2,1,None,HDMB,Tây Bắc,16.0,False,S1.031603-Vinhome Grand Park
+532,Bán,2571000000,62.4,quận 9,2,2,Ko,None,Đông Nam,11.0,False,S1.071102-Vinhome Grand Park
+533,Bán,3263000000,69.0,None,2,2,Có,None,Tây Bắc,None,False,S1.020810-Vinhome Grand Park
+534,Thuê,7000000,81.7,quận 9,3,2,Ko,HDMB,Đông Nam,17.0,False,S1.061719-Vinhome Grand Park
+535,Bán,2031000000,None,None,None,None,Ko,None,None,None,False,S2.032512-Vinhome Grand Park
+536,Bán,2331000000,69.0,None,2,2,Ko,None,None,None,False,S5.032308-Vinhome Grand Park
+537,Thuê,6500000,69.2,quận 9,None,None,Ko,HDMB,Tây Nam,14.0,False,S1.021421-Vinhome Grand Park
+538,Thuê,8500000,61.1,quận 9,2,2,Có,HDMB,Tây Nam,9.0,False,S5.010919-Vinhome Grand Park
+539,Thuê,9000000,30.9,quận 9,None,None,None,HDMB,Tây Bắc,25.0,False,S5.013123-Vinhome Grand Park
+540,Thuê,9000000,0.0,quận 9,None,None,None,HDMB,Tây Bắc,6.0,False,S3.021511-Vinhome Grand Park
+541,Thuê,9000000,59.0,quận 9,2,1,Có,HDMB,Tây Nam,17.0,False,S1.021519-Vinhome Grand Park
+542,Bán,1977600000,42.9,quận 9,1,1,Có,HDMB,Đông Bắc,10.0,False,S1.021009-Vinhome Grand Park
+543,Thuê,9000000,59.0,None,2,1,Có,None,Đông Nam,None,False,S1.011808-Vinhome Grand Park
+544,Bán,1907000000,46.5,quận 9,None,None,None,HDMB,Đông Nam,17.0,False,S1.031709-Vinhome Grand Park
+545,Bán,1890000000,46.5,quận 9,None,None,None,HDMB,Đông Nam,22.0,False,S1.032209-Vinhome Grand Park
+546,Thuê,6000000,59.1,quận 9,2,1,None,HDMB,Đông Nam,9.0,False,S1.030906-Vinhome Grand Park
+547,Bán,2051000000,46.5,quận 9,None,None,None,HDMB,Đông Nam,9.0,False,S1.030909-Vinhome Grand Park
+548,Bán,1901000000,46.5,quận 9,None,None,None,HDMB,Đông Nam,8.0,False,S1.030812-Vinhome Grand Park
+549,Bán,2500000000,59.1,quận 9,2,1,Full,HDMB,Tây Bắc,23.0,False,S1.032302-Vinhome Grand Park
+550,Thuê,4500000,30.9,quận 9,None,None,None,HDMB,Tây Bắc,23.0,False,S1.032301-Vinhome Grand Park
+551,Thuê,7000000,59.1,quận 9,2,1,Full,HDMB,Tây Bắc,3.0,False,S1.030318-Vinhome Grand Park
+552,Bán,2750000000,69.2,quận 9,None,None,Ko,HDMB,Đông Nam,17.0,False,S1.031714-Vinhome Grand Park
+553,Thuê,7500000,69.2,quận 9,None,None,Ko,HDMB,Tây Bắc,15.0,False,S1.031519-Vinhome Grand Park
+554,Bán,2610000000,69.2,quận 9,None,None,None,HDMB,Tây Bắc,19.0,False,S1.031919-Vinhome Grand Park
+555,Bán,2370000000,59.1,quận 9,2,1,Ko,HDMB,Đông Nam,19.0,False,S1.031907-Vinhome Grand Park
+556,Bán,2650000000,69.2,quận 9,None,None,None,HDMB,Tây Bắc,5.0,False,S1.030515-Vinhome Grand Park
+557,Bán,2500000000,59.1,quận 9,2,1,Có,HDMB,Tây Bắc,6.0,False,S1.030603-Vinhome Grand Park
+558,Thuê,5000000,51.7,quận 9,None,None,None,HDMB,Tây Bắc,10.0,False,S1.031016-Vinhome Grand Park
+559,Bán,1801000000,46.5,quận 9,2,1,None,HDMB,Đông Nam,13.0,False,S1.031309-Vinhome Grand Park
+560,Thuê,6000000,51.7,quận 9,None,None,Có,HDMB,Tây Bắc,17.0,False,S1.031716-Vinhome Grand Park
+561,Bán,2102000000,59.1,quận 9,2,1,Ko,HDMB,Tây Bắc,9.0,False,S1.030902-Vinhome Grand Park
+562,Bán,2350000000,59.1,quận 9,2,1,Có,HDMB,Đông Nam,24.0,False,S1.032407-Vinhome Grand Park
+563,Bán,2800000000,69.2,quận 9,2,2,None,HDMB,Tây Bắc,25.0,False,S1.032504-Vinhome Grand Park
+564,Bán,1901000000,46.5,quận 9,None,None,None,HDMB,Đông Nam,21.0,False,S1.032109-Vinhome Grand Park
+565,Bán,2500000000,69.2,quận 9,None,None,None,HDMB,Tây Bắc,21.0,False,S1.032104-Vinhome Grand Park
+566,Bán,2020000000,51.7,quận 9,None,None,Có,HDMB,Tây Bắc,20.0,False,S1.032016-Vinhome Grand Park
+567,Bán,1845000000,51.7,quận 9,1,1,Ko,HDMB,Tây Bắc,13.0,False,S1.031316-Vinhome Grand Park
+568,Thuê,7000000,30.9,quận 9,Studio,Studio,None,HDMB,Đông Nam,7.0,False,S1.030708-Vinhome Grand Park
+569,Bán,1926000000,46.5,quận 9,None,None,Ko,HDMB,Đông Nam,24.0,False,S1.032409-Vinhome Grand Park
+570,Thuê,7000000,59.1,quận 9,2,1,Ko,HDMB,Tây Bắc,25.0,False,S1.032502-Vinhome Grand Park
+571,Bán,2050000000,59.1,quận 9,2,1,None,HDMB,Tây Bắc,22.0,False,S1.032203-Vinhome Grand Park
+572,Thuê,5500000,46.5,quận 9,None,None,None,HDMB,Đông Nam,16.0,False,S1.031613-Vinhome Grand Park
+573,Bán,2203000000,59.1,quận 9,2,1,Có,HDMB,Đông Nam,17.0,False,S1.031706-Vinhome Grand Park
+574,Bán,1951000000,51.7,quận 9,2,1,None,HDMB,Tây Bắc,19.0,False,S1.031916-Vinhome Grand Park
+575,Bán,2820000000,69.2,quận 9,None,None,None,HDMB,Đông Nam,18.0,False,S1.031814-Vinhome Grand Park
+576,Thuê,9000000,59.1,quận 9,2,1,Full,HDMB,Tây Bắc,20.0,False,S1.032003-Vinhome Grand Park
+577,Bán,1885000000,51.7,quận 9,1,1,Ko,HDMB,Tây Bắc,14.0,False,S1.031416-Vinhome Grand Park
+578,Thuê,16000000,69.2,quận 9,None,None,Full,HDMB,Tây Bắc,16.0,False,S1.031604-Vinhome Grand Park
+579,Thuê,5500000,59.1,quận 9,2,1,None,HDMB,Tây Bắc,3.0,False,S1.030302-Vinhome Grand Park
+580,Bán,2026000000,51.7,quận 9,1,1,Ko,HDMB,Tây Bắc,15.0,False,S1.031516-Vinhome Grand Park
+581,Thuê,6000000,59.1,quận 9,2,1,Có,HDMB,Đông Nam,13.0,False,S1.031306-Vinhome Grand Park
+582,Bán,1901000000,46.5,quận 9,None,None,None,HDMB,Đông Nam,17.0,False,S1.031712-Vinhome Grand Park
+583,Thuê,5500000,46.5,quận 9,None,None,None,HDMB,Đông Nam,19.0,False,S1.031913-Vinhome Grand Park
+584,Bán,1451000000,30.9,quận 9,None,None,None,HDMB,Tây Bắc,11.0,False,S1.031101-Vinhome Grand Park
+585,Thuê,6000000,69.2,quận 9,None,None,None,HDMB,Đông Nam,9.0,False,S1.030914-Vinhome Grand Park
+586,Bán,1957000000,51.7,quận 9,1,1,Ko,HDMB,Tây Bắc,12.0,False,S1.031216-Vinhome Grand Park
+587,Thuê,6000000,59.1,quận 9,2,1,Có,HDMB,Đông Nam,16.0,False,S1.031607-Vinhome Grand Park
+588,Bán,2700000000,69.2,quận 9,None,None,None,HDMB,Đông Nam,21.0,False,S1.032110-Vinhome Grand Park
+589,Bán,2500000000,59.1,quận 9,2,1,None,HDMB,Tây Bắc,8.0,False,S1.030802-Vinhome Grand Park
+590,Bán,2053000000,59.1,quận 9,2,1,Ko,HDMB,Tây Bắc,22.0,False,S1.032217-Vinhome Grand Park
+591,Thuê,6500000,59.1,quận 9,2,1,Có,HDMB,Tây Bắc,13.0,False,S1.031303-Vinhome Grand Park
+592,Bán,2093000000,59.1,quận 9,2,1,Ko,HDMB,Tây Bắc,20.0,False,S1.032017-Vinhome Grand Park
+593,Bán,1801000000,46.5,quận 9,None,None,None,HDMB,Đông Nam,22.0,False,S1.032212-Vinhome Grand Park
+594,Thuê,9000000,59.1,quận 9,2,1,Full,HDMB,Tây Bắc,4.0,False,S1.030418-Vinhome Grand Park
+595,Bán,2706000000,69.2,quận 9,None,None,Ko,HDMB,Đông Nam,7.0,False,S1.030714-Vinhome Grand Park
+596,Bán,1451000000,30.9,quận 9,Studio,Studio,None,HDMB,Đông Nam,22.0,False,S1.032208-Vinhome Grand Park
+597,Bán,2500000000,69.2,quận 9,None,None,None,HDMB,Tây Bắc,3.0,False,S1.030319-Vinhome Grand Park
+598,Thuê,5500000,59.1,quận 9,2,1,None,HDMB,Tây Bắc,16.0,False,S1.031603-Vinhome Grand Park
+599,Bán,1451000000,33.6,quận 9,None,None,None,HDMB,Đông Nam,23.0,False,S1.032311-Vinhome Grand Park
+600,Thuê,8000000,59.1,quận 9,2,1,None,HDMB,Tây Bắc,8.0,False,S1.030803-Vinhome Grand Park
+601,Bán,2001000000,46.5,quận 9,None,None,None,HDMB,Đông Nam,9.0,False,S1.030912-Vinhome Grand Park
+602,Bán,2455000000,69.2,quận 9,2,1,None,HDMB,Tây Bắc,16.0,False,S1.031619-Vinhome Grand Park
+603,Bán,1875000000,46.5,quận 9,None,None,None,HDMB,Đông Nam,22.0,False,S1.032213-Vinhome Grand Park
+604,Bán,1800000000,46.5,quận 9,None,None,None,HDMB,Đông Nam,20.0,False,S1.032013-Vinhome Grand Park
+605,Bán,1300000000,33.6,quận 9,None,None,None,HDMB,Đông Nam,4.0,False,S1.030411-Vinhome Grand Park
+606,Thuê,8000000,81.5,quận 9,3,2,Ko,HDMB,Đông Nam,5.0,False,S1.030505-Vinhome Grand Park
+607,Thuê,12000000,69.2,quận 9,None,None,Full,HDMB,Tây Bắc,3.0,False,S1.030315-Vinhome Grand Park
+608,Bán,2550000000,69.2,quận 9,None,None,Có,HDMB,Tây Bắc,13.0,False,S1.031315-Vinhome Grand Park
+609,Thuê,6000000,51.7,quận 9,1,1,None,HDMB,Tây Bắc,8.0,False,S1.030816-Vinhome Grand Park
+610,Bán,1971000000,51.7,quận 9,None,None,None,HDMB,Tây Bắc,22.0,False,S1.032216-Vinhome Grand Park
+611,Bán,1451000000,33.6,quận 9,None,None,None,HDMB,Đông Nam,23.0,False,S1.032311-Vinhome Grand Park
+612,Thuê,8000000,69.2,quận 9,None,None,Ko,HDMB,Đông Nam,3.0,False,S1.030314-Vinhome Grand Park
+613,Thuê,12000000,69.2,quận 9,None,None,None,HDMB,Tây Bắc,4.0,False,S1.030419-Vinhome Grand Park
+614,Bán,2153000000,59.1,quận 9,2,1,Ko,HDMB,Tây Bắc,23.0,False,S1.032317-Vinhome Grand Park
+615,Bán,2700000000,69.2,quận 9,None,None,Full,HDMB,Tây Bắc,8.0,False,S1.030819-Vinhome Grand Park
+616,Thuê,6000000,59.1,None,2,1,Có,None,None,None,False,S1.020906-nan
+617,Thuê,7000000,46.7,None,None,None,Full,None,None,None,False,S5.012814-nan
+618,Thuê,7000000,46.7,None,None,None,Full,None,None,None,False,S1.030712-nan
+619,Bán,2560000000,69.3,quận 9,None,None,None,HDMB,Tây Bắc,23.0,False,S1.022310-Vinhome Grand Park
+620,Bán,2342000000,54.0,None,None,None,Ko,None,None,None,False,S5.012729-nan
+621,Thuê,6500000,67.6,quận 9,2,2,Ko,HDMB,Tây Nam,24.0,False,S1.013405-Vinhome Grand Park
+622,Thuê,7000000,59.0,quận 9,2,2,Ko,HDMB,Tây Nam,15.0,False,S1.021508-Vinhome Grand Park
+623,Thuê,12000000,75.0,quận 9,3,2,Ko,HDMB,Đông Nam,32.0,False,S1.023217-Vinhome Grand Park
+624,Bán,2150000000,69.3,quận 9,2,2,Có,None,Tây Bắc,5.0,False,S1.070520-Vinhome Grand Park
+625,Bán,2750000000,67.6,quận 9,2,2,Full,HDMB,Tây Nam,15.0,False,S1.021502-Vinhome Grand Park
+626,Bán,2650000000,69.4,quận 9,2,2,Có,None,Đông Bắc,31.0,False,S1.063115-Vinhome Grand Park
+627,Bán,2081000000,67.6,quận 9,2,2,None,HDMB,Tây Nam,9.0,False,S1.071916-Vinhome Grand Park
+628,Thuê,5000000,59.0,quận 9,2,2,None,HDMB,Tây Nam,9.0,False,S1.071916-Vinhome Grand Park
+629,Thuê,6000000,46.7,quận 9,1,1,Có,None,Tây Bắc,14.0,False,S1.021420-Vinhome Grand Park
+630,Bán,1801000000,46.7,quận 9,1,1,None,None,Đông,16.0,False,S1.011617-Vinhome Grand Park
+631,Bán,1791000000,46.7,quận 9,1,1,None,None,Tây Bắc,16.0,False,S1.021309-Vinhome Grand Park
+632,Bán,2300000000,60.0,quận 9,2,1,Ko,HDMB,Đông Nam,10.0,False,S1.021020-Vinhome Grand Park
+633,Thuê,14000000,69.4,quận 9,2,2,Full,HDMB,Đông Bắc,33.0,False,S1.023311-Vinhome Grand Park
+634,Thuê,6000000,46.5,quận 9,1,1,Ko,HDMB,Đông Nam,28.0,False,S1.022813-Vinhome Grand Park
+635,Thuê,9000000,69.2,quận 9,None,None,Có,HDMB,Tây Nam,33.0,False,S1.023410-Vinhome Grand Park
+636,Bán,2200000000,69.2,quận 9,None,None,Ko,HDMB,Tây Nam,34.0,False,S1.022516-Vinhome Grand Park
+637,Bán,1216000000,61.5,quận 9,2,1,Ko,HDMB,Đông Bắc,29.0,False,S1.022908-Vinhome Grand Park
+638,Bán,2657000000,67.6,quận 9,2,2,Full,HDMB,Tây Nam,29.0,False,S1.022902-Vinhome Grand Park
+639,Bán,2650000000,69.0,quận 9,2,2,Full,HDMB,Đông Nam,30.0,False,S1.023005-Vinhome Grand Park
+640,Bán,2137000000,46.5,quận 9,None,None,None,HDMB,Đông Nam,29.0,False,S1.020519-Vinhome Grand Park
+641,Thuê,10000000,75.0,quận 9,3,2,Có,HDMB,Tây Nam,29.0,False,S1.022904-Vinhome Grand Park
+642,Thuê,6500000,67.5,quận 9,2,2,Ko,HDMB,Tây Nam,31.0,False,S1.022307-Vinhome Grand Park
+643,Bán,1696000000,46.5,quận 9,1,1,Ko,HDMB,Đông Bắc,4.0,False,S1.020412-Vinhome Grand Park
+644,Thuê,4000000,30.1,quận 9,None,None,Có,HDMB,Đông Bắc,30.0,False,S1.023015-Vinhome Grand Park
+645,Bán,2300000000,61.5,quận 9,2,1,None,HDMB,Đông Bắc,31.0,False,S1.023108-Vinhome Grand Park
+646,Bán,2588000000,69.2,quận 9,None,None,Ko,HDMB,Tây Nam,30.0,False,S1.023021-Vinhome Grand Park
+647,Thuê,10000000,69.2,quận 9,2,2,Full,HDMB,Đông Bắc,35.0,False,S1.023511-Vinhome Grand Park
+648,Bán,2493000000,61.5,quận 9,2,1,Ko,HDMB,Đông Bắc,32.0,False,S1.023208-Vinhome Grand Park
+649,Bán,1785000000,47.2,quận 9,None,None,Ko,HDMB,Tây Nam,33.0,False,S1.023301-Vinhome Grand Park
+650,Bán,2541000000,69.3,quận 9,None,None,Ko,HDMB,Đông Bắc,32.0,False,S1.023205-Vinhome Grand Park
+651,Bán,2809000000,67.6,quận 9,2,2,None,HDMB,Tây Nam,25.0,False,S1.022502-Vinhome Grand Park
+652,Thuê,6000000,67.6,quận 9,2,2,Ko,HDMB,Tây Nam,25.0,False,S1.022502-Vinhome Grand Park
+653,Thuê,4500000,47.2,quận 9,None,None,None,HDMB,Tây Nam,25.0,False,S1.022501-Vinhome Grand Park
+654,Thuê,4500000,46.5,quận 9,1,1,None,HDMB,Đông Nam,25.0,False,S1.022512-Vinhome Grand Park
+655,Thuê,6500000,69.4,quận 9,None,None,Ko,HDMB,Đông Nam,26.0,False,S1.021414-Vinhome Grand Park
+656,Bán,1800000000,46.5,quận 9,None,None,None,HDMB,Đông Nam,25.0,False,S1.022512-Vinhome Grand Park
+657,Bán,2915000000,67.6,quận 9,2,2,Ko,HDMB,Tây Nam,27.0,False,S1.022702-Vinhome Grand Park
+658,Bán,2300000000,59.2,quận 9,2,1,Ko,HDMB,Đông Bắc,22.0,False,S1.022207-Vinhome Grand Park
+659,Bán,1896000000,46.5,quận 9,None,None,Có,HDMB,Đông Nam,26.0,False,S1.023213-Vinhome Grand Park
+660,Bán,2607000000,67.6,quận 9,2,2,None,HDMB,Tây Nam,26.0,False,S1.022602-Vinhome Grand Park
+661,Bán,2469000000,69.2,quận 9,2,2,Ko,HDMB,Đông Bắc,26.0,False,S1.022610-Vinhome Grand Park
+662,Thuê,7000000,59.1,quận 9,2,1,Full,HDMB,Tây Nam,26.0,False,S1.022620-Vinhome Grand Park
+663,Bán,1734000000,47.2,quận 9,None,None,Ko,HDMB,Tây Nam,27.0,False,S1.022701-Vinhome Grand Park
+664,Bán,2643000000,67.0,quận 9,None,None,Ko,HDMB,Đông Nam,35.0,False,S1.023502-Vinhome Grand Park
+665,Bán,4300000000,81.7,quận 9,3,2,Full,HDMB,Đông Bắc,22.0,False,S5.030171-Vinhome Grand Park
+666,Thuê,6500000,69.3,quận 9,2,2,Ko,HDMB,Đông Nam,7.0,False,S1.020711-Vinhome Grand Park
+667,Bán,1950507070,67.6,quận 9,2,2,None,HDMB,Tây Nam,28.0,False,S1.022802-Vinhome Grand Park
+668,Bán,2254000000,61.5,quận 9,2,1,Ko,HDMB,Đông Bắc,28.0,False,S1.022808-Vinhome Grand Park
+669,Bán,2960000000,81.7,quận 9,3,2,Ko,HDMB,Đông Nam,17.0,False,S1.061719-Vinhome Grand Park
+670,Bán,1750000000,46.5,quận 9,1,1,Ko,HDMB,Tây Nam,20.0,False,S1.022013-Vinhome Grand Park
+671,Thuê,5500000,69.2,quận 9,None,None,Có,HDMB,Tây Nam,20.0,False,S1.021512-Vinhome Grand Park
+672,Thuê,6000000,59.1,quận 9,2,1,None,HDMB,Tây Nam,20.0,False,S1.022019-Vinhome Grand Park
+673,Bán,2496000000,67.5,quận 9,2,2,Ko,HDMB,Tây Nam,21.0,False,S1.022103-Vinhome Grand Park
+674,Thuê,5000000,46.5,quận 9,1,1,Ko,HDMB,Đông Bắc,7.0,False,S1.020713-Vinhome Grand Park
+675,Bán,2280000000,69.4,quận 9,None,None,Ko,HDMB,Đông Nam,22.0,False,S5.012904-Vinhome Grand Park
+676,Bán,2100000000,59.0,quận 9,2,1,Ko,HDMB,Đông Bắc,6.0,False,S1.020619-Vinhome Grand Park
+677,Bán,2404000000,68.5,quận 9,None,None,Ko,HDMB,Đông Nam,21.0,False,S1.022816-Vinhome Grand Park
+678,Thuê,8800000,61.5,quận 9,2,1,Full,HDMB,Đông Bắc,3.0,False,S1.020308-Vinhome Grand Park
+679,Bán,1725000000,47.2,quận 9,None,None,Ko,HDMB,Tây Nam,22.0,False,S1.022201-Vinhome Grand Park
+680,Thuê,7000000,46.5,quận 9,None,None,Có,HDMB,Đông Nam,23.0,False,S1.021711-Vinhome Grand Park
+681,Bán,3000000000,81.7,quận 9,3,2,Ko,HDMB,Đông Bắc,0.0,False,S1.023417-Vinhome Grand Park
+682,Bán,3053000000,81.7,quận 9,3,2,Ko,HDMB,Đông Nam,22.0,False,S1.022204-Vinhome Grand Park
+683,Bán,1891000000,46.5,quận 9,None,None,Ko,HDMB,Đông Nam,22.0,False,S1.022213-Vinhome Grand Park
+684,Bán,1900000000,43.0,quận 9,None,None,Ko,HDMB,Đông Nam,15.0,False,S1.021513-Vinhome Grand Park
+685,Thuê,7000000,56.0,quận 9,2,1,Có,HDMB,Tây Nam,24.0,False,S1.022420-Vinhome Grand Park
+686,Thuê,6000000,69.3,quận 9,None,None,None,HDMB,Tây Bắc,23.0,False,S1.022310-Vinhome Grand Park
+687,Bán,2300000000,59.0,quận 9,None,None,Ko,HDMB,Đông Nam,10.0,False,S1.021019-Vinhome Grand Park
+688,Bán,1746000000,46.5,quận 9,1,1,Ko,HDMB,Đông Bắc,34.0,False,S1.023413-Vinhome Grand Park
+689,Thuê,6500000,67.6,quận 9,2,2,Ko,HDMB,Tây Nam,24.0,False,S1.022402-Vinhome Grand Park
+690,Thuê,7000000,59.1,quận 9,2,1,Ko,HDMB,Đông Bắc,13.0,False,S1.021316-Vinhome Grand Park
+691,Bán,3300000000,81.5,quận 9,3,2,Full,HDMB,Đông Bắc,15.0,False,S1.021504-Vinhome Grand Park
+692,Bán,2660000000,69.2,quận 9,None,None,Có,HDMB,Tây Nam,15.0,False,S1.021518-Vinhome Grand Park
+693,Bán,2680000000,69.2,quận 9,None,None,None,HDMB,Tây Nam,15.0,False,S1.021521-Vinhome Grand Park
+694,Bán,2051000000,69.4,quận 9,None,None,Ko,HDMB,Đông Nam,17.0,False,S2.031609-Vinhome Grand Park
+695,Bán,2202000000,69.3,quận 9,2,2,Ko,HDMB,Đông Bắc,17.0,False,S1.021705-Vinhome Grand Park
+696,Bán,1725000000,46.5,quận 9,None,None,Ko,HDMB,Đông Nam,17.0,False,S1.1022201-Vinhome Grand Park
+697,Thuê,7000000,58.9,quận 9,2,1,Ko,HDMB,Đông Bắc,31.0,False,S1.023107-Vinhome Grand Park
+698,Bán,2600000000,59.0,quận 9,2,1,Có,HDMB,Tây Nam,17.0,False,S1.021519-Vinhome Grand Park
+699,Bán,2152000000,69.2,quận 9,None,None,Full,HDMB,Tây Nam,16.0,False,S1.022620-Vinhome Grand Park
+700,Bán,1350000000,33.5,quận 9,3,2,Có,HDMB,Tây Nam,18.0,False,S1.023514-Vinhome Grand Park
+701,Bán,2620000000,68.0,quận 9,2,2,Ko,HDMB,Đông Bắc,17.0,False,S1.021702-Vinhome Grand Park
+702,Thuê,5000000,46.5,quận 9,None,None,Ko,HDMB,Đông Nam,18.0,False,S1.021812-Vinhome Grand Park
+703,Thuê,10000000,58.9,quận 9,2,1,Ko,HDMB,Đông Bắc,34.0,False,S1.023407-Vinhome Grand Park
+704,Bán,2339000000,67.5,quận 9,2,2,Ko,HDMB,Tây Nam,19.0,False,S3.052117-Vinhome Grand Park
+705,Thuê,8000000,69.2,quận 9,2,2,Ko,HDMB,Đông Bắc,22.0,False,S1.022218-Vinhome Grand Park
+706,Bán,2638000000,61.0,quận 9,None,None,Ko,HDMB,Đông Nam,22.0,False,S1.022202-Vinhome Grand Park
+707,Thuê,7000000,58.9,quận 9,2,1,Có,HDMB,Đông Bắc,35.0,False,S1.023507-Vinhome Grand Park
+708,Bán,2560000000,69.4,quận 9,None,None,Ko,HDMB,Đông Nam,19.0,False,S1.022919-Vinhome Grand Park
+709,Thuê,5000000,47.1,quận 9,None,None,Full,HDMB,Tây Bắc,19.0,False,S1.021909-Vinhome Grand Park
+710,Bán,1904000000,59.1,quận 9,2,1,None,HDMB,Tây Nam,19.0,False,S1.021919-Vinhome Grand Park
+711,Bán,1230000000,46.5,quận 9,None,None,Ko,HDMB,Đông Nam,19.0,False,S1.022814-Vinhome Grand Park
+712,Bán,2600000,0.0,quận 9,2,1,Full,HDMB,Đông Bắc,3.0,False,S1.023207-Vinhome Grand Park
+713,Thuê,6000000,58.9,quận 9,2,1,Full,HDMB,Đông Bắc,21.0,False,S1.022107-Vinhome Grand Park
+714,Bán,2557000000,61.5,quận 9,2,1,Ko,HDMB,Đông Bắc,13.0,False,S1.021308-Vinhome Grand Park
+715,Bán,3066000000,58.9,quận 9,2,1,None,HDMB,Đông Bắc,23.0,False,S1.022307-Vinhome Grand Park
+716,Bán,2650000000,69.4,quận 9,None,None,Ko,HDMB,Đông Nam,12.0,False,S1.020919-Vinhome Grand Park
+717,Bán,1746000000,50.0,quận 9,1,1,Có,HDMB,Đông Bắc,3.0,False,S1.020313-Vinhome Grand Park
+718,Bán,2860000000,69.2,quận 9,None,None,Ko,HDMB,Tây Nam,13.0,False,S1.021321-Vinhome Grand Park
+719,Thuê,7000000,67.5,quận 9,2,2,Có,HDMB,Tây Nam,14.0,False,S1.021403-Vinhome Grand Park
+720,Thuê,9000000,67.6,quận 9,2,2,Full,HDMB,Tây Nam,15.0,False,S1.021502-Vinhome Grand Park
+721,Bán,2630000000,69.2,quận 9,None,None,Ko,HDMB,Tây Nam,14.0,False,S1.021421-Vinhome Grand Park
+722,Bán,2606000000,46.5,quận 9,None,None,Ko,HDMB,Đông Nam,14.0,False,S1.022602-Vinhome Grand Park
+723,Thuê,5500000,58.9,quận 9,2,1,None,HDMB,Đông Bắc,26.0,False,S1.022607-Vinhome Grand Park
+724,Bán,3050000000,81.7,quận 9,3,2,Full,HDMB,Đông Bắc,10.0,False,S1.021017-Vinhome Grand Park
+725,Bán,2453000000,67.6,quận 9,2,2,Ko,HDMB,Đông Bắc,8.0,False,S1.020802-Vinhome Grand Park
+726,Bán,1356000000,67.5,quận 9,2,2,Ko,HDMB,Tây Nam,14.0,False,S1.023015-Vinhome Grand Park
+727,Thuê,10000000,69.3,quận 9,2,2,Có,HDMB,Tây Bắc,8.0,False,S1.020810-Vinhome Grand Park
+728,Bán,2965000000,80.0,quận 9,3,2,Ko,HDMB,Đông Bắc,28.0,False,S1.022817-Vinhome Grand Park
+729,Bán,2253000000,69.4,quận 9,None,None,Ko,HDMB,Đông Nam,9.0,False,S1.021316 -Vinhome Grand Park
+730,Bán,3088000000,67.5,quận 9,2,2,Full,HDMB,Tây Nam,8.0,False,S1.022017-Vinhome Grand Park
+731,Bán,2202000000,58.9,quận 9,2,1,Ko,HDMB,Đông Bắc,12.0,False,S1.021207-Vinhome Grand Park
+732,Bán,3090000000,67.5,quận 9,2,2,Full,HDMB,Tây Nam,11.0,False,S1.021103-Vinhome Grand Park
+733,Bán,3000000000,69.2,quận 9,None,None,Ko,HDMB,Tây Nam,10.0,False,S1.021021-Vinhome Grand Park
+734,Thuê,10500000,67.5,quận 9,2,2,Full,HDMB,Tây Nam,11.0,False,S1.021103-Vinhome Grand Park
+735,Bán,1836000000,46.5,quận 9,None,None,Ko,HDMB,Đông Nam,10.0,False,S1.021013-Vinhome Grand Park
+736,Bán,2550000000,59.0,quận 9,2,1,Ko,HDMB,Đông Bắc,18.0,False,S1.021806-Vinhome Grand Park
+737,Bán,2200000000,58.9,quận 9,2,1,None,HDMB,Đông Bắc,18.0,False,S1.021807-Vinhome Grand Park
+738,Thuê,9000000,69.2,quận 9,None,None,Có,HDMB,Tây Nam,10.0,False,S1.021018-Vinhome Grand Park
+739,Thuê,14000000,69.3,quận 9,None,None,None,HDMB,Đông Bắc,5.0,False,S1.020505-Vinhome Grand Park
+740,Thuê,6000000,58.9,quận 9,2,1,Ko,HDMB,Đông Bắc,6.0,False,S1.020607-Vinhome Grand Park
+741,Bán,2155000000,58.9,quận 9,2,1,Ko,HDMB,Đông Bắc,4.0,False,S1.020407-Vinhome Grand Park
+742,Thuê,5500000,59.1,quận 9,2,1,None,HDMB,Tây Nam,5.0,False,S1.020519-Vinhome Grand Park
+743,Bán,2680000000,69.2,quận 9,None,None,None,HDMB,Tây Nam,6.0,False,S1.020618-Vinhome Grand Park
+744,Bán,2717000000,46.5,quận 9,None,None,Ko,HDMB,Đông Nam,5.0,False,S1.021011-Vinhome Grand Park
+745,Thuê,7500000,58.9,quận 9,2,1,Có,HDMB,Đông Bắc,8.0,False,S1.020807-Vinhome Grand Park
+746,Bán,2556000000,67.5,quận 9,2,2,Có,HDMB,Tây Nam,6.0,False,S1.021403-Vinhome Grand Park
+747,Bán,2660000000,58.9,quận 9,2,1,Ko,HDMB,Đông Bắc,10.0,False,S1.021007-Vinhome Grand Park
+748,Bán,2606000000,46.5,quận 9,None,None,Ko,HDMB,Đông Nam,4.0,False,S2.012310-Vinhome Grand Park
+749,Bán,2455000000,59.1,quận 9,2,1,None,HDMB,Đông Bắc,7.0,False,S1.020706-Vinhome Grand Park
+750,Bán,1666000000,46.5,quận 9,1,1,Ko,HDMB,Đông Bắc,14.0,False,S2.021416-Vinhome Grand Park
+751,Thuê,6000000,59.1,quận 9,2,1,Ko,HDMB,Đông Bắc,9.0,False,S1.020906-Vinhome Grand Park
+752,Bán,2164000000,69.2,quận 9,None,None,Ko,HDMB,Tây Nam,6.0,False,S1.021008-Vinhome Grand Park
+753,Bán,1786000000,47.1,quận 9,1,1,Ko,HDMB,Tây Bắc,6.0,False,S1.020609-Vinhome Grand Park
+754,Bán,2492000000,67.5,quận 9,2,2,None,HDMB,Tây Nam,7.0,False,S1.020703-Vinhome Grand Park
+755,Thuê,8000000,61.5,quận 9,2,1,None,HDMB,Đông Bắc,7.0,False,S1.020708-Vinhome Grand Park
+756,Bán,1750000000,46.7,quận 9,1,1,None,None,Tây Bắc,16.0,False,S2.021502-Vinhome Grand Park
+757,Bán,2085000000,54.5,quận 9,2,1,None,None,Tây Bắc,17.0,False,S1.032017-Vinhome Grand Park
+758,Bán,2220000000,54.1,quận 9,2,1,None,None,Tây Bắc,7.0,False,S5.030707-Vinhome Grand Park
+759,Thuê,5000000,33.8,quận 9,None,None,None,None,Tây Bắc,13.0,False,S3.030713-Vinhome Grand Park
+760,Thuê,8000000,51.7,quận 9,None,None,Full,None,Đông Nam,22.0,False,S1.012214-Vinhome Grand Park
+761,Thuê,8000000,81.0,None,3,2,Ko,None,Tây Bắc,None,False,S1.011806-Vinhome Grand Park
+762,Bán,2405000000,59.1,quận 9,2,1,None,None,Tây Bắc,19.0,False,S1.011904-Vinhome Grand Park
+763,Thuê,10500000,59.1,quận 9,2,1,Full,None,Đông Nam,28.0,False,S5.012128-Vinhome Grand Park
+764,Thuê,9000000,67.6,quận 9,2,2,None,None,Tây Bắc,19.0,False,S3.022613-Vinhome Grand Park
+765,Thuê,9000000,69.0,None,2,2,Full,None,Đông Nam,None,False,S1.010915-Vinhome Grand Park
+766,Thuê,4000000,59.1,quận 9,2,1,None,None,Đông Nam,16.0,False,S1.011609-Vinhome Grand Park
+767,Bán,2556000000,59.0,quận 9,2,1,None,None,Tây Bắc,10.0,False,S5.031006-Vinhome Grand Park
+768,Thuê,8000000,58.9,quận 9,2,1,Có,None,Đông Nam,6.0,False,S1.010613-Vinhome Grand Park
+769,Thuê,6500000,59.0,None,2,1,Ko,None,Tây Bắc,None,False,S1.012505-Vinhome Grand Park
+770,Thuê,8000000,59.1,quận 9,2,1,Full,None,Tây Bắc,8.0,False,S5.020802-Vinhome Grand Park
+771,Bán,2468000000,59.1,quận 9,2,1,None,None,Đông Nam,2.0,False,S3.020208-Vinhome Grand Park
+772,Bán,2705000000,70.0,None,2,2,Có,None,Đông Nam,None,False,C-08-13-Him lam phú an
+773,Thuê,8000000,58.9,quận 9,2,1,None,None,Đông Nam,24.0,False,S1.012413-Vinhome Grand Park
+774,Bán,2345000000,59.1,quận 9,2,1,Ko,None,Tây Bắc,25.0,False,S1.012505-Vinhome Grand Park
+775,Bán,2403000000,58.9,quận 9,2,1,None,None,Đông Nam,25.0,False,S1.012513-Vinhome Grand Park
+776,Bán,1877000000,46.7,quận 9,1,1,Ko,None,Tây Bắc,25.0,False,S1.012517-Vinhome Grand Park
+777,Thuê,6000000,33.8,quận 9,None,None,None,None,Tây Bắc,25.0,False,S1.012503-Vinhome Grand Park
+778,Thuê,5000000,59.1,quận 9,2,1,Ko,None,Tây Bắc,25.0,False,S1.012504-Vinhome Grand Park
+779,Bán,2105000000,59.1,quận 9,2,1,Ko,None,Đông Nam,25.0,False,S1.012512-Vinhome Grand Park
+780,Thuê,7000000,59.1,quận 9,2,1,None,None,Tây Bắc,19.0,False,S1.011904-Vinhome Grand Park
+781,Thuê,7500000,46.7,quận 9,1,1,Full,None,Tây Bắc,18.0,False,S1.011818-Vinhome Grand Park
+782,Bán,2245000000,59.1,quận 9,2,1,Ko,None,Đông Nam,19.0,False,S1.011912-Vinhome Grand Park
+783,Bán,2081000000,51.7,quận 9,None,None,Ko,None,Đông Nam,21.0,False,S1.012114-Vinhome Grand Park
+784,Bán,2263000000,59.2,quận 9,2,1,Ko,None,Đông Nam,21.0,False,S1.012108-Vinhome Grand Park
+785,Bán,1736000000,46.5,quận 9,1,1,Ko,None,Tây Bắc,21.0,False,S1.012102-Vinhome Grand Park
+786,Bán,3306000000,69.2,quận 9,None,None,None,None,Đông Nam,22.0,False,S1.012211-Vinhome Grand Park
+787,Bán,2083000000,46.7,quận 9,1,1,Full,None,Tây Bắc,23.0,False,S1.012318-Vinhome Grand Park
+788,Thuê,6500000,30.9,quận 9,None,None,Full,None,Đông Nam,22.0,False,S1.012210-Vinhome Grand Park
+789,Bán,2300000000,51.7,quận 9,None,None,Full,None,Đông Nam,22.0,False,S1.012214-Vinhome Grand Park
+790,Bán,2167000000,51.7,quận 9,None,None,Có,None,Đông Nam,17.0,False,S1.011714-Vinhome Grand Park
+791,Thuê,6000000,33.8,quận 9,None,None,None,None,Tây Bắc,18.0,False,S1.011803-Vinhome Grand Park
+792,Bán,1845000000,46.7,quận 9,1,1,Ko,None,Tây Bắc,15.0,False,S1.011518-Vinhome Grand Park
+793,Bán,1386000000,33.6,quận 9,None,None,Ko,None,Tây Bắc,15.0,False,S1.011519-Vinhome Grand Park
+794,Thuê,7000000,59.1,quận 9,2,1,Có,None,Tây Bắc,14.0,False,S1.011404-Vinhome Grand Park
+795,Thuê,8000000,59.1,quận 9,2,1,Full,None,Đông Nam,14.0,False,S1.011412-Vinhome Grand Park
+796,Thuê,7900000,30.9,quận 9,None,None,Full,None,Đông Nam,15.0,False,S1.011510-Vinhome Grand Park
+797,Thuê,6000000,59.1,quận 9,2,1,None,None,Tây Bắc,15.0,False,S1.011504-Vinhome Grand Park
+798,Bán,1705000000,46.5,quận 9,1,1,None,None,Tây Bắc,14.0,False,S1.011402-Vinhome Grand Park
+799,Bán,2465000000,59.2,quận 9,2,1,Có,None,Đông Nam,18.0,False,S1.011808-Vinhome Grand Park
+800,Bán,3284000000,81.5,quận 9,3,2,Ko,None,Tây Bắc,18.0,False,S1.011806-Vinhome Grand Park
+801,Bán,2883000000,69.2,quận 9,None,None,Ko,None,Tây Bắc,18.0,False,S1.011816-Vinhome Grand Park
+802,Bán,1900000000,51.7,quận 9,None,None,Ko,None,Đông Nam,8.0,False,S1.010814-Vinhome Grand Park
+803,Bán,2780000000,59.2,quận 9,2,1,Full,None,Đông Nam,8.0,False,S1.010808-Vinhome Grand Park
+804,Bán,2142000000,59.1,quận 9,2,1,Ko,None,Tây Bắc,10.0,False,S1.011005-Vinhome Grand Park
+805,Bán,3431000000,69.2,quận 9,2,2,Full,None,Đông Nam,9.0,False,S1.010915-Vinhome Grand Park
+806,Bán,1895000000,46.5,quận 9,1,1,Ko,None,Tây Bắc,10.0,False,S1.011002-Vinhome Grand Park
+807,Thuê,6000000,46.7,quận 9,None,None,Full,None,Tây Bắc,11.0,False,S1.011117-Vinhome Grand Park
+808,Bán,1500000000,33.8,quận 9,None,None,None,None,Tây Bắc,10.0,False,S1.011003-Vinhome Grand Park
+809,Thuê,3500000,30.9,quận 9,None,None,Ko,None,Đông Nam,11.0,False,S1.011110-Vinhome Grand Park
+810,Bán,2187000000,59.2,quận 9,2,1,Ko,None,Đông Nam,11.0,False,S1.011108-Vinhome Grand Park
+811,Thuê,10500000,59.1,quận 9,2,1,Full,None,Đông Nam,12.0,False,S1.011212-Vinhome Grand Park
+812,Bán,2187500000,51.7,quận 9,None,None,Ko,None,Đông Nam,12.0,False,S1.011214-Vinhome Grand Park
+813,Bán,2839000000,81.5,quận 9,3,2,Ko,None,Tây Bắc,13.0,False,S1.011306-Vinhome Grand Park
+814,Bán,1750000000,46.7,quận 9,1,1,Ko,None,Tây Bắc,12.0,False,S1.011217-Vinhome Grand Park
+815,Thuê,6500000,58.9,quận 9,2,1,None,None,Đông Nam,3.0,False,S1.010313-Vinhome Grand Park
+816,Thuê,8000000,69.2,quận 9,None,None,Full,None,Đông Nam,3.0,False,S1.010315-Vinhome Grand Park
+817,Thuê,15000000,69.2,quận 9,2,2,Full,None,Đông Nam,7.0,False,S1.010707-Vinhome Grand Park
+818,Bán,2616000000,46.7,quận 9,None,None,Ko,None,Tây Bắc,5.0,False,S1.010518-Vinhome Grand Park
+819,Thuê,7000000,59.1,quận 9,2,1,Có,None,Tây Bắc,5.0,False,S1.010504-Vinhome Grand Park
+820,Bán,2766000000,69.2,quận 9,2,2,Ko,None,Đông Nam,5.0,False,S1.010507-Vinhome Grand Park
+821,Bán,2400000000,58.9,quận 9,2,1,Có,None,Đông Nam,6.0,False,S1.010613-Vinhome Grand Park
+822,Thuê,6000000,59.1,quận 9,2,1,Có,None,Tây Bắc,7.0,False,S1.010705-Vinhome Grand Park
+823,Thuê,8000000,59.1,quận 9,2,1,Full,None,Tây Bắc,7.0,False,S1.010704-Vinhome Grand Park
+824,Bán,3000000000,81.5,quận 9,3,2,Có,None,Tây Bắc,5.0,False,S1.010506-Vinhome Grand Park
+825,Bán,2050000000,51.7,quận 9,None,None,Full,None,Đông Nam,7.0,False,S1.010714-Vinhome Grand Park
+826,Thuê,12000000,68.98,quận 9,2,2,Full,HDMB,Đông Nam,10.0,False,A-10-12-Him Lam Phú An
+827,Bán,2450000000,76.0,None,2,2,Ko,None,Tây Nam,8.0,False,D1.08.06-4S Linh Đông
+828,Thuê,25000000,240.0,thủ đức,Shophouse,Shophouse,Ko,None,Đông Nam,0.0,False,SH08-Saigon Avenue
+829,Bán,2393000000,76.56,thủ đức,3,2,Full,Sổ hồng,Tây Nam,7.0,False,A1-07.10-Sunview Town
+830,Thuê,15000000,65.92,quận 9,2,2,Full,HDMB,Đông Nam,24.0,False,B-24-07-Saigon Gateway
+831,Bán,1800000000,70.72,None,2,2,None,None,Tây Bắc,18.0,False,A1-A6-19 / 18.06-nan
+832,Thuê,14000000,90.0,None,3,2,Full,None,Đông Bắc,None,False,B-12-20-Saigon gateway
+833,Bán,2700000000,69.6,quận 9,2,2,Full,HDMB,Tây Bắc,8.0,False,C-08-04-Him Lam Phú An
+834,Thuê,8000000,68.73,bình dương,3,2,None,None,Tây Nam,6.0,False,B06.04-Marina Tower
+835,Bán,2100000000,76.56,thủ đức,3,2,Ko,Sổ hồng,Tây Nam,11.0,False,A1-11.19-Sunview Town
+836,Bán,2200000000,76.56,None,3,2,Ko,None,Tây Nam,0.0,False,A1-11.19-nan
+837,Bán,4400000000,57.0,None,Duplex,Duplex,Ko,None,Đông Nam,None,False,D2-17-04-Gia Hòa 
+838,Bán,3196000000,90.0,None,3,2,Có,None,Tây Nam,None,False,B-17-19-Saigon gateway
+839,Thuê,11000000,65.92,quận 9,2,2,Full,HDMB,Đông Nam,17.0,False,B-17-07-Saigon Gateway
+840,Thuê,12000000,69.9,quận 9,2,2,Có,HDMB,Tây Bắc,23.0,False,A-23-12-Saigon Gateway
+841,Bán,1903000000,77.22,bình dương,3,2,Ko,None,Tây Nam,14.0,False,A14.03-Marina Tower
+842,Thuê,8000000,None,None,None,None,Có,None,None,None,False,Căn hộ ngày Phạm Văn Đồng-Chung cư gần Phạm Văn Đồng
+843,Thuê,8000000,68.73,bình dương,3,2,Full,None,Tây Nam,6.0,False,B06.04-Marina Tower
+844,Bán,2026000000,77.22,bình dương,3,2,Có,None,Tây Nam,18.0,False,A18.03-Marina Tower
+845,Thuê,8500000,57.0,None,2,2,Full,None,Đông Nam,11.0,False,A2-11.06-Sunview Town
+846,Bán,2200000000,0.0,None,2,2,Full,HDMB,None,6.0,True,A1.06.09-4s linh đông
+847,Bán,2633000000,66.0,None,2,2,Full,None,Tây Nam,0.0,False,B3-05-09-Gia Hòa 
+848,Thuê,11000000,71.17,quận 9,2,2,Full,HDMB,Tây Bắc,11.0,False,B-11-11-Saigon Gateway
+849,Thuê,10000000,53.3,quận 9,2,1,Full,HDMB,Tây Bắc,13.0,False,A-12b-11-Saigon Gateway
+850,Bán,2595000000,70.0,None,2,2,Full,None,None,0.0,False,D-10-14-nan
+851,Bán,3021000000,69.32,quận 9,2,2,Full,HDMB,Tây Bắc,5.0,False,A-05-19-Him Lam Phú An
+852,Thuê,15000000,77.0,None,3,2,Ko,None,Tây Bắc,None,False,C.20.18-P1-Saigon Avenu
+853,Bán,1776000000,77.22,bình dương,3,2,None,None,Tây Bắc,13.0,False,C13.17-Marina Tower
+854,Bán,1826000000,77.22,bình dương,3,2,Ko,None,Đông Nam,18.0,False,C18.16-Marina Tower
+855,Bán,1700000000,68.73,None,3,2,Ko,None,Tây Bắc,None,False,B15.12-nan
+856,Bán,4516000000,110.0,None,Shophouse,Shophouse,Ko,None,None,0.0,False,SB.04-Marina tower
+857,Bán,2000000000,68.0,None,3,2,Có,None,Tây Bắc,None,False,B13.13-Marina tower
+858,Bán,1850000000,77.0,None,3,2,Ko,None,Tây Nam,None,False,A14.03-Marina tower
+859,Bán,2632000000,64.2,thủ đức,2,2,None,Sổ hồng,Đông Nam,17.0,False,B0-17.09-Sunview Town
+860,Bán,3100000000,71.7,bình dương,Shophouse,Shophouse,None,None,None,0.0,False,SB.19-Marina Tower
+861,Thuê,12000000,110.8,bình dương,Shophouse,Shophouse,Ko,None,None,0.0,False,SB.04-Marina Tower
+862,Bán,3905000000,103.7,bình dương,Shophouse,Shophouse,None,None,None,0.0,False,SB.11-Marina Tower
+863,Bán,5918000000,125.8,bình dương,Shophouse,Shophouse,None,None,None,0.0,False,SB.09-Marina Tower
+864,Bán,5000000000,88.2,bình dương,Shophouse,Shophouse,Ko,None,None,0.0,False,SB.10-Marina Tower
+865,Bán,1726000000,59.94,bình dương,2,2,Có,None,Tây Bắc,17.0,False,C17.02-Marina Tower
+866,Bán,2300000000,77.22,bình dương,3,2,None,None,Tây Bắc,17.0,False,C17.17-Marina Tower
+867,Thuê,7000000,61.62,bình dương,2,2,None,None,Tây Bắc,19.0,False,C19.20-Marina Tower
+868,Bán,1826000000,59.94,bình dương,2,2,Full,None,Đông Nam,17.0,False,C17.15-Marina Tower
+869,Bán,1920000000,71.6,bình dương,2,2,Ko,None,Đông Nam,19.0,False,C19.09-Marina Tower
+870,Bán,1638000000,59.94,bình dương,2,2,None,None,Đông Nam,19.0,False,C19.15-Marina Tower
+871,Bán,1700000000,53.53,bình dương,2,2,Có,None,Đông Nam,17.0,False,C17.12-Marina Tower
+872,Bán,2000000000,77.22,bình dương,3,2,Ko,None,Tây Bắc,13.0,False,C13.17-Marina Tower
+873,Bán,2600000000,77.22,bình dương,3,2,Có,None,Đông Nam,13.0,False,C13.16-Marina Tower
+874,Bán,1846000000,79.2,bình dương,3,2,Ko,None,Đông Nam,14.0,False,C14.08-Marina Tower
+875,Bán,2100000000,71.6,bình dương,2,2,Ko,None,Tây Bắc,14.0,False,C14.18-Marina Tower
+876,Thuê,7000000,77.22,bình dương,3,2,None,None,Đông Nam,14.0,False,C14.16-Marina Tower
+877,Bán,2000000000,77.22,bình dương,3,2,Ko,None,Đông Nam,15.0,False,C15.16-Marina Tower
+878,Bán,2046000000,79.2,bình dương,3,2,None,None,Đông Nam,16.0,False,C16.08-Marina Tower
+879,Thuê,6000000,59.94,bình dương,2,2,Full,None,Đông Nam,16.0,False,C16.11-Marina Tower
+880,Bán,1950000000,79.2,bình dương,3,2,None,None,Đông Nam,11.0,False,C11.08-Marina Tower
+881,Bán,1950000000,79.2,bình dương,3,2,Ko,None,Đông Nam,11.0,False,C11.08-Marina Tower
+882,Bán,1750000000,59.94,bình dương,2,2,Có,None,Đông Nam,12.0,False,C12.15-Marina Tower
+883,Bán,1596000000,53.53,bình dương,2,2,Ko,None,Đông Bắc,16.0,False,A16.06-Marina Tower
+884,Bán,2053000000,71.6,bình dương,2,2,Full,None,Đông Nam,11.0,False,C11.18-Marina Tower
+885,Bán,1750000000,59.94,bình dương,2,2,Ko,None,Đông Nam,10.0,False,C10.10-Marina Tower
+886,Bán,1838000000,71.6,bình dương,2,2,Ko,None,Đông Nam,19.0,False,C19.14-Marina Tower
+887,Bán,1550000000,51.46,bình dương,1,1,None,None,Đông Bắc,13.0,False,A13.10-Marina Tower
+888,Bán,1800000000,61.62,bình dương,2,2,Full,None,Tây Bắc,10.0,False,C10.20-Marina Tower
+889,Bán,2000000000,71.6,bình dương,2,2,Full,None,Đông Nam,12.0,False,C12.14-Marina Tower
+890,Bán,2100000000,77.22,bình dương,3,2,Full,None,Đông Nam,7.0,False,C07.17-Marina Tower
+891,Bán,1620000000,53.53,bình dương,2,2,Ko,None,Đông Nam,7.0,False,C07.13-Marina Tower
+892,Bán,1800000000,59.94,bình dương,None,None,None,None,Đông Nam,7.0,False,C07.10-Marina Tower
+893,Bán,1950000000,77.22,bình dương,3,2,Có,None,Đông Nam,7.0,False,C07.16-Marina Tower
+894,Bán,1900000000,77.22,bình dương,3,2,Ko,None,Đông Nam,9.0,False,C09.17-Marina Tower
+895,Bán,1700000000,59.94,bình dương,2,2,None,None,Tây Bắc,10.0,False,C10.02-Marina Tower
+896,Bán,1730000000,59.94,bình dương,2,2,Có,None,Đông Bắc,19.0,False,B19.01-Marina Tower
+897,Bán,2100000000,73.89,bình dương,2,2,None,None,Tây Nam,19.0,False,B19.09-Marina Tower
+898,Bán,2000000000,77.22,bình dương,3,2,Ko,None,Đông Nam,5.0,False,C05.16-Marina Tower
+899,Bán,1700000000,61.62,bình dương,2,2,Full,None,Đông Nam,5.0,False,C05.20-Marina Tower
+900,Bán,1630000000,53.53,bình dương,2,2,Có,None,Đông Nam,6.0,False,C06.12-Marina Tower
+901,Bán,1800000000,59.94,bình dương,2,2,None,None,Đông Nam,7.0,False,C07.02-Marina Tower
+902,Bán,1700000000,59.94,bình dương,2,2,None,None,Đông Bắc,16.0,False,A16.08-Marina Tower
+903,Bán,2000000000,79.2,bình dương,3,2,Có,None,Đông Nam,6.0,False,C06.08-Marina Tower
+904,Bán,3059000000,116.56,bình dương,3,2,None,None,Tây Nam,14.0,False,B14.09-Marina Tower
+905,Bán,1948000000,59.94,bình dương,2,2,Có,None,Đông Bắc,16.0,False,B16.01-Marina Tower
+906,Bán,1900000000,59.94,bình dương,2,2,Full,None,Đông Nam,15.0,False,B15.14-Marina Tower
+907,Bán,1838000000,65.03,bình dương,2,2,Có,None,Tây Nam,15.0,False,B15.07-Marina Tower
+908,Bán,2040000000,77.22,bình dương,3,2,Có,None,Đông Bắc,16.0,False,B16.03-Marina Tower
+909,Bán,1850000000,70.2,bình dương,2,2,Ko,None,Tây Bắc,18.0,False,B18.12-Marina Tower
+910,Bán,1853000000,70.2,bình dương,2,2,Có,None,Tây Nam,17.0,False,B17.06-Marina Tower
+911,Bán,1930000000,65.03,bình dương,2,2,Có,None,Tây Nam,16.0,False,B16.06-Marina Tower
+912,Bán,1826000000,59.94,bình dương,2,2,Có,None,Đông Bắc,18.0,False,B18.02-Marina Tower
+913,Bán,1950000000,73.89,bình dương,2,2,Có,None,Tây Nam,18.0,False,B18.09- Marina Tower 
+914,Bán,1803000000,59.94,bình dương,2,2,Có,None,Đông Bắc,16.0,False,B16.02-Marina Tower
+915,Bán,1750000000,59.0,bình dương,2,2,Full,None,Tây Bắc,17.0,False,B17.10-Marina Tower
+916,Bán,3500000000,150.0,bình dương,None,None,Ko,None,Tây Nam,14.0,False,A14.12-Marina Tower
+917,Bán,2000000000,77.22,bình dương,3,2,Ko,None,Tây Nam,17.0,False,B17.04-Marina Tower
+918,Bán,1950000000,71.6,bình dương,2,2,Có,None,Tây Nam,10.0,False,B10.07-Marina Tower
+919,Bán,2244000000,68.73,bình dương,3,2,Có,None,Tây Nam,10.0,False,B10.04-Marina Tower
+920,Bán,2464000000,77.0,bình dương,3,2,Có,None,Đông Nam,14.0,False,C14.16-Marina Tower
+921,Bán,2200000000,71.6,bình dương,2,2,Ko,None,Tây Bắc,10.0,False,B10.12- Marina Tower 
+922,Bán,1900000000,71.6,bình dương,2,2,Ko,None,Tây Nam,10.0,False,B10.08- Marina Tower 
+923,Bán,2300000000,77.22,bình dương,3,2,None,None,Đông Bắc,13.0,False,B13.03-Marina Tower
+924,Bán,2000000000,71.6,bình dương,2,2,Ko,None,Tây Nam,12.0,False,B12.08-Marina Tower
+925,Bán,2100000000,71.6,bình dương,2,2,None,None,Tây Nam,12.0,False,B12.07-Marina Tower
+926,Bán,2300000000,73.89,bình dương,2,2,Full,None,Tây Nam,13.0,False,B13.09-Marina Tower
+927,Bán,1850000000,68.73,bình dương,3,2,Có,None,Tây Nam,13.0,False,B13.04-Marina Tower
+928,Bán,2559000000,77.22,bình dương,3,2,Full,None,Đông Nam,13.0,False,B13.14-Marina Tower
+929,Bán,1970000000,71.6,bình dương,2,2,Có,None,Tây Nam,13.0,False,B13.07-Marina Tower
+930,Bán,1750000000,59.94,bình dương,2,2,Full,None,Đông Bắc,13.0,False,B13.01-Marina Tower
+931,Bán,2100000000,77.22,bình dương,3,2,Full,None,Đông Bắc,5.0,False,B05.03-Marina Tower
+932,Bán,2200000000,68.73,bình dương,3,2,Full,None,Tây Nam,6.0,False,B06.04-Marina Tower
+933,Bán,2300000000,59.94,bình dương,2,2,Có,None,Đông Nam,8.0,False,B08.13-Marina Tower
+934,Bán,1520000000,53.55,bình dương,1,1,Full,None,Tây Nam,6.0,False,B06.05-Marina Tower
+935,Bán,2400000000,71.6,bình dương,2,2,None,None,Đông Nam,16.0,False,C16.09-Marina Tower
+936,Bán,2228000000,71.6,bình dương,2,2,Ko,None,Tây Bắc,5.0,False,B05.11-Marina Tower
+937,Bán,2000000000,77.22,bình dương,3,2,Full,None,Đông Bắc,9.0,False,B09.03-Marina Tower
+938,Bán,1900000000,68.73,bình dương,3,2,None,None,Tây Nam,8.0,False,B08.04-Marina Tower
+939,Bán,1650000000,53.64,bình dương,2,2,Full,None,Đông Nam,7.0,False,B07.14-Marina Tower
+940,Bán,2150000000,71.6,bình dương,2,2,Full,None,Tây Bắc,7.0,False,B07.12-Marina Tower
+941,Bán,1600000000,53.64,bình dương,2,2,Có,None,Đông Nam,9.0,False,B09.14-Marina Tower
+942,Bán,2000000000,71.6,bình dương,2,2,Ko,None,Tây Bắc,6.0,False,B06.11-Marina Tower
+943,Bán,2000000000,73.89,bình dương,2,2,Ko,None,Tây Nam,8.0,False,B08.09-Marina Tower
+944,Bán,1750000000,59.0,bình dương,2,2,Full,None,Tây Bắc,8.0,False,B08.10-Marina Tower
+945,Bán,1947500000,71.6,bình dương,2,2,Ko,None,Tây Bắc,8.0,False,B08.12-Marina Tower
+946,Bán,1730000000,59.94,bình dương,2,2,Ko,None,Tây Nam,17.0,False,A17.02-Marina Tower
+947,Bán,1826000000,61.62,bình dương,2,2,Ko,None,Tây Nam,16.0,False,A16.01-Marina Tower
+948,Bán,2500000000,79.2,bình dương,3,2,Full,None,Đông Bắc,16.0,False,A16.11-Marina Tower
+949,Bán,2000000000,61.62,bình dương,2,2,Có,None,Tây Nam,16.0,False,A16.16-Marina Tower
+950,Bán,2158000000,79.2,bình dương,3,2,Full,None,Đông Bắc,17.0,False,A17.11-Marina Tower
+951,Bán,1980000000,73.89,bình dương,2,2,Có,None,Tây Nam,10.0,False,B10.09-Marina Tower
+952,Bán,2056000000,77.22,bình dương,3,2,Có,None,Tây Nam,18.0,False,A18.03-Marina Tower
+953,Thuê,7500000,61.62,bình dương,2,2,None,None,Tây Nam,18.0,False,A18.17-Marina Tower
+954,Bán,2246000000,79.2,bình dương,3,2,Full,None,Đông Bắc,18.0,False,A18.11-Marina Tower
+955,Bán,2254000000,78.31,bình dương,3,2,Ko,None,Tây Nam,19.0,False,A19.12-Marina Tower
+956,Bán,1799000000,59.94,bình dương,2,2,Full,None,Tây Nam,19.0,False,A19.02-Marina Tower
+957,Bán,2100000000,71.6,bình dương,2,2,Full,None,Tây Nam,17.0,False,A17.14-Marina Tower
+958,Bán,2100000000,77.22,bình dương,3,2,Có,None,Đông Bắc,18.0,False,A18.04-Marina Tower
+959,Bán,1780000000,59.94,bình dương,2,2,Full,None,Đông Bắc,19.0,False,A19.05-Marina Tower
+960,Bán,1950000000,77.22,bình dương,3,2,Ko,None,Đông Bắc,12.0,False,A12.04-Marina Tower
+961,Bán,1788000000,59.94,bình dương,2,2,Có,None,Đông Bắc,14.0,False,A14.09-Marina Tower
+962,Bán,1800000000,59.94,bình dương,2,2,Có,None,Tây Nam,12.0,False,A12.16-Marina Tower
+963,Bán,2070000000,79.2,bình dương,3,2,None,None,Đông Bắc,13.0,False,A13.11-Marina Tower
+964,Bán,1926000000,77.22,bình dương,3,2,Ko,None,Tây Nam,14.0,False,A14.03-Marina Tower
+965,Thuê,6500000,59.94,bình dương,2,2,Có,None,Đông Bắc,14.0,False,A14.09-Marina Tower
+966,Bán,2500000000,77.22,bình dương,3,2,Full,None,Tây Bắc,6.0,False,C06.17-Marina Tower
+967,Bán,2550000000,71.6,bình dương,2,2,None,None,Tây Nam,8.0,False,A08.15-Marina Tower
+968,Bán,1688000000,59.94,bình dương,2,2,Ko,None,Đông Bắc,15.0,False,A15.09-Marina Tower
+969,Bán,2000000000,71.6,bình dương,2,2,None,None,Đông Nam,7.0,False,C07.14-Marina Tower
+970,Bán,2387600000,77.22,bình dương,3,2,Full,None,Đông Bắc,10.0,False,A10.04-Marina Tower
+971,Bán,1900000000,79.2,bình dương,3,2,Ko,None,Đông Bắc,11.0,False,A11.11-Marina Tower
+972,Thuê,7000000,47.62,bình dương,1,1,Ko,None,Tây Nam,16.0,False,A16.01-Marina Tower
+973,Bán,1536000000,51.46,bình dương,1,1,Có,None,Đông Bắc,11.0,False,A11.10-Marina Tower
+974,Bán,1506000000,51.46,bình dương,1,1,None,None,Đông Bắc,4.0,False,A04.07-Marina Tower
+975,Bán,2007000000,77.22,bình dương,3,2,Full,None,Đông Bắc,5.0,False,A05.04-Marina Tower
+976,Bán,2000000000,79.2,bình dương,3,2,Có,None,Đông Bắc,5.0,False,A05.11-Marina Tower
+977,Bán,2000000000,79.2,bình dương,3,2,None,None,Đông Bắc,7.0,False,A07.11-Marina Tower
+978,Bán,1900000000,59.94,bình dương,2,2,Có,None,Đông Bắc,7.0,False,A07.05-Marina Tower
+979,Thuê,9500000,86.98,None,3,2,Ko,None,Đông Bắc,None,False,C8-04-9 View
+980,Thuê,12000000,69.0,None,2,2,Full,None,Tây Bắc,None,False,A-23-12-Saigon gateway
+981,Thuê,12000000,69.0,None,2,2,Full,None,Tây Bắc,0.0,False,A-20-12-Saigon gateway
+982,Thuê,9500000,65.9,quận 9,2,2,Ko,HDMB,Tây Bắc,23.0,False,A-23-04-Saigon Gateway
+983,Bán,3000000000,64.2,thủ đức,2,2,Ko,Sổ hồng,Đông Bắc,10.0,False,B0-10.28-Sunview Town
+984,Thuê,6500000,63.0,thủ đức,2,2,Có,HDMB,None,8.0,True,B.8.810-Stown
+985,Thuê,9000000,81.0,None,3,2,Ko,None,Tây Bắc,None,False,A13-04-9 View
+986,Thuê,9000000,69.0,None,2,2,None,None,None,19.0,False,A-19-19-lavita garden
+987,Thuê,9000000,68.0,None,2,2,Có,None,Đông Nam,None,False,A16-10-nan
+988,Thuê,8000000,55.52,quận 9,2,1,Full,HDMB,Đông Nam,23.0,False,A-23-16-Saigon Gateway
+989,Bán,2550000000,53.0,None,2,1,Ko,None,None,None,False,B-17-14-Saigon gateway
+990,Thuê,8000000,73.0,None,2,2,Full,None,None,0.0,False,"B3-16-Sunview 1,2"
+991,Thuê,10000000,None,None,None,None,None,None,None,None,False,A-11-02-Saigon Gateway
+992,Thuê,12000000,68.0,None,2,2,Full,None,Đông Nam,None,False,D-11-03-Him lam phú an
+993,Thuê,10000000,75.0,None,2,2,Full,None,Đông Bắc,None,False,D1.06.01-nan
+994,Bán,2200000000,75.0,None,2,2,Full,None,None,6.0,False,A2.06.01-4S Linh Đông
+995,Thuê,7000000,None,None,2,2,Ko,None,None,None,False,F.8.24-P2-nan
+996,Bán,2800000000,68.84,quận 9,2,2,Có,HDMB,Tây Bắc,16.0,False,C-16-05-Him Lam Phú An
+997,Bán,1480000000,57.0,thủ đức,2,2,Ko,HDMB,Đông Nam,2.0,False,B.02.01-TDH RiverView
+998,Bán,1870000000,47.59,thủ đức,2,1,None,None,Tây Bắc,11.0,False,D.17.11-P1-Saigon Avenue
+999,Bán,2772000000,77.11,thủ đức,3,2,Có,None,Tây Bắc,7.0,False,C.1.7-P2-Saigon Avenue
+1000,Bán,2800000000,77.11,thủ đức,3,2,Ko,None,Tây Bắc,18.0,False,C.20.18-P1-Saigon Avenue
+1001,Bán,2300000000,62.27,thủ đức,2,2,Ko,None,Tây Bắc,17.0,False,B.2.17-P2-Saigon Avenue
+1002,Thuê,8000000,62.27,thủ đức,2,2,Có,None,Tây Bắc,9.0,False,B.3.9-P2-Saigon Avenue
+1003,Bán,2380600000,62.27,thủ đức,2,2,Ko,None,Tây Bắc,11.0,False,B.3.11-P2-Saigon Avenue
+1004,Bán,2520000000,62.13,thủ đức,2,2,Ko,None,Đông Nam,17.0,False,F.8.17-P1-Saigon Avenue
+1005,Bán,2982000000,77.11,thủ đức,3,2,None,None,Đông Nam,23.0,False,C.1.23-P1-Saigon Avenue
+1006,Bán,2530000000,62.27,thủ đức,2,2,Full,None,Đông Nam,24.0,False,B.6.24-P1-Saigon Avenue
+1007,Bán,2500000000,62.27,thủ đức,2,2,Full,None,Đông Nam,19.0,False,B.2.19-P1-Saigon Avenue
+1008,Bán,2600000000,62.27,thủ đức,2,2,Full,None,Đông Nam,23.0,False,B.4.23-P1-Saigon Avenue
+1009,Bán,2534000000,62.27,thủ đức,2,2,Ko,None,Đông Bắc,12.0,False,B.18.12-P2-Saigon Avenue
+1010,Bán,2466000000,62.27,thủ đức,2,2,Ko,None,Đông Bắc,14.0,False,B.18.14-P2-Saigon Avenue
+1011,Bán,2250000000,62.27,thủ đức,2,2,None,None,Đông Bắc,9.0,False,B.18.9-P2-Saigon Avenue
+1012,Bán,2825000000,62.27,thủ đức,2,2,Full,None,Đông Bắc,11.0,False,A.15.11-P2-Saigon Avenue
+1013,Bán,2425000000,62.27,thủ đức,2,2,Ko,None,Đông Bắc,10.0,False,B.16.10-P2-Saigon Avenue
+1014,Bán,3000000000,85.0,None,3,2,Có,None,None,19.0,False,D1-19-04-4S Linh Đông
+1015,Thuê,9000000,65.0,None,2,2,Full,None,None,12.0,False,B.20.14-P1-nan
+1016,Bán,4680000000,85.2,None,2,2,None,None,Đông Bắc,12.0,False,T3-1203-Palm Heights
+1017,Bán,4767000000,85.2,None,2,2,None,None,Đông Bắc,9.0,False,T3-0903-Palm Heights
+1018,Thuê,12075000,77.1,None,2,2,None,None,Đông Bắc,4.0,False,T3-0404-Palm Heights
+1019,Thuê,18000000,121.5,None,3,2,Có,None,Tây Nam,3.0,False,T3-0307-Palm Heights
+1020,Bán,4206000000000,76.4,None,2,2,None,None,Tây Nam,0.0,False, T3-12A01-Palm Heights
+1021,Bán,4850000000,80.4,None,2,2,None,None,Đông Bắc,29.0,False,T3-2905-Palm Heights
+1022,Thuê,19000000,121.5,None,3,2,None,None,Tây Nam,28.0,False,T3-2802-Palm Heights
+1023,Thuê,17000000,85.2,None,2,2,None,None,Đông Bắc,27.0,False,T3-2703-Palm Heights
+1024,MCG cho thuê,13000000,77.1,None,2,2,Full,None,Đông Bắc,27.0,False,T3-2604-Palm Heights
+1025,Bán,7000000000,121.5,None,3,2,None,None,Tây Nam,18.0,False,T3-1807-Palm Heights
+1026,Bán,6020000000,121.5,None,3,2,Full,None,Tây Nam,15.0,False,T3-1507-Palm Heights
+1027,Thuê,15000000,77.1,None,2,2,Full,None,Đông Bắc,16.0,False,T3-1604-Palm Heights
+1028,Thuê,14000000,77.1,None,2,2,Full,None,Đông Bắc,15.0,False,T3-1504-Palm Heights
+1029,Thuê,18000000,121.5,None,3,2,None,None,Tây Nam,15.0,False,T3-1502-Palm Heights
+1030,Thuê,17000000,85.2,None,2,2,None,None,Đông Bắc,25.0,False, T2-2503-Palm Heights
+1031,Thuê,14050000,79.1,None,2,2,None,None,Tây Nam,26.0,False, T2-2601-Palm Heights
+1032,Bán,4949000000,80.4,None,2,2,Full,None,Đông Bắc,29.0,False, T2-2904-Palm Heights
+1033,Thuê,12000000,80.4,None,2,2,Full,None,Đông Bắc,7.0,False, T2-0704-Palm Heights
+1034,Thuê,25000000,105.0,None,3,2,Full,None,Tây Nam,8.0,False, T2-0807-Palm Heights
+1035,Thuê,17000000,79.1,None,2,2,Có,None,Tây Nam,10.0,False, T2-1001-Palm Heights
+1036,Thuê,18000000,85.2,None,2,2,None,None,Đông Bắc,19.0,False, T2-1903-Palm Heights
+1037,Bán,4343000000,77.1,None,2,2,Full,None,Đông Bắc,22.0,False, T2-2205-Palm Heights
+1038,Bán,7025000000,121.5,None,3,2,Full,None,Tây Bắc,29.0,False,T1-2906-Palm Heights
+1039,Bán,4500000000,80.4,None,2,2,Full,None,Tây Bắc,30.0,False,T1-3004-Palm Heights
+1040,Bán,5375000000,121.5,None,3,2,Ko,None,Đông Nam,35.0,False,T1-3502-Palm Heights
+1041,Thuê,18000000,79.1,None,2,2,None,None,Tây Nam,1.0,False, T2-0101-Palm Heights
+1042,Thuê,14000000,70.8,None,2,2,None,None,Đông Nam,34.0,False,T1-3408-Palm Heights
+1043,Thuê,14000000,69.2,None,2,2,Full,None,Tây Bắc,0.0,False,T1-12A05-Palm Heights
+1044,Bán,5600000000,105.0,None,3,2,None,None,Tây Nam,5.0,False, T2-0507-Palm Heights
+1045,Bán,6385000000,76.4,None,2,2,None,None,Tây Nam,1.0,False, T1-0103-Palm Heights
+1046,Thuê,14000000,80.4,None,2,2,None,None,Tây Bắc,15.0,False,T1-1504-Palm Heights
+1047,Bán,4203000000,69.2,None,2,2,Có,None,Tây Bắc,15.0,False,T1-1505-Palm Heights
+1048,Thuê,15000000,80.4,None,2,2,Có,None,Tây Bắc,16.0,False,T1-1604-Palm Heights
+1049,Thuê,17000000,80.4,None,2,2,Full,None,Tây Bắc,18.0,False,T1-1804-Palm Heights
+1050,Thuê,30000000,121.5,None,3,2,Full,None,Đông Nam,21.0,False,T1-2102-Palm Heights
+1051,Thuê,16000000,70.8,None,2,2,None,None,Đông Nam,20.0,False,T1-2008-Palm Heights
+1052,Thuê,25000000,121.5,None,3,2,Full,None,Tây Bắc,23.0,False,T1-2306-Palm Heights
+1053,Bán,6500000000,76.4,None,2,2,Ko,None,Đông Nam,1.0,False,T1-0101-Palm Heights
+1054,Thuê,25000000,121.5,None,3,2,Full,None,Đông Nam,7.0,False,T1-0702-Palm Heights
+1055,Thuê,13000000,80.4,None,2,2,Full,None,Tây Bắc,8.0,False,T1-0804-Palm Heights
+1056,Bán,4400000000,76.4,None,2,2,Full,None,Đông Nam,14.0,False,T1-1401-Palm Heights
+1057,Thuê,14000000,80.4,None,2,2,Full,None,Tây Bắc,11.0,False,T1-1104-Palm Heights
+1058,Bán,3100000000,120.75,thủ đức,Shophouse,Shophouse,None,None,None,0.0,False,A3-TM27-T / 0.06-Đạt Gia Residence
+1059,Bán,4510000000,154.48,thủ đức,Penthouse,Penthouse,Full,None,None,20.0,False,A1-P2 / 20.02-Đạt Gia Residence
+1060,Bán,3800000000,157.94,thủ đức,Penthouse,Penthouse,Có,HDMB,Đông Bắc,20.0,False,A3-P2 / 20.01-Đạt Gia Residence
+1061,Bán,1698000000,59.67,thủ đức,2,2,Ko,None,Tây Nam,18.0,False,A3-E22-19 / 18.34-Đạt Gia Residence
+1062,Bán,4248000000,149.21,thủ đức,Penthouse,Penthouse,Full,None,None,20.0,False,A1-P4 / 20.04-Đạt Gia Residence
+1063,Bán,4500000000,154.57,thủ đức,Penthouse,Penthouse,Full,None,Tây Nam,20.0,False,A1-P3 / 20.03-Đạt Gia Residence
+1064,Bán,3600000000,140.0,thủ đức,Penthouse,Penthouse,Ko,None,None,0.0,False,A1-P8 / 20.08-Đạt Gia Residence
+1065,Bán,3300000000,127.33,thủ đức,Shophouse,Shophouse,Ko,None,None,0.0,False,A3-TM09-T / 0.17-Đạt Gia Residence
+1066,Bán,1898000000,60.45,thủ đức,2,2,Có,None,Tây Nam,14.0,False,A3-F18-15 / 14.30-Đạt Gia Residence
+1067,Bán,1850000000,60.45,thủ đức,2,2,Full,None,Tây Nam,16.0,False,A3-F18-17 / 16.30-Đạt Gia Residence
+1068,Thuê,6500000,56.0,thủ đức,2,2,Ko,None,Tây Nam,12.0,False,A3-H12B-12B / 12.25-Đạt Gia Residence
+1069,Bán,1400000000,43.57,thủ đức,1,1,Full,None,Đông Nam,13.0,False,A3-J14-14 / 13.26-Đạt Gia Residence
+1070,Bán,1400000000,46.57,thủ đức,1,1,None,None,Đông Nam,19.0,False,A3-J14-20 / 19.26-Đạt Gia Residence
+1071,Bán,1742000000,56.0,thủ đức,2,2,Có,None,Đông Bắc,14.0,False,A3-H15-15 / 14.27-Đạt Gia Residence
+1072,Bán,1800000000,60.45,thủ đức,2,2,Full,None,Đông Bắc,19.0,False,A3-F10-20 / 19.22-Đạt Gia Residence
+1073,Bán,2000000000,60.45,thủ đức,2,2,Full,None,Đông Bắc,18.0,False,A3-F10-19 / 18.22-Đạt Gia Residence
+1074,Bán,1745000000,60.45,thủ đức,2,2,Full,None,Đông Bắc,5.0,False,A3-F10-6 / 5.22-Đạt Gia Residence
+1075,Bán,1600000000,56.0,thủ đức,2,2,Có,None,Tây Nam,14.0,False,A3-H12A-15 / 14.24-Đạt Gia Residence
+1076,Bán,1686000000,56.0,thủ đức,2,2,Full,None,Tây Nam,4.0,False,A3-H12B-5 / 4.25-Đạt Gia Residence
+1077,Bán,1892000000,63.18,thủ đức,2,2,Có,None,Đông Bắc,12.0,False,A3-D5-12B / 12.17-Đạt Gia Residence
+1078,Bán,1692000000,59.67,thủ đức,2,2,Có,None,Đông Bắc,1.0,False,A3-E6-2 / 1.18-Đạt Gia Residence
+1079,Bán,1894000000,59.67,thủ đức,2,2,Full,None,Đông Bắc,13.0,False,A3-E6-14 / 13.18-Đạt Gia Residence
+1080,Bán,1765000000,60.45,thủ đức,2,2,Có,None,Đông Bắc,19.0,False,A3-B7-20 / 19.19-Đạt Gia Residence
+1081,Bán,1765200000,60.45,thủ đức,2,2,None,None,Đông Bắc,13.0,False,A3-B7-14 / 13.19-Đạt Gia Residence
+1082,Bán,1686000000,56.55,thủ đức,2,2,Ko,None,Đông Bắc,10.0,False,A3-C3-11 / 10.15-Đạt Gia Residence
+1083,Bán,1725000000,53.29,thủ đức,2,1,Full,None,Đông Nam,7.0,False,A1-E16-8 / 7.16-Đạt Gia Residence
+1084,Bán,1600000000,53.29,thủ đức,2,1,Full,None,Đông Nam,12.0,False,A1-E16-12B / 12.16-Đạt Gia Residence
+1085,Bán,2050000000,78.0,thủ đức,3,2,Ko,None,Đông Bắc,9.0,False,A3-A1-10 / 9.13-Đạt Gia Residence
+1086,Bán,2200000000,78.0,thủ đức,3,2,Full,None,Đông Bắc,16.0,False,A3-A1-17 / 16.13-Đạt Gia Residence
+1087,Bán,2068000000,78.0,thủ đức,3,2,Full,None,Đông Bắc,11.0,False,A3-A1-12A / 11.13-Đạt Gia Residence
+1088,Thuê,8000000,78.0,thủ đức,3,2,Có,None,Đông Bắc,18.0,False,A3-A1-19 / 18.13-Đạt Gia Residence
+1089,Bán,2161000000,70.72,thủ đức,2,2,Full,None,Đông Nam,7.0,False,A1-A14-8 / 7.14-Đạt Gia Residence
+1090,Bán,1650000000,60.45,thủ đức,2,2,Có,None,Đông Bắc,2.0,False,A3-B2-3 / 2.14-Đạt Gia Residence
+1091,Thuê,8000000,70.72,thủ đức,2,2,Ko,None,Đông Nam,19.0,False,A1-A14-20 / 19.14-Đạt Gia Residence
+1092,Bán,1850000000,59.76,thủ đức,2,2,Full,None,Tây Bắc,5.0,False,A1-C15-6 / 5.15-Đạt Gia Residence
+1093,Bán,1700000000,59.76,thủ đức,2,2,Có,None,Tây Bắc,7.0,False,A1-C15-8 / 7.15-Đạt Gia Residence
+1094,Bán,2000000000,70.72,thủ đức,2,2,Full,None,Đông Nam,17.0,False,A1-A11-18 / 17.11-Đạt Gia Residence
+1095,Thuê,6000000,56.0,thủ đức,2,2,None,None,Tây Nam,14.0,False,A3-H33-15 / 14.11-Đạt Gia Residence
+1096,Bán,1807000000,67.62,thủ đức,2,2,Full,None,Đông Nam,13.0,False,A1-B12A-14 / 13.12-Đạt Gia Residence
+1097,Bán,1910000000,67.62,thủ đức,2,2,Có,None,Đông Nam,16.0,False,A1-B12A-17 / 16.12-Đạt Gia Residence
+1098,Bán,1746000000,57.4,thủ đức,2,2,Có,None,Tây Nam,18.0,False,A3-G34-19 / 18.12-Đạt Gia Residence
+1099,Bán,2060000000,67.62,thủ đức,2,2,Ko,None,Đông Nam,5.0,False,A1-B12B-6 / 5.13-Đạt Gia Residence
+1100,Bán,1760000000,62.48,thủ đức,2,2,Có,None,Tây Bắc,13.0,False,A1-D9-14 / 13.09-Đạt Gia Residence
+1101,Bán,1707000000,62.48,thủ đức,2,2,Ko,None,Tây Bắc,17.0,False,A1-D9-18 / 17.09-Đạt Gia Residence
+1102,Bán,1423000000,50.53,thủ đức,1,1,Có,None,Tây Bắc,8.0,False,A3-I31-9 / 8.09-Đạt Gia Residence
+1103,Bán,1700000000,59.76,thủ đức,2,2,Ko,None,Tây Bắc,2.0,False,A1-C10-3 / 2.10-Đạt Gia Residence
+1104,Bán,1506000000,50.53,thủ đức,1,1,Full,None,Tây Bắc,15.0,False,A3-I31-16 / 15.09-Đạt Gia Residence
+1105,Bán,1748000000,59.76,thủ đức,2,2,Có,None,Tây Bắc,16.0,False,A1-C10-17 / 16.10-Đạt Gia Residence
+1106,Bán,2065000000,70.72,thủ đức,2,2,Ko,None,Đông Nam,9.0,False,A1-A11-10 / 9.11-Đạt Gia Residence
+1107,Bán,2050000000,62.48,thủ đức,2,2,Full,None,Đông Nam,5.0,False,A1-D8-6 / 5.08-Đạt Gia Residence
+1108,Bán,1641000000,56.0,thủ đức,2,2,Có,None,Đông Bắc,9.0,False,A3-H29-10 / 9.07-Đạt Gia Residence
+1109,Bán,1737000000,56.0,thủ đức,2,2,Full,None,Đông Bắc,12.0,False,A3-H29-12B / 12.07-Đạt Gia Residence
+1110,Bán,2120000000,62.48,thủ đức,2,2,Full,None,Đông Nam,5.0,False,A1-D8-6 / 5.08-Đạt Gia Residence
+1111,Bán,1860000000,62.48,thủ đức,2,2,Full,None,Đông Nam,15.0,False,A1-D8-16 / 15.08-Đạt Gia Residence
+1112,Bán,2600000000,78.0,thủ đức,3,2,Full,None,Tây Nam,7.0,False,A3-A27-8 / 7.05-Đạt Gia Residence
+1113,Bán,1950000000,70.72,thủ đức,2,2,Full,None,Tây Bắc,11.0,False,A1-A6-12A / 11.06-Đạt Gia Residence
+1114,Bán,2200000000,78.0,thủ đức,3,2,Có,None,Tây Nam,2.0,False,A3-A27-3 / 2.05-Đạt Gia Residence
+1115,Bán,2110000000,78.0,thủ đức,3,2,Full,None,Tây Nam,18.0,False,A3-A27-19 / 18.05-Đạt Gia Residence
+1116,Thuê,6500000,70.72,thủ đức,2,2,Có,None,Tây Bắc,4.0,False,A1-A6-5 / 4.06-Đạt Gia Residence
+1117,Bán,1795000000,57.4,thủ đức,2,2,None,None,Đông Bắc,14.0,False,A3-G28-15 / 14.06-Đạt Gia Residence
+1118,Bán,2000000000,70.72,thủ đức,2,2,Full,None,Tây Bắc,13.0,False,A1-A6-14 / 13.06-Đạt Gia Residence
+1119,Bán,1788000000,57.4,thủ đức,2,2,Full,None,Đông Bắc,5.0,False,A3-G28-6 / 5.06-Đạt Gia Residence
+1120,Bán,1800000000,59.76,thủ đức,2,2,Ko,None,Đông Nam,6.0,False,A1-C7-7 / 6.07-Đạt Gia Residence
+1121,Bán,1639000000,56.55,thủ đức,2,2,None,None,Tây Nam,4.0,False,A3-C25-5 / 4.03-Đạt Gia Residence
+1122,Bán,1876000000,67.62,thủ đức,2,2,Ko,None,Tây Bắc,13.0,False,A1-B4-14 / 13.04-Đạt Gia Residence
+1123,Bán,1800000000,67.62,thủ đức,2,2,Ko,None,Tây Bắc,19.0,False,A1-B4-20 / 19.04-Đạt Gia Residence
+1124,Bán,1841000000,60.45,thủ đức,2,2,Full,None,Tây Nam,5.0,False,A3-B26-6 / 5.04-Đạt Gia Residence
+1125,Bán,1746000000,60.45,thủ đức,2,2,Full,None,Tây Nam,9.0,False,A3-B26-10 / 9.04-Đạt Gia Residence
+1126,Bán,1542000000,53.29,thủ đức,2,1,Có,None,Đông Nam,1.0,False,A1-E1-2 / 1.01-Đạt Gia Residence
+1127,Bán,1650000000,53.29,thủ đức,2,1,Ko,None,Đông Nam,3.0,False,A1-E1-4 / 3.01-Đạt Gia Residence
+1128,Bán,2100000000,53.29,thủ đức,2,1,None,None,Đông Nam,11.0,False,A1-E1-12A / 11.01-Đạt Gia Residence
+1129,Bán,2100000000,53.29,thủ đức,2,1,Ko,None,Đông Nam,8.0,False,A1-E1-9 / 8.01-Đạt Gia Residence
+1130,Bán,1750000000,59.76,thủ đức,2,2,Ko,None,Đông Nam,12.0,False,A1-C2-12B / 12.02-Đạt Gia Residence
+1131,Bán,1895000000,56.55,thủ đức,2,2,Có,None,Tây Nam,3.0,False,A3-C24-4 / 3.02-Đạt Gia Residence
+1132,Thuê,11000000,90.88,quận 9,3,2,Ko,HDMB,Tây Bắc,6.0,False,A-06-03-Saigon Gateway
+1133,Thuê,7500000,70.0,thủ đức,2,2,Ko,Sổ hồng,None,12.0,False,A12.09-Fresca Riverside
+1134,Bán,2400000000,68.76,thủ đức,2,2,Ko,HDMB,None,10.0,False,A9-10-lavita garden 
+1135,Thuê,10000000,71.4,thủ đức,2,2,Full,HDMB,Tây Nam,8.0,False,A4-08-Lavita Garden
+1136,Bán,2786000000,71.4,thủ đức,2,2,None,HDMB,Đông Nam,18.0,False,B7-18-Lavita Garden
+1137,Bán,2627000000,71.4,thủ đức,2,2,None,HDMB,Đông Bắc,6.0,False,B13-06-Lavita Garden
+1138,Thuê,8500000,71.68,thủ đức,2,2,Ko,HDMB,Tây Bắc,17.0,False,B12-17-Lavita Garden
+1139,Bán,2530000000,68.76,thủ đức,2,2,None,HDMB,Đông Nam,6.0,False,B3-06-Lavita Garden
+1140,Bán,2650000000,68.76,thủ đức,2,2,None,HDMB,Đông Nam,16.0,False,B5-16-Lavita Garden
+1141,Thuê,7000000,51.1,thủ đức,1,1,Ko,HDMB,Đông Bắc,12.0,False,A6-12-Lavita Garden
+1142,Thuê,8500000,51.1,thủ đức,1,1,Full,HDMB,Đông Bắc,19.0,False,A6-19-Lavita Garden
+1143,Thuê,8000000,51.1,thủ đức,1,1,None,HDMB,Đông Bắc,16.0,False,A6-16-Lavita Garden
+1144,Thuê,10000000,68.76,thủ đức,2,2,Full,HDMB,Tây Bắc,16.0,False,A8-16-Lavita Garden
+1145,Bán,2429000000,68.76,thủ đức,2,2,Có,HDMB,Đông Nam,10.0,False,A16-10-Lavita Garden
+1146,Thuê,9000000,68.76,thủ đức,2,2,None,HDMB,Tây Nam,12.0,False,A3-12-Lavita Garden
+1147,Thuê,12000000,71.4,thủ đức,2,2,Full,HDMB,Tây Nam,8.0,False,A4-08-Lavita Garden
+1148,Bán,2675000000,71.4,thủ đức,2,2,None,HDMB,Tây Bắc,4.0,False,A12-04-Lavita Garden
+1149,Thuê,11000000,68.76,thủ đức,2,2,Full,HDMB,Đông Nam,15.0,False,A14-15-Lavita Garden
+1150,Bán,2400000000,68.76,thủ đức,2,2,None,HDMB,Đông Nam,2.0,False,A16-02-Lavita Garden
+1151,Thuê,11000000,86.98,None,3,2,Có,HDMB,Đông Nam,0.0,False,c9-12a-9 view
+1152,Bán,3000000000,86.98,None,3,2,Full,HDMB,Đông Nam,15.0,False,c9-15-9 view
+1153,Bán,2777000000,58.1,None,2,2,Có,HDMB,Tây Nam,9.0,False,c14-09-9 view
+1154,Thuê,12500000,86.98,None,3,2,Full,HDMB,Đông Nam,10.0,False,b8-10-9 view
+1155,Bán,3250000000,86.98,None,3,2,Có,HDMB,Đông Bắc,9.0,False,c1-09-9 view
+1156,Thuê,10000000,86.98,None,3,2,None,HDMB,Đông Bắc,13.0,False,c1-13-9 view
+1157,Thuê,12000000,86.98,None,3,2,Full,HDMB,Đông Bắc,15.0,False,c1-15-9 view
+1158,Bán,2350000000,58.1,None,2,2,Full,HDMB,Tây Bắc,16.0,False,b2-16-9 view
+1159,Bán,2471000000,64.98,None,2,2,Có,HDMB,Đông Nam,10.0,False,b15-10-9 view
+1160,Bán,2532000000,64.98,None,2,2,Có,HDMB,Đông Nam,13.0,False,b15-13-9 view
+1161,Bán,2295000000,58.1,None,2,2,Full,HDMB,Đông Nam,15.0,False,a7-15-9 view
+1162,Bán,2721000000,81.34,None,3,2,Có,HDMB,Đông Nam,10.0,False,b10-10-9 view
+1163,Bán,3109000000,86.98,None,3,2,Có,HDMB,Tây Nam,4.0,False,a3-04-9 view
+1164,Bán,3083000000,86.98,None,3,2,Full,HDMB,Tây Nam,7.0,False,a3-07-9 view
+1165,Bán,2400000000,60.21,None,2,2,Full,HDMB,Đông Nam,4.0,False,a6-04-9 view
+1166,Bán,3000000000,86.98,None,3,2,Ko,HDMB,Tây Nam,17.0,False,a3-17-9 view
+1167,Thuê,10000000,81.26,None,3,2,Có,HDMB,Đông Nam,4.0,False,a12-04-9 view
+1168,Bán,3000000000,81.26,None,3,2,None,HDMB,Đông Nam,5.0,False,a12-05-9 view
+1169,Thuê,12000000,81.26,None,3,2,Full,HDMB,Tây Bắc,15.0,False,a13-15-9 view
+1170,Bán,3083000000,86.98,None,3,2,Full,HDMB,Đông Bắc,4.0,False,a2-04-9 view
+1171,Bán,2720000000,58.1,None,2,2,Ko,HDMB,Đông Bắc,17.0,False,a1-17-9 view
+1172,Thuê,15000000,160.3,None,Shophouse,Shophouse,Ko,HDMB,Đông Nam,0.0,False,tm30-9 view
+1173,Bán,2195000000,58.1,None,2,2,Full,HDMB,Đông Bắc,5.0,False,a1-05-9 view
+1174,Bán,5000000000,149.73,None,Shophouse,Shophouse,None,HDMB,Đông Nam,0.0,False,tm34-9 view
+1175,Bán,2773000000,75.45,thủ đức,2,2,Full,HDMB,Đông Bắc,14.0,False,D2.14.01-4S Linh Đông
+1176,Bán,2885000000,69.94,thủ đức,2,2,Full,HDMB,Đông Bắc,19.0,False,D2.19.03-4S Linh Đông
+1177,Bán,2500000000,75.45,thủ đức,2,2,Có,HDMB,Đông Bắc,20.0,False,D2.20.01-4S Linh Đông
+1178,Bán,2585000000,68.72,thủ đức,2,2,Ko,HDMB,Đông Bắc,19.0,False,D2.19.02-4S Linh Đông
+1179,Bán,3200000000,78.34,thủ đức,2,2,None,HDMB,Tây Nam,20.0,False,D2.20.06-4S Linh Đông
+1180,Bán,2900000000,81.42,thủ đức,3,2,Full,HDMB,Tây Nam,10.0,True,D1.10.04-4S Linh Đông
+1181,Bán,2800000000,68.72,thủ đức,2,2,Full,HDMB,Đông Bắc,17.0,False,D1.17.02-4S Linh Đông
+1182,Bán,2848000000,75.45,thủ đức,2,2,Full,HDMB,Đông Bắc,15.0,False,D1.15.01-4S Linh Đông
+1183,Bán,3000000000,81.42,thủ đức,3,2,Có,HDMB,Tây Nam,15.0,False,D1.15.04-4S Linh Đông
+1184,Bán,2850000000,80.2,thủ đức,3,2,Full,HDMB,Tây Nam,19.0,False,D1.19.05-4S Linh Đông
+1185,Bán,2855000000,71.09,thủ đức,2,2,None,HDMB,Tây Nam,3.0,False,D2.03.04-4S Linh Đông
+1186,Bán,2700000000,80.2,thủ đức,3,2,Full,HDMB,Tây Nam,18.0,False,D1.18.05-4S Linh Đông
+1187,Bán,2563000000,71.09,thủ đức,2,2,Full,HDMB,Tây Nam,4.0,False,D2.04.04-4S Linh Đông
+1188,Bán,2361000000,69.94,thủ đức,2,2,Full,HDMB,Đông Bắc,3.0,False,D2.03.03-4S Linh Đông
+1189,Bán,2260000000,68.72,thủ đức,2,2,None,HDMB,Đông Bắc,5.0,False,D2.05.02-4S Linh Đông
+1190,Bán,2415000000,69.1,thủ đức,2,2,Full,HDMB,Tây Nam,4.0,False,D2.04.05-4S Linh Đông
+1191,Bán,2500000000,75.45,thủ đức,2,2,Full,HDMB,Đông Bắc,10.0,False,D2.10.01-4S Linh Đông
+1192,Bán,2350000000,67.2,thủ đức,2,2,None,HDMB,Đông Bắc,12.0,False,C2.12.06-4S Linh Đông
+1193,Bán,2600000000,80.2,thủ đức,3,2,Full,HDMB,Tây Nam,3.0,False,D1.03.05-4S Linh Đông
+1194,Bán,2700000000,75.45,thủ đức,2,2,Full,HDMB,Đông Bắc,6.0,True,D1.06.01-4S Linh Đông
+1195,Bán,2500000000,69.94,thủ đức,2,2,Full,HDMB,Đông Bắc,8.0,False,D1.08.03-4S Linh Đông
+1196,Bán,3900000000,140.0,thủ đức,3,2,Ko,HDMB,Đông Bắc,8.0,False,C1.08.08-4S Linh Đông
+1197,Bán,2250000000,71.0,thủ đức,2,2,Full,HDMB,Tây Nam,12.0,True,C1.12.02-4S Linh Đông
+1198,Bán,2150000000,76.2,thủ đức,2,2,None,HDMB,Đông Bắc,2.0,False,C2.02.08-4S Linh Đông
+1199,Bán,2100000000,67.2,thủ đức,2,2,Ko,HDMB,Đông Bắc,5.0,False,C2.05.06-4S Linh Đông
+1200,Bán,2025000000,67.2,thủ đức,2,2,Có,HDMB,Đông Bắc,2.0,False,C1.02.06-4S Linh Đông
+1201,Bán,2150000000,67.2,thủ đức,2,2,Full,HDMB,Đông Bắc,8.0,False,C1.08.06-4S Linh Đông
+1202,Bán,2200000000,76.8,thủ đức,2,2,Có,HDMB,Đông Bắc,14.0,False,B2.14.12-4S Linh Đông
+1203,Thuê,9000000,72.9,thủ đức,2,2,Có,HDMB,Tây Nam,15.0,False,B2.15.06-4S Linh Đông
+1204,Bán,2250000000,72.6,thủ đức,2,2,Full,HDMB,Tây Nam,2.0,False,C1.02.04-4S Linh Đông
+1205,Thuê,8000000,76.2,thủ đức,2,2,Ko,HDMB,Đông Bắc,5.0,False,C1.05.08-4S Linh Đông
+1206,Bán,2400000000,76.2,thủ đức,2,2,None,HDMB,Đông Bắc,7.0,False,C1.07.08-4S Linh Đông
+1207,Bán,2300000000,72.7,thủ đức,2,2,None,HDMB,Đông Bắc,3.0,False,B2.03.09-4S Linh Đông
+1208,Bán,2400000000,77.1,thủ đức,2,2,Full,HDMB,Đông Bắc,9.0,False,B2.09.07-4S Linh Đông
+1209,Bán,2300000000,76.8,thủ đức,2,2,Có,HDMB,Đông Bắc,9.0,False,B1.09.12-4S Linh Đông
+1210,Bán,2100000000,72.7,thủ đức,2,2,Full,HDMB,Đông Bắc,14.0,False,B1.14.09-4S Linh Đông
+1211,Bán,2168000000,76.8,thủ đức,2,2,Có,HDMB,Đông Bắc,15.0,False,B1.15.12-4S Linh Đông
+1212,Bán,2500000000,75.02,thủ đức,2,2,Full,HDMB,Tây Nam,16.0,False,A2.16.07-4S Linh Đông
+1213,Bán,2000000000,70.9,thủ đức,2,2,Ko,HDMB,Tây Nam,3.0,False,B1.03.03-4S Linh Đông
+1214,Bán,2500000000,76.7,thủ đức,2,2,Full,HDMB,Tây Nam,6.0,False,B1.06.01-4S Linh Đông
+1215,Bán,1939000000,55.8,thủ đức,2,2,Có,HDMB,Tây Nam,6.0,False,B1.06.05-4S Linh Đông
+1216,Bán,2150000000,66.2,thủ đức,2,2,Full,HDMB,Đông Bắc,6.0,True,B1.06.08-4S Linh Đông
+1217,Bán,2500000000,74.74,thủ đức,2,2,Full,HDMB,Đông Bắc,6.0,False,A2.06.01-4S Linh Đông
+1218,Bán,2400000000,74.74,thủ đức,2,2,Có,HDMB,Đông Bắc,12.0,False,A1.12.01-4S Linh Đông
+1219,Bán,2500000000,71.2,thủ đức,2,2,Có,HDMB,Đông Bắc,12.0,False,A1.12.06-4S Linh Đông
+1220,Bán,2472000000,74.74,thủ đức,2,2,Full,HDMB,Đông Bắc,16.0,False,A1.16.01-4S Linh Đông
+1221,Bán,2400000000,71.2,thủ đức,2,2,Full,HDMB,Đông Bắc,14.0,False,A1.14.06-4S Linh Đông
+1222,Bán,2700000000,75.0,thủ đức,2,2,None,HDMB,Tây Nam,2.0,False,A2.02.12-4S Linh Đông
+1223,Bán,2152000000,75.02,thủ đức,2,2,None,HDMB,Tây Nam,3.0,False,A2.03.07-4S Linh Đông
+1224,Bán,2300000000,74.74,thủ đức,2,2,None,HDMB,Đông Bắc,3.0,False,A2.03.01-4S Linh Đông
+1225,Bán,1878000000,53.9,thủ đức,2,2,None,HDMB,Đông Bắc,5.0,False,A2.05.05-4S Linh Đông
+1226,Bán,2354000000,74.74,thủ đức,2,2,Full,HDMB,Đông Bắc,3.0,False,A1.03.01-4S Linh Đông
+1227,Thuê,9000000,75.02,thủ đức,2,2,Có,HDMB,Tây Nam,5.0,False,A1.05.07-4S Linh Đông
+1228,Bán,2350000000,74.74,thủ đức,2,2,Full,HDMB,Đông Bắc,8.0,False,A1.08.01-4S Linh Đông
+1229,Thuê,6500000,64.2,thủ đức,2,2,Có,Sổ hồng,Đông Bắc,18.0,False,B0-18.28-Sunview Town
+1230,Thuê,12000000,0.0,thủ đức,Shophouse,Shophouse,None,Sổ hồng,Đông Nam,0.0,False,TM.A1.06-Sunview Town
+1231,Bán,3300000000,87.0,thủ đức,Shophouse,Shophouse,Ko,Sổ hồng,Đông Nam,0.0,False,TM.A2.07-Sunview Town
+1232,Bán,3003000000,84.0,thủ đức,Shophouse,Shophouse,None,Sổ hồng,Đông Nam,0.0,False,TM.A2.12-Sunview Town
+1233,Bán,4000000000,0.0,thủ đức,Shophouse,Shophouse,None,Sổ hồng,Đông Nam,0.0,False,TM.A2.03-Sunview Town
+1234,Bán,4292000000,0.0,thủ đức,Shophouse,Shophouse,None,Sổ hồng,Đông Nam,0.0,False,TM.A1.12-Sunview Town
+1235,Bán,4000000000,107.0,thủ đức,Shophouse,Shophouse,None,Sổ hồng,Đông Nam,0.0,False,TM.B0.01-Sunview Town
+1236,Bán,1900000000,64.2,thủ đức,2,2,Ko,Sổ hồng,Đông Nam,15.0,False,B0-15.15-Sunview Town
+1237,Thuê,10000000,91.46,thủ đức,3,2,Có,Sổ hồng,Tây Bắc,16.0,False,B0-16.07-Sunview Town
+1238,Bán,2526000000,70.61,thủ đức,2,2,Full,Sổ hồng,Tây Nam,16.0,False,B0-16.19-Sunview Town
+1239,Bán,2326000000,76.98,thủ đức,2,2,Full,Sổ hồng,Đông Nam,17.0,False,B0-17.08-Sunview Town
+1240,Bán,2500000000,64.2,thủ đức,2,2,Full,Sổ hồng,Đông Nam,11.0,False,B0-11.09-Sunview Town
+1241,Bán,2700000000,64.2,thủ đức,2,2,Full,Sổ hồng,Tây Nam,12.0,False,B0-12.22-Sunview Town
+1242,Bán,2100000000,64.2,thủ đức,2,2,Full,Sổ hồng,Đông Bắc,12.0,False,B0-12.27-Sunview Town
+1243,Bán,2121000000,64.2,thủ đức,2,2,Full,Sổ hồng,Tây Bắc,9.0,False,B0-09.02-Sunview Town
+1244,Bán,2600000000,64.2,thủ đức,2,2,Full,Sổ hồng,Đông Nam,9.0,False,B0-09.13-Sunview Town
+1245,Thuê,7000000,64.2,thủ đức,2,2,None,Sổ hồng,Tây Bắc,9.0,False,B0-09.05-Sunview Town
+1246,Bán,2003000000,64.2,thủ đức,2,2,Full,Sổ hồng,Đông Bắc,8.0,False,B0-08.28-Sunview Town
+1247,Bán,2150000000,70.61,thủ đức,2,2,None,Sổ hồng,Tây Nam,9.0,False,B0-09.19-Sunview Town
+1248,Bán,1600000000,44.67,thủ đức,1,1,None,Sổ hồng,Đông Bắc,10.0,False,B0-10.29-Sunview Town
+1249,Bán,2500000000,64.2,thủ đức,2,2,Có,Sổ hồng,Đông Nam,4.0,False,B0-04.12-Sunview Town
+1250,Thuê,6000000,44.67,thủ đức,1,1,Ko,Sổ hồng,Đông Bắc,5.0,False,B0-05.29-Sunview Town
+1251,Bán,2252000000,76.98,thủ đức,2,2,Có,Sổ hồng,Đông Nam,7.0,False,B0-07.08-Sunview Town
+1252,Bán,1892000000,54.0,thủ đức,2,1,Full,Sổ hồng,Tây Bắc,16.0,False,A3-16.16-Sunview Town
+1253,Bán,1700000000,54.0,thủ đức,2,1,Full,Sổ hồng,Tây Bắc,12.0,False,A3-12.16-Sunview Town
+1254,Bán,2200000000,71.55,thủ đức,2,2,Ko,Sổ hồng,Tây Bắc,9.0,False,A3-09.19-Sunview Town
+1255,Thuê,6000000,57.72,thủ đức,2,2,None,Sổ hồng,Tây Bắc,17.0,False,A2-17.19-Sunview Town
+1256,Bán,1853000,59.0,thủ đức,2,2,None,Sổ hồng,Đông Nam,4.0,False,A3-04.04-Sunview Town
+1257,Bán,2251000000,71.55,thủ đức,2,2,None,Sổ hồng,Đông Nam,5.0,False,A3-05.07-Sunview Town
+1258,Bán,1850000000,57.72,thủ đức,2,2,Có,Sổ hồng,Tây Bắc,14.0,False,A2-14.02-Sunview Town
+1259,Bán,1900000000,52.81,thủ đức,2,1,Ko,Sổ hồng,Đông Nam,15.0,False,A2-15.07-Sunview Town
+1260,Bán,1826000000,57.72,thủ đức,2,2,Có,Sổ hồng,Tây Bắc,9.0,False,A2-09.22-Sunview Town
+1261,Bán,2000000000,57.72,thủ đức,2,2,Ko,Sổ hồng,Đông Nam,11.0,False,A2-11.06-Sunview Town
+1262,Bán,1780000000,57.72,thủ đức,2,2,None,Sổ hồng,Tây Bắc,4.0,False,A2-04.01-Sunview Town
+1263,Bán,2048000000,69.32,thủ đức,2,2,Full,Sổ hồng,Đông Nam,3.0,False,A2-03.04-Sunview Town
+1264,Bán,2250000000,69.32,thủ đức,2,2,Full,Sổ hồng,Đông Nam,4.0,False,A2-04.15-Sunview Town
+1265,Thuê,7000000,57.72,thủ đức,2,2,Có,Sổ hồng,Tây Bắc,7.0,False,A2-07.02-Sunview Town
+1266,Bán,2400000000,62.19,thủ đức,2,2,None,Sổ hồng,Tây Nam,16.0,False,A1-16.11-Sunview Town
+1267,Bán,2000000000,57.72,thủ đức,2,2,Full,Sổ hồng,Tây Bắc,12.0,False,A1-12.22-Sunview Town
+1268,Bán,1926000000,69.32,thủ đức,2,2,Ko,Sổ hồng,Tây Bắc,14.0,False,A1-14.04-Sunview Town
+1269,Bán,2000000000,57.72,thủ đức,2,2,None,Sổ hồng,Đông Nam,15.0,False,A1-15.09-Sunview Town
+1270,Bán,2045000000,57.72,thủ đức,2,2,None,Sổ hồng,Tây Bắc,11.0,False,A1-11.22-Sunview Town
+1271,Bán,2120000000,69.32,thủ đức,2,2,Full,Sổ hồng,Tây Bắc,11.0,False,A1-11.04-Sunview Town
+1272,Bán,2026000000,69.32,thủ đức,2,2,Có,Sổ hồng,Đông Nam,11.0,False,A1-11.25-Sunview Town
+1273,Bán,1950000000,69.32,thủ đức,2,2,Ko,Sổ hồng,Tây Bắc,11.0,False,A1-11.24-Sunview Town
+1274,Bán,2400000000,57.72,thủ đức,2,2,Full,Sổ hồng,Đông Nam,7.0,False,A1-07.08-Sunview Town
+1275,Thuê,9000000,76.56,thủ đức,3,2,Full,Sổ hồng,Tây Nam,7.0,False,A1-07.10-Sunview Town
+1276,Thuê,7000000,57.72,thủ đức,2,2,Có,Sổ hồng,Tây Bắc,3.0,False,A1-03.03-Sunview Town
+1277,Bán,2200000000,76.56,thủ đức,3,2,Ko,Sổ hồng,Tây Nam,3.0,False,A1-03.10-Sunview Town
+1278,Bán,2100000000,69.32,thủ đức,2,2,None,Sổ hồng,Đông Nam,4.0,False,A1-04.05-Sunview Town
+1279,Bán,2006000000,57.72,thủ đức,2,2,Full,Sổ hồng,Đông Bắc,4.0,False,A1-04.32-Sunview Town
+1280,Bán,1674000000,52.81,thủ đức,2,1,Ko,Sổ hồng,Đông Bắc,4.0,False,A1-04.33-Sunview Town
+1281,Bán,2050000000,69.32,thủ đức,2,2,Có,Sổ hồng,Tây Bắc,5.0,False,A1-05.04-Sunview Town
+1282,Thuê,8000000,65.9,quận 9,2,2,Có,HDMB,Tây Nam,6.0,False,B-06-18-Saigon Gateway
+1283,Thuê,11500000,96.0,quận 9,3,2,Full,HDMB,Tây Bắc,4.0,False,A-4-18-The Eastern
+1284,Thuê,20000000,57.38,quận 9,2,2,Ko,HDMB,Đông Bắc,17.0,False,A1-17-03-Gia Hòa Art
+1285,Bán,2500000000,65.9,quận 9,2,2,Full,HDMB,Đông Bắc,16.0,False,B-16-03-Saigon Gateway
+1286,Bán,2350000000,61.78,quận 9,2,2,Full,HDMB,None,1.0,False,B-01-09-Saigon Gateway
+1287,Bán,2440000000,65.92,quận 9,2,2,Ko,HDMB,Đông Nam,10.0,False,B-10-10-Saigon Gateway
+1288,Bán,2496000000,66.48,quận 9,2,2,Full,HDMB,Đông Bắc,24.0,False,B-24-21-Saigon Gateway
+1289,Bán,2400000000,65.9,quận 9,2,2,Ko,HDMB,Tây Nam,24.0,False,B-24-17-Saigon Gateway
+1290,Bán,3250000000,110.7,thủ đức,3,2,Có,Sổ hồng,Tây Bắc,5.0,False,B2-5.4-The Navita
+1291,Bán,3500000000,110.7,thủ đức,3,2,Có,Sổ hồng,Đông Nam,7.0,False,B2-7.10-The Navita
+1292,Bán,3800000000,110.7,thủ đức,3,2,Full,Sổ hồng,Đông Nam,7.0,False,B2-7.12-The Navita
+1293,Bán,4600000000,68.88,quận 9,2,2,Full,HDMB,Đông Bắc,2.0,False,D1-02-02-Gia Hòa Art
+1294,Bán,2896680000,68.88,quận 9,2,2,Full,HDMB,Tây Nam,13.0,False,D1-13-05-Gia Hòa Art
+1295,Bán,2850000000,68.88,quận 9,2,2,Ko,HDMB,Đông Bắc,13.0,False,D1-13-02-Gia Hòa Art
+1296,Bán,3000000000,59.49,quận 9,2,2,None,HDMB,Tây Bắc,15.0,False,D1-15-03-Gia Hòa Art
+1297,Bán,2950000000,68.88,quận 9,2,2,None,HDMB,Tây Nam,16.0,False,D1-16-05-Gia Hòa Art
+1298,Bán,2950000000,67.58,quận 9,2,2,Full,HDMB,Đông Bắc,14.0,False,D1-14-10-Gia Hòa Art
+1299,Bán,4200000000,59.6,quận 9,2,2,Full,HDMB,Đông Nam,1.0,False,D2-01-03-Gia Hòa Art
+1300,Bán,3900000000,59.6,quận 9,2,2,Full,HDMB,Đông Nam,1.0,False,D2-01-04-Gia Hòa Art
+1301,Bán,4000000000,82.22,quận 9,2,2,None,HDMB,Tây Nam,18.0,False,D2-18-02-Gia Hòa Art
+1302,Bán,4500000000,82.22,quận 9,2,2,Full,HDMB,Đông Bắc,18.0,False,D2-18-01-Gia Hòa Art
+1303,Bán,2650000000,59.49,quận 9,2,2,Full,HDMB,Đông Nam,7.0,False,D2-07-04-Gia Hòa Art
+1304,Thuê,10500000,66.33,quận 9,2,2,Full,HDMB,Tây Nam,4.0,False,D2-04-08-Gia Hòa Art
+1305,Bán,2850000000,67.58,quận 9,2,2,Full,HDMB,Đông Bắc,8.0,False,D2-08-10-Gia Hòa Art
+1306,Bán,2800000000,70.4,quận 9,2,2,Có,HDMB,Tây Nam,9.0,False,D2-09-06-Gia Hòa Art
+1307,Bán,2900000000,68.88,quận 9,2,2,Full,HDMB,Tây Nam,11.0,False,D2-11-05-Gia Hòa Art
+1308,Thuê,10000000,59.49,quận 9,2,2,Có,HDMB,Đông Nam,12.0,False,D2-12-03-Gia Hòa Art
+1309,Bán,3000000000,67.58,quận 9,2,2,Full,HDMB,Tây Nam,17.0,False,D2-17-07-Gia Hòa Art
+1310,Bán,5500000000,128.91,quận 9,3,2,Ko,HDMB,Tây Nam,1.0,False,B1-01-07-Gia Hòa Art
+1311,Bán,4500000000,74.69,quận 9,2,2,None,HDMB,Đông Bắc,1.0,False,B1-01-04-Gia Hòa Art
+1312,Bán,4200000000,86.2,quận 9,2,2,Có,HDMB,Đông Bắc,18.0,False,D2-18-04-Gia Hòa Art
+1313,Bán,4700000000,74.69,quận 9,2,2,Full,HDMB,Đông Bắc,1.0,False,B2-01-05-Gia Hòa Art
+1314,Thuê,15000000,66.33,quận 9,2,2,Full,HDMB,Đông Bắc,1.0,False,B2-01-07-Gia Hòa Art
+1315,Bán,5864000000,128.91,quận 9,3,2,None,HDMB,Tây Nam,1.0,False,B3-01-09-Gia Hòa Art
+1316,Thuê,15000000,66.33,quận 9,Shophouse,Shophouse,None,HDMB,Đông Bắc,1.0,False,B3-01-08-Gia Hòa Art
+1317,Bán,4300000000,67.81,quận 9,2,2,None,HDMB,Đông Bắc,1.0,False,B3-01-07-Gia Hòa Art
+1318,Thuê,9500000,59.49,quận 9,2,2,Full,HDMB,Tây Bắc,2.0,False,B3-02-04-Gia Hòa Art
+1319,Thuê,12000000,128.91,quận 9,3,2,None,HDMB,Tây Nam,1.0,False,B2-01-08-Gia Hòa Art
+1320,Bán,4000000000,66.33,quận 9,2,2,Full,HDMB,Đông Bắc,1.0,False,B2-01-03-Gia Hòa Art
+1321,Bán,2850000000,67.58,quận 9,2,2,Full,HDMB,Tây Nam,4.0,False,B2-04-10-Gia Hòa Art
+1322,Bán,2800000000,68.88,quận 9,2,2,Full,HDMB,Đông Bắc,5.0,False,B3-05-05-Gia Hòa Art
+1323,Bán,3300000000,68.57,quận 9,2,2,Full,HDMB,Tây Nam,17.0,False,B1-17-02-Gia Hòa Art
+1324,Bán,2550000000,66.33,quận 9,2,2,None,HDMB,Đông Bắc,7.0,False,B1-07-08-Gia Hòa Art
+1325,Bán,2550000000,66.33,quận 9,2,2,None,HDMB,Đông Bắc,7.0,False,B1-07-08-Gia Hòa Art
+1326,Bán,3900000000,100.22,quận 9,Penthouse,Penthouse,None,HDMB,Tây Nam,18.0,False,B3-18-01-Gia Hòa Art
+1327,Bán,2450000000,66.33,quận 9,2,2,None,HDMB,Tây Nam,7.0,False,B2-07-09-Gia Hòa Art
+1328,Thuê,9500000,66.33,quận 9,2,2,Full,HDMB,Đông Bắc,8.0,False,B3-08-08-Gia Hòa Art
+1329,Bán,2849000000,68.88,quận 9,2,2,Ko,HDMB,Đông Bắc,9.0,False,B3-09-05-Gia Hòa Art
+1330,Bán,2900000000,67.58,quận 9,2,2,Full,HDMB,Đông Bắc,17.0,False,B2-17-05-Gia Hòa Art
+1331,Thuê,8000000,66.33,quận 9,2,2,Có,HDMB,Đông Bắc,16.0,False,B2-16-04-Gia Hòa Art
+1332,Bán,2697000000,68.88,quận 9,2,2,Full,HDMB,Tây Nam,5.0,False,B3-05-02-Gia Hòa Art
+1333,Bán,5000000000,68.88,quận 9,2,2,None,HDMB,Tây Nam,8.0,False,B3-08-02-Gia Hòa Art
+1334,Bán,3000000000,68.88,quận 9,2,2,None,HDMB,Đông Bắc,14.0,False,B3-14-05-Gia Hòa Art
+1335,Thuê,9000000,59.49,quận 9,2,2,Full,HDMB,Tây Bắc,16.0,False,B3-16-04-Gia Hòa Art
+1336,Bán,5200000000,0.0,quận 9,None,None,None,HDMB,None,1.0,False,A1-01-05-Gia Hòa Art
+1337,Bán,2552000000,66.33,quận 9,2,2,Ko,HDMB,Đông Nam,9.0,False,A1-09-09-Gia Hòa Art
+1338,Bán,2782000000,66.33,quận 9,2,2,None,HDMB,Đông Nam,10.0,False,A1-10-09-Gia Hòa Art
+1339,Bán,2900000000,68.88,quận 9,2,2,Có,HDMB,Tây Bắc,12.0,False,A1-12-05-Gia Hòa Art
+1340,Thuê,10000000,59.49,quận 9,2,2,Full,HDMB,Đông Bắc,13.0,False,A1-13-03-Gia Hòa Art
+1341,Bán,3037000000,67.58,quận 9,2,2,Có,HDMB,Tây Bắc,12.0,False,A1-12-07-Gia Hòa Art
+1342,Bán,2650000000,59.49,quận 9,2,2,None,HDMB,Đông Bắc,13.0,False,A1-13-03-Gia Hòa Art
+1343,Bán,2800000000,66.33,quận 9,2,2,Full,HDMB,Đông Nam,14.0,False,A1-14-09-Gia Hòa Art
+1344,Bán,4000000000,101.0,quận 9,2,2,Full,HDMB,Đông Nam,18.0,False,A1-18-01-Gia Hòa Art
+1345,Bán,3535000000,70.4,quận 9,2,2,Full,HDMB,Đông Nam,17.0,False,A1-17-01-Gia Hòa Art
+1346,Bán,2800000000,69.57,quận 9,2,2,Ko,HDMB,Đông Nam,17.0,False,A2-17-02-Gia Hòa Art
+1347,Bán,5500000000,120.0,quận 9,2,2,Full,HDMB,Đông Bắc,17.0,False,A1-17-03-Gia Hòa Art
+1348,Bán,3990000000,108.0,quận 9,2,2,Full,HDMB,Tây Bắc,18.0,False,A1-18-02-Gia Hòa Art
+1349,Bán,2900000000,68.88,quận 9,2,2,Full,HDMB,Đông Nam,3.0,False,A2-03-02-Gia Hòa Art
+1350,Bán,4700000000,0.0,quận 9,None,None,None,HDMB,None,1.0,False,A2-01-07-Gia Hòa Art
+1351,Bán,2445000000,66.33,quận 9,2,2,Có,HDMB,Tây Bắc,2.0,False,A1-02-08-Gia Hòa Art
+1352,Thuê,8000000,66.33,quận 9,2,2,Full,HDMB,Tây Bắc,2.0,False,A2-02-08-Gia Hòa Art
+1353,Thuê,9000000,66.33,quận 9,2,2,Full,HDMB,Đông Nam,2.0,False,A2-02-09-Gia Hòa Art
+1354,Bán,2936000000,67.58,quận 9,2,2,Có,HDMB,Tây Bắc,4.0,False,A2-04-07-Gia Hòa Art
+1355,Bán,2950000000,67.58,quận 9,2,2,Ko,HDMB,Đông Nam,8.0,False,A2-08-10-Gia Hòa Art
+1356,Bán,2640000000,66.33,quận 9,2,2,Full,HDMB,Tây Bắc,14.0,False,A2-14-08-Gia Hòa Art
+1357,Bán,2650000000,66.33,quận 9,2,2,Có,HDMB,Đông Nam,8.0,False,A2-08-09-Gia Hòa Art
+1358,Bán,2650000000,70.05,quận 9,2,2,Ko,HDMB,Tây Bắc,14.0,False,A2-14-06-Gia Hòa Art
+1359,Bán,4700000000,67.58,quận 9,Shophouse,Shophouse,Có,HDMB,Đông Nam,1.0,False,C1-01-07-Gia Hòa Art
+1360,Thuê,22000000,126.0,quận 9,2,2,None,HDMB,Tây Bắc,1.0,False,C1-01-09-Gia Hòa Art
+1361,Bán,2700000000,66.33,quận 9,2,2,None,HDMB,Đông Nam,4.0,False,C1-04-08-Gia Hòa Art
+1362,Bán,2750000000,70.04,quận 9,2,2,Full,HDMB,Đông Nam,6.0,False,C1-06-06-Gia Hòa Art
+1363,Bán,3000000000,68.88,quận 9,2,2,None,Sổ hồng,Tây Bắc,11.0,False,C1-11-02-Gia Hòa Art
+1364,Bán,2850000000,70.04,quận 9,2,2,Có,HDMB,Tây Bắc,13.0,False,C1-13-01-Gia Hòa Art
+1365,Bán,4061000000,67.58,quận 9,2,2,Full,HDMB,Đông Nam,13.0,False,C1-13-07-Gia Hòa Art
+1366,Thuê,9000000,59.49,quận 9,2,2,Có,HDMB,Tây Nam,16.0,False,C1-16-04-Gia Hòa Art
+1367,Bán,8200000000,128.91,quận 9,3,2,None,HDMB,Tây Bắc,1.0,False,C2-01-02-Gia Hòa Art
+1368,Bán,5500000000,150.0,quận 9,2,2,Full,HDMB,Tây Nam,17.0,False,C1-17-03-Gia Hòa Art
+1369,Bán,2750000000,70.04,quận 9,2,2,None,HDMB,Tây Bắc,16.0,False,C1-16-01-Gia Hòa Art
+1370,Bán,2547000000,66.33,quận 9,2,2,Full,HDMB,Tây Bắc,17.0,False,C1-17-09-Gia Hòa Art
+1371,Thuê,12000000,66.33,quận 9,2,2,Ko,HDMB,Đông Nam,1.0,False,C2-01-07-Gia Hòa Art
+1372,Bán,3850000000,66.33,quận 9,2,2,Ko,HDMB,Đông Nam,1.0,False,C2-01-03-Gia Hòa Art
+1373,Thuê,10000000,67.58,quận 9,2,2,Ko,HDMB,Đông Nam,2.0,False,C2-02-05-Gia Hòa Art
+1374,Thuê,12000000,67.58,quận 9,2,2,None,HDMB,Đông Nam,5.0,False,C2-05-05-Gia Hòa Art
+1375,Thuê,10000000,67.58,quận 9,2,2,None,HDMB,Tây Bắc,3.0,False,C2-03-10-Gia Hòa Art
+1376,Bán,2300000000,66.33,quận 9,2,2,None,HDMB,Tây Bắc,13.0,False,C2-13-03-Gia Hòa Art
+1377,Bán,3000000000,66.33,quận 9,2,2,None,HDMB,Tây Bắc,8.0,False,C2-08-09-Gia Hòa Art
+1378,Bán,3000000000,67.58,quận 9,2,2,None,HDMB,Đông Nam,12.0,False,C2-12-05-Gia Hòa Art
+1379,Thuê,10000000,67.58,quận 9,2,2,Full,HDMB,Tây Bắc,12.0,False,C2-12-02-Gia Hòa Art
+1380,Bán,2450000000,66.33,quận 9,2,2,Full,HDMB,Đông Nam,12.0,False,C2-12-04-Gia Hòa Art
+1381,Thuê,15000000,66.33,quận 9,2,2,Full,HDMB,Đông Nam,17.0,False,C2-17-04-Gia Hòa Art
+1382,Bán,2603000000,66.33,quận 9,2,2,Full,HDMB,Đông Nam,15.0,False,C2-15-04-Gia Hòa Art
+1383,Bán,5500000000,66.33,quận 9,2,2,Full,HDMB,Tây Bắc,17.0,False,C2-17-03-Gia Hòa Art
+1384,Bán,2750000000,66.33,quận 9,2,2,Full,HDMB,Đông Nam,16.0,False,C2-16-04-Gia Hòa Art
+1385,Bán,5800000000,68.88,quận 9,2,2,None,HDMB,Đông Nam,1.0,False,C3-01-04-Gia Hòa Art
+1386,Bán,2500000000,66.33,quận 9,2,2,None,HDMB,Đông Nam,5.0,False,C3-05-08-Gia Hòa Art
+1387,Bán,2550000000,66.33,quận 9,2,2,Full,HDMB,Tây Bắc,8.0,False,C3-08-09-Gia Hòa Art
+1388,Bán,2800000000,66.33,quận 9,2,2,None,HDMB,Đông Nam,12.0,False,C3-12-08-Gia Hòa Art
+1389,Bán,2950000000,68.88,quận 9,2,2,Full,HDMB,Tây Bắc,12.0,False,C3-12-02-Gia Hòa Art
+1390,Thuê,8500000,53.3,quận 9,2,1,Full,HDMB,Tây Bắc,19.0,False,A-19-11-Saigon Gateway
+1391,Thuê,10000000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,9.0,False,A-09-04-Saigon Gateway
+1392,Thuê,7000000,None,None,None,None,Ko,None,None,None,False,B.18.19-P1-sài gòn evenue
+1393,Thuê,7000000,67.25,None,2,2,Ko,HDMB,Đông Nam,5.0,False,A-05-14-Saigon Gateway
+1394,Bán,2379000000,62.27,thủ đức,2,2,Ko,HDMB,Đông Bắc,10.0,False,B.16.10-P2-Saigon Avenue
+1395,Thuê,7500000,62.27,thủ đức,2,2,Có,HDMB,Đông Bắc,24.0,False,A.15.24-P2-Saigon Avenue
+1396,Bán,2630000000,62.27,thủ đức,2,2,Full,HDMB,Đông Nam,14.0,False,B.10.14-P2-Saigon Avenue
+1397,Bán,2300000000,62.27,thủ đức,2,2,None,HDMB,Đông Nam,6.0,False,B.11.6-P2-Saigon Avenue
+1398,Bán,2317000000,62.27,thủ đức,2,2,Ko,HDMB,Đông Nam,25.0,False,B.2.25-P1-Saigon Avenue
+1399,Thuê,9000000,62.27,thủ đức,2,2,None,HDMB,Tây Nam,12.0,False,B.13.12-P2-Saigon Avenue
+1400,Bán,2400000000,62.27,thủ đức,2,2,Full,HDMB,Đông Bắc,23.0,False,B.16.23-P2-Saigon Avenue
+1401,Bán,2400000000,62.27,thủ đức,2,2,Có,HDMB,Đông Bắc,13.0,False,B17.13-P2-Saigon Avenue
+1402,Thuê,9000000,62.27,thủ đức,2,2,Full,HDMB,Đông Bắc,8.0,False,B.17.8-P2-Saigon Avenue
+1403,Bán,2430000000,62.27,thủ đức,2,2,None,HDMB,Đông Bắc,21.0,False,B.17.21-P2-Saigon Avenue
+1404,Bán,2630000000,62.27,thủ đức,2,2,None,HDMB,Đông Bắc,21.0,False,B.18.21-P2-Saigon Avenue
+1405,Bán,2400000000,62.27,thủ đức,2,2,Full,HDMB,Tây Bắc,25.0,False,B.2.25-P2 -Saigon Avenue
+1406,Thuê,11000000,77.11,thủ đức,3,2,Ko,HDMB,Đông Nam,13.0,False,C.1.13-P1-Saigon Avenue
+1407,Bán,2350000000,62.27,thủ đức,2,2,Full,HDMB,Tây Bắc,25.0,False,B.3.25-P2-Saigon Avenue
+1408,Thuê,9000000,62.27,thủ đức,2,2,Full,HDMB,Tây Bắc,18.0,False,B.4.18-P2-Saigon Avenue
+1409,Bán,2500000000,62.27,thủ đức,2,2,None,HDMB,Tây Nam,23.0,False,B.13.23-P1-Saigon Avenue
+1410,Thuê,7150000,62.27,thủ đức,2,2,Ko,HDMB,Tây Bắc,21.0,False,B.7.21-P2-Saigon Avenue
+1411,Thuê,3000000,62.27,thủ đức,2,2,Có,HDMB,Tây Nam,17.0,False,B.13.17-P1-Saigon Avenue
+1412,Bán,2400000000,62.27,thủ đức,2,2,Có,HDMB,Đông Bắc,8.0,False,B.17.8-P1-Saigon Avenue
+1413,Thuê,8000000,77.11,thủ đức,3,2,None,HDMB,Tây Bắc,14.0,False,C.1.14-P2-Saigon Avenue
+1414,Bán,2875000000,77.11,thủ đức,3,2,Ko,HDMB,Đông Nam,12.0,False,C.20.12-P2-Saigon Avenue
+1415,Bán,2465000000,62.12,thủ đức,2,2,Có,HDMB,Tây Bắc,15.0,False,F.8.15-P2-Saigon Avenue
+1416,Bán,2350000000,46.99,thủ đức,2,1,Full,HDMB,Tây Nam,15.0,False,E.16.15-P1-Saigon Avenue
+1417,Bán,2967000000,68.84,quận 9,2,2,Full,HDMB,Tây Bắc,13.0,True,D-13-07-Him Lam Phú An
+1418,Thuê,3500000,25.0,bình thạnh,1,1,Có,None,None,None,False,"47/24/38 Bùi Đình Túy, phường 24, Bình Thạnh, TP.HCM-Căn hộ Mini Bình Thạnh - Bùi Đình Túy - Chùa Long Vân Tự"
+1419,Bán,1385000000,57.58,dĩ an,2,2,Ko,HDMB,Tây,16.0,False,CH-1601-Tecco Tower Bình Dương
+1420,Bán,2451000000,67.11,quận 9,2,2,None,HDMB,Nam,3.0,False,A1.03.02-Safira Khang Điền
+1421,Bán,2331280000,64.08,quận 9,2,2,None,HDMB,Tây,4.0,False,A1.04.05-Safira Khang Điền
+1422,Thuê,10000000,67.24,quận 9,2,2,None,HDMB,Đông,4.0,False,A1.04.10-Safira Khang Điền
+1423,Bán,2340000000,63.13,quận 9,2,2,None,HDMB,Nam,7.0,False,A1.07.03-Safira Khang Điền
+1424,Bán,2650000000,66.81,quận 9,2,2,None,HDMB,Tây,6.0,False,A1.06.06-Safira Khang Điền
+1425,Thuê,8000000,64.08,quận 9,2,2,None,HDMB,Tây,7.0,False,A1.07.05-Safira Khang Điền
+1426,Bán,2424000000,67.24,quận 9,2,2,None,HDMB,Đông,5.0,False,A1.05.11-Safira Khang Điền
+1427,Bán,2630000000,67.24,quận 9,2,2,Có,HDMB,Đông,7.0,False,A1.07.11-Safira Khang Điền
+1428,Bán,2577460000,67.35,quận 9,2,2,None,HDMB,Đông,7.0,False,A1.07.09-Safira Khang Điền
+1429,Bán,3193620000,85.71,quận 9,3,2,None,HDMB,Tây,11.0,False,A1.11.04-Safira Khang Điền
+1430,Bán,1950000000,49.65,quận 9,2,1,None,HDMB,Bắc,11.0,False,A1.11.01-Safira Khang Điền
+1431,Bán,3000000000,84.89,quận 9,3,2,None,HDMB,Tây,17.0,False,A1.17.05-Safira Khang Điền
+1432,Bán,2280000000,65.44,quận 9,2,2,None,HDMB,Bắc,5.0,False,A2.05.08-Safira Khang Điền
+1433,Bán,2580000000,67.11,quận 9,2,2,None,HDMB,Nam,21.0,False,A1.21.02-Safira Khang Điền
+1434,Bán,3757000000,90.54,quận 9,3,2,None,HDMB,Nam,8.0,False,A2.08.03-Safira Khang Điền
+1435,Bán,2480000000,67.27,quận 9,2,2,None,HDMB,Nam,3.0,False,A2.03.06-Safira Khang Điền
+1436,Bán,2310000000,66.15,quận 9,2,2,None,HDMB,Bắc,4.0,False,A2.04.01-Safira Khang Điền
+1437,Bán,2380000000,65.98,quận 9,2,2,None,HDMB,Nam,4.0,False,A2.04.04-Safira Khang Điền
+1438,Bán,2880000000,65.98,quận 9,2,2,None,HDMB,Nam,6.0,False,A2.06.04-Safira Khang Điền
+1439,Bán,2450000000,66.98,quận 9,2,2,None,HDMB,Bắc,5.0,False,A2.05.07-Safira Khang Điền
+1440,Bán,2470000000,67.39,quận 9,2,2,None,HDMB,Nam,5.0,False,A2.05.05-Safira Khang Điền
+1441,Thuê,8000000,65.98,quận 9,2,2,Ko,HDMB,Nam,8.0,False,A2.08.04-Safira Khang Điền
+1442,Bán,2615000000,66.98,quận 9,2,2,None,HDMB,Bắc,8.0,False,A2.08.07-Safira Khang Điền
+1443,Bán,2502000000,67.39,quận 9,2,2,None,HDMB,Nam,10.0,False,A2.10.05-Safira Khang Điền
+1444,Bán,2556000000,66.98,quận 9,2,2,None,HDMB,Nam,9.0,False,A2.09.04-Safira Khang Điền
+1445,Bán,2315000000,65.44,quận 9,2,2,None,HDMB,Bắc,8.0,False,A2.08.08-Safira Khang Điền
+1446,Bán,3450000000,90.54,quận 9,3,2,None,HDMB,Nam,0.0,False,A2.12A.03-Safira Khang Điền
+1447,Bán,2535000000,65.44,quận 9,2,2,None,HDMB,Bắc,11.0,False,A2.11.08-Safira Khang Điền
+1448,Bán,2590000000,67.12,quận 9,2,2,None,HDMB,Bắc,14.0,False,A2.14.02-Safira Khang Điền
+1449,Bán,2480000000,67.12,quận 9,2,2,None,HDMB,Bắc,0.0,False,A2.12A.02-Safira Khang Điền
+1450,Bán,2560000000,67.39,quận 9,2,2,None,HDMB,Nam,16.0,False,A2.16.05-Safira Khang Điền
+1451,Bán,2440000000,66.98,quận 9,2,2,None,HDMB,Nam,0.0,False,A2.12A.04-Safira Khang Điền
+1452,Thuê,8500000,66.98,quận 9,2,2,None,HDMB,Nam,14.0,False,A2.14.04-Safira Khang Điền
+1453,Bán,2500000000,66.98,quận 9,2,2,None,HDMB,Bắc,14.0,False,A2.14.07-Safira Khang Điền
+1454,Bán,2360000000,66.15,quận 9,2,2,None,HDMB,Bắc,12.0,False,A2.12.01-Safira Khang Điền
+1455,Bán,2480000000,67.39,quận 9,2,2,None,HDMB,Nam,12.0,False,A2.12.05-Safira Khang Điền
+1456,Bán,2700000000,66.15,quận 9,2,2,None,HDMB,Bắc,17.0,False,A2.17.01-Safira Khang Điền
+1457,Bán,2760000000,67.12,quận 9,2,2,None,HDMB,Bắc,15.0,False,A2.15.02-Safira Khang Điền
+1458,Bán,2500000000,65.44,quận 9,2,2,None,HDMB,Bắc,17.0,False,A2.17.08-Safira Khang Điền
+1459,Thuê,9000000,66.98,quận 9,2,2,None,HDMB,Bắc,19.0,False,A2.19.07-Safira Khang Điền
+1460,Bán,2530000000,66.15,quận 9,2,2,None,HDMB,Bắc,16.0,False,A2.16.01-Safira Khang Điền
+1461,Bán,3900000000,66.15,quận 9,2,2,None,HDMB,Bắc,18.0,False,A2.18.01-Safira Khang Điền
+1462,Bán,2590000000,67.12,quận 9,2,2,None,HDMB,Bắc,20.0,False,A2.20.02-Safira Khang Điền
+1463,Bán,2480000000,65.44,quận 9,2,2,None,HDMB,Bắc,20.0,False,A2.20.08-Safira Khang Điền
+1464,Bán,2790000000,67.12,quận 9,2,2,None,HDMB,Bắc,21.0,False,A2.21.02-Safira Khang Điền
+1465,Thuê,7500000,67.27,quận 9,2,2,None,HDMB,Nam,20.0,False,A2.20.06-Safira Khang Điền
+1466,Bán,2480000000,65.44,quận 9,2,2,None,HDMB,Bắc,21.0,False,A2.21.08-Safira Khang Điền
+1467,Thuê,8000000,66.98,quận 9,2,2,None,HDMB,Bắc,20.0,False,A2.20.07-Safira Khang Điền
+1468,Bán,2690000000,67.12,quận 9,2,2,None,HDMB,Tây Bắc,4.0,False,B1.04.04-Safira Khang Điền
+1469,Bán,2045000000,66.95,quận 9,2,2,None,HDMB,Tây Bắc,3.0,False,B1.03.07-Safira Khang Điền
+1470,Bán,2045000000,48.66,quận 9,2,1,None,HDMB,Tây Bắc,3.0,False,B1.03.05-Safira Khang Điền
+1471,Bán,2445000000,67.28,quận 9,2,2,None,HDMB,Đông Nam,3.0,False,B1.03.03-Safira Khang Điền
+1472,Bán,3670000000,90.67,quận 9,3,2,None,HDMB,Tây Bắc,3.0,False,B1.03.08-Safira Khang Điền
+1473,Thuê,10000000,67.28,quận 9,2,2,None,HDMB,Đông Nam,4.0,False,B1.04.03-Safira Khang Điền
+1474,Bán,2370000000,67.28,quận 9,2,2,None,HDMB,Đông Nam,6.0,False,B1.06.01-Safira Khang Điền
+1475,Bán,3550000000,90.67,quận 9,3,2,None,HDMB,Tây Bắc,6.0,False,B1.06.08-Safira Khang Điền
+1476,Bán,2420000000,67.15,quận 9,2,2,None,HDMB,Đông Nam,7.0,False,B1.07.09-Safira Khang Điền
+1477,Bán,3530000000,90.67,quận 9,3,2,None,HDMB,Tây Bắc,7.0,False,B1.07.08-Safira Khang Điền
+1478,Bán,2650000000,67.12,quận 9,2,2,None,HDMB,Tây Bắc,9.0,False,B1.09.04-Safira Khang Điền
+1479,Bán,2530000000,67.28,quận 9,2,2,None,HDMB,Đông Nam,8.0,False,B1.08.03-Safira Khang Điền
+1480,Bán,2670000000,67.28,quận 9,2,2,None,HDMB,Đông Nam,0.0,False,B1.12A.03-Safira Khang Điền
+1481,Bán,2791000000,67.15,quận 9,2,2,None,HDMB,Đông Nam,14.0,False,B1.14.09-Safira Khang Điền
+1482,Bán,1825000000,48.66,quận 9,2,1,None,HDMB,Tây Bắc,0.0,False,B1.12A.05-Safira Khang Điền
+1483,Bán,2540000000,66.95,quận 9,2,2,None,HDMB,Tây Bắc,16.0,False,B1.16.07-Safira Khang Điền
+1484,Bán,2690000000,66.95,quận 9,2,2,None,HDMB,Tây Bắc,19.0,False,B1.19.07-Safira Khang Điền
+1485,Bán,2690000000,67.12,quận 9,2,2,None,HDMB,Tây Bắc,17.0,False,B1.17.04-Safira Khang Điền
+1486,Bán,2640000000,66.95,quận 9,2,2,None,HDMB,Tây Bắc,12.0,False,B1.12.07-Safira Khang Điền
+1487,Thuê,6000000,67.15,quận 9,2,2,None,HDMB,Đông Nam,18.0,False,B1.18.10-Safira Khang Điền
+1488,Bán,2511000000,66.95,quận 9,2,2,None,HDMB,Tây Bắc,20.0,False,B1.20.07-Safira Khang Điền
+1489,Bán,2580000000,66.95,quận 9,2,2,None,HDMB,Tây Bắc,14.0,False,B1.14.07-Safira Khang Điền
+1490,Bán,2588000000,67.28,quận 9,2,2,None,HDMB,Đông Nam,16.0,False,B1.16.03-Safira Khang Điền
+1491,Bán,2567000000,67.28,quận 9,2,2,None,HDMB,Đông Nam,17.0,False,B1.17.03-Safira Khang Điền
+1492,Bán,3510000000,90.67,quận 9,3,2,None,HDMB,Tây Bắc,19.0,False,B1.19.08-Safira Khang Điền
+1493,Bán,2488000000,67.15,quận 9,2,2,None,HDMB,Đông Nam,21.0,False,B1.21.10-Safira Khang Điền
+1494,Bán,2820000000,67.12,quận 9,2,2,None,HDMB,Tây Bắc,3.0,False,B2.03.03-Safira Khang Điền
+1495,Bán,3550000000,90.25,quận 9,2,2,None,HDMB,Đông Nam,10.0,False,B2.10.09-Safira Khang Điền
+1496,Bán,2070000000,49.37,quận 9,2,1,None,HDMB,Tây Bắc,4.0,False,B2.04.04-Safira Khang Điền
+1497,Bán,1900000000,49.37,quận 9,2,1,None,HDMB,Tây Bắc,7.0,False,B2.07.05-Safira Khang Điền
+1498,Bán,2794630000,66.99,quận 9,2,2,None,HDMB,Tây Bắc,7.0,False,B2.07.08-Safira Khang Điền
+1499,Bán,2693760000,66.99,quận 9,2,2,None,HDMB,Tây Bắc,9.0,False,B2.09.08-Safira Khang Điền
+1500,Bán,2643170000,66.99,quận 9,2,2,None,HDMB,Tây Bắc,8.0,False,B2.08.08-Safira Khang Điền
+1501,Bán,2890000000,67.12,quận 9,2,2,None,HDMB,Tây Bắc,11.0,False,B2.11.03-Safira Khang Điền
+1502,Thuê,10000000,67.53,quận 9,2,2,None,HDMB,Đông Nam,8.0,False,B2.08.10-Safira Khang Điền
+1503,Bán,3506000000,90.42,quận 9,3,2,None,HDMB,Đông Nam,10.0,False,B2.10.02-Safira Khang Điền
+1504,Bán,3612260000,90.25,quận 9,2,2,None,HDMB,Đông Nam,8.0,False,B2.08.09-Safira Khang Điền
+1505,Bán,3710000000,90.42,quận 9,3,2,None,HDMB,Đông Nam,0.0,False,B2.12A.02-Safira Khang Điền
+1506,Bán,2115330000,49.37,quận 9,2,1,None,HDMB,Tây Bắc,15.0,False,B2.15.05-Safira Khang Điền
+1507,Bán,2569970000,66.99,quận 9,2,2,None,HDMB,Tây Bắc,16.0,False,B2.16.08-Safira Khang Điền
+1508,Thuê,6500000,49.37,quận 9,2,1,None,HDMB,Tây Bắc,16.0,False,B2.16.05-Safira Khang Điền
+1509,Bán,2686600000,67.06,quận 9,2,2,None,HDMB,Tây Bắc,17.0,False,B2.17.06-Safira Khang Điền
+1510,Thuê,7500000,67.06,quận 9,2,2,None,HDMB,Tây Bắc,16.0,False,B2.16.06-Safira Khang Điền
+1511,Bán,2667100000,67.12,quận 9,2,2,None,HDMB,Tây Bắc,20.0,False,B2.20.03-Safira Khang Điền
+1512,Bán,2760000000,67.06,quận 9,2,2,None,HDMB,Tây Bắc,20.0,False,B2.20.06-Safira Khang Điền
+1513,Thuê,33000000,0.0,quận 9,Shophouse,Shophouse,None,HDMB,None,1.0,False,C.01.07-Safira Khang Điền
+1514,Thuê,40000000,0.0,quận 9,Shophouse,Shophouse,None,HDMB,None,1.0,False,C.01.05-Safira Khang Điền
+1515,Thuê,35000000,0.0,quận 9,Shophouse,Shophouse,None,HDMB,None,1.0,False,C.01.15-Safira Khang Điền
+1516,Thuê,28000000,0.0,quận 9,Shophouse,Shophouse,None,HDMB,None,1.0,False,C.01.06-Safira Khang Điền
+1517,Thuê,9000000,65.66,quận 9,2,2,None,HDMB,Đông Bắc,4.0,False,C1.04.01-Safira Khang Điền
+1518,Bán,2215000000,65.06,quận 9,2,2,None,HDMB,Tây Bắc,4.0,False,C1.04.07-Safira Khang Điền
+1519,Bán,2280000000,66.96,quận 9,2,2,None,HDMB,Tây Nam,7.0,False,C1.07.04-Safira Khang Điền
+1520,Bán,2780000000,67.06,quận 9,2,2,None,HDMB,Đông Bắc,11.0,False,C1.11.10-Safira Khang Điền
+1521,Bán,2310000000,64.09,quận 9,2,2,None,HDMB,Tây Nam,10.0,False,C1.10.06-Safira Khang Điền
+1522,Thuê,10000000,65.06,quận 9,2,2,None,HDMB,Tây Bắc,14.0,False,C1.14.07-Safira Khang Điền
+1523,Bán,3090000000,88.41,quận 9,3,2,None,HDMB,Đông Bắc,16.0,False,C1.16.08-Safira Khang Điền
+1524,Bán,2260000000,64.09,quận 9,2,2,None,HDMB,Tây Nam,18.0,False,C1.18.06-Safira Khang Điền
+1525,Bán,2414000000,67.12,quận 9,2,2,None,HDMB,Đông Bắc,5.0,False,C2.05.10-Safira Khang Điền
+1526,Thuê,10000000,67.28,quận 9,2,2,None,HDMB,Đông Bắc,8.0,False,C2.08.02-Safira Khang Điền
+1527,Bán,2604000000,67.12,quận 9,2,2,None,HDMB,Đông Bắc,8.0,False,C2.08.10-Safira Khang Điền
+1528,Thuê,7500000,65.27,quận 9,2,2,None,HDMB,Tây Nam,5.0,False,C2.05.07-Safira Khang Điền
+1529,Bán,2415000000,67.14,quận 9,2,2,None,HDMB,Đông Bắc,6.0,False,C2.06.09-Safira Khang Điền
+1530,Thuê,7000000,67.6,quận 9,2,2,None,HDMB,Tây Nam,21.0,False,C1.21.03-Safira Khang Điền
+1531,Bán,2425000000,67.27,quận 9,2,2,None,HDMB,Tây Nam,6.0,False,C2.06.03-Safira Khang Điền
+1532,Bán,2629000000,67.54,quận 9,2,2,None,HDMB,Tây Nam,11.0,False,C2.11.08-Safira Khang Điền
+1533,Bán,2080000000,49.32,quận 9,2,1,None,HDMB,Tây Nam,11.0,False,C2.11.05-Safira Khang Điền
+1534,Bán,2475000000,67.19,quận 9,2,2,None,HDMB,Tây Nam,11.0,False,C2.11.06-Safira Khang Điền
+1535,Thuê,10000000,49.32,quận 9,2,1,None,HDMB,Tây Nam,11.0,False,C2.11.04-Safira Khang Điền
+1536,Bán,2555000000,67.54,quận 9,2,2,None,HDMB,Tây Nam,11.0,False,C2.11.08-Safira Khang Điền
+1537,Bán,2670000000,67.27,quận 9,2,2,None,HDMB,Tây Nam,0.0,False,C2.12A.03-Safira Khang Điền
+1538,Bán,3305000000,87.41,quận 9,3,2,None,HDMB,Đông Bắc,12.0,False,C2.12.11-Safira Khang Điền
+1539,Thuê,7500000,65.93,quận 9,2,2,None,HDMB,Đông Bắc,15.0,False,C2.15.01-Safira Khang Điền
+1540,Bán,2450000000,65.93,quận 9,2,2,None,HDMB,Đông Bắc,17.0,False,C2.17.01-Safira Khang Điền
+1541,Bán,2424000000,67.27,quận 9,2,2,None,HDMB,Tây Nam,19.0,False,C2.19.03-Safira Khang Điền
+1542,Bán,2700000000,67.19,quận 9,2,2,None,HDMB,Tây Nam,18.0,False,C2.18.06-Safira Khang Điền
+1543,Bán,2423000000,67.12,quận 9,2,2,None,HDMB,Đông Bắc,21.0,False,C2.21.10-Safira Khang Điền
+1544,Bán,2420000000,69.4,quận 9,2,2,None,HDMB,Đông,4.0,False,D1.04.03-Safira Khang Điền
+1545,Bán,2885000000,89.7,quận 9,3,2,None,HDMB,Tây,4.0,False,D1.04.04-Safira Khang Điền
+1546,Bán,2420000000,69.4,quận 9,2,2,None,HDMB,Đông,4.0,False,D1.04.03-Safira Khang Điền
+1547,Bán,2265000000,68.7,quận 9,2,2,None,HDMB,Tây Bắc,6.0,False,D1.06.09-Safira Khang Điền
+1548,Bán,1806000000,49.9,quận 9,2,1,None,HDMB,Tây Bắc,3.0,False,D1.03.07-Safira Khang Điền
+1549,Thuê,10000000,69.4,quận 9,2,2,None,HDMB,Tây Bắc,4.0,False,D1.04.08-Safira Khang Điền
+1550,Bán,2525000000,70.1,quận 9,2,2,None,HDMB,Đông Nam,8.0,False,D1.08.12-Safira Khang Điền
+1551,Thuê,7500000,66.4,quận 9,2,2,None,HDMB,Đông Nam,12.0,False,D1.12.02-Safira Khang Điền
+1552,Bán,2282000000,67.9,quận 9,2,2,None,HDMB,Đông Nam,0.0,False,D1.12A.01-Safira Khang Điền
+1553,Thuê,10000000,69.4,quận 9,2,2,None,HDMB,Tây Bắc,11.0,False,D1.11.08-Safira Khang Điền
+1554,Bán,1960000000,49.9,quận 9,2,1,None,HDMB,Đông Nam,0.0,False,D1.12A.11-Safira Khang Điền
+1555,Bán,2973000000,93.3,quận 9,3,2,None,HDMB,Tây,14.0,False,D1.14.05-Safira Khang Điền
+1556,Bán,2987000000,89.7,quận 9,3,2,None,HDMB,Tây,15.0,False,D1.15.04-Safira Khang Điền
+1557,Bán,2530000000,66.4,quận 9,2,2,None,HDMB,Đông Nam,15.0,False,D1.15.02-Safira Khang Điền
+1558,Bán,2470000000,68.7,quận 9,2,2,None,HDMB,Tây Bắc,21.0,False,D1.21.09-Safira Khang Điền
+1559,Bán,3000000000,93.3,quận 9,2,2,None,HDMB,Tây,21.0,False,D1.21.05-Safira Khang Điền
+1560,Thuê,28000000,0.0,quận 9,Shophouse,Shophouse,None,HDMB,None,1.0,False,D2.01.06-TM-Safira Khang Điền
+1561,Bán,2360000000,66.1,quận 9,2,2,None,HDMB,Tây Bắc,5.0,False,D2.05.05-Safira Khang Điền
+1562,Bán,2590000000,69.8,quận 9,2,2,None,HDMB,Đông Nam,8.0,False,D2.08.03-Safira Khang Điền
+1563,Bán,2478000000,69.8,quận 9,2,2,None,HDMB,Đông Nam,7.0,False,D2.07.03-Safira Khang Điền
+1564,Thuê,10000000,69.7,quận 9,2,2,None,HDMB,Đông Nam,8.0,False,D2.08.10-Safira Khang Điền
+1565,Bán,2675000000,68.2,quận 9,2,2,None,HDMB,Tây Bắc,12.0,False,D2.12.07-Safira Khang Điền
+1566,Thuê,9000000,69.6,quận 9,2,2,None,HDMB,Tây Bắc,14.0,False,D2.14.06-Safira Khang Điền
+1567,Bán,1930000000,49.8,quận 9,2,1,None,HDMB,Đông Nam,14.0,False,D2.14.12-Safira Khang Điền
+1568,Thuê,8000000,49.8,quận 9,2,1,None,HDMB,Đông Nam,15.0,False,D2.15.12-Safira Khang Điền
+1569,Thuê,7500000,66.1,quận 9,2,2,None,HDMB,Tây Bắc,17.0,False,D2.17.05-Safira Khang Điền
+1570,Bán,2580000000,69.9,quận 9,2,2,None,HDMB,Tây Bắc,17.0,False,D2.17.06-Safira Khang Điền
+1571,Thuê,6000000,50.3,quận 9,2,1,None,HDMB,Tây Bắc,14.0,False,D2.14.08-Safira Khang Điền
+1572,Bán,2470000000,70.1,quận 9,2,2,None,HDMB,Đông Nam,15.0,False,D2.15.01-Safira Khang Điền
+1573,Bán,2420000000,49.76,quận 9,2,1,None,HDMB,Đông Nam,19.0,False,D2.19.10-Safira Khang Điền
+1574,Thuê,7000000,71.06,quận 9,2,2,None,HDMB,Đông Nam,21.0,False,D2.21.09-Safira Khang Điền
+1575,Bán,2226240000,69.8,quận 9,2,2,None,HDMB,Đông Nam,21.0,False,D2.21.03-Safira Khang Điền
+1576,Bán,3500000000,90.88,None,3,2,Full,None,Đông Nam,7.0,False,A-07-02-Saigon Gateway
+1577,Thuê,9000000,68.98,quận 9,2,2,Có,HDMB,Đông Nam,3.0,False,A-03-08-Him Lam Phú An
+1578,Bán,2800000000,68.98,quận 9,2,2,Full,HDMB,Đông Nam,4.0,False,A-04-08-Him Lam Phú An
+1579,Bán,2724000000,68.84,quận 9,2,2,Full,HDMB,Tây Bắc,3.0,False,A-03-21-Him Lam Phú An
+1580,Thuê,9000000,68.98,quận 9,2,2,Có,HDMB,Đông Nam,5.0,False,A-05-16-Him Lam Phú An
+1581,Bán,2700000000,68.83,quận 9,2,2,Ko,HDMB,Đông Nam,6.0,False,A-06-09-Him Lam Phú An
+1582,Thuê,10000000,68.84,quận 9,2,2,Full,HDMB,Tây Bắc,7.0,False,A-07-04-Him Lam Phú An
+1583,Bán,2850000000,68.98,quận 9,2,2,Full,HDMB,Tây Bắc,7.0,False,A-07-22-Him Lam Phú An
+1584,Thuê,11000000,68.84,quận 9,2,2,Full,HDMB,Đông Nam,8.0,False,A-08-17-Him Lam Phú An
+1585,Bán,2750000000,68.84,quận 9,2,2,Full,HDMB,Đông Nam,9.0,False,A-09-11-Him Lam Phú An
+1586,Bán,2750000000,68.57,quận 9,2,2,Full,HDMB,Tây Bắc,11.0,False,A-11-01-Him Lam Phú An
+1587,Bán,2750000000,68.98,quận 9,2,2,Full,HDMB,Đông Nam,10.0,False,A-10-12-Him Lam Phú An
+1588,Bán,2930000000,68.84,quận 9,2,2,Có,HDMB,Tây Bắc,12.0,False,A-12-02-Him Lam Phú An
+1589,Bán,2735000000,68.98,quận 9,2,2,Ko,HDMB,Đông Nam,12.0,False,A-12-14-Him Lam Phú An
+1590,Bán,2750000000,68.84,quận 9,2,2,Full,HDMB,Đông Nam,12.0,False,A-12-11-Him Lam Phú An
+1591,Thuê,10000000,69.32,quận 9,2,2,Có,HDMB,Đông Nam,12.0,False,A-12-18-Him Lam Phú An
+1592,Bán,2750000000,68.84,quận 9,2,2,None,HDMB,Đông Nam,13.0,False,A-13-11-Him Lam Phú An
+1593,Bán,3136000000,68.84,quận 9,2,2,Ko,HDMB,Đông Nam,14.0,True,A-14-11-Him Lam Phú An
+1594,Bán,2900000000,68.98,quận 9,2,2,Full,HDMB,Đông Nam,16.0,False,A-16-12-Him Lam Phú An
+1595,Bán,2700000000,68.84,quận 9,2,2,Full,HDMB,Tây Bắc,16.0,False,A-16-20-Him Lam Phú An
+1596,Bán,2746000000,68.98,quận 9,2,2,Có,HDMB,Tây Bắc,15.0,False,A-15-22-Him Lam Phú An
+1597,Bán,2790000000,69.84,quận 9,2,2,Ko,HDMB,Đông Nam,16.0,False,A-16-13-Him Lam Phú An
+1598,Thuê,8000000,69.32,quận 9,2,2,Ko,HDMB,Đông Nam,16.0,True,A-16-18-Him Lam Phú An
+1599,Bán,2700000000,69.32,quận 9,2,2,Full,HDMB,Đông Nam,3.0,True,B-03-16-Him Lam Phú An
+1600,Thuê,11000000,69.32,quận 9,2,2,Full,HDMB,Tây Bắc,5.0,False,B-05-04-Him Lam Phú An
+1601,Thuê,9500000,68.84,quận 9,2,2,Full,HDMB,Đông Nam,4.0,False,B-04-08-Him Lam Phú An
+1602,Thuê,10000000,68.98,quận 9,2,2,Full,HDMB,Đông Nam,4.0,False,B-04-07-Him Lam Phú An
+1603,Thuê,9500000,68.83,quận 9,2,2,Full,HDMB,Đông Nam,5.0,False,B-05-14-Him Lam Phú An
+1604,Bán,2750000000,68.84,quận 9,2,2,Ko,HDMB,Đông Nam,5.0,False,B-05-08-Him Lam Phú An
+1605,Bán,3112000000,69.32,quận 9,2,2,None,HDMB,Đông Nam,8.0,False,B-08-05-Him Lam Phú An
+1606,Bán,2958000000,68.98,quận 9,2,2,Có,HDMB,Đông Nam,8.0,False,B-08-11-Him Lam Phú An
+1607,Bán,2700000000,68.84,quận 9,2,2,Có,HDMB,Đông Nam,9.0,False,B-09-06-Him Lam Phú An
+1608,Bán,2850000000,68.57,quận 9,2,2,Có,HDMB,Tây Bắc,8.0,True,B-08-22-Him Lam Phú An
+1609,Bán,2840000000,68.57,quận 9,2,2,None,HDMB,Tây Bắc,9.0,False,B-09-22-Him Lam Phú An
+1610,Bán,2852500000,69.01,quận 9,2,2,Full,HDMB,Tây Bắc,8.0,False,B-08-20-Him Lam Phú An
+1611,Bán,2950000000,68.84,quận 9,2,2,None,HDMB,Đông Nam,9.0,False,B-09-08-Him Lam Phú An
+1612,Bán,2750000000,68.83,quận 9,2,2,Full,HDMB,Đông Nam,12.0,False,B-12-14-Him Lam Phú An
+1613,Bán,2826000000,69.32,quận 9,2,2,Full,HDMB,Đông Nam,12.0,False,B-12-17-Him Lam Phú An
+1614,Bán,3013000000,68.84,quận 9,2,2,Full,HDMB,Tây Bắc,13.0,False,B-13-03-Him Lam Phú An
+1615,Bán,2852000000,68.84,quận 9,2,2,Full,HDMB,Tây Bắc,14.0,False,B-14-02-Him Lam Phú An
+1616,Thuê,8000000,68.98,quận 9,2,2,Ko,HDMB,Tây Bắc,14.0,False,B-14-01-Him Lam Phú An
+1617,Bán,2747000000,68.98,quận 9,2,2,None,HDMB,Tây Bắc,15.0,False,B-15-01-Him Lam Phú An
+1618,Bán,2700000000,68.57,quận 9,2,2,Có,HDMB,Tây Bắc,14.0,False,B-14-22-Him Lam Phú An
+1619,Bán,2655000000,68.84,quận 9,2,2,Có,HDMB,Đông Nam,15.0,False,B-15-10-Him Lam Phú An
+1620,Thuê,11000000,68.57,quận 9,2,2,Full,HDMB,Tây Bắc,16.0,False,B-16-22-Him Lam Phú An
+1621,Bán,2692000000,68.84,quận 9,2,2,None,HDMB,Tây Bắc,5.0,False,C-05-09-Him Lam Phú An
+1622,Bán,2623000000,68.98,quận 9,2,2,None,HDMB,Tây Bắc,5.0,False,C-05-06-Him Lam Phú An
+1623,Bán,2755000000,70.76,quận 9,2,2,Có,HDMB,Đông Nam,5.0,False,C-05-13-Him Lam Phú An
+1624,Bán,2700000000,69.08,quận 9,2,2,Full,HDMB,Tây Bắc,6.0,False,C-06-08-Him Lam Phú An
+1625,Bán,2700000000,68.84,quận 9,2,2,None,HDMB,Đông Nam,8.0,False,C-08-16-Him Lam Phú An
+1626,Bán,3131000000,68.84,quận 9,2,2,Full,HDMB,Đông Nam,9.0,False,C-09-16-Him Lam Phú An
+1627,Bán,2750000000,68.84,quận 9,2,2,Có,HDMB,Tây Bắc,10.0,False,C-10-09-Him Lam Phú An
+1628,Thuê,8000000,68.84,quận 9,2,2,Có,HDMB,Tây Bắc,11.0,False,C-11-11-Him Lam Phú An
+1629,Thuê,11000000,68.84,quận 9,2,2,Full,HDMB,Tây Bắc,12.0,False,C-12-11-Him Lam Phú An
+1630,Thuê,10000000,68.98,quận 9,2,2,Full,HDMB,Đông Nam,12.0,False,C-12-15-Him Lam Phú An
+1631,Bán,2767000000,71.72,quận 9,2,2,Có,HDMB,Tây Bắc,14.0,False,C-14-12-Him Lam Phú An
+1632,Bán,2700000000,71.72,quận 9,2,2,Có,HDMB,Tây Bắc,15.0,False,C-15-12-Him Lam Phú An
+1633,Bán,3152000000,68.57,quận 9,2,2,Có,HDMB,Đông Nam,3.0,False,D-03-01-Him Lam Phú An
+1634,Bán,2500000000,69.08,quận 9,2,2,Ko,HDMB,Tây Bắc,16.0,False,C-16-08-Him Lam Phú An
+1635,Thuê,9500000,68.84,quận 9,2,2,Full,HDMB,Đông Nam,3.0,False,D-03-04-Him Lam Phú An
+1636,Thuê,7500000,68.84,quận 9,2,2,None,HDMB,Đông Nam,3.0,False,D-03-02-Him Lam Phú An
+1637,Bán,2800000000,68.57,quận 9,2,2,Ko,HDMB,Đông Nam,16.0,False,C-16-17-Him Lam Phú An
+1638,Thuê,10000000,70.76,quận 9,2,2,Full,HDMB,Đông Nam,3.0,False,D-03-05-Him Lam Phú An
+1639,Thuê,10000000,69.32,quận 9,2,2,Full,HDMB,Đông Nam,3.0,False,D-03-15-Him Lam Phú An
+1640,Bán,2540000000,69.9,quận 9,2,2,None,HDMB,Tây Bắc,5.0,False,D-05-11-Him Lam Phú An
+1641,Bán,4000000000,68.76,quận 9,2,2,None,HDMB,Đông Nam,4.0,False,D-04-17-Him Lam Phú An
+1642,Bán,2636000000,68.84,quận 9,2,2,Ko,HDMB,Tây Bắc,6.0,False,D-06-09-Him Lam Phú An
+1643,Bán,2753000000,68.84,quận 9,2,2,Có,HDMB,Tây Bắc,6.0,False,D-06-13-Him Lam Phú An
+1644,Bán,2650000000,69.9,quận 9,2,2,Ko,HDMB,Tây Bắc,8.0,False,D-08-11-Him Lam Phú An
+1645,Bán,2889000000,68.84,quận 9,2,2,Full,HDMB,Đông Nam,9.0,True,D-09-16-Him Lam Phú An
+1646,Bán,2960000000,68.84,quận 9,2,2,Có,HDMB,Đông Nam,10.0,False,D-10-16-Him Lam Phú An
+1647,Bán,3103000000,68.98,quận 9,2,2,None,HDMB,Đông Nam,11.0,False,D-11-03-Him Lam Phú An
+1648,Bán,2900000000,68.98,quận 9,2,2,Có,HDMB,Đông Nam,12.0,False,D-12-03-Him Lam Phú An
+1649,Bán,2750000000,71.72,quận 9,2,2,Ko,HDMB,Tây Bắc,13.0,False,D-13-06-Him Lam Phú An
+1650,Thuê,7500000,68.84,quận 9,2,2,None,HDMB,Tây Bắc,13.0,False,D-13-13-Him Lam Phú An
+1651,Bán,2648000000,68.84,quận 9,2,2,Ko,HDMB,Tây Bắc,16.0,False,D-16-13-Him Lam Phú An
+1652,Bán,2580000000,62.57,bình thạnh,2,2,Ko,HDMB,Tây Nam,0.0,False,7.06-Soho Premier
+1653,Thuê,9000000,65.9,None,2,2,Có,HDMB,Tây Bắc,20.0,False,A-20-04-Saigon Gateway
+1654,Bán,2500000000,66.26,quận 9,2,2,Ko,HDMB,Tây Nam,2.0,False,B-02-17-Saigon Gateway
+1655,Thuê,7000000,65.9,None,2,2,Ko,HDMB,Đông Nam,16.0,False,B-16-09-nan
+1656,Thuê,10000000,65.92,quận 9,2,2,Full,HDMB,Đông Nam,19.0,False,B-19-07-Saigon Gateway
+1657,Bán,2500000000,65.92,quận 9,2,2,Ko,HDMB,Đông Nam,10.0,False,B-10-07-Saigon Gateway
+1658,Bán,2075000000,56.22,quận 9,2,1,Ko,HDMB,Đông Nam,19.0,False,A-19-18-Saigon Gateway
+1659,Bán,2400000000,65.92,quận 9,2,2,Ko,HDMB,Đông Nam,2.0,False,B-02-07-Saigon Gateway
+1660,Bán,4200000000,98.0,None,3,2,Full,HDMB,Tây Nam,0.0,False,OPAB016002-Opal Riverside
+1661,Bán,2130000000,65.9,None,2,2,Ko,HDMB,Tây Bắc,2.0,False,A-02-06-nan
+1662,Bán,1930000000,71.0,None,2,2,Ko,HDMB,Tây Nam,11.0,False,C2.11.03-nan
+1663,Thuê,7000000,65.9,None,2,2,Ko,HDMB,Tây Bắc,2.0,False,A-18-12-nan
+1664,Bán,2197000000,66.48,None,2,2,Ko,HDMB,Đông Bắc,21.0,False,B-21-01-nan
+1665,Thuê,12000000,65.9,quận 9,2,2,Full,HDMB,Đông Bắc,3.0,False,B-03-03-Saigon Gateway
+1666,Bán,2500000000,53.32,quận 9,2,1,Full,HDMB,Tây Nam,2.0,False,B-02-14-Saigon Gateway
+1667,Bán,2075000000,56.22,quận 9,2,1,Ko,HDMB,Đông Nam,19.0,False,A-19-18-Saigon Gateway
+1668,Bán,3200000000,90.88,quận 9,3,2,Ko,HDMB,Tây Bắc,6.0,False,A-06-03-Saigon Gateway
+1669,Bán,2300000000,65.9,quận 9,2,2,Có,HDMB,Tây Bắc,2.0,False,A-02-04-Saigon Gateway
+1670,Bán,2431000000,65.9,None,2,2,Ko,HDMB,Đông Nam,18.0,False,A-18-12b-Saigon Gateway
+1671,Thuê,8500000,65.9,None,2,2,Ko,HDMB,Đông Nam,3.0,False,B-03-09-nan
+1672,Bán,1750000000,57.0,None,2,2,Ko,Sổ hồng,Đông Nam,0.0,False,SVT.B1.16.12A-nan
+1673,Bán,1800000000,57.4,None,2,2,Full,HDMB,Đông Bắc,0.0,False,A3-G28-17 / 16.06-nan
+1674,Bán,3600000000,125.49,None,Shophouse,Shophouse,Ko,HDMB,None,0.0,False,A1-TM6 / 0.03-nan
+1675,Thuê,10500000,71.1,None,2,2,Ko,HDMB,Đông Bắc,0.0,False,OPAA0200612A-nan
+1676,Thuê,6500000,62.27,thủ đức,2,2,Ko,HDMB,Tây Bắc,13.0,False,A.9.13-P1-Saigon Avenue
+1677,Bán,2630000000,62.27,thủ đức,2,2,Có,HDMB,Đông Nam,23.0,False,A.9.23-P2-Saigon Avenue
+1678,Thuê,6500000,62.27,thủ đức,2,2,Ko,HDMB,Đông Nam,25.0,False,A.9.25-P2-Saigon Avenue
+1679,Bán,2640000000,62.27,thủ đức,2,2,Ko,HDMB,Đông Bắc,11.0,False,B.16.11-P2-Saigon Avenue
+1680,Thuê,7000000,62.27,thủ đức,2,2,Ko,HDMB,Đông Bắc,4.0,False,B.16.4-P2-Saigon Avenue
+1681,Bán,2800000000,62.27,thủ đức,2,2,Ko,HDMB,Đông Bắc,20.0,False,B.17.20-P1-Saigon Avenue
+1682,Bán,2413000000,62.27,thủ đức,2,2,Có,HDMB,Tây Bắc,7.0,False,B.4.7-P2-Saigon Avenue
+1683,Bán,2528000000,62.27,thủ đức,2,2,Ko,HDMB,Tây Bắc,18.0,False,B.5.18-P2-Saigon Avenue
+1684,Bán,2850000000,77.11,thủ đức,3,2,Có,HDMB,Đông Nam,4.0,False,C.1.4-P1-Saigon Avenue
+1685,Bán,3000000000,77.11,thủ đức,3,2,Full,HDMB,Tây Bắc,20.0,False,C.20.20-P1-Saigon Avenue
+1686,Bán,3000000000,87.0,None,2,2,Ko,None,None,0.0,False,W02.10-nan
+1687,Thuê,10000000,90.88,None,3,2,Ko,HDMB,Đông Nam,11.0,False,A-11-02-nan
+1688,Thuê,6500000,62.27,None,None,None,Có,None,Tây Nam,0.0,False,A.14.23-P2-nan
+1689,Thuê,6500000,62.27,None,None,None,None,None,Tây Nam,0.0,False,B.13.18-P2-nan
+1690,Thuê,6200000,62.27,None,None,None,None,None,Tây Nam,0.0,False,B.14.22-P2-nan
+1691,Bán,1920000000,62.27,None,None,None,None,None,Tây Bắc,0.0,False,B.5.25-P2-nan
+1692,Bán,1663000000,46.99,None,None,None,Ko,None,Tây Nam,0.0,False,E.15.9-P1-nan
+1693,Thuê,8000000,70.0,quận 9,2,2,Ko,HDMB,Tây Bắc,18.0,False,A-18-12-Saigon Gateway
+1694,Bán,2100000000,53.3,None,2,1,Full,HDMB,Tây Nam,21.0,False,B-21-16-nan
+1695,Thuê,9000000,53.3,quận 9,2,1,Full,HDMB,Tây Bắc,19.0,False,A-19-11-Saigon Gateway
+1696,Bán,2400000000,94.0,None,2,2,Ko,HDMB,Tây Nam,0.0,False,0.1-nan
+1697,Thuê,6800000,53.32,None,2,1,Có,HDMB,Tây Nam,19.0,False,B-19-15-nan
+1698,Bán,1750000000,70.72,None,2,2,Full,HDMB,Tây Bắc,0.0,False,A1-A3-15 / 14.03-nan
+1699,Bán,1800000000,57.4,None,2,2,Full,HDMB,Đông Bắc,0.0,False,A3-G28-17 / 16.06-nan
+1700,Thuê,8500000,53.0,quận 9,2,1,Ko,HDMB,Đông Nam,21.0,False,A-21-15-Saigon Gateway
+1701,Bán,12209000000,330.0,None,Penthouse,Penthouse,Full,None,None,0.0,False,4S.BT 17.06-4S Bình Triệu
+1702,Bán,6973000000,260.0,None,Penthouse,Penthouse,Full,None,None,0.0,False,4S.BT 17.03-4S Bình Triệu
+1703,Bán,6879000000,230.0,None,Penthouse,Penthouse,Full,None,None,0.0,False,4S.BT 17.02-4S Bình Triệu
+1704,Thuê,6500000,56.5,quận 9,2,1,Ko,HDMB,Đông Nam,18.0,False,A-18-15-Saigon Gateway
+1705,Bán,3500000000,90.88,quận 9,3,2,Full,HDMB,Đông Bắc,12.0,True,B-12-20-Saigon Gateway
+1706,Bán,2420000000,65.0,quận 9,2,2,Ko,HDMB,Đông Nam,6.0,False,B-06-07-Saigon Gateway
+1707,Bán,3107000000,90.88,quận 9,3,2,Full,HDMB,Tây Nam,13.0,False,B-12b-19-Saigon Gateway
+1708,Thuê,8500000,65.92,quận 9,2,2,Ko,HDMB,Đông Nam,6.0,False,B-06-07-Saigon Gateway
+1709,Bán,2350000000,65.9,quận 9,2,2,Ko,HDMB,Tây Nam,16.0,False,B-16-18-Saigon Gateway
+1710,Thuê,13000000,59.16,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Bắc,1.0,False,B-01-17-Saigon Gateway
+1711,Thuê,17000000,50.83,quận 9,Shophouse,Shophouse,Ko,HDMB,Tây Nam,1.0,False,B-01-12b-Saigon Gateway
+1712,Bán,4500000000,50.83,quận 9,Shophouse,Shophouse,Ko,HDMB,Tây Nam,1.0,False,B-01-11-Saigon Gateway
+1713,Bán,4200000000,62.43,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Nam,1.0,False,B-01-08-Saigon Gateway
+1714,Bán,4000000000,71.0,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Nam,1.0,False,B-01-06-Saigon Gateway
+1715,Thuê,15000000,58.77,quận 9,Shophouse,Shophouse,Full,HDMB,Đông Nam,1.0,False,B-01-05-Saigon Gateway
+1716,Thuê,10000000,60.0,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Bắc,1.0,False,B-01-03-Saigon Gateway
+1717,Thuê,15000000,63.31,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Bắc,1.0,False,B-01-02-Saigon Gateway
+1718,Bán,2900000000,65.92,quận 9,2,2,Full,HDMB,Đông Nam,17.0,False,B-17-07-Saigon Gateway
+1719,Thuê,7500000,70.0,quận 9,2,2,Có,HDMB,Tây Bắc,16.0,False,A-16-12-Saigon Gateway
+1720,Bán,3645000000,90.88,quận 9,3,2,Full,HDMB,Đông Bắc,20.0,False,B-20-20-Saigon Gateway
+1721,Bán,3600000000,90.88,quận 9,3,2,Full,HDMB,Đông Bắc,22.0,False,B-22-20-Saigon Gateway
+1722,Thuê,20000000,63.31,quận 9,2,2,None,HDMB,Tây Bắc,1.0,False,A-01-06-Saigon Gateway
+1723,Thuê,25000000,63.31,quận 9,Shophouse,Shophouse,Ko,HDMB,Tây Bắc,1.0,False,A-01-05-Saigon Gateway
+1724,Thuê,32000000,85.59,quận 9,Shophouse,Shophouse,None,HDMB,Tây Bắc,1.0,False,A-01-03-Saigon Gateway
+1725,Thuê,20000000,85.59,quận 9,2,2,None,HDMB,Đông Nam,1.0,False,A-01-02-Saigon Gateway
+1726,Bán,4900000000,62.43,quận 9,None,None,None,HDMB,Đông Nam,1.0,False,A-01-11-Saigon Gateway
+1727,Bán,4200000000,63.31,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Nam,1.0,False,A-01-01-Saigon Gateway
+1728,Bán,4700000000,63.31,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Nam,1.0,False,A-01-12-Saigon Gateway
+1729,Bán,2390000000,66.48,quận 9,2,2,Ko,HDMB,Đông Bắc,9.0,False,B-09-01-Saigon Gateway
+1730,Bán,2960000000,69.9,quận 9,2,2,Full,HDMB,Tây Bắc,20.0,False,A-20-12-Saigon Gateway
+1731,Bán,2400000000,66.48,quận 9,2,2,Có,HDMB,Đông Bắc,16.0,False,B-16-21-Saigon Gateway
+1732,Thuê,8500000,65.92,quận 9,2,2,Có,HDMB,Đông Nam,6.0,False,A-06-12B-Saigon Gateway
+1733,Bán,2375000000,65.9,quận 9,2,2,Ko,HDMB,Đông Nam,3.0,False,B-03-09-Saigon Gateway
+1734,Bán,2373000000,53.32,quận 9,2,1,Ko,HDMB,Tây Nam,4.0,False,B-04-14-Saigon Gateway
+1735,Bán,2350000000,66.48,quận 9,2,2,Có,HDMB,Đông Bắc,17.0,False,B-17-21-Saigon Gateway
+1736,Bán,1750000000,75.0,None,2,1,None,None,None,0.0,False,E1.15.05-nan
+1737,Bán,3600000000,84.73,bình thạnh,3,2,Có,HDMB,Đông Bắc,0.0,False,A-1203-Saigonres Plaza
+1738,Thuê,7500000,53.3,quận 9,2,1,Có,HDMB,Tây Bắc,5.0,False,A-05-11-Saigon Gateway
+1739,Bán,4755000000,87.0,None,3,2,Full,HDMB,None,None,False,HA305-nan
+1740,Thuê,12000000,62.0,None,2,2,Full,HDMB,Tây Nam,0.0,False,11.1-nan
+1741,Thuê,12000000,62.0,None,2,2,Full,HDMB,Tây Nam,0.0,False,11.1-nan
+1742,Thuê,12000000,62.0,None,2,2,Full,HDMB,Tây Nam,0.0,False,11.1-nan
+1743,Thuê,12000000,62.0,None,2,2,Full,HDMB,Tây Nam,0.0,False,11.01-nan
+1744,Thuê,12000000,62.0,None,2,2,Full,HDMB,Tây Nam,0.0,False,11.01-nan
+1745,Bán,4500000000,65.92,None,Shophouse,Shophouse,Ko,HDMB,Đông Nam,6.0,False,B-01-01-nan
+1746,Thuê,25000000,None,None,Shophouse,Shophouse,Ko,HDMB,Đông Nam,6.0,False,B-06-10-nan
+1747,Bán,2373000000,None,None,None,None,Ko,HDMB,None,None,True,B2-19-08-Opal Boulevard
+1748,Bán,6973000000,260.0,None,4,3,Full,None,None,0.0,False,Căn 17.03 CHUNG CƯ 4S ĐƯỜNG 17 P.HBC THỦ ĐỨC-nan
+1749,Bán,6879000000,230.0,None,3,2,Full,None,None,0.0,False,Căn 17.02 CHUNG CƯ 4S ĐƯỜNG 17 P.HBC THỦ ĐỨC-nan
+1750,Thuê,11000000,90.88,quận 9,3,2,Full,HDMB,Đông Bắc,5.0,False,B-05-20-Saigon Gateway
+1751,Bán,2443000000,65.9,quận 9,2,2,Ko,HDMB,Tây Nam,6.0,False,B-06-18-Saigon Gateway
+1752,Thuê,7000000,65.9,quận 9,2,2,Ko,HDMB,Tây Nam,18.0,False,B-18-18-Saigon Gateway
+1753,Thuê,8000000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,22.0,False,A-22-09-Saigon Gateway
+1754,Bán,2489000000,65.92,quận 9,2,2,Có,HDMB,Đông Nam,13.0,False,B-12b-10-Saigon Gateway
+1755,Bán,2353000000,66.48,quận 9,2,2,Có,HDMB,Đông Bắc,12.0,False,B-12-21-Saigon Gateway
+1756,Thuê,10000000,65.9,quận 9,2,2,Full,HDMB,Đông Bắc,4.0,False,B-04-02-Saigon Gateway
+1757,Bán,2305000000,67.2,quận 9,2,2,Ko,HDMB,Đông Nam,15.0,False,A-15-14-Saigon Gateway
+1758,Bán,3194000000,90.88,quận 9,3,2,Full,HDMB,Tây Bắc,21.0,False,A-21-03-Saigon Gateway
+1759,Bán,3493000000,90.88,quận 9,3,2,Full,HDMB,Đông Nam,7.0,False,A-07-02-Saigon Gateway
+1760,Bán,3000000000,65.9,quận 9,2,2,Full,HDMB,Đông Bắc,22.0,False,B-22-03-Saigon Gateway
+1761,Bán,2550000000,65.92,quận 9,2,2,Full,HDMB,Đông Nam,7.0,False,B-07-10-Saigon Gateway
+1762,Bán,2200000000,56.22,quận 9,2,1,Ko,HDMB,Đông Nam,17.0,False,A-17-18-Saigon Gateway
+1763,Bán,2477500000,53.32,quận 9,2,1,Full,HDMB,Tây Nam,15.0,False,B-15-14-Saigon Gateway
+1764,Bán,3351000000,90.88,quận 9,3,2,Full,HDMB,Tây Nam,12.0,False,B-12-19-Saigon Gateway
+1765,Bán,2250000000,53.3,quận 9,2,1,Full,HDMB,Tây Bắc,19.0,False,A-19-11-Saigon Gateway
+1766,Thuê,10000000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,4.0,False,A-04-04-Saigon Gateway
+1767,Bán,2231000000,66.26,quận 9,2,2,Ko,HDMB,Tây Nam,7.0,False,B-07-17-Saigon Gateway
+1768,Bán,2425000000,55.52,quận 9,2,1,None,HDMB,Đông Nam,16.0,False,A-16-16-Saigon Gateway
+1769,Bán,2270000000,56.3,quận 9,2,1,Full,HDMB,Đông Nam,6.0,False,A-06-15-Saigon Gateway
+1770,Bán,2000000000,53.32,quận 9,2,1,Có,HDMB,Tây Nam,20.0,False,B-20-14-Saigon Gateway
+1771,Bán,2400000000,65.9,quận 9,2,2,None,HDMB,Đông Bắc,7.0,False,B-07-04-Saigon Gateway
+1772,Bán,2300000000,65.9,quận 9,2,2,Có,HDMB,Đông Bắc,16.0,False,B-16-02-Saigon Gateway
+1773,Bán,2370000000,65.9,quận 9,2,2,Ko,HDMB,Tây Bắc,18.0,False,A-18-06-Saigon Gateway
+1774,Bán,2266000000,54.44,quận 9,2,1,Ko,HDMB,Tây Nam,19.0,False,B-19-12-Saigon Gateway
+1775,Bán,2645000000,53.32,quận 9,2,1,Full,HDMB,Tây Nam,12.0,False,B-12-15-Saigon Gateway
+1776,Bán,2345000000,65.92,quận 9,2,2,Ko,HDMB,Đông Nam,22.0,False,A-22-12b-Saigon Gateway
+1777,Thuê,12000000,66.48,quận 9,2,2,Full,HDMB,Đông Bắc,23.0,False,B-23-02-Saigon Gateway
+1778,Thuê,9500000,90.88,quận 9,3,2,Ko,HDMB,Tây Bắc,12.0,False,A-12-03-Saigon Gateway
+1779,Bán,2150000000,53.3,quận 9,2,1,Có,HDMB,Tây Nam,21.0,False,B-21-16-Saigon Gateway
+1780,Bán,2240000000,65.92,quận 9,2,1,None,HDMB,Đông Nam,3.0,False,B-03-10-Saigon Gateway
+1781,Thuê,12000000,90.88,quận 9,3,2,Ko,HDMB,Đông Nam,23.0,False,A-23-02-Saigon Gateway
+1782,Bán,2800000000,65.9,quận 9,2,2,Ko,HDMB,Tây Bắc,3.0,False,A-03-04-Saigon Gateway
+1783,Bán,2150000000,53.32,quận 9,2,1,Full,HDMB,Tây Nam,23.0,False,B-23-14-Saigon Gateway
+1784,Bán,2400000000,65.9,quận 9,2,2,Ko,HDMB,Đông Bắc,15.0,False,B-15-05-Saigon Gateway
+1785,Bán,2745000000,65.92,quận 9,2,2,Full,HDMB,Đông Bắc,16.0,False,B-16-06-Saigon Gateway
+1786,Bán,2500000000,53.32,quận 9,2,1,Ko,HDMB,Tây Nam,9.0,False,B-09-15-Saigon Gateway
+1787,Bán,2500000000,65.92,quận 9,2,2,Full,HDMB,Đông Bắc,18.0,False,B-18-06-Saigon Gateway
+1788,Bán,2339000000,65.92,quận 9,2,2,Có,HDMB,Đông Bắc,11.0,False,B-11-06-Saigon Gateway
+1789,Bán,2280000000,53.3,quận 9,2,1,Full,HDMB,Tây Bắc,4.0,False,A-04-11-Saigon Gateway
+1790,Thuê,9500000,65.9,quận 9,2,2,Có,HDMB,Tây Nam,17.0,False,B-17-17-Saigon Gateway
+1791,Thuê,9000000,90.88,quận 9,3,2,Ko,HDMB,Đông Nam,10.0,False,A-10-02-Saigon Gateway
+1792,Thuê,10000000,69.9,quận 9,2,2,Full,HDMB,Tây Bắc,5.0,False,A-05-12-Saigon Gateway
+1793,Thuê,10500000,69.9,quận 9,2,2,Full,HDMB,Tây Bắc,19.0,False,A-19-12-Saigon Gateway
+1794,Bán,2500000000,65.92,quận 9,2,2,Ko,HDMB,Đông Bắc,21.0,False,B-21-06-Saigon Gateway
+1795,Bán,2544000000,54.44,quận 9,2,1,Có,HDMB,Tây Nam,22.0,False,B-22-12-Saigon Gateway
+1796,Bán,2340000000,66.48,quận 9,2,2,Ko,HDMB,Tây Bắc,13.0,False,B-12b-21-Saigon Gateway
+1797,Bán,2590000000,67.25,quận 9,2,2,Full,HDMB,Đông Nam,10.0,False,A-10-01-Saigon Gateway
+1798,Bán,2200000000,56.3,quận 9,2,1,Full,HDMB,Đông Nam,5.0,False,A-05-15-Saigon Gateway
+1799,Bán,3392300000,90.88,quận 9,3,2,Ko,HDMB,Tây Nam,11.0,False,B-11-19-Saigon Gateway
+1800,Thuê,13000000,90.88,quận 9,3,2,Full,HDMB,Đông Nam,19.0,False,A-19-02-Saigon Gateway
+1801,Bán,2400000000,65.9,quận 9,2,2,Ko,HDMB,Tây Bắc,15.0,False,A-15-05-Saigon Gateway
+1802,Bán,2417000000,65.9,quận 9,2,2,Ko,HDMB,Tây Bắc,23.0,False,A-23-07-Saigon Gateway
+1803,Thuê,15000000,90.88,quận 9,3,2,Có,HDMB,Tây Bắc,20.0,False,A-20-03-Saigon Gateway
+1804,Bán,2370000000,53.32,quận 9,2,1,Ko,HDMB,Tây Nam,6.0,False,B-06-12b-Saigon Gateway
+1805,Bán,2500000000,65.9,quận 9,2,2,Full,HDMB,Tây Nam,4.0,False,B-04-18-Saigon Gateway
+1806,Thuê,10000000,90.88,quận 9,3,2,Có,HDMB,Tây Nam,3.0,False,B-03-19-Saigon Gateway
+1807,Bán,2235000000,53.32,quận 9,2,1,Full,HDMB,Tây Nam,14.0,False,B-14-14-Saigon Gateway
+1808,Bán,2700000000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,21.0,False,A-21-08-Saigon Gateway
+1809,Thuê,12000000,90.88,quận 9,3,2,Full,HDMB,Đông Bắc,24.0,False,B-24-20-Saigon Gateway
+1810,Bán,3400000000,90.88,quận 9,3,2,Full,HDMB,Đông Bắc,15.0,False,B-15-20-Saigon Gateway
+1811,Thuê,9000000,66.48,quận 9,2,2,Full,HDMB,Đông Bắc,24.0,False,B-24-01-Saigon Gateway
+1812,Bán,2420000000,53.3,quận 9,2,1,Full,HDMB,Tây Nam,2.0,False,B-02-16-Saigon Gateway
+1813,Bán,2500000000,66.26,quận 9,2,2,Ko,HDMB,Tây Bắc,5.0,False,A-05-10-Saigon Gateway
+1814,Bán,3100000000,65.92,quận 9,2,2,Full,HDMB,Đông Nam,24.0,False,B-24-07-Saigon Gateway
+1815,Bán,2224000000,67.25,quận 9,2,2,Ko,HDMB,Đông Nam,19.0,False,A-19-01-Saigon Gateway
+1816,Thuê,13000000,90.88,quận 9,3,2,Có,HDMB,Tây Bắc,13.0,False,A-12b-03-Saigon Gateway
+1817,Bán,2500000000,66.26,quận 9,2,2,Ko,HDMB,Tây Bắc,6.0,False,A-06-10-Saigon Gateway
+1818,Bán,2635000000,65.9,quận 9,2,2,Full,HDMB,Tây Nam,9.0,False,B-09-18-Saigon Gateway
+1819,Bán,2400000000,65.9,quận 9,2,2,Full,HDMB,Đông Bắc,7.0,False,B-07-05-Saigon Gateway
+1820,Thuê,8500000,67.25,quận 9,2,2,None,HDMB,Đông Nam,14.0,False,A-14-01-Saigon Gateway
+1821,Bán,2174000000,53.32,quận 9,2,1,Có,HDMB,Tây Nam,20.0,False,B-20-12b-Saigon Gateway
+1822,Bán,2550000000,65.9,quận 9,2,2,Có,HDMB,Tây Bắc,23.0,False,A-23-05-Saigon Gateway
+1823,Bán,2350000000,56.3,quận 9,2,1,Ko,HDMB,Đông Nam,18.0,False,A-18-15-Saigon Gateway
+1824,Thuê,13000000,90.88,quận 9,3,2,Ko,HDMB,Tây Bắc,7.0,False,A-07-03-Saigon Gateway
+1825,Bán,2250000000,65.92,quận 9,2,2,Ko,HDMB,Đông Nam,2.0,False,B-02-07-Saigon Gateway
+1826,Thuê,14500000,90.88,quận 9,3,2,None,HDMB,Tây Nam,21.0,False,B-21-19-Saigon Gateway
+1827,Bán,2350000000,65.92,quận 9,2,2,Ko,HDMB,Đông Nam,7.0,False,B-07-07-Saigon Gateway
+1828,Bán,2300000000,65.9,quận 9,2,2,Có,HDMB,Tây Bắc,17.0,False,A-17-04-Saigon Gateway
+1829,Bán,2216000000,53.3,quận 9,2,1,Ko,HDMB,Tây Bắc,5.0,False,A-05-11-Saigon Gateway
+1830,Thuê,9000000,65.9,quận 9,2,2,Full,HDMB,Tây Nam,10.0,False,B-10-18-Saigon Gateway
+1831,Bán,2497500000,65.9,quận 9,2,2,Ko,HDMB,Tây Bắc,20.0,False,A-20-09-Saigon Gateway
+1832,Thuê,7000000,67.25,quận 9,2,2,Ko,HDMB,Đông Nam,18.0,False,A-18-14-Saigon Gateway
+1833,Bán,3280000000,90.88,quận 9,3,2,Ko,HDMB,Đông Bắc,6.0,False,B-06-20-Saigon Gateway
+1834,Bán,2441000000,65.9,quận 9,2,2,Ko,HDMB,Đông Bắc,24.0,False,B-24-05-Saigon Gateway
+1835,Bán,2235000000,55.52,quận 9,2,1,Ko,HDMB,Đông Nam,20.0,False,A-20-16-Saigon Gateway
+1836,Thuê,7500000,53.3,quận 9,2,1,None,HDMB,Tây Nam,17.0,False,B-17-16-Saigon Gateway
+1837,Bán,2293000000,67.25,quận 9,2,2,Ko,HDMB,Đông Nam,6.0,False,A-06-01-Saigon Gateway
+1838,Bán,2440000000,65.92,quận 9,2,2,Full,HDMB,Đông Bắc,24.0,False,B-24-06-Saigon Gateway
+1839,Thuê,12000000,90.88,quận 9,3,2,Ko,HDMB,Tây Bắc,24.0,False,A-24-03-Saigon Gateway
+1840,Bán,2646000000,66.48,quận 9,2,2,Ko,HDMB,Đông Bắc,20.0,False,B-20-21-Saigon Gateway
+1841,Bán,2446000000,65.92,quận 9,2,2,Ko,HDMB,Đông Bắc,17.0,False,B-17-06-Saigon Gateway
+1842,Bán,2242000000,53.32,quận 9,2,1,Ko,HDMB,Tây Nam,4.0,False,B-04-15-Saigon Gateway
+1843,Thuê,11000000,67.25,quận 9,2,2,Full,HDMB,Đông Nam,16.0,False,A-16-14-Saigon Gateway
+1844,Bán,2335000000,65.9,quận 9,2,2,Ko,HDMB,Đông Bắc,2.0,False,B-02-05-Saigon Gateway
+1845,Bán,2593000000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,9.0,False,A-09-04-Saigon Gateway
+1846,Bán,3195000000,90.88,quận 9,3,2,Ko,HDMB,Tây Bắc,17.0,False,A-17-03-Saigon Gateway
+1847,Thuê,7000000,55.52,quận 9,2,1,Có,HDMB,Đông Nam,20.0,False,A-20-17-Saigon Gateway
+1848,Bán,2636000000,65.9,quận 9,2,2,Có,HDMB,Tây Nam,15.0,False,B-15-17-Saigon Gateway
+1849,Bán,2752000000,66.48,quận 9,2,2,Có,HDMB,Đông Bắc,14.0,False,B-14-01-Saigon Gateway
+1850,Bán,2252000000,65.9,quận 9,2,2,Ko,HDMB,Tây Bắc,18.0,False,A-18-08-Saigon Gateway
+1851,Bán,2450000000,69.9,quận 9,2,2,Ko,HDMB,Tây Bắc,24.0,False,A-24-12-Saigon Gateway
+1852,Bán,2400000000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,13.0,False,A-12b-09-Saigon Gateway
+1853,Thuê,8500000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,7.0,False,A-07-04-Saigon Gateway
+1854,Bán,2270000000,65.9,quận 9,2,2,Full,HDMB,Đông Bắc,15.0,False,B-15-04-Saigon Gateway
+1855,Thuê,6500000,55.52,quận 9,2,1,Ko,HDMB,Đông Nam,8.0,False,A-08-17-Saigon Gateway
+1856,Bán,2340000000,65.9,quận 9,2,2,Có,HDMB,Tây Nam,19.0,False,B-19-17-Saigon Gateway
+1857,Bán,2350000000,65.9,quận 9,2,2,Có,HDMB,Tây Bắc,20.0,False,A-20-04-Saigon Gateway
+1858,Thuê,9500000,54.44,quận 9,2,1,Full,HDMB,Tây Nam,16.0,False,B-16-12-Saigon Gateway
+1859,Bán,3500000000,90.88,quận 9,3,2,Full,HDMB,Tây Bắc,23.0,False,A-23-03-Saigon Gateway
+1860,Bán,2481000000,67.25,quận 9,2,2,Ko,HDMB,Đông Nam,5.0,False,A-05-14-Saigon Gateway
+1861,Thuê,7500000,71.17,quận 9,2,2,Ko,HDMB,Tây Bắc,3.0,False,B-03-11-Saigon Gateway
+1862,Bán,2150000000,65.9,quận 9,2,2,Ko,HDMB,Đông Bắc,5.0,False,B-05-03-Saigon Gateway
+1863,Bán,2500000000,56.22,quận 9,2,1,None,HDMB,Đông Nam,3.0,False,A-03-18-Saigon Gateway
+1864,Bán,2400000000,56.3,quận 9,2,1,Ko,HDMB,Đông Nam,10.0,False,A-10-15-Saigon Gateway
+1865,Bán,2300000000,65.92,quận 9,2,2,Ko,HDMB,Đông Nam,10.0,False,B-10-10-Saigon Gateway
+1866,Bán,2545000000,65.9,quận 9,2,2,Full,HDMB,Tây Nam,15.0,False,B-15-18-Saigon Gateway
+1867,Bán,2025000000,55.52,quận 9,2,1,Ko,HDMB,Đông Nam,23.0,False,A-23-17-Saigon Gateway
+1868,Bán,2695000000,67.25,quận 9,2,2,Ko,HDMB,Đông Nam,18.0,False,A-18-01-Saigon Gateway
+1869,Bán,2230000000,53.3,quận 9,2,1,Có,HDMB,Tây Nam,4.0,False,B-04-16-Saigon Gateway
+1870,Bán,2180000000,56.22,quận 9,2,1,Ko,HDMB,Đông Nam,11.0,False,A-11-18-Saigon Gateway
+1871,Thuê,10000000,66.26,quận 9,2,2,Ko,HDMB,Tây Nam,8.0,False,B-08-17-Saigon Gateway
+1872,Bán,2450000000,65.9,quận 9,2,2,Full,HDMB,Đông Nam,10.0,False,B-10-08-Saigon Gateway
+1873,Bán,2450000000,54.44,quận 9,2,1,Full,HDMB,Tây Nam,9.0,False,B-09-12-Saigon Gateway
+1874,Bán,2400000000,71.17,quận 9,2,2,Ko,HDMB,Tây Bắc,21.0,True,B-21-11-Saigon Gateway
+1875,Bán,2300000000,65.92,quận 9,2,2,Có,HDMB,Đông Bắc,3.0,False,B-03-06-Saigon Gateway
+1876,Thuê,6500000,53.3,quận 9,2,1,Có,HDMB,Tây Bắc,16.0,False,A-16-11-Saigon Gateway
+1877,Bán,2600000000,53.32,quận 9,2,1,Full,HDMB,Tây Nam,9.0,False,B-09-12b-Saigon Gateway
+1878,Bán,2445000000,65.9,quận 9,2,2,Ko,HDMB,Đông Bắc,2.0,False,B-02-02-Saigon Gateway
+1879,Bán,2500000000,54.44,quận 9,2,1,Full,HDMB,Tây Nam,15.0,False,B-15-12-Saigon Gateway
+1880,Bán,2126000000,53.3,quận 9,2,1,Ko,HDMB,Tây Nam,20.0,False,B-20-16-Saigon Gateway
+1881,Bán,2500000000,69.9,quận 9,2,2,Ko,HDMB,Tây Bắc,6.0,False,A-06-12-Saigon Gateway
+1882,Bán,2300000000,53.32,quận 9,2,1,Full,HDMB,Tây Nam,7.0,False,B-07-12b-Saigon Gateway
+1883,Bán,2334000000,56.22,quận 9,2,1,Ko,HDMB,Đông Nam,14.0,False,A-14-18-Saigon Gateway
+1884,Bán,2600000000,65.9,quận 9,2,2,Có,HDMB,Tây Bắc,3.0,False,A-03-08-Saigon Gateway
+1885,Bán,2505000000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,22.0,False,A-22-07-Saigon Gateway
+1886,Thuê,6600000,53.3,quận 9,2,1,Ko,HDMB,Tây Bắc,21.0,False,A-21-11-Saigon Gateway
+1887,Thuê,7500000,53.32,quận 9,2,1,Có,HDMB,Tây Nam,4.0,False,B-04-12b-Saigon Gateway
+1888,Thuê,10000000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,4.0,False,A-04-06-Saigon Gateway
+1889,Bán,2400000000,65.92,quận 9,2,2,Ko,HDMB,Đông Nam,11.0,False,A-11-12b-Saigon Gateway
+1890,Bán,2543000000,71.17,quận 9,2,2,Có,HDMB,Tây Bắc,6.0,False,B-06-11-Saigon Gateway
+1891,Bán,2460000000,67.25,quận 9,2,2,Full,HDMB,Đông Nam,13.0,False,A-12b-01-Saigon Gateway
+1892,Bán,3231000000,90.88,quận 9,3,2,Có,HDMB,Tây Nam,17.0,False,B-17-19-Saigon Gateway
+1893,Thuê,13000000,67.25,quận 9,2,2,Full,HDMB,Đông Nam,21.0,False,A-21-14-Saigon Gateway
+1894,Thuê,12000000,90.88,quận 9,3,2,Ko,HDMB,Tây Bắc,2.0,False,A-02-03-Saigon Gateway
+1895,Bán,2400000000,65.9,quận 9,2,2,Ko,HDMB,Đông Nam,17.0,False,B-17-09-Saigon Gateway
+1896,Thuê,13000000,65.9,quận 9,2,2,Full,HDMB,Tây Nam,16.0,False,B-16-17-Saigon Gateway
+1897,Bán,2300000000,65.9,quận 9,2,2,Ko,HDMB,Tây Bắc,5.0,False,A-05-09-Saigon Gateway
+1898,Thuê,7000000,65.9,quận 9,2,2,Ko,HDMB,Tây Bắc,4.0,False,A-04-05-Saigon Gateway
+1899,Thuê,12000000,90.88,quận 9,3,2,Ko,HDMB,Đông Nam,2.0,False,A-02-02-Saigon Gateway
+1900,Bán,2525000000,53.3,quận 9,2,1,Full,HDMB,Tây Bắc,13.0,False,A-12b-11-Saigon Gateway
+1901,Bán,2400000000,65.9,quận 9,2,2,Full,HDMB,Đông Bắc,2.0,False,B-02-04-Saigon Gateway
+1902,Bán,2251000000,67.25,quận 9,2,2,Ko,HDMB,Đông Nam,17.0,False,A-17-14-Saigon Gateway
+1903,Bán,2540000000,65.9,quận 9,2,2,Ko,HDMB,Đông Bắc,8.0,False,B-08-02-Saigon Gateway
+1904,Bán,2390000000,65.9,quận 9,2,2,Ko,HDMB,Đông Bắc,14.0,False,B-14-03-Saigon Gateway
+1905,Bán,2270000000,53.3,quận 9,2,1,None,HDMB,Tây Nam,23.0,False,B-23-15-Saigon Gateway
+1906,Bán,2300000000,65.9,quận 9,2,2,Ko,HDMB,Đông Bắc,18.0,False,B-18-05-Saigon Gateway
+1907,Bán,2900000000,90.88,quận 9,3,2,Ko,HDMB,Đông Nam,5.0,False,A-05-02-Saigon Gateway
+1908,Bán,2250000000,65.9,quận 9,2,2,Ko,HDMB,Đông Nam,14.0,False,B-14-09-Saigon Gateway
+1909,Bán,2900000000,71.17,quận 9,2,2,Full,HDMB,Tây Bắc,11.0,False,B-11-11-Saigon Gateway
+1910,Bán,2400000000,65.9,quận 9,2,2,Ko,HDMB,Tây Bắc,15.0,False,A-15-06-Saigon Gateway
+1911,Bán,2837000000,66.26,quận 9,2,2,Ko,HDMB,Tây Bắc,22.0,False,A-22-10-Saigon Gateway
+1912,Bán,2500000000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,23.0,False,A-23-04-Saigon Gateway
+1913,Bán,2400000000,66.48,quận 9,2,2,Ko,HDMB,Đông Bắc,15.0,False,B-15-01-Saigon Gateway
+1914,Thuê,10000000,65.9,quận 9,2,2,Full,HDMB,Đông Bắc,19.0,False,B-19-04-Saigon Gateway
+1915,Bán,2441000000,71.17,quận 9,2,2,Có,HDMB,Tây Bắc,9.0,False,B-09-11-Saigon Gateway
+1916,Bán,2700000000,69.9,quận 9,2,2,Có,HDMB,Tây Bắc,23.0,False,A-23-12-Saigon Gateway
+1917,Bán,2600000000,65.92,quận 9,2,2,Full,HDMB,Đông Nam,9.0,False,B-09-07-Saigon Gateway
+1918,Bán,2540000000,65.9,quận 9,2,2,Có,HDMB,Đông Nam,5.0,False,B-05-09-Saigon Gateway
+1919,Bán,3300000000,90.88,quận 9,3,2,Full,HDMB,Tây Bắc,16.0,False,A-16-03-Saigon Gateway
+1920,Bán,2800000000,65.9,quận 9,2,2,None,HDMB,Tây Bắc,19.0,False,A-19-08-Saigon Gateway
+1921,Thuê,10000000,67.25,quận 9,2,2,Full,HDMB,Đông Nam,15.0,False,A-15-01-Saigon Gateway
+1922,Bán,2452000000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,16.0,False,A-16-07-Saigon Gateway
+1923,Bán,2395000000,65.9,quận 9,2,2,Full,HDMB,Đông Nam,20.0,False,B-20-08-Saigon Gateway
+1924,Thuê,9000000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,11.0,False,A-11-07-Saigon Gateway
+1925,Bán,2240000000,65.92,quận 9,2,2,Ko,HDMB,Đông Nam,3.0,False,B-03-10-Saigon Gateway
+1926,Thuê,10000000,90.88,quận 9,3,2,Có,HDMB,Tây Nam,3.0,False,B-03-19-Saigon Gateway
+1927,Bán,3000000000,90.88,quận 9,3,2,None,HDMB,Tây Nam,22.0,False,B-22-19-Saigon Gateway
+1928,Bán,2465000000,65.9,quận 9,2,2,Full,HDMB,Tây Bắc,9.0,False,A-09-06-Saigon Gateway
+1929,Thuê,7500000,65.9,quận 9,2,2,Có,HDMB,Tây Bắc,6.0,False,A-06-08-Saigon Gateway
+1930,Bán,2240000000,53.3,quận 9,2,1,None,HDMB,Tây Nam,9.0,False,B-09-16-Saigon Gateway
+1931,Bán,2950000000,90.88,quận 9,3,2,Ko,HDMB,Đông Bắc,8.0,False,B-08-20-Saigon Gateway
+1932,Bán,3230000000,90.88,quận 9,3,2,Ko,HDMB,Đông Bắc,11.0,False,B-11-20-Saigon Gateway
+1933,Thuê,8500000,65.9,quận 9,2,2,Có,HDMB,Đông Bắc,6.0,False,B-06-05-Saigon Gateway
+1934,Bán,2150000000,76.0,None,2,2,Ko,HDMB,None,None,False,C1.16.01-nan
+1935,Bán,3000000000,69.0,None,Shophouse,Shophouse,Ko,None,Tây Nam,None,False,A03-nan
+1936,Bán,2500000000,82.0,bình thạnh,2,2,Full,Sổ hồng,Tây,None,False,XXXX-Cửu Long
+1937,Bán,2500000000,75.0,thủ đức,2,2,Full,Sổ hồng,Đông Nam,None,False,2.07-New Town
+1938,Bán,2700000000,0.0,bình thạnh,2,2,Full,None,None,None,False,04 TẦNG 07 CCƯ CỬU LONG-351/31 NƠ TRANG LONG-Cửu Long
+1939,Bán,2750000000,82.0,bình thạnh,2,2,Full,None,Đông Nam,None,False,7.23 CHUNG CƯ 351/31 NƠ TRANG LONG Phường 13 Q.Bình Thạnh-Cửu Long
+1940,Bán,2800000000,82.0,bình thạnh,2,2,Full,None,None,0.0,False,21 TẦNG 09 CCƯ CỬU LONG -351/31 NƠ TRANG LONG-Cửu Long
+1941,Bán,2660000000,80.0,bình thạnh,2,2,Có,None,None,None,False,21 TẦNG 10 CCƯ CỬU LONG - 351/31 NƠ TRANG LONG-Cửu Long
+1942,Bán,2750000000,85.0,bình thạnh,2,2,Full,None,Tây,0.0,False,8.8 CHUNG CƯ 351/31 NƠ TRANG LONG PHƯỜNG 13 QUẬN BÌNH THẠNH-Cửu Long
+1943,Thuê,10000000,0.0,bình thạnh,None,None,Có,None,None,0.0,False,12 TẦNG 06 CCƯ CỬU LONG - 351/31 NƠ TRANG LONG-Cửu Long
+1944,Thuê,10000000,0.0,bình thạnh,2,2,Full,None,None,0.0,False,11 TẦNG 08 CCƯ CỬU LONG - 351/31 NƠ TRANG LONG-Cửu Long
+1945,Bán,1805000000,62.0,quận 2,2,2,Ko,HDMB,Đông,None,False,B18.08-Thủ Thiêm Garden
+1946,Bán,3530000000,107.0,thủ đức,3,2,Full,None,None,None,False,"A701 Đường  65, KP 7, P. Linh Đông, Q. Thủ Đức-Tecco Thủ Đức"
+1947,Bán,1760000000,73.5,thủ đức,2,2,Có,None,None,0.0,True,"B17.03 CC TECCO P. Linh Đông, Q. Thủ Đức-Tecco Thủ Đức"
+1948,Bán,2300000000,78.5,thủ đức,2,2,Có,None,None,None,False,"A -  803  Chung cư Linh Đông KP7 P. Linh Đông, Q. Thủ Đức-Tecco Thủ Đức"
+1949,Thuê,7500000,78.5,thủ đức,2,2,Ko,None,None,0.0,False," B.1603 Đường Linh Đông, KP7, P. Linh Đông, Q. Thủ Đức-Tecco Thủ Đức"
+1950,Bán,2300000000,80.0,thủ đức,2,2,Có,None,Bắc,None,False,"B.12bis 02 C/C TECCO TOWER Đường Linh Đông KP7 P. Linh Đông, Q. Thủ Đức-Tecco Thủ Đức"
+1951,Bán,3800000000,107.0,thủ đức,3,2,Full,None,Nam,0.0,False,"A208 KP7 Chung cư P. Linh Đông, Q. Thủ Đức-Tecco Thủ Đức"
+1952,Bán,2600000000,80.0,thủ đức,2,2,Full,None,None,0.0,False,"B.808     Chung cư Linh Đông KP7 P. Linh Đông, Q. Thủ Đức-Tecco Thủ Đức"
+1953,Bán,2300000000,78.5,thủ đức,2,2,Có,None,None,None,False,"B 905 Chung cư Linh Đông KP7 P. Linh Đông, Q. Thủ Đức-Tecco Thủ Đức"
+1954,Bán,2500000000,78.5,thủ đức,2,2,Full,Sổ hồng,None,None,True,"B.705 CHUNG CƯ LINH ĐÔNG, KP7, P. LINH ĐÔNG, Q. THỦ ĐỨC-Tecco Thủ Đức"
+1955,Bán,2750000000,107.5,thủ đức,3,2,Full,Sổ hồng,None,None,True,"B.701     Chung cư Linh Đông KP7 P. Linh Đông, Q. Thủ Đức-Tecco Thủ Đức"
+1956,Bán,4080000000,93.0,thủ đức,2,2,Full,None,Tây Nam,None,False,A10-8 CĂN HỘ THỦY LỢI 4A-205 NGUYỄN XÍ P.26 QBT-Thủy Lợi
+1957,Bán,2900000000,83.06,thủ đức,2,2,None,None,Đông Bắc,None,False,A12-1 CĂN HỘ THỦY LỢI 4A-205 NGUYỄN XÍ P.26 Q.BT TP.HCM-Thủy Lợi
+1958,Bán,3500000000,86.96,thủ đức,2,2,Có,None,Tây Nam,None,False,A7-2 CCHUNG CƯ THỦY LỢI 4A-205 NGUYỄN XÍ P26 QBT-Thủy Lợi
+1959,Thuê,6000000,122.86,thủ đức,3,2,Full,None,Đông Bắc,None,False,B10-2 CĂN HỘ THỦY LỢI 4A-205 NGUYỄN XÍ  P.26 Q.BT-Thủy Lợi
+1960,Bán,3535000000,77.87,thủ đức,2,2,Full,None,Tây Nam,None,False,B8-8 CĂN HỘ THỦY LỢI 4A-205 NGUYỄN XÍ  P.26 Q.BT  TP.HCM-Thủy Lợi
+1961,Bán,3100000000,94.0,thủ đức,2,1,Full,Sổ hồng,Tây Bắc,None,False,"B5-4 CĂN HỘ THỦY LỢI 4A 205 NGUYỄN XÍ, P.26, Q.BT-Thủy Lợi"
+1962,Bán,5000000000,130.0,thủ đức,3,2,Full,None,Đông Bắc,0.0,False,B9-2 CĂN HỘ THỦY LỢI 4A-205 NGUYỄN XÍ  P.26 Q.BT  TP.HCM-Thủy Lợi
+1963,Thuê,14500000,77.87,thủ đức,2,2,Full,None,Tây Nam,0.0,False,"C16-8 CĂN HỘ THỦY LỢI 4A 205 NGUYỄN XÍ, P.26, Q.BT-Thủy Lợi"
+1964,Thuê,15000000,132.04,thủ đức,3,2,Có,Sổ hồng,Đông Bắc,0.0,False,C9-1 CĂN HỘ THỦY LỢI 4A-205 NGUYỄN XÍ  P.26 Q.BT-Thủy Lợi
+1965,Thuê,46000000,246.0,thủ đức,4,3,None,None,None,0.0,False,W 1504 CHUNG CƯ 4S-4S Bình Triệu
+1966,Bán,2280000000,73.0,thủ đức,2,2,Có,None,None,0.0,False,"B4 16 CCTP 1B C/KEO P. Tam Phú-Sunview 1,2"
+1967,Bán,2253000000,88.0,thủ đức,2,2,Ko,None,None,0.0,False,"A4-02  CC1B P. Tam Phú-Sunview 1,2"
+1968,Bán,1800000000,71.0,thủ đức,2,1,Full,None,None,0.0,False,"C6-11 CC1B P. Tam Phú-Sunview 1,2"
+1969,Bán,2000000000,71.0,thủ đức,2,1,Full,None,None,0.0,False,"C8-04 CCTP 1B C/KEO P. Tam Phú-Sunview 1,2"
+1970,Bán,2200000000,88.0,thủ đức,2,2,Full,None,None,0.0,False,"A2-15  CC1B P. Tam Phú-Sunview 1,2"
+1971,Bán,1950000000,73.5,thủ đức,None,None,Ko,None,None,0.0,False,"E1-13.1-15 CC 1A P. Tam Phú-Sunview 1,2"
+1972,Bán,2200000000,73.0,thủ đức,2,2,Full,None,None,0.0,False,"B3-16 CC1A P. Tam Phú-Sunview 1,2"
+1973,Bán,2550000000,70.0,None,2,2,Full,HDMB,Tây Nam,None,True,C1.09.01-nan
+1974,Bán,2100000000,54.0,None,2,2,Ko,Giấy tay,Tây Nam,None,False,Đường 42 Hiệp Bình-nan
+1975,Bán,6000000000,256.0,thủ đức,Penthouse,Penthouse,Full,None,None,0.0,False,A.16.03 CC4S ĐƯỜNG 17 KP3 P.HIỆP BỈNH CHÁNH Q.THỦ ĐỨC-4S Bình Triệu
+1976,Bán,8000000000,246.0,thủ đức,4,3,Có,None,None,0.0,False,W 1504 CHUNG CƯ 4S-4S Bình Triệu
+1977,Bán,7000000000,250.0,thủ đức,Penthouse,Penthouse,Ko,None,Đông Bắc,0.0,False,W1601 CC 4S  Đường 17-4S Bình Triệu
+1978,Thuê,12000000,0.0,thủ đức,None,None,None,None,None,0.0,False,W0903 C/C 4S-4S Bình Triệu
+1979,Thuê,25000000,70.0,thủ đức,2,2,Full,None,None,0.0,False,A04.02(W04.04) CHUNG CƯ 4S ĐƯỜNG 17 P.HBC THỦ ĐỨC-4S Bình Triệu
+1980,Bán,5000000000,201.0,thủ đức,4,3,Full,None,None,0.0,False,E 1506 CHUNG CƯ 4S-4S Bình Triệu
+1981,Bán,3100000000,90.0,thủ đức,2,2,Full,None,None,0.0,False,2.10 LÔ A CHUNG CƯ 4S ĐƯỜNG 17 KP3 P.HIỆP BÌNH CHÁNH Q.THỦ ĐỨC-4S Bình Triệu
+1982,Bán,6000000000,200.0,thủ đức,2,2,Có,None,None,0.0,False,W0210 C/C 4S-4S Bình Triệu
+1983,Bán,5000000000,258.0,thủ đức,4,3,Có,None,Tây Bắc,0.0,False,16.02 LÔ B CHUNG CƯ 4S ĐƯỜNG 17 KP3 P.HIỆP BÌNH CHÁNH Q.THỦ ĐỨC-4S Bình Triệu
+1984,Thuê,13000000,0.0,thủ đức,None,None,None,None,None,0.0,False,"E1302 CC 4S , đường 17-4S Bình Triệu"
+1985,Thuê,25000000,221.0,thủ đức,Penthouse,Penthouse,Ko,None,Đông Bắc,0.0,False,E1603 CC 4S  Đường 17-4S Bình Triệu
+1986,Bán,11209000000,330.0,thủ đức,4,3,Full,None,None,0.0,False,B16.06(E17.06) CHUNG CƯ 4S ĐƯỜNG 17 P.HBC THỦ ĐỨC-4S Bình Triệu
+1987,Bán,3000000000,87.5,thủ đức,2,2,Full,None,Nam,0.0,False,"E1303 CC 4S , đường 17-4S Bình Triệu"
+1988,Bán,4320000000,210.0,thủ đức,4,3,Full,None,Bắc,0.0,False,E 1502 CHUNG CƯ 4S-4S Bình Triệu
+1989,Bán,2323000000,0.0,thủ đức,2,2,None,None,Bắc,0.0,False,B08.04(E08.09) CHUNG CƯ 4S ĐƯỜNG 17 P.HBC THỦ ĐỨC-4S Bình Triệu
+1990,Bán,2500000000,79.0,thủ đức,2,2,Full,None,Bắc,0.0,False,E0508 C/C 4S-4S Bình Triệu
+1991,Bán,2650000000,89.0,thủ đức,2,2,Full,None,Bắc,0.0,False,E0206 C/C 4S-4S Bình Triệu
+1992,Bán,1650000000,58.0,None,2,2,Có,Sổ hồng,None,0.0,True,A2.15.18-nan
+1993,Thuê,8500000,65.0,quận 9,2,2,Full,HDMB,Tây Bắc,24.0,False,A-24-07-Saigon Gateway
+1994,Bán,5500000000,93.05,bình thạnh,3,2,Full,HDMB,Tây Bắc,None,False,WT1-05.11-Wilton Tower
+1995,Bán,3850000000,67.09,bình thạnh,2,2,Full,HDMB,Đông Nam,None,False,WT1-10.02-Wilton Tower
+1996,Bán,4600000000,56.07,bình thạnh,1,1,Ko,HDMB,Đông Nam,None,False,WT1-06.01-Wilton Tower
+1997,Bán,4600000000,56.07,bình thạnh,1,1,Ko,HDMB,Đông Nam,None,False,WT1-06.01-Wilton Tower
+1998,Bán,4600000000,73.06,bình thạnh,2,2,Full,HDMB,Tây Nam,None,False,WT1-14.14-Wilton Tower
+1999,Thuê,19000000,67.09,bình thạnh,2,2,Full,HDMB,Đông Bắc,None,False,WT1-16.12B-Wilton Tower
+2000,Bán,5000000000,67.09,bình thạnh,2,2,Full,HDMB,Đông Bắc,None,False,WT1-17.12B-Wilton Tower
+2001,Bán,4700000000,73.06,bình thạnh,2,2,Full,HDMB,Tây Nam,None,False,WT1-16.14-Wilton Tower
+2002,Thuê,27600000,93.05,bình thạnh,3,2,Full,HDMB,Tây Bắc,None,False,WT1-18.11-Wilton Tower
+2003,Bán,4700000000,73.06,bình thạnh,2,2,Full,HDMB,Tây Nam,None,False,WT1-16.14-Wilton Tower
+2004,Thuê,25300000,92.01,bình thạnh,3,2,Full,HDMB,Đông Nam,None,False,WT1-21.04-Wilton Tower
+2005,Bán,2100000000,35.64,bình thạnh,Officetel,Officetel,Có,HDMB,Tây Bắc,None,False,WT1-OT-02.03-Wilton Tower
+2006,Thuê,12000000,35.65,bình thạnh,Officetel,Officetel,None,HDMB,Tây Bắc,None,False,WT1-OT-02.04-Wilton Tower
+2007,Thuê,11000000,35.62,bình thạnh,Officetel,Officetel,None,HDMB,Tây Bắc,None,False,WT1-OT-02.03-Wilton Tower
+2008,Bán,2100000000,35.63,bình thạnh,Officetel,Officetel,None,HDMB,Tây Bắc,None,False,WT1-OT-02.03-Wilton Tower
+2009,Bán,2500000000,None,bình thạnh,Officetel,Officetel,Full,HDMB,Tây Nam,None,False,WT1-OT-03.24-Wilton Tower
+2010,Bán,2950000000,45.0,bình thạnh,Officetel,Officetel,Full,HDMB,Tây Bắc,None,False,WT1-OT-03.14-Wilton Tower
+2011,Thuê,19500000,68.13,bình thạnh,2,2,Full,HDMB,Đông Bắc,None,False,WT2-03.04-Wilton Tower
+2012,Thuê,12000000,33.7,bình thạnh,Officetel,Officetel,Ko,HDMB,Đông Bắc,None,False,WT1-OT-03.22-Wilton Tower
+2013,Thuê,14000000,35.67,bình thạnh,Officetel,Officetel,None,HDMB,Tây Bắc,None,False,WT1-OT-02.06-Wilton Tower
+2014,Thuê,14000000,38.0,bình thạnh,Officetel,Officetel,Ko,HDMB,Đông Bắc,None,False,WT1-OT-03.20-Wilton Tower
+2015,Bán,3100000000,None,bình thạnh,Officetel,Officetel,Full,HDMB,Tây Nam,None,False,WT1-OT-03.25-Wilton Tower
+2016,Bán,6000000000,97.89,bình thạnh,3,2,Full,HDMB,Đông Bắc,None,False,WT2-02.05-Wilton Tower
+2017,Bán,4200000000,67.09,bình thạnh,2,2,Full,HDMB,Tây Nam,None,False,WT2-04.12-Wilton Tower
+2018,Thuê,25000000,99.04,bình thạnh,3,2,None,HDMB,Tây Nam,None,False,WT2-05.10-Wilton Tower
+2019,Thuê,19000000,67.09,bình thạnh,2,2,None,HDMB,Đông Bắc,None,False,WT2-05.06-Wilton Tower
+2020,Thuê,18000000,67.09,bình thạnh,2,2,Full,HDMB,Tây Nam,None,False,WT2-13.11-Wilton Tower
+2021,Bán,4500000000,73.06,bình thạnh,2,2,Full,HDMB,Tây Nam,None,False,WT2-16.02-Wilton Tower
+2022,Bán,4200000000,67.09,bình thạnh,2,2,Full,HDMB,Tây Nam,None,False,WT2-18.12-Wilton Tower
+2023,Thuê,18000000,67.09,bình thạnh,2,2,Full,HDMB,Đông Bắc,None,False,WT2-21.03-Wilton Tower
+2024,Thuê,18000000,67.09,bình thạnh,2,2,Full,HDMB,Đông Bắc,None,False,WT2-19.08-Wilton Tower
+2025,Bán,4150000000,67.09,bình thạnh,2,2,Full,HDMB,Đông Bắc,None,False,WT2-15.03-Wilton Tower
+2026,Bán,4500000000,67.09,bình thạnh,2,2,Full,HDMB,Đông Bắc,None,False,WT2-18.07-Wilton Tower
+2027,Bán,5000000000,67.09,bình thạnh,2,2,Full,HDMB,Tây Nam,None,False,WT2-20.12-Wilton Tower
+2028,Bán,4000000000,84.73,bình thạnh,3,2,Có,HDMB,Tây Nam,0.0,False,A-1004-Saigonres Plaza
+2029,Thuê,12000000,74.45,bình thạnh,2,2,Có,HDMB,Đông Nam,0.0,False,A-1220-Saigonres Plaza
+2030,Bán,3100000000,87.7,bình thạnh,3,2,Ko,HDMB,Đông Nam,0.0,False,A-1621-Saigonres Plaza
+2031,Bán,3000000000,71.4,bình thạnh,2,2,Có,HDMB,Tây Bắc,0.0,False,A-17-Saigonres Plaza
+2032,Bán,3020000000,76.32,bình thạnh,2,2,Full,HDMB,Tây Bắc,0.0,True,A-1617-Saigonres Plaza
+2033,Bán,3800000000000,76.32,bình thạnh,2,2,Full,HDMB,Tây Nam,0.0,False,A-1806-Saigonres Plaza
+2034,Thuê,10500000,71.3,bình thạnh,2,2,Ko,HDMB,Đông Bắc,0.0,False,B-12A12-Saigonres Plaza
+2035,Bán,3200000000,71.3,bình thạnh,2,2,Full,HDMB,Tây Nam,0.0,False,B-1103-Saigonres Plaza
+2036,Bán,3690000000,81.1,bình thạnh,3,2,Có,HDMB,Đông Nam,0.0,False,B-1421-Saigonres Plaza
+2037,Bán,3700000000,81.1,bình thạnh,3,2,Ko,HDMB,Đông Bắc,0.0,False,B-1808-Saigonres Plaza
+2038,Thuê,14000000,71.3,bình thạnh,2,2,Có,HDMB,Đông Bắc,0.0,False,B-1616-Saigonres Plaza
+2039,Bán,3150000000,81.1,bình thạnh,3,2,Ko,HDMB,Tây Nam,0.0,True,B-1822-Saigonres Plaza
+2040,Bán,3150000000,81.1,bình thạnh,3,2,Có,HDMB,Tây Nam,0.0,False,B-1822-Saigonres Plaza
+2041,Bán,3625000000,81.1,bình thạnh,3,2,Full,HDMB,Tây Nam,0.0,False,B-1922-Saigonres Plaza
+2042,Bán,3800000000,82.8,bình thạnh,3,2,Ko,HDMB,Tây Nam,0.0,False,B-307-Saigonres Plaza
+2043,Bán,3250000000,71.3,bình thạnh,2,2,Full,HDMB,Đông Nam,0.0,False,B-319-Saigonres Plaza
+2044,Bán,3150000000,71.3,bình thạnh,2,2,Full,HDMB,Đông Nam,0.0,False,B-519-Saigonres Plaza
+2045,Thuê,14000000,71.3,bình thạnh,2,2,Full,HDMB,Tây Nam,0.0,False,B-806-Saigonres Plaza
+2046,Bán,3000000000,71.3,bình thạnh,2,2,None,HDMB,Đông Nam,0.0,False,B-720-Saigonres Plaza
+2047,Thuê,15000000,71.3,bình thạnh,2,2,Full,HDMB,Đông,0.0,False,B-818-Saigonres Plaza
+2048,Bán,3700000000,94.42,bình thạnh,3,2,Full,HDMB,Tây Nam,0.0,False,2.09-Soho Premier
+2049,Bán,2700000000,62.57,bình thạnh,2,2,Có,HDMB,Đông Bắc,0.0,False,3.11-Soho Premier
+2050,Thuê,12000000,62.55,bình thạnh,2,2,Full,HDMB,Đông Bắc,0.0,False,2.1-Soho Premier
+2051,Bán,3260000000,94.42,bình thạnh,3,2,Ko,HDMB,Đông Bắc,0.0,False,3.03-Soho Premier
+2052,Thuê,11000000,61.92,bình thạnh,2,2,Có,HDMB,Đông Bắc,0.0,False,5.01-Soho Premier
+2053,Thuê,7000000,94.42,bình thạnh,1,1,None,HDMB,Đông Bắc,0.0,False,6.03-Soho Premier
+2054,Bán,2900000000,62.57,bình thạnh,2,2,Full,HDMB,Tây Nam,0.0,False,4.07-Soho Premier
+2055,Thuê,12000000,65.0,bình thạnh,2,2,Có,HDMB,Tây Nam,0.0,False,tầng 17-Soho Premier
+2056,Bán,2650000000,62.57,bình thạnh,2,2,Ko,HDMB,Tây Nam,0.0,False,6.06-Soho Premier
+2057,Bán,3500000000,94.12,bình thạnh,3,2,Có,HDMB,Đông Bắc,0.0,False,11.02-Soho Premier
+2058,Bán,2800000000,62.57,bình thạnh,2,2,Có,HDMB,Đông Bắc,0.0,False,11.11-Soho Premier
+2059,Thuê,10000000,62.57,bình thạnh,2,2,Ko,HDMB,Tây Nam,0.0,False,11.07-Soho Premier
+2060,Bán,4000000000,94.42,bình thạnh,3,2,Full,HDMB,Tây Nam,0.0,False,11.09-Soho Premier
+2061,Bán,3600000000,94.12,bình thạnh,3,2,Full,HDMB,Tây Nam,0.0,False,13.08-Soho Premier
+2062,Thuê,11000000,68.0,bình thạnh,2,2,Ko,HDMB,Đông Nam,0.0,False,7.10-Soho Premier
+2063,Bán,3500000000,71.74,thủ đức,2,2,Full,HDMB,Đông Bắc,0.0,False,OPGA00009006-Opal Garden
+2064,Bán,3300000000,67.69,thủ đức,2,2,Full,HDMB,Tây Bắc,0.0,False,OPGC00007006-Opal Garden
+2065,Bán,7000000000,196.04,thủ đức,Penthouse,Penthouse,Ko,HDMB,Đông Nam,0.0,False,OPGB00015002-Opal Garden
+2066,Bán,3600000000,71.84,thủ đức,2,2,Full,HDMB,Đông Nam,0.0,False,OPGC00009002-Opal Garden
+2067,Bán,3500000000,71.84,thủ đức,2,2,Ko,HDMB,Đông Nam,0.0,False,OPGC00011003-Opal Garden
+2068,Bán,3500000000,71.74,thủ đức,2,2,Full,HDMB,Tây Bắc,0.0,False,OPGD00005002-Opal Garden
+2069,Bán,3300000000,71.84,thủ đức,2,2,Có,HDMB,Đông Nam,0.0,False,OPGD00014007-Opal Garden
+2070,Bán,3240000000,72.7,thủ đức,2,2,Full,HDMB,Tây Nam,0.0,False,OPAA01003010-Opal Riverside
+2071,Bán,4200000000,85.0,thủ đức,Shophouse,Shophouse,Ko,HDMB,None,0.0,False,OPAA01001011-Opal Riverside
+2072,Thuê,25000000,75.0,thủ đức,Shophouse,Shophouse,Ko,HDMB,Đông Bắc,0.0,False,OPAA01001008-Opal Riverside
+2073,Bán,4000000000,100.0,thủ đức,Shophouse,Shophouse,Ko,HDMB,None,0.0,False,OPAA01001012-Opal Riverside
+2074,Bán,3200000000,71.1,thủ đức,2,2,Full,HDMB,Đông Bắc,0.0,False,OPAA01006001-Opal Riverside
+2075,Bán,3230000000,71.1,thủ đức,2,2,Có,HDMB,Đông Bắc,0.0,False,OPAA0100612A-Opal Riverside
+2076,Bán,4400000000,97.4,thủ đức,3,2,Ko,HDMB,Đông Nam,0.0,False,OPAA01009003-Opal Riverside
+2077,Bán,3000000000,71.1,thủ đức,2,2,Ko,HDMB,Đông Bắc,0.0,False,OPAA01010001-Opal Riverside
+2078,Bán,3200000000,67.9,thủ đức,2,2,Có,HDMB,Đông Bắc,0.0,False,OPAA01011014-Opal Riverside
+2079,Bán,8000000000,134.0,thủ đức,Penthouse,Penthouse,Ko,HDMB,Đông Bắc,0.0,False,OPAA01015007-Opal Riverside
+2080,Thuê,13000000,67.9,thủ đức,2,2,Full,HDMB,Đông Bắc,0.0,False,OPAA01011014-Opal Riverside
+2081,Bán,3500000000,86.7,thủ đức,3,2,Có,HDMB,Đông Bắc,0.0,False,OPAA02004012-Opal Riverside
+2082,Thuê,13000000,86.7,thủ đức,3,2,Ko,HDMB,Tây Nam,0.0,False,OPAA02005011-Opal Riverside
+2083,Bán,3000000000,67.9,thủ đức,2,2,Full,HDMB,Đông Bắc,0.0,False,OPAA02006001-Opal Riverside
+2084,Bán,3100000000,86.7,thủ đức,3,2,Có,HDMB,Tây Nam,0.0,False,OPAA02015009-Opal Riverside
+2085,Bán,2920000000,67.9,thủ đức,2,2,Có,HDMB,Đông Bắc,0.0,False,OPAA02012001-Opal Riverside
+2086,Bán,4100000000,86.7,thủ đức,3,2,Full,HDMB,Đông Bắc,0.0,False,OPAA02017010-Opal Riverside
+2087,Bán,3170000000,71.1,thủ đức,2,2,Full,HDMB,Đông Bắc,0.0,False,OPAA02015012-Opal Riverside
+2088,Bán,2680000000,67.9,thủ đức,2,2,Ko,HDMB,Đông Bắc,0.0,False,OPAA02018001-Opal Riverside
+2089,Bán,2980000000,71.1,thủ đức,2,2,Ko,HDMB,Tây Nam,0.0,False,OPAA02017005-Opal Riverside
+2090,Bán,3200000000,71.1,thủ đức,2,2,Full,HDMB,Đông Bắc,0.0,False,OPAA02012002-Opal Riverside
+2091,Bán,5500000000,183.9,thủ đức,Penthouse,Penthouse,Ko,HDMB,Tây Bắc,0.0,False,OPAA02019004-Opal Riverside
+2092,Bán,3750000000,86.7,thủ đức,3,2,Ko,HDMB,Đông Bắc,0.0,False,OPAA0212A012-Opal Riverside
+2093,Bán,4000000000,86.7,thủ đức,3,2,Full,HDMB,Đông Bắc,0.0,False,OPAB00004010-Opal Riverside
+2094,Bán,3000000000,71.1,thủ đức,2,2,Có,HDMB,Tây Nam,0.0,False,OPAB00002012-Opal Riverside
+2095,Bán,4000000000,86.7,thủ đức,3,2,Full,HDMB,Tây Nam,0.0,False,OPAB00004011-Opal Riverside
+2096,Bán,3000000000,71.1,thủ đức,2,2,Ko,HDMB,Đông Bắc,0.0,False,OPAB00006009-Opal Riverside
+2097,Bán,3500000000,86.7,thủ đức,3,2,Ko,HDMB,Đông Bắc,0.0,False,OPAB00003010-Opal Riverside
+2098,Thuê,12000000,71.1,thủ đức,2,2,Có,HDMB,Tây Nam,0.0,False,OPAB00003012-Opal Riverside
+2099,Bán,4115000000,71.1,thủ đức,3,2,Ko,HDMB,Tây Nam,0.0,False,OPAB00009012-Opal Riverside
+2100,Thuê,15000000,86.7,thủ đức,3,2,Full,HDMB,Tây Nam,0.0,False,OPAB00009011-Opal Riverside
+2101,Bán,3100000000,71.1,thủ đức,2,2,Ko,HDMB,Đông Bắc,0.0,False,OPAB00010009-Opal Riverside
+2102,Thuê,14000000,73.0,thủ đức,2,2,Full,HDMB,Đông Bắc,0.0,False,OPAB00016005-Opal Riverside
+2103,Bán,5600000000,130.8,thủ đức,3,2,Full,HDMB,Đông Nam,0.0,False,OPAB00017009-Opal Riverside
+2104,Bán,4500000000,111.5,thủ đức,3,2,Ko,HDMB,Đông Nam,0.0,False,OPAB00019007-Opal Riverside
+2105,Bán,1800000000,57.72,thủ đức,2,2,Full,Sổ hồng,Tây Bắc,0.0,False,SVT.A1.05.20-Sunview Town
+2106,Bán,1460500000,45.57,thủ đức,1,1,Có,Sổ hồng,Đông Bắc,8.0,False,SVT.A1.08.29-Sunview Town
+2107,Bán,3485000000,57.0,thủ đức,2,2,None,Sổ hồng,Tây Bắc,0.0,False,SVT.A2.12.17-Sunview Town
+2108,Bán,2250000000,76.0,thủ đức,2,2,Có,Sổ hồng,Đông Nam,0.0,False,SVT.B0.07.08-Sunview Town
+2109,Thuê,11588000,64.2,thủ đức,2,2,Full,Sổ hồng,Đông Bắc,0.0,False,SVT.B0.12.27-Sunview Town
+2110,Bán,4000000000,110.0,thủ đức,Shophouse,Shophouse,Ko,Sổ hồng,None,0.0,False,SVT.TM.A2.14-Sunview Town
