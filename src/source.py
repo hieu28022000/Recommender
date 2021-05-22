@@ -8,7 +8,39 @@ from libs.mark_score.object_mark_score import object_mark_score
 from libs.distance.object_distance import object_distance
 
 def Get_request():
-    request_input = ['Bán', '2300000000', '67.25', 'Quận 9', '1', '1', '', '', 'Đông Nam', '12.0', 'false']
+    print("Nhập nhu cầu*: ")
+    demand = input()
+
+    print("Nhập giá tiền*: ")
+    price = input()
+
+    print("Nhập diện tích nếu có: ")
+    area = input()
+
+    print("Nhập địa chỉ*: ")
+    location = input()
+
+    print("Nhập số phòng ngủ nếu có: ")
+    no_bedroom = input()
+
+    print("Nhập số phòng vệ sinh nếu có: ")
+    no_WC = input()
+
+    print("Nhập yêu cầu nội thất nếu có(Có/Không/Full): ")
+    furniture = input()
+
+    print("Nhập yêu cầu pháp lý nếu có(Sổ hồng/HDMB): ")
+    juridical = input()
+
+    print(("Nhập hướng nhà nếu có: "))
+    view = input()
+
+    print(("Nhập số tầng nếu có: "))
+    floor = input()
+
+    print(("Có muốn ở căn nhà hot hay không(True/False): "))
+    hot = input()
+    request_input = [demand, price, area, location, no_bedroom, no_WC, furniture, juridical, view, floor, hot]
     return request_input
 
 # Load map function return list name location and list location on map
@@ -88,12 +120,15 @@ def run_source(request_input, map_path, dataset_path, cfg_path):
         data_input = Get_line(index, dataset)
         # W2V
         data_w2v = object_w2v(data_input, list_loc, list_map)
+
         # View true
-        # if data_w2v[0] == request_w2v[0] and data_w2v[3] == request_w2v[3]:
-        #     same_demand_dataset.append(data_input)
+        if cfg[8] != 0:
+            if data_w2v[0] == request_w2v[0] and data_w2v[3] == request_w2v[3] and data_w2v[8] == request_w2v[8]:
+                same_demand_dataset.append(data_input)
         # View false
-        if data_w2v[0] == request_w2v[0] and data_w2v[3] == request_w2v[3] and data_w2v[8] == request_w2v[8]:
-            same_demand_dataset.append(data_input)
+        else:
+            if data_w2v[0] == request_w2v[0] and data_w2v[3] == request_w2v[3]:
+                same_demand_dataset.append(data_input)
     
     for data_input in same_demand_dataset:
         # W2V
