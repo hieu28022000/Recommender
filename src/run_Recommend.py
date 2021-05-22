@@ -2,13 +2,19 @@ import __init__
 from src.source import Get_request, run_source, Load_dataset
 
 map_path = './dataset/map.json'
-dataset_path = './dataset/Myhub_datasetv2.csv'
+dataset_Apartment = './dataset/Apartment.csv'
+dataset_Service_floor = './dataset/Service_floor.csv'
 cfg_path = './libs/config/basic.json'
-onoff_file_path = './src/on_off.txt'
+
+print("Apartmen{0} or Service floor{1}: ")
+service = int(input())
 
 request_input = Get_request()
 print(request_input, '\n\n')
-run_source(request_input, map_path, dataset_path, cfg_path)
+if service == 0:
+    run_source(request_input, map_path, dataset_Apartment, cfg_path)
+else:
+    run_source(request_input, map_path, dataset_Service_floor, cfg_path)
 
 
 
