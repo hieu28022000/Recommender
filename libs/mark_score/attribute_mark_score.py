@@ -20,19 +20,23 @@ def price_mark_score(data_price, request_price, demand):
         return None
 
     price_dist = price_distance(data_price, request_price)
-    if price_dist <= 0:
-        return 10
+    # if price_dist < 0:
+    #     return 10
     # Demand is "Thuê"
     if demand == 0:
-        if price_dist <= 1000000:
+        if price_dist < 0 and price_dist > -5000000:
+            return 10
+        elif price_dist >= 0 and price_dist <= 1000000:
             return 8
-        elif price_dist <= 1500000:
+        elif price_dist >= 0 and price_dist <= 1500000:
             return 5
     # Demand is "Bán"
     elif demand == 1:
-        if price_dist <= 100000000:
+        if price_dist < 0 and price_dist > -500000000:
+            return 10
+        elif price_dist >= 0 and price_dist <= 100000000:
             return 8
-        elif price_dist <= 300000000:
+        elif price_dist >= 0 and  price_dist <= 300000000:
             return 5
     return 0
 
@@ -53,7 +57,7 @@ def area_mark_score(data_area, request_area):
 # Location mark score function return score of data location
 def location_mark_score(data_location, request_location, list_location):
     if (data_location == None) or (request_location == None):
-        return None
+        return 0
 
     location_dist = location_distance(data_location, request_location)
     list_dist = []
