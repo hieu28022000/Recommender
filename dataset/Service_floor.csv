@@ -1,0 +1,116 @@
+,Nhu cầu,Tổng tiền,Diện tích,Địa chỉ,Phòng ngủ,Phòng vệ sinh,Nội thất,Pháp lý sở hữu,View,Tầng,Hot,Mã căn
+0,Bán,10000000000,None,quận 8,Shophouse,Shophouse,Full,None,None,None,False,D-S10-diamond riverside
+1,Thuê,50000000,0.0,quận 8,Shophouse,Shophouse,None,HDMB,Bắc,1.0,False,B-S8-diamond riverside
+2,Bán,7500000000,None,quận 8,Shophouse,Shophouse,None,HDMB,Bắc,1.0,False,A-S02-diamond riverside
+3,Thuê,20000000,0.0,quận 8,Shophouse,Shophouse,None,HDMB,Bắc,1.0,False,A-S07-diamond riverside
+4,Thuê,30000000,0.0,quận 8,Shophouse,Shophouse,None,HDMB,Nam,1.0,False,A-S15-diamond riverside
+5,Thuê,45000000,0.0,quận 8,Shophouse,Shophouse,None,HDMB,Bắc,1.0,False,B-S1-diamond riverside
+6,Bán,12000000000,0.0,quận 8,Shophouse,Shophouse,None,HDMB,Bắc,1.0,False,B-S8-diamond riverside
+7,Thuê,40000000,0.0,quận 8,Shophouse,Shophouse,None,HDMB,Tây,1.0,False,B-S16-diamond riverside
+8,Thuê,9000000,52.45,thủ đức,Officetel,Officetel,Ko,None,Đông Bắc,3.0,False,A03.15-lavita charm
+9,Thuê,7000000,45.36,thủ đức,Officetel,Officetel,Ko,None,Đông Bắc,5.0,False,A05.01-lavita charm
+10,Thuê,20000000,84.05,bình dương,Shophouse,Shophouse,None,HDMB,Đông Bắc,1.0,False,OPBB01001007-opal boulevard
+11,Thuê,40000000,115.54,bình dương,Shophouse,Shophouse,None,HDMB,Đông Nam,1.0,False,OPBB01001005-opal boulevard
+12,Thuê,11000000,90.53,bình dương,Shophouse,Shophouse,None,HDMB,Tây Nam,1.0,False,OPBA01001005-opal boulevard
+13,Thuê,7000000,51.3,thủ đức,Officetel,Officetel,Ko,None,Tây Nam,5.0,False,A05.22-lavita charm
+14,Bán,1911000000,51.3,thủ đức,Officetel,Officetel,Ko,None,Tây Nam,5.0,False,A05.23-lavita charm
+15,Bán,1922000000,51.3,thủ đức,Officetel,Officetel,None,None,Tây Nam,5.0,False,A05.24-lavita charm
+16,Bán,2000000000,51.3,thủ đức,Officetel,Officetel,None,None,Tây Nam,5.0,False,A05.17-lavita charm
+17,Bán,1198000000,51.3,thủ đức,Officetel,Officetel,None,None,Tây Nam,5.0,False,A05.19-lavita charm
+18,Bán,1931000000,52.45,thủ đức,Officetel,Officetel,None,None,Đông Bắc,5.0,False,A05.28-lavita charm
+19,Thuê,6500000,51.3,thủ đức,Officetel,Officetel,None,None,Đông Bắc,5.0,False,C05.04-lavita charm
+20,Thuê,7000000,51.3,thủ đức,Officetel,Officetel,None,None,Đông Bắc,5.0,False,C05.04-lavita charm
+21,Thuê,30000000,80.23,thủ đức,Shophouse,Shophouse,Ko,None,Đông Bắc,0.0,False,TM14.TM-lavita charm
+22,Thuê,22000000,81.36,thủ đức,Shophouse,Shophouse,None,None,Tây Nam,0.0,False,TM25.TM-lavita charm
+23,Bán,7935000000,68.4,thủ đức,Shophouse,Shophouse,None,None,Đông Bắc,0.0,False,TM17.TM-lavita charm
+24,Thuê,25000000,75.99,thủ đức,Shophouse,Shophouse,None,None,Đông Nam,0.0,False,TM21.TM-lavita charm
+25,Thuê,7000000,45.36,thủ đức,Officetel,Officetel,None,None,Đông Bắc,3.0,False,A03.11-lavita charm
+26,Bán,2000000000,51.3,thủ đức,Officetel,Officetel,None,None,Đông Bắc,3.0,False,A03.29-lavita charm
+27,Thuê,10000000,51.3,thủ đức,Officetel,Officetel,Ko,None,Đông Bắc,3.0,False,A03.04-lavita charm
+28,Bán,2050000000,52.45,thủ đức,Officetel,Officetel,Ko,None,Đông Bắc,3.0,False,A03.15-lavita charm
+29,Bán,1844000000,45.36,thủ đức,Officetel,Officetel,None,None,Đông Bắc,4.0,False,A04.10-lavita charm
+30,Bán,2050000000,50.35,thủ đức,Officetel,Officetel,None,None,Tây Nam,3.0,False,A03.21-lavita charm
+31,Bán,2100000000,51.3,thủ đức,Officetel,Officetel,None,None,Tây Nam,3.0,False,A03.24-lavita charm
+32,Bán,1870000000,50.35,thủ đức,Officetel,Officetel,None,None,Đông Bắc,4.0,False,A04.12-lavita charm
+33,Bán,4200000000,66.33,quận 9,Shophouse,Shophouse,None,HDMB,Đông Bắc,1.0,False,B3-01-08-gia hòa art
+34,Bán,2500000000,71.71,thủ đức,Shophouse,Shophouse,Ko,HDMB,Tây Nam,0.0,True,A.12-4s linh đông
+35,Bán,2500000000,71.71,thủ đức,Shophouse,Shophouse,Ko,HDMB,Tây Nam,0.0,True,A.07-4s linh đông
+36,Thuê,12000000,140.0,thủ đức,Penthouse,Penthouse,Ko,None,None,None,False,A1-P8 / 20.08-đạt gia
+37,Thuê,14000000,71.17,quận 9,Shophouse,Shophouse,None,HDMB,Tây Bắc,1.0,False,A-01-12-saigon gateway
+38,Bán,4300000000,88.0,bình dương,Shophouse,Shophouse,Ko,None,None,None,False,SB.10-marina tower
+39,Bán,1588000000,33.0,quận 9,Studio,Studio,None,HDMB,Tây Bắc,19.0,False,S5.021911-vinhome grand park
+40,Bán,1466000000,33.6,quận 9,Studio,Studio,None,HDMB,Tây Bắc,19.0,False,S5.021911-vinhome grand park
+41,Bán,16500000000,None,None,Shophouse,Shophouse,None,None,None,None,False,S3.0101S02-nan
+42,Thuê,46000000,None,quận 9,Shophouse,Shophouse,None,None,None,None,False,S3.0101S02-vinhome
+43,Thuê,7000000,30.9,quận 9,Studio,Studio,None,HDMB,Đông Nam,7.0,False,S1.030708-vinhome grand park
+44,Bán,1451000000,30.9,quận 9,Studio,Studio,None,HDMB,Đông Nam,22.0,False,S1.032208-vinhome grand park
+45,Thuê,25000000,240.0,thủ đức,Shophouse,Shophouse,Ko,None,Đông Nam,0.0,False,SH08-saigon avenue
+46,Bán,4400000000,57.0,quận 9,Duplex,Duplex,Ko,None,Đông Nam,None,False,D2-17-04-gia hòa 
+47,Bán,4516000000,110.0,bình dương,Shophouse,Shophouse,Ko,None,None,0.0,False,SB.04-marina tower
+48,Bán,3100000000,71.7,bình dương,Shophouse,Shophouse,None,None,None,0.0,False,SB.19-marina tower
+49,Thuê,12000000,110.8,bình dương,Shophouse,Shophouse,Ko,None,None,0.0,False,SB.04-marina tower
+50,Bán,3905000000,103.7,bình dương,Shophouse,Shophouse,None,None,None,0.0,False,SB.11-marina tower
+51,Bán,5918000000,125.8,bình dương,Shophouse,Shophouse,None,None,None,0.0,False,SB.09-marina tower
+52,Bán,5000000000,88.2,bình dương,Shophouse,Shophouse,Ko,None,None,0.0,False,SB.10-marina tower
+53,Bán,3100000000,120.75,thủ đức,Shophouse,Shophouse,None,None,None,0.0,False,A3-TM27-T / 0.06-đạt gia residence
+54,Bán,4510000000,154.48,thủ đức,Penthouse,Penthouse,Full,None,None,20.0,False,A1-P2 / 20.02-đạt gia residence
+55,Bán,3800000000,157.94,thủ đức,Penthouse,Penthouse,Có,HDMB,Đông Bắc,20.0,False,A3-P2 / 20.01-đạt gia residence
+56,Bán,4248000000,149.21,thủ đức,Penthouse,Penthouse,Full,None,None,20.0,False,A1-P4 / 20.04-đạt gia residence
+57,Bán,4500000000,154.57,thủ đức,Penthouse,Penthouse,Full,None,Tây Nam,20.0,False,A1-P3 / 20.03-đạt gia residence
+58,Bán,3600000000,140.0,thủ đức,Penthouse,Penthouse,Ko,None,None,0.0,False,A1-P8 / 20.08-đạt gia residence
+59,Bán,3300000000,127.33,thủ đức,Shophouse,Shophouse,Ko,None,None,0.0,False,A3-TM09-T / 0.17-đạt gia residence
+60,Thuê,15000000,160.3,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Nam,0.0,False,tm30-9 view
+61,Bán,5000000000,149.73,quận 9,Shophouse,Shophouse,None,HDMB,Đông Nam,0.0,False,tm34-9 view
+62,Thuê,12000000,0.0,thủ đức,Shophouse,Shophouse,None,Sổ hồng,Đông Nam,0.0,False,TM.A1.06-sunview town
+63,Bán,3300000000,87.0,thủ đức,Shophouse,Shophouse,Ko,Sổ hồng,Đông Nam,0.0,False,TM.A2.07-sunview town
+64,Bán,3003000000,84.0,thủ đức,Shophouse,Shophouse,None,Sổ hồng,Đông Nam,0.0,False,TM.A2.12-sunview town
+65,Bán,4000000000,0.0,thủ đức,Shophouse,Shophouse,None,Sổ hồng,Đông Nam,0.0,False,TM.A2.03-sunview town
+66,Bán,4292000000,0.0,thủ đức,Shophouse,Shophouse,None,Sổ hồng,Đông Nam,0.0,False,TM.A1.12-sunview town
+67,Bán,4000000000,107.0,thủ đức,Shophouse,Shophouse,None,Sổ hồng,Đông Nam,0.0,False,TM.B0.01-sunview town
+68,Thuê,15000000,66.33,quận 9,Shophouse,Shophouse,None,HDMB,Đông Bắc,1.0,False,B3-01-08-gia hòa art
+69,Bán,3900000000,100.22,quận 9,Penthouse,Penthouse,None,HDMB,Tây Nam,18.0,False,B3-18-01-gia hòa art
+70,Bán,4700000000,67.58,quận 9,Shophouse,Shophouse,Có,HDMB,Đông Nam,1.0,False,C1-01-07-gia hòa art
+71,Thuê,33000000,0.0,quận 9,Shophouse,Shophouse,None,HDMB,None,1.0,False,C.01.07-safira khang điền
+72,Thuê,40000000,0.0,quận 9,Shophouse,Shophouse,None,HDMB,None,1.0,False,C.01.05-safira khang điền
+73,Thuê,35000000,0.0,quận 9,Shophouse,Shophouse,None,HDMB,None,1.0,False,C.01.15-safira khang điền
+74,Thuê,28000000,0.0,quận 9,Shophouse,Shophouse,None,HDMB,None,1.0,False,C.01.06-safira khang điền
+75,Thuê,28000000,0.0,quận 9,Shophouse,Shophouse,None,HDMB,None,1.0,False,D2.01.06-TM-safira khang điền
+76,Bán,3600000000,125.49,None,Shophouse,Shophouse,Ko,HDMB,None,0.0,False,A1-TM6 / 0.03-nan
+77,Bán,12209000000,330.0,thủ đức,Penthouse,Penthouse,Full,None,None,0.0,False,4S.BT 17.06-4s bình triệu
+78,Bán,6973000000,260.0,thủ đức,Penthouse,Penthouse,Full,None,None,0.0,False,4S.BT 17.03-4s bình triệu
+79,Bán,6879000000,230.0,thủ đức,Penthouse,Penthouse,Full,None,None,0.0,False,4S.BT 17.02-4s bình triệu
+80,Thuê,13000000,59.16,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Bắc,1.0,False,B-01-17-saigon gateway
+81,Thuê,17000000,50.83,quận 9,Shophouse,Shophouse,Ko,HDMB,Tây Nam,1.0,False,B-01-12b-saigon gateway
+82,Bán,4500000000,50.83,quận 9,Shophouse,Shophouse,Ko,HDMB,Tây Nam,1.0,False,B-01-11-saigon gateway
+83,Bán,4200000000,62.43,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Nam,1.0,False,B-01-08-saigon gateway
+84,Bán,4000000000,71.0,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Nam,1.0,False,B-01-06-saigon gateway
+85,Thuê,15000000,58.77,quận 9,Shophouse,Shophouse,Full,HDMB,Đông Nam,1.0,False,B-01-05-saigon gateway
+86,Thuê,10000000,60.0,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Bắc,1.0,False,B-01-03-saigon gateway
+87,Thuê,15000000,63.31,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Bắc,1.0,False,B-01-02-saigon gateway
+88,Thuê,25000000,63.31,quận 9,Shophouse,Shophouse,Ko,HDMB,Tây Bắc,1.0,False,A-01-05-saigon gateway
+89,Thuê,32000000,85.59,quận 9,Shophouse,Shophouse,None,HDMB,Tây Bắc,1.0,False,A-01-03-saigon gateway
+90,Bán,4200000000,63.31,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Nam,1.0,False,A-01-01-saigon gateway
+91,Bán,4700000000,63.31,quận 9,Shophouse,Shophouse,Ko,HDMB,Đông Nam,1.0,False,A-01-12-saigon gateway
+92,Bán,4500000000,65.92,None,Shophouse,Shophouse,Ko,HDMB,Đông Nam,6.0,False,B-01-01-nan
+93,Thuê,25000000,None,None,Shophouse,Shophouse,Ko,HDMB,Đông Nam,6.0,False,B-06-10-nan
+94,Bán,3000000000,69.0,None,Shophouse,Shophouse,Ko,None,Tây Nam,None,False,A03-nan
+95,Bán,6000000000,256.0,thủ đức,Penthouse,Penthouse,Full,None,None,0.0,False,A.16.03 CC4S ĐƯỜNG 17 KP3 P.HIỆP BỈNH CHÁNH Q.THỦ ĐỨC-4s bình triệu
+96,Bán,7000000000,250.0,thủ đức,Penthouse,Penthouse,Ko,None,Đông Bắc,0.0,False,W1601 CC 4S  Đường 17-4s bình triệu
+97,Thuê,25000000,221.0,thủ đức,Penthouse,Penthouse,Ko,None,Đông Bắc,0.0,False,E1603 CC 4S  Đường 17-4s bình triệu
+98,Bán,2100000000,35.64,bình thạnh,Officetel,Officetel,Có,HDMB,Tây Bắc,None,False,WT1-OT-02.03-wilton tower
+99,Thuê,12000000,35.65,bình thạnh,Officetel,Officetel,None,HDMB,Tây Bắc,None,False,WT1-OT-02.04-wilton tower
+100,Thuê,11000000,35.62,bình thạnh,Officetel,Officetel,None,HDMB,Tây Bắc,None,False,WT1-OT-02.03-wilton tower
+101,Bán,2100000000,35.63,bình thạnh,Officetel,Officetel,None,HDMB,Tây Bắc,None,False,WT1-OT-02.03-wilton tower
+102,Bán,2500000000,None,bình thạnh,Officetel,Officetel,Full,HDMB,Tây Nam,None,False,WT1-OT-03.24-wilton tower
+103,Bán,2950000000,45.0,bình thạnh,Officetel,Officetel,Full,HDMB,Tây Bắc,None,False,WT1-OT-03.14-wilton tower
+104,Thuê,12000000,33.7,bình thạnh,Officetel,Officetel,Ko,HDMB,Đông Bắc,None,False,WT1-OT-03.22-wilton tower
+105,Thuê,14000000,35.67,bình thạnh,Officetel,Officetel,None,HDMB,Tây Bắc,None,False,WT1-OT-02.06-wilton tower
+106,Thuê,14000000,38.0,bình thạnh,Officetel,Officetel,Ko,HDMB,Đông Bắc,None,False,WT1-OT-03.20-wilton tower
+107,Bán,3100000000,None,bình thạnh,Officetel,Officetel,Full,HDMB,Tây Nam,None,False,WT1-OT-03.25-wilton tower
+108,Bán,7000000000,196.04,thủ đức,Penthouse,Penthouse,Ko,HDMB,Đông Nam,0.0,False,OPGB00015002-opal garden
+109,Bán,4200000000,85.0,thủ đức,Shophouse,Shophouse,Ko,HDMB,None,0.0,False,OPAA01001011-opal riverside
+110,Thuê,25000000,75.0,thủ đức,Shophouse,Shophouse,Ko,HDMB,Đông Bắc,0.0,False,OPAA01001008-opal riverside
+111,Bán,4000000000,100.0,thủ đức,Shophouse,Shophouse,Ko,HDMB,None,0.0,False,OPAA01001012-opal riverside
+112,Bán,8000000000,134.0,thủ đức,Penthouse,Penthouse,Ko,HDMB,Đông Bắc,0.0,False,OPAA01015007-opal riverside
+113,Bán,5500000000,183.9,thủ đức,Penthouse,Penthouse,Ko,HDMB,Tây Bắc,0.0,False,OPAA02019004-opal riverside
+114,Bán,4000000000,110.0,thủ đức,Shophouse,Shophouse,Ko,Sổ hồng,None,0.0,False,SVT.TM.A2.14-sunview town
