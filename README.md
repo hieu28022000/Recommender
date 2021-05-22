@@ -1,7 +1,8 @@
-# Recommend Customer System
-  ![IR_pipeline](https://user-images.githubusercontent.com/62002427/119219004-5b8f0280-bb0d-11eb-9449-6c98cb33a9b5.jpg)
-
+# Recommend Customer System - MCG
   | INPUT  | OUTPUT |
   | --- | --- |
   | Customer's request for the apartment | Top apartment to meet customer's request |
-  ##
+  
+# Pipeline
+![IR_pipeline](https://user-images.githubusercontent.com/62002427/119219205-8463c780-bb0e-11eb-82b9-a8ced72d0232.jpg)
+
