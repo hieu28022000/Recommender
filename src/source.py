@@ -121,14 +121,24 @@ def run_source(request_input, map_path, dataset_path, cfg_path):
         # W2V
         data_w2v = object_w2v(data_input, list_loc, list_map)
 
-        # View true
-        if cfg[8] != 0:
-            if data_w2v[0] == request_w2v[0] and data_w2v[3] == request_w2v[3] and data_w2v[8] == request_w2v[8]:
-                same_demand_dataset.append(data_input)
-        # View false
+        if cfg[3] != 0:
+            # View true
+            if cfg[8] != 0:
+                if data_w2v[0] == request_w2v[0] and data_w2v[3] == request_w2v[3] and data_w2v[8] == request_w2v[8]:
+                    same_demand_dataset.append(data_input)
+            # View false
+            else:
+                if data_w2v[0] == request_w2v[0] and data_w2v[3] == request_w2v[3]:
+                    same_demand_dataset.append(data_input)
         else:
-            if data_w2v[0] == request_w2v[0] and data_w2v[3] == request_w2v[3]:
-                same_demand_dataset.append(data_input)
+            # View true
+            if cfg[8] != 0:
+                if data_w2v[0] == request_w2v[0] and data_w2v[8] == request_w2v[8]:
+                    same_demand_dataset.append(data_input)
+            # View false
+            else:
+                if data_w2v[0] == request_w2v[0]:
+                    same_demand_dataset.append(data_input)
     
     for data_input in same_demand_dataset:
         # W2V
