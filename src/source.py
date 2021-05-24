@@ -6,40 +6,48 @@ from libs.distance.sigmoid import sigmoid
 from libs.word_to_vec.object_w2v import object_w2v
 from libs.mark_score.object_mark_score import object_mark_score
 from libs.distance.object_distance import object_distance
+import argparse
+
+def parser_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--demand", type = str)
+    parser.add_argument("--price", type = str)
+    parser.add_argument("--area", type = str, default = 'None')
+    parser.add_argument("--location", type = str)
+    parser.add_argument("--no_bedroom", type = str, default = 'None')
+    parser.add_argument("--no_WC", type = str, default = 'None')
+    parser.add_argument("--furniture", type = str, default = 'None')
+    parser.add_argument("--juridical", type = str, default = 'None')
+    parser.add_argument("--view", type = str, default = 'None')
+    parser.add_argument("--floor", type = str, default = 'None')
+    parser.add_argument("--hot", type = str, default = 'False')
+    return parser.parse_args()
+
 
 def Get_request():
-    print("Nhập nhu cầu*: ")
-    demand = input()
+    parser = parser_args()
+    demand = parser.demand
 
-    print("Nhập giá tiền*: ")
-    price = input()
+    price = parser.price
 
-    print("Nhập diện tích nếu có: ")
-    area = input()
+    area = parser.area
 
-    print("Nhập địa chỉ*: ")
-    location = input()
+    location = parser.location
 
-    print("Nhập số phòng ngủ nếu có: ")
-    no_bedroom = input()
+    no_bedroom = parser.no_bedroom
 
-    print("Nhập số phòng vệ sinh nếu có: ")
-    no_WC = input()
+    no_WC = parser.no_WC
 
-    print("Nhập yêu cầu nội thất nếu có(Có/Không/Full): ")
-    furniture = input()
+    furniture = parser.furniture
 
-    print("Nhập yêu cầu pháp lý nếu có(Sổ hồng/HDMB): ")
-    juridical = input()
+    juridical = parser.juridical
 
-    print(("Nhập hướng nhà nếu có: "))
-    view = input()
+    view = parser.view
 
-    print(("Nhập số tầng nếu có: "))
-    floor = input()
+    floor = parser.floor
 
-    print(("Có muốn ở căn nhà hot hay không(True/False): "))
-    hot = input()
+    hot = parser.hot
+
     request_input = [demand, price, area, location, no_bedroom, no_WC, furniture, juridical, view, floor, hot]
     return request_input
 
