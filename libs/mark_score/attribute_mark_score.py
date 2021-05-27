@@ -1,3 +1,4 @@
+from math import dist
 import __init__
 from libs.distance.attribute_distance import *
 
@@ -19,25 +20,10 @@ def price_mark_score(data_price, request_price, demand):
     if (data_price == None) or (request_price == None ) or (demand == None):
         return None
 
-    price_dist = price_distance(data_price, request_price)
-    # if price_dist < 0:
-    #     return 10
-    # Demand is "Thuê"
-    if demand == 0:
-        if price_dist < 0 and price_dist > -5000000:
-            return 10
-        elif price_dist >= 0 and price_dist <= 1000000:
-            return 8
-        elif price_dist >= 0 and price_dist <= 1500000:
-            return 5
-    # Demand is "Bán"
-    elif demand == 1:
-        if price_dist < 0 and price_dist > -500000000:
-            return 10
-        elif price_dist >= 0 and price_dist <= 100000000:
-            return 8
-        elif price_dist >= 0 and  price_dist <= 300000000:
-            return 5
+    request_price -= request_price/20
+    dist = (data_price/request_price) - 1
+    if dist >= 0:
+        return 10 - dist
     return 0
 
 # Attribute 2
