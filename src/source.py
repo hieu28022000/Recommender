@@ -160,8 +160,19 @@ def run_source(request_input, map_path, dataset_path, cfg_path):
         data_dist = object_distance(data_score)
         list_distance.append(data_dist)
     indexs_of_top = Ranking_output(20, list_distance)
+
+
+    # return object form json
+    dict_json = {}
+    i = 0
+    name_list = ['demand', 'price', 'area', 'location', 'no_bedroom', 'no_WC', 'furniture', 'juridical', 'view', 'floor', 'hot','name flat']
     for index in indexs_of_top:
-        print(same_demand_dataset[index])
-        # print(list_distance[index])
+        house = {}
+        for stt in range(len(same_demand_dataset[index])):
+              house[name_list[stt]] = same_demand_dataset[index][stt]
+        dict_json[i] = house
+        i += 1
+
+    return dict_json
         
 
