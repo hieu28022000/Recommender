@@ -25,30 +25,31 @@ def parser_args():
 
 
 def Get_request():
-    parser = parser_args()
-    demand = parser.demand
+    # parser = parser_args()
+    # demand = parser.demand
 
-    price = parser.price
+    # price = parser.price
 
-    area = parser.area
+    # area = parser.area
 
-    location = parser.location
+    # location = parser.location
 
-    no_bedroom = parser.no_bedroom
+    # no_bedroom = parser.no_bedroom
 
-    no_WC = parser.no_WC
+    # no_WC = parser.no_WC
 
-    furniture = parser.furniture
+    # furniture = parser.furniture
 
-    juridical = parser.juridical
+    # juridical = parser.juridical
 
-    view = parser.view
+    # view = parser.view
 
-    floor = parser.floor
+    # floor = parser.floor
 
-    hot = parser.hot
+    # hot = parser.hot
 
-    request_input = [demand, price, area, location, no_bedroom, no_WC, furniture, juridical, view, floor, hot]
+    # request_input = [demand, price, area, location, no_bedroom, no_WC, furniture, juridical, view, floor, hot]
+    request_input = ['Bán', '2100000000', '56.7', 'Quận 9', '3', 'None', 'None', 'None', 'None', 'None', 'None']
     return request_input
 
 # Load map function return list name location and list location on map
@@ -158,9 +159,10 @@ def run_source(request_input, map_path, dataset_path, cfg_path):
         # DISTANCE
         data_dist = object_distance(data_score)
         list_distance.append(data_dist)
-    indexs_of_top = Ranking_output(10, list_distance)
+    indexs_of_top = Ranking_output(20, list_distance)
+    
 
-
+    # return object form json
     dict_json = {}
     i = 0
     name_list = ['demand', 'price', 'area', 'location', 'no_bedroom', 'no_WC', 'furniture', 'juridical', 'view', 'floor', 'hot','name flat']
@@ -170,5 +172,6 @@ def run_source(request_input, map_path, dataset_path, cfg_path):
               house[name_list[stt]] = same_demand_dataset[index][stt]
         dict_json[i] = house
         i += 1
+
     return dict_json
 
