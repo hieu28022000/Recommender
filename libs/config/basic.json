@@ -1,13 +1,14 @@
 {
-    "Nhu cau": 100,
-    "Tong tien": 80, 
-    "Dien tich": 10, 
-    "Dia chi" : -0, 
-    "Phong ngu": 0, 
-    "Phong ve sinh": 0, 
-    "Noi that": 0, 
-    "Phap ly so huu": 0, 
-    "View": 0, 
-    "Tang": 0,
-    "Hot": 0
+    "Nhu cau": 1,
+    "Tong tien": 2, 
+    "Dien tich": 9, 
+    "Dia chi" : 3, 
+    "Phong ngu": 4, 
+    "Phong ve sinh": 5, 
+    "Noi that": 6, 
+    "Phap ly so huu": 7, 
+    "View": 8, 
+    "Tang": 10,
+    "Hot": 11
 }
+
