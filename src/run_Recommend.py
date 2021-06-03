@@ -12,6 +12,8 @@ print(request_input, '\n')
 
 run_source(request_input, map_path, dataset_Apartment, cfg_path)
 
+
+# line including attribute in dataset
 # line = ['Thuê', '8000000', '67.2', 'thủ đức', '2', '2', 'Full', 'HDMB', 'Đông Bắc', '8.0', 'FALSE', 'C.08.06-4s linh đông']
 
 # data = Load_dataset(dataset_Apartment)
