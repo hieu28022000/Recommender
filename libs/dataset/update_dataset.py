@@ -1,7 +1,8 @@
+import __init__
 import pandas as pd
 
 
-
+# return posible of apartment duplicate
 def num_line_duplicate(line, df):
     i = 0
     for floor in df['Mã căn']:
@@ -12,6 +13,7 @@ def num_line_duplicate(line, df):
     return -1
 
 
+# change apartment information in dataset
 def update_data(update_line, num_line, df):
     df['Nhu cầu'][num_line] = update_line[0]
     df['Tổng tiền'][num_line] = update_line[1]
@@ -28,6 +30,7 @@ def update_data(update_line, num_line, df):
     return df
 
 
+# add new apartment at the end of dataset
 def add_data(line, df):
     new_line = {}
     new_line['Nhu cầu'] = line[0]
@@ -47,24 +50,37 @@ def add_data(line, df):
     return df
 
 
-def removed_line(df, num_line):
-    df = df[: num_line].append(df[num_line +1 :])
-    return df
-
-
+# write dataset apartment for file csv
 def write_data(df, datapath):
     return df.to_csv(datapath)
 
 
-def update_dataset(input, df, datapath):
+# remove apartment form dataset
+def remove_line(line, num_line, df):
+    if (num_line != -1):
+        df = df[: num_line].append(df[num_line +1 :])
+    return df
+
+
+# paremeters:
+# input is apartment infotmation
+# df is dataframe of apartment
+# datapath is path of dataset
+# remove is True if you will remove apartment information form dataset, default False
+# after processing the dataframe, function will write to the dataset file
+def update_dataset(input, df, datapath, remove = False):
     num_line = num_line_duplicate(input, df)
-    print(num_line)
-    if (num_line == -1):
-        add_data(input, df)
+
+    if (remove == True):
+        remove_line(input, num_line, df)
     else:
-        update_data(input, num_line, df)
+        if (num_line == -1):
+            df = add_data(input, df)
+        else:
+            df = update_data(input, num_line, df)
+
 
     write_data(df, datapath)
 
 
- 
+

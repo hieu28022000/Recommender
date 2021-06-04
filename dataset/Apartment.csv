@@ -1,5 +1,5 @@
 ,Nhu cầu,Tổng tiền,Diện tích,Địa chỉ,Phòng ngủ,Phòng vệ sinh,Nội thất,Pháp lý sở hữu,View,Tầng,Hot,Mã căn
-0,Thuê,8000000,67.2,thủ đức,2,2,Full,HDMB,Đông Bắc,8.0,False,C1.08.06-4s linh đông
+0,Thuê,8000000,67.2,thủ đức,2,2,Full,HDMB,Đông Bắc,8.0,True,C1.08.06-4s linh đông
 1,Bán,2620000000,74.0,bình dương,2,2,Ko,None,Đông Bắc,0.0,False,OPBB0203033-opal boulevard
 2,Thuê,10000000,75.0,bình dương,2,2,Ko,None,Đông Bắc,None,False,OPBA02032006-opal boulevard
 3,Thuê,8000000,73.0,bình dương,2,2,Ko,None,Đông Bắc,None,False,OPBA02028005-opal boulevard
