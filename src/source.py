@@ -25,31 +25,31 @@ def parser_args():
 
 
 def Get_request():
-    # parser = parser_args()
-    # demand = parser.demand
+    parser = parser_args()
+    demand = parser.demand
 
-    # price = parser.price
+    price = parser.price
 
-    # area = parser.area
+    area = parser.area
 
-    # location = parser.location
+    location = parser.location
 
-    # no_bedroom = parser.no_bedroom
+    no_bedroom = parser.no_bedroom
 
-    # no_WC = parser.no_WC
+    no_WC = parser.no_WC
 
-    # furniture = parser.furniture
+    furniture = parser.furniture
 
-    # juridical = parser.juridical
+    juridical = parser.juridical
 
-    # view = parser.view
+    view = parser.view
 
-    # floor = parser.floor
+    floor = parser.floor
 
-    # hot = parser.hot
+    hot = parser.hot
 
-    # request_input = [demand, price, area, location, no_bedroom, no_WC, furniture, juridical, view, floor, hot]
-    request_input = ['Bán', '2100000000', '56.7', 'Quận 9', '3', 'None', 'None', 'None', 'None', 'None', 'None']
+    request_input = [demand, price, area, location, no_bedroom, no_WC, furniture, juridical, view, floor, hot]
+    # request_input = ['Bán', '2500000000', 'None', 'Bình Dương', 'None', 'None', 'None', 'None', 'None', 'None', 'None']
     return request_input
 
 # Load map function return list name location and list location on map
@@ -68,14 +68,6 @@ def Load_map(map_path):
 def Load_dataset(dataset_path):
     dataset = pd.read_csv(dataset_path).drop('Unnamed: 0', axis=1)
     return dataset
-
-# Load on-off attribute
-def Load_onoff(onoff_file_path):
-    onoff = open(onoff_file_path).read().split(',')
-    list_onoff = []
-    for o in onoff:
-        list_onoff.append(int(o))
-    return list_onoff
 
 # Load config
 def Load_config(cfg_path):
@@ -106,62 +98,97 @@ def Normalize_with_cofig(score, cfg):
     return result
 
 # Ranking distance and output is index of top
-def Ranking_output(nums_top, list_values):  
-    if len(list_values) < nums_top:
-        nums_top = len(list_values)
-        print('Chỉ có chừng này thôi ><!')
-    index_sorted = sorted(range(len(list_values)), key=list_values.__getitem__)
-    index_top = []
-    for num in range(nums_top):
-        index_top.append(index_sorted[num])
-    return index_top
+def Ranking_output(nums_top, request_vector, list_score, cfg, dataset):  
+    # Sort for first favorite
+    first_favor_index = cfg.index(1)
+    for i in range(len(list_score)):
+        for j in range(i+1, len(list_score)):
+            # dataset at i index
+            i_att1 = list_score[i][first_favor_index]
+            if i_att1 == None:
+                i_att1 = 0
+            # dataset at j index 
+            j_att1 = list_score[j][first_favor_index]
+            if j_att1 == None:
+                j_att1 = 0
+
+            # Compare
+            if i_att1 < j_att1:
+                # Swap dataset[i] and dataset[j]
+                temp_data = dataset[i]
+                dataset[i] = dataset[j]
+                dataset[j] = temp_data
+                # Swap list_score[i] and list_score[j]
+                temp_score = list_score[i]
+                list_score[i] = list_score[j]
+                list_score[j] = temp_score
+
+
+    # Sort for remain favorrite
+    for favor in range(2, max(cfg)+1):
+        favor_index = cfg.index(favor)
+        # Check request[favor] 
+        if request_vector[favor_index] != None:
+            for i in range(len(list_score)):
+                for j in range(i+1, len(list_score)):
+                    if list_score[i][cfg.index(favor-1)] == list_score[j][cfg.index(favor-1)]:
+                        
+                        # dataset at i index
+                        i_att = list_score[i][favor_index]
+                        if i_att == None:
+                            i_att = 0
+                        # dataset at j index 
+                        j_att = list_score[j][favor_index]
+                        if j_att == None:
+                            j_att = 0
+
+                        # Compare
+                        if i_att < j_att:
+                            # Swap dataset[i] and dataset[j]
+                            temp_data = dataset[i]
+                            dataset[i] = dataset[j]
+                            dataset[j] = temp_data
+                            # Swap list_score[i] and list_score[j]
+                            temp_score = list_score[i]
+                            list_score[i] = list_score[j]
+                            list_score[j] = temp_score
+
+    # Result
+    result = []
+    for index in range(nums_top):
+        result.append(dataset[index])   
+    return result
+
 
 # main function to run system
 def run_source(request_input, map_path, dataset_path, cfg_path):
+    # Load location name and map
     list_loc, list_map = Load_map(map_path)
-    dataset = Load_dataset(dataset_path)
-    cfg = Load_config(cfg_path)
-    request_w2v = object_w2v(request_input, list_loc, list_map)
-    list_distance = []
-    same_demand_dataset = []
-    for index in range(len(dataset)):
-        # INPUT
-        data_input = Get_line(index, dataset)
-        # W2V
-        data_w2v = object_w2v(data_input, list_loc, list_map)
-
-        if cfg[3] != 0:
-            # View true
-            if cfg[8] != 0:
-                if data_w2v[0] == request_w2v[0] and data_w2v[3] == request_w2v[3] and data_w2v[8] == request_w2v[8]:
-                    same_demand_dataset.append(data_input)
-            # View false
-            else:
-                if data_w2v[0] == request_w2v[0] and data_w2v[3] == request_w2v[3]:
-                    same_demand_dataset.append(data_input)
-        else:
-            # View true
-            if cfg[8] != 0:
-                if data_w2v[0] == request_w2v[0] and data_w2v[8] == request_w2v[8]:
-                    same_demand_dataset.append(data_input)
-            # View false
-            else:
-                if data_w2v[0] == request_w2v[0]:
-                    same_demand_dataset.append(data_input)
     
-    for data_input in same_demand_dataset:
-        # W2V
-        data_w2v = object_w2v(data_input, list_loc, list_map)
-        # Score
-        data_score = object_mark_score(data_w2v, request_w2v, list_map)
-        # Update score with config
-        data_score = Normalize_with_cofig(data_score, cfg)
-        # DISTANCE
-        data_dist = object_distance(data_score)
-        list_distance.append(data_dist)
-    indexs_of_top = Ranking_output(20, list_distance)
-    for index in indexs_of_top:
-        print(same_demand_dataset[index])
-        # print(list_distance[index])
-        
+    # Load dataset
+    dataframe = Load_dataset(dataset_path)
+    
+    # Load config
+    cfg = Load_config(cfg_path)
+    
+    # Convert request from string to number
+    request_vector = object_w2v(request_input, list_loc, list_map)
+    
+    # Create dataset score 
+    dataset = []
+    dataset_score = []
+    for index in range(len(dataframe)):
+        # Get data
+        data_line = Get_line(index, dataframe)
+        dataset.append(data_line)
+        # Convert to vector
+        data_line_vector = object_w2v(data_line, list_loc, list_map)
+        # Calculate score
+        data_line_score = object_mark_score(data_line_vector, request_vector, list_map)
+        dataset_score.append(data_line_score)
 
+    # Ranking 
+    top_10 = Ranking_output(10, request_vector, dataset_score, cfg, dataset)
+    for top in top_10:
+        print(top)
+        
