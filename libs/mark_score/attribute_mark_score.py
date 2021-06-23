@@ -59,12 +59,14 @@ class Mark_score(Attribute_w2v):
         if (data_price == None) or (request_price == None) or (demand == None):
             return None
 
-        request_price -= request_price / 20
+        if demand == 1:
+            request_price -= request_price / 20
+        if demand == 0:
+            request_price -= request_price / 5
         dist = (data_price / request_price) - 1
         if dist >= 0:
             return 10 - dist
         return 0
-
 
     # Attribute 2
     # Area mark score function return score of data area
@@ -104,11 +106,11 @@ class Mark_score(Attribute_w2v):
             return None
 
         no_bed_dist = abs(Distance.num_of_bedroom_distance(data_no_bedroom, request_no_bedroom))
-        if no_bed_dist == 0:
-            return 10
-        elif no_bed_dist == 1:
-            return 5
-        return 0
+        # if no_bed_dist == 0:
+        #     return 10
+        # elif no_bed_dist == 1:
+        #     return 5
+        return no_bed_dist
 
 
     # Attribute 5
@@ -119,11 +121,11 @@ class Mark_score(Attribute_w2v):
             return None
 
         no_WC_dist = abs(Distance.num_of_WC_distance(data_no_WC, request_no_WC))
-        if no_WC_dist == 0:
-            return 10
-        elif no_WC_dist == 1:
-            return 5
-        return 0
+        # if no_WC_dist == 0:
+        #     return 10
+        # elif no_WC_dist == 1:
+        #     return 5
+        return no_WC_dist
 
 
     # Attribute 6

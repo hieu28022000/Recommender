@@ -25,16 +25,16 @@ class Distance:
 
     @staticmethod
     def num_of_bedroom_distance(no_bedroom1, no_bedroom2):
-        return no_bedroom1 - no_bedroom2
+        return no_bedroom1
 
     @staticmethod
     def num_of_WC_distance(no_WC1, no_WC2):
-        return no_WC1 - no_WC2
+        return no_WC1
 
 
     @staticmethod
     def furniture_distance(furniture1, furniture2):
-        return furniture1 - furniture2
+        return abs(furniture1 - furniture2)
 
 
     @staticmethod

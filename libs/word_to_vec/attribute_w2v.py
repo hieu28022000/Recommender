@@ -21,7 +21,7 @@ class Attribute_w2v:
         demand = demand.lower()
         if demand == "thuê":
             self.demand = 0
-        elif demand == "bán":
+        elif demand == "mua":
             self.demand = 1
         return self.demand
 
@@ -50,12 +50,12 @@ class Attribute_w2v:
 
     # Attribute 3
     # Location word to vector function return location input on map
-    def get_location(self, location, list_location, list_map):
-        if location == '' or location == 'None':
+    def get_location(self, location_line, list_location, list_map):
+        if location_line == '' or location_line == 'None':
             self.location = None
-        location = location.lower()
+        location_line = location_line.lower()
         for location in list_location:
-            if location == location:
+            if location == location_line:
                 location_index = list_location.index(location)
                 x_loc = list_map[location_index][0]
                 y_loc = list_map[location_index][1]

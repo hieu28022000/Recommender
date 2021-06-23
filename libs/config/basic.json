@@ -1,13 +1,13 @@
 {
     "Nhu cau": 1,
-    "Tong tien": 2, 
-    "Dien tich": 9, 
-    "Dia chi" : 3, 
-    "Phong ngu": 4, 
-    "Phong ve sinh": 5, 
-    "Noi that": 6, 
-    "Phap ly so huu": 7, 
-    "View": 8, 
+    "Tong tien": 3,
+    "Dien tich": 9,
+    "Dia chi" : 2,
+    "Phong ngu": 5,
+    "Phong ve sinh": 6,
+    "Noi that": 7,
+    "Phap ly so huu": 8,
+    "View": 4,
     "Tang": 10,
     "Hot": 11
 }
